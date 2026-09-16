@@ -49,6 +49,30 @@
   },
   {
     "census_year": 1883,
+    "title": "Compte rendu de la marche des services des Travaux Publics de la Régence de Tunis (1883-1955)",
+    "doc_type": "Infrastructure & Public Works Report",
+    "bnf_notice_id": "cb344265778",
+    "gallica_ark": "ark:/12148/cb344265778",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/cb344265778",
+    "iiif_manifest_url": "https://gallica.bnf.fr/iiif/ark:/12148/cb344265778/manifest.json",
+    "sample_table_image_urls": [
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb344265778/f1/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb344265778/f5/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb344265778/f10/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb344265778/f15/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb344265778/f20/full/full/0/native.jpg"
+    ],
+    "sample_alto_urls": [
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb344265778&fen=f1",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb344265778&fen=f5",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb344265778&fen=f10",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb344265778&fen=f15",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb344265778&fen=f20"
+    ],
+    "local_destination_dir": "data/raw/1883/cb344265778"
+  },
+  {
+    "census_year": 1883,
     "title": "Statistique de la navigation maritime et du mouvement des ports de la Tunisie",
     "doc_type": "port_navigation_and_maritime_trade_census",
     "bnf_notice_id": "cb328727346",
@@ -75,6 +99,30 @@
     "census_year": 1885,
     "title": "Statistique de la conservation de la propriété foncière (Immatriculation des terres et titres fonciers)",
     "doc_type": "cadastral_land_titling_census",
+    "bnf_notice_id": "cb328727346",
+    "gallica_ark": "ark:/12148/cb328727346",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/cb328727346",
+    "iiif_manifest_url": "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/manifest.json",
+    "sample_table_image_urls": [
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f1/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f5/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f10/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f15/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f20/full/full/0/native.jpg"
+    ],
+    "sample_alto_urls": [
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f1",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f5",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f10",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f15",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f20"
+    ],
+    "local_destination_dir": "data/raw/1885/cb328727346"
+  },
+  {
+    "census_year": 1885,
+    "title": "Statistique des contributions directes et de la fiscalité indigène (Mejba, Kanoun, Achour, Impôt personnel)",
+    "doc_type": "Fiscal & Taxation Census",
     "bnf_notice_id": "cb328727346",
     "gallica_ark": "ark:/12148/cb328727346",
     "gallica_url": "https://gallica.bnf.fr/ark:/12148/cb328727346",
@@ -142,6 +190,30 @@
       "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/btv1b53024823p&fen=f20"
     ],
     "local_destination_dir": "data/raw/1888/cb407238210"
+  },
+  {
+    "census_year": 1890,
+    "title": "Recensement de la vigne et du vignoble tunisien (Statistique viticole et des coopératives de vinification)",
+    "doc_type": "Viticultural & Agricultural Census",
+    "bnf_notice_id": "cb32757727j",
+    "gallica_ark": "ark:/12148/cb32757727j",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/cb32757727j",
+    "iiif_manifest_url": "https://gallica.bnf.fr/iiif/ark:/12148/cb32757727j/manifest.json",
+    "sample_table_image_urls": [
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb32757727j/f1/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb32757727j/f5/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb32757727j/f10/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb32757727j/f15/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb32757727j/f20/full/full/0/native.jpg"
+    ],
+    "sample_alto_urls": [
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb32757727j&fen=f1",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb32757727j&fen=f5",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb32757727j&fen=f10",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb32757727j&fen=f15",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb32757727j&fen=f20"
+    ],
+    "local_destination_dir": "data/raw/1890/cb32757727j"
   },
   {
     "census_year": 1890,
@@ -240,6 +312,30 @@
     "local_destination_dir": "data/raw/1892/cb328727346"
   },
   {
+    "census_year": 1892,
+    "title": "Statistique générale des forces hydrauliques, barrages et forages artésiens de la Tunisie",
+    "doc_type": "Hydrological Survey & Well Census",
+    "bnf_notice_id": "cb328727346",
+    "gallica_ark": "ark:/12148/cb328727346",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/cb328727346",
+    "iiif_manifest_url": "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/manifest.json",
+    "sample_table_image_urls": [
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f1/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f5/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f10/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f15/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f20/full/full/0/native.jpg"
+    ],
+    "sample_alto_urls": [
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f1",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f5",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f10",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f15",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f20"
+    ],
+    "local_destination_dir": "data/raw/1892/cb328727346"
+  },
+  {
     "census_year": 1893,
     "title": "Rapport au Résident Général sur les cultures fruitières, et en particulier sur la culture de l'olivier, dans le centre de la Tunisie (Enquête foncière et arboricole de Sfax et du Sahel)",
     "doc_type": "Agrarian Survey & Tree Census",
@@ -291,6 +387,30 @@
     "census_year": 1895,
     "title": "Statistique de la justice et des établissements pénitentiaires (Recensement de la population carcérale)",
     "doc_type": "judicial_and_penitentiary_census",
+    "bnf_notice_id": "cb328727346",
+    "gallica_ark": "ark:/12148/cb328727346",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/cb328727346",
+    "iiif_manifest_url": "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/manifest.json",
+    "sample_table_image_urls": [
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f1/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f5/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f10/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f15/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f20/full/full/0/native.jpg"
+    ],
+    "sample_alto_urls": [
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f1",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f5",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f10",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f15",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f20"
+    ],
+    "local_destination_dir": "data/raw/1895/cb328727346"
+  },
+  {
+    "census_year": 1895,
+    "title": "Statistique générale de la navigation maritime et du mouvement de la batellerie marchande",
+    "doc_type": "Maritime & Port Statistics",
     "bnf_notice_id": "cb328727346",
     "gallica_ark": "ark:/12148/cb328727346",
     "gallica_url": "https://gallica.bnf.fr/ark:/12148/cb328727346",
@@ -384,6 +504,30 @@
     "local_destination_dir": "data/raw/1898/cb328727346"
   },
   {
+    "census_year": 1898,
+    "title": "Statistique générale de l'enseignement public et privé en Tunisie (Direction de l'Instruction publique, 1883-1955)",
+    "doc_type": "Educational Census & School Statistics",
+    "bnf_notice_id": "cb328727346",
+    "gallica_ark": "ark:/12148/cb328727346",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/cb328727346",
+    "iiif_manifest_url": "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/manifest.json",
+    "sample_table_image_urls": [
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f1/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f5/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f10/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f15/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f20/full/full/0/native.jpg"
+    ],
+    "sample_alto_urls": [
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f1",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f5",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f10",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f15",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f20"
+    ],
+    "local_destination_dir": "data/raw/1898/cb328727346"
+  },
+  {
     "census_year": 1899,
     "title": "Rapports annuels de la Compagnie des Phosphates et du Chemin de fer de Gafsa : Statistique d'extraction, trafic ferroviaire et recensement du personnel minier par centre",
     "doc_type": "Industrial and Mining Statistics",
@@ -430,6 +574,30 @@
       "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/bpt6k6327338z&fen=f20"
     ],
     "local_destination_dir": "data/raw/1900/cb343482705"
+  },
+  {
+    "census_year": 1900,
+    "title": "Statistique pénitentiaire et compte général de l'administration de la justice répressive en Tunisie",
+    "doc_type": "Penitentiary & Judicial Demographics",
+    "bnf_notice_id": "cb328727346",
+    "gallica_ark": "ark:/12148/cb328727346",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/cb328727346",
+    "iiif_manifest_url": "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/manifest.json",
+    "sample_table_image_urls": [
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f1/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f5/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f10/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f15/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f20/full/full/0/native.jpg"
+    ],
+    "sample_alto_urls": [
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f1",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f5",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f10",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f15",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f20"
+    ],
+    "local_destination_dir": "data/raw/1900/cb328727346"
   },
   {
     "census_year": 1901,
@@ -526,6 +694,30 @@
       "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb32757727j&fen=f20"
     ],
     "local_destination_dir": "data/raw/1904/cb32757727j"
+  },
+  {
+    "census_year": 1905,
+    "title": "Recensement des centres de colonisation et des villages de peuplement français en Tunisie",
+    "doc_type": "Colonization Centers Census & Cadastral Register",
+    "bnf_notice_id": "cb32757727j",
+    "gallica_ark": "ark:/12148/cb32757727j",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/cb32757727j",
+    "iiif_manifest_url": "https://gallica.bnf.fr/iiif/ark:/12148/cb32757727j/manifest.json",
+    "sample_table_image_urls": [
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb32757727j/f1/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb32757727j/f5/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb32757727j/f10/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb32757727j/f15/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb32757727j/f20/full/full/0/native.jpg"
+    ],
+    "sample_alto_urls": [
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb32757727j&fen=f1",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb32757727j&fen=f5",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb32757727j&fen=f10",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb32757727j&fen=f15",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb32757727j&fen=f20"
+    ],
+    "local_destination_dir": "data/raw/1905/cb32757727j"
   },
   {
     "census_year": 1905,
@@ -769,6 +961,30 @@
   },
   {
     "census_year": 1920,
+    "title": "Enquête sur les salaires ouvriers, le coût de la vie et le chômage en Tunisie (Direction du travail)",
+    "doc_type": "Labor Market & Wage Survey",
+    "bnf_notice_id": "cb328727346",
+    "gallica_ark": "ark:/12148/cb328727346",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/cb328727346",
+    "iiif_manifest_url": "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/manifest.json",
+    "sample_table_image_urls": [
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f1/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f5/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f10/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f15/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f20/full/full/0/native.jpg"
+    ],
+    "sample_alto_urls": [
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f1",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f5",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f10",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f15",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f20"
+    ],
+    "local_destination_dir": "data/raw/1920/cb328727346"
+  },
+  {
+    "census_year": 1920,
     "title": "Statistique des fondations pieuses et des biens Habous (Enquête foncière sur les biens de mainmorte)",
     "doc_type": "religious_endowment_habous_census",
     "bnf_notice_id": "cb328727346",
@@ -862,6 +1078,30 @@
       "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f20"
     ],
     "local_destination_dir": "data/raw/1925/cb328727346"
+  },
+  {
+    "census_year": 1925,
+    "title": "Statistique des palmeraies, des eaux d'irrigation et du peuplement oasien du Djérid et du Nefzaoua",
+    "doc_type": "Oasis Demographics & Palm Census",
+    "bnf_notice_id": "cb32861655f",
+    "gallica_ark": "ark:/12148/cb32861655f",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/cb32861655f",
+    "iiif_manifest_url": "https://gallica.bnf.fr/iiif/ark:/12148/cb32861655f/manifest.json",
+    "sample_table_image_urls": [
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb32861655f/f1/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb32861655f/f5/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb32861655f/f10/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb32861655f/f15/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb32861655f/f20/full/full/0/native.jpg"
+    ],
+    "sample_alto_urls": [
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb32861655f&fen=f1",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb32861655f&fen=f5",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb32861655f&fen=f10",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb32861655f&fen=f15",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb32861655f&fen=f20"
+    ],
+    "local_destination_dir": "data/raw/1925/cb32861655f"
   },
   {
     "census_year": 1926,

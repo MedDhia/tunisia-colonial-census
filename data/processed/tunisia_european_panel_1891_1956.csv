@@ -1,0 +1,485 @@
+census_year,hsu_id,hsu_name_fr,hsu_name_ar,region_macro,pop_european_total,pop_french,pop_italian,pop_maltese,pop_other_european,ratio_italian_to_french,data_scope
+1891,HSU_AIN_DRAHAM,Aïn Draham,عين دراهم,North-West,245,96,88,50,11,0.9167,European Census Only
+1896,HSU_AIN_DRAHAM,Aïn Draham,عين دراهم,North-West,451,155,230,51,15,1.4839,European Census Only
+1901,HSU_AIN_DRAHAM,Aïn Draham,عين دراهم,North-West,612,232,300,60,20,1.2931,European Census Only
+1906,HSU_AIN_DRAHAM,Aïn Draham,عين دراهم,North-West,873,390,400,61,22,1.0256,European Census Only
+1911,HSU_AIN_DRAHAM,Aïn Draham,عين دراهم,North-West,1044,519,434,66,25,0.8362,European Census Only
+1921,HSU_AIN_DRAHAM,Aïn Draham,عين دراهم,North-West,1207,828,327,36,16,0.3949,General Census (Simultaneous)
+1926,HSU_AIN_DRAHAM,Aïn Draham,عين دراهم,North-West,1381,948,373,42,18,0.3935,General Census (Simultaneous)
+1931,HSU_AIN_DRAHAM,Aïn Draham,عين دراهم,North-West,1728,1185,468,52,23,0.3949,General Census (Simultaneous)
+1936,HSU_AIN_DRAHAM,Aïn Draham,عين دراهم,North-West,2036,1397,551,61,27,0.3944,General Census (Simultaneous)
+1946,HSU_AIN_DRAHAM,Aïn Draham,عين دراهم,North-West,2516,1725,684,75,32,0.3965,General Census (Simultaneous)
+1956,HSU_AIN_DRAHAM,Aïn Draham,عين دراهم,North-West,2991,2048,816,89,38,0.3984,General Census (Simultaneous)
+1891,HSU_BEJA,Béja,باجة,North-West,786,237,346,172,31,1.4599,European Census Only
+1896,HSU_BEJA,Béja,باجة,North-West,1508,386,903,176,43,2.3394,European Census Only
+1901,HSU_BEJA,Béja,باجة,North-West,2017,576,1175,207,59,2.0399,European Census Only
+1906,HSU_BEJA,Béja,باجة,North-West,2810,969,1567,209,65,1.6171,European Census Only
+1911,HSU_BEJA,Béja,باجة,North-West,3292,1290,1701,229,72,1.3186,European Census Only
+1921,HSU_BEJA,Béja,باجة,North-West,3515,2058,1282,124,51,0.6229,General Census (Simultaneous)
+1926,HSU_BEJA,Béja,باجة,North-West,4022,2354,1467,141,60,0.6232,General Census (Simultaneous)
+1931,HSU_BEJA,Béja,باجة,North-West,5033,2946,1836,176,75,0.6232,General Census (Simultaneous)
+1936,HSU_BEJA,Béja,باجة,North-West,5926,3469,2160,207,90,0.6227,General Census (Simultaneous)
+1946,HSU_BEJA,Béja,باجة,North-West,7266,4219,2684,255,108,0.6362,General Census (Simultaneous)
+1956,HSU_BEJA,Béja,باجة,North-West,8584,4954,3201,300,129,0.6461,General Census (Simultaneous)
+1891,HSU_BIZERTE,Bizerte Maritime,بنزرت الكبرى,North-East,4477,1156,2174,1021,126,1.8806,European Census Only
+1896,HSU_BIZERTE,Bizerte Maritime,بنزرت الكبرى,North-East,8758,1878,5666,1043,171,3.017,European Census Only
+1901,HSU_BIZERTE,Bizerte Maritime,بنزرت الكبرى,North-East,11645,2804,7376,1227,238,2.6305,European Census Only
+1906,HSU_BIZERTE,Bizerte Maritime,بنزرت الكبرى,North-East,11937,3488,7270,918,261,2.0843,European Census Only
+1911,HSU_BIZERTE,Bizerte Maritime,بنزرت الكبرى,North-East,13825,4640,7890,1005,290,1.7004,European Census Only
+1921,HSU_BIZERTE,Bizerte Maritime,بنزرت الكبرى,North-East,14129,7404,5948,544,233,0.8033,General Census (Simultaneous)
+1926,HSU_BIZERTE,Bizerte Maritime,بنزرت الكبرى,North-East,16172,8475,6807,623,267,0.8032,General Census (Simultaneous)
+1931,HSU_BIZERTE,Bizerte Maritime,بنزرت الكبرى,North-East,20233,10603,8517,780,333,0.8033,General Census (Simultaneous)
+1936,HSU_BIZERTE,Bizerte Maritime,بنزرت الكبرى,North-East,23824,12484,10028,918,394,0.8033,General Census (Simultaneous)
+1946,HSU_BIZERTE,Bizerte Maritime,بنزرت الكبرى,North-East,31116,16337,13065,1199,515,0.7997,General Census (Simultaneous)
+1956,HSU_BIZERTE,Bizerte Maritime,بنزرت الكبرى,North-East,38392,20183,16093,1480,636,0.7974,General Census (Simultaneous)
+1891,HSU_CAP_BON,Grombalia & Cap Bon Ouest,قرمبالية وغرب الوطن القبلي,North-East,1207,218,752,205,32,3.4495,European Census Only
+1896,HSU_CAP_BON,Grombalia & Cap Bon Ouest,قرمبالية وغرب الوطن القبلي,North-East,2565,354,1958,209,44,5.5311,European Census Only
+1901,HSU_CAP_BON,Grombalia & Cap Bon Ouest,قرمبالية وغرب الوطن القبلي,North-East,3386,529,2550,246,61,4.8204,European Census Only
+1906,HSU_CAP_BON,Grombalia & Cap Bon Ouest,قرمبالية وغرب الوطن القبلي,North-East,3422,658,2513,184,67,3.8191,European Census Only
+1911,HSU_CAP_BON,Grombalia & Cap Bon Ouest,قرمبالية وغرب الوطن القبلي,North-East,3877,875,2727,201,74,3.1166,European Census Only
+1921,HSU_CAP_BON,Grombalia & Cap Bon Ouest,قرمبالية وغرب الوطن القبلي,North-East,3609,1396,2056,109,48,1.4728,General Census (Simultaneous)
+1926,HSU_CAP_BON,Grombalia & Cap Bon Ouest,قرمبالية وغرب الوطن القبلي,North-East,4131,1598,2353,126,54,1.4725,General Census (Simultaneous)
+1931,HSU_CAP_BON,Grombalia & Cap Bon Ouest,قرمبالية وغرب الوطن القبلي,North-East,5168,2000,2944,157,67,1.472,General Census (Simultaneous)
+1936,HSU_CAP_BON,Grombalia & Cap Bon Ouest,قرمبالية وغرب الوطن القبلي,North-East,6086,2355,3467,185,79,1.4722,General Census (Simultaneous)
+1946,HSU_CAP_BON,Grombalia & Cap Bon Ouest,قرمبالية وغرب الوطن القبلي,North-East,6990,2712,3971,215,92,1.4642,General Census (Simultaneous)
+1956,HSU_CAP_BON,Grombalia & Cap Bon Ouest,قرمبالية وغرب الوطن القبلي,North-East,7854,3053,4453,244,104,1.4586,General Census (Simultaneous)
+1891,HSU_DAHMANI,Dahmani (Ebba Ksour),الدهماني (القصور),North-West,163,45,77,35,6,1.7111,European Census Only
+1896,HSU_DAHMANI,Dahmani (Ebba Ksour),الدهماني (القصور),North-West,317,73,200,35,9,2.7397,European Census Only
+1901,HSU_DAHMANI,Dahmani (Ebba Ksour),الدهماني (القصور),North-West,423,109,260,42,12,2.3853,European Census Only
+1906,HSU_DAHMANI,Dahmani (Ebba Ksour),الدهماني (القصور),North-West,586,184,347,42,13,1.8859,European Census Only
+1911,HSU_DAHMANI,Dahmani (Ebba Ksour),الدهماني (القصور),North-West,683,245,377,46,15,1.5388,European Census Only
+1921,HSU_DAHMANI,Dahmani (Ebba Ksour),الدهماني (القصور),North-West,710,391,284,25,10,0.7263,General Census (Simultaneous)
+1926,HSU_DAHMANI,Dahmani (Ebba Ksour),الدهماني (القصور),North-West,813,447,325,28,13,0.7271,General Census (Simultaneous)
+1931,HSU_DAHMANI,Dahmani (Ebba Ksour),الدهماني (القصور),North-West,1017,559,407,36,15,0.7281,General Census (Simultaneous)
+1936,HSU_DAHMANI,Dahmani (Ebba Ksour),الدهماني (القصور),North-West,1197,658,479,42,18,0.728,General Census (Simultaneous)
+1946,HSU_DAHMANI,Dahmani (Ebba Ksour),الدهماني (القصور),North-West,1269,698,508,44,19,0.7278,General Census (Simultaneous)
+1956,HSU_DAHMANI,Dahmani (Ebba Ksour),الدهماني (القصور),North-West,1330,732,532,47,19,0.7268,General Census (Simultaneous)
+1891,HSU_DJEBINIANA,Djebeniana,جبنيانة,South,76,16,42,15,3,2.625,European Census Only
+1896,HSU_DJEBINIANA,Djebeniana,جبنيانة,South,154,26,108,16,4,4.1538,European Census Only
+1901,HSU_DJEBINIANA,Djebeniana,جبنيانة,South,203,39,141,18,5,3.6154,European Census Only
+1906,HSU_DJEBINIANA,Djebeniana,جبنيانة,South,278,65,188,19,6,2.8923,European Census Only
+1911,HSU_DJEBINIANA,Djebeniana,جبنيانة,South,317,87,204,20,6,2.3448,European Census Only
+1921,HSU_DJEBINIANA,Djebeniana,جبنيانة,South,308,139,154,11,4,1.1079,General Census (Simultaneous)
+1926,HSU_DJEBINIANA,Djebeniana,جبنيانة,South,352,158,176,12,6,1.1139,General Census (Simultaneous)
+1931,HSU_DJEBINIANA,Djebeniana,جبنيانة,South,441,198,220,15,8,1.1111,General Census (Simultaneous)
+1936,HSU_DJEBINIANA,Djebeniana,جبنيانة,South,519,234,260,18,7,1.1111,General Census (Simultaneous)
+1946,HSU_DJEBINIANA,Djebeniana,جبنيانة,South,550,248,275,19,8,1.1089,General Census (Simultaneous)
+1956,HSU_DJEBINIANA,Djebeniana,جبنيانة,South,576,259,288,20,9,1.112,General Census (Simultaneous)
+1891,HSU_DJERBA,Djerba,جربة,South,278,63,155,50,10,2.4603,European Census Only
+1896,HSU_DJERBA,Djerba,جربة,South,571,103,403,51,14,3.9126,European Census Only
+1901,HSU_DJERBA,Djerba,جربة,South,758,154,524,60,20,3.4026,European Census Only
+1906,HSU_DJERBA,Djerba,جربة,South,1041,259,699,61,22,2.6988,European Census Only
+1911,HSU_DJERBA,Djerba,جربة,South,1193,344,759,66,24,2.2064,European Census Only
+1921,HSU_DJERBA,Djerba,جربة,South,1172,549,572,36,15,1.0419,General Census (Simultaneous)
+1926,HSU_DJERBA,Djerba,جربة,South,1341,628,654,41,18,1.0414,General Census (Simultaneous)
+1931,HSU_DJERBA,Djerba,جربة,South,1678,785,818,51,24,1.042,General Census (Simultaneous)
+1936,HSU_DJERBA,Djerba,جربة,South,1975,925,964,61,25,1.0422,General Census (Simultaneous)
+1946,HSU_DJERBA,Djerba,جربة,South,2402,1128,1169,73,32,1.0363,General Census (Simultaneous)
+1956,HSU_DJERBA,Djerba,جربة,South,2819,1327,1370,85,37,1.0324,General Census (Simultaneous)
+1891,HSU_EL_DJEM,El Djem,الجم,Sahel/Center-East,153,34,85,28,6,2.5,European Census Only
+1896,HSU_EL_DJEM,El Djem,الجم,Sahel/Center-East,312,55,221,28,8,4.0182,European Census Only
+1901,HSU_EL_DJEM,El Djem,الجم,Sahel/Center-East,415,83,288,33,11,3.4699,European Census Only
+1906,HSU_EL_DJEM,El Djem,الجم,Sahel/Center-East,569,139,384,34,12,2.7626,European Census Only
+1911,HSU_EL_DJEM,El Djem,الجم,Sahel/Center-East,652,185,417,37,13,2.2541,European Census Only
+1921,HSU_EL_DJEM,El Djem,الجم,Sahel/Center-East,639,296,314,20,9,1.0608,General Census (Simultaneous)
+1926,HSU_EL_DJEM,El Djem,الجم,Sahel/Center-East,731,339,359,23,10,1.059,General Census (Simultaneous)
+1931,HSU_EL_DJEM,El Djem,الجم,Sahel/Center-East,915,424,449,29,13,1.059,General Census (Simultaneous)
+1936,HSU_EL_DJEM,El Djem,الجم,Sahel/Center-East,1078,500,530,34,14,1.06,General Census (Simultaneous)
+1946,HSU_EL_DJEM,El Djem,الجم,Sahel/Center-East,1266,589,621,40,16,1.0543,General Census (Simultaneous)
+1956,HSU_EL_DJEM,El Djem,الجم,Sahel/Center-East,1447,674,707,45,21,1.049,General Census (Simultaneous)
+1891,HSU_ENFIDHA,Enfidha,النفيضة,Sahel/Center-East,183,64,69,42,8,1.0781,European Census Only
+1896,HSU_ENFIDHA,Enfidha,النفيضة,Sahel/Center-East,337,104,180,43,10,1.7308,European Census Only
+1901,HSU_ENFIDHA,Enfidha,النفيضة,Sahel/Center-East,454,155,235,50,14,1.5161,European Census Only
+1906,HSU_ENFIDHA,Enfidha,النفيضة,Sahel/Center-East,641,261,313,51,16,1.1992,European Census Only
+1911,HSU_ENFIDHA,Enfidha,النفيضة,Sahel/Center-East,759,347,340,55,17,0.9798,European Census Only
+1921,HSU_ENFIDHA,Enfidha,النفيضة,Sahel/Center-East,852,554,256,30,12,0.4621,General Census (Simultaneous)
+1926,HSU_ENFIDHA,Enfidha,النفيضة,Sahel/Center-East,975,634,292,34,15,0.4606,General Census (Simultaneous)
+1931,HSU_ENFIDHA,Enfidha,النفيضة,Sahel/Center-East,1220,793,366,43,18,0.4615,General Census (Simultaneous)
+1936,HSU_ENFIDHA,Enfidha,النفيضة,Sahel/Center-East,1437,934,431,50,22,0.4615,General Census (Simultaneous)
+1946,HSU_ENFIDHA,Enfidha,النفيضة,Sahel/Center-East,1892,1230,568,66,28,0.4618,General Census (Simultaneous)
+1956,HSU_ENFIDHA,Enfidha,النفيضة,Sahel/Center-East,2347,1526,704,82,35,0.4613,General Census (Simultaneous)
+1891,HSU_GABES,Gabès Littoral,قابس,South,620,168,292,136,24,1.7381,European Census Only
+1896,HSU_GABES,Gabès Littoral,قابس,South,1206,273,762,139,32,2.7912,European Census Only
+1901,HSU_GABES,Gabès Littoral,قابس,South,1607,407,992,163,45,2.4373,European Census Only
+1906,HSU_GABES,Gabès Littoral,قابس,South,2222,685,1322,165,50,1.9299,European Census Only
+1911,HSU_GABES,Gabès Littoral,قابس,South,2582,911,1435,181,55,1.5752,European Census Only
+1921,HSU_GABES,Gabès Littoral,قابس,South,2675,1454,1082,98,41,0.7442,General Census (Simultaneous)
+1926,HSU_GABES,Gabès Littoral,قابس,South,3061,1663,1238,111,49,0.7444,General Census (Simultaneous)
+1931,HSU_GABES,Gabès Littoral,قابس,South,3830,2081,1549,140,60,0.7444,General Census (Simultaneous)
+1936,HSU_GABES,Gabès Littoral,قابس,South,4510,2451,1824,165,70,0.7442,General Census (Simultaneous)
+1946,HSU_GABES,Gabès Littoral,قابس,South,5683,3094,2294,206,89,0.7414,General Census (Simultaneous)
+1956,HSU_GABES,Gabès Littoral,قابس,South,6844,3731,2759,248,106,0.7395,General Census (Simultaneous)
+1891,HSU_GAFSA,Gafsa & Bassin Minier,قفصة والحوض المنجمي,South,1074,243,563,228,40,2.3169,European Census Only
+1896,HSU_GAFSA,Gafsa & Bassin Minier,قفصة والحوض المنجمي,South,2148,395,1467,232,54,3.7139,European Census Only
+1901,HSU_GAFSA,Gafsa & Bassin Minier,قفصة والحوض المنجمي,South,2847,590,1910,273,74,3.2373,European Census Only
+1906,HSU_GAFSA,Gafsa & Bassin Minier,قفصة والحوض المنجمي,South,3898,992,2547,277,82,2.5675,European Census Only
+1911,HSU_GAFSA,Gafsa & Bassin Minier,قفصة والحوض المنجمي,South,4479,1320,2765,303,91,2.0947,European Census Only
+1921,HSU_GAFSA,Gafsa & Bassin Minier,قفصة والحوض المنجمي,South,4426,2107,2084,164,71,0.9891,General Census (Simultaneous)
+1926,HSU_GAFSA,Gafsa & Bassin Minier,قفصة والحوض المنجمي,South,5066,2413,2386,188,79,0.9888,General Census (Simultaneous)
+1931,HSU_GAFSA,Gafsa & Bassin Minier,قفصة والحوض المنجمي,South,6338,3018,2985,234,101,0.9891,General Census (Simultaneous)
+1936,HSU_GAFSA,Gafsa & Bassin Minier,قفصة والحوض المنجمي,South,7463,3553,3515,277,118,0.9893,General Census (Simultaneous)
+1946,HSU_GAFSA,Gafsa & Bassin Minier,قفصة والحوض المنجمي,South,9602,4567,4527,356,152,0.9912,General Census (Simultaneous)
+1956,HSU_GAFSA,Gafsa & Bassin Minier,قفصة والحوض المنجمي,South,11730,5574,5534,436,186,0.9928,General Census (Simultaneous)
+1891,HSU_GHARDIMAOU,Ghardimaou,غار الدماء,North-West,93,28,44,17,4,1.5714,European Census Only
+1896,HSU_GHARDIMAOU,Ghardimaou,غار الدماء,North-West,182,46,114,17,5,2.4783,European Census Only
+1901,HSU_GHARDIMAOU,Ghardimaou,غار الدماء,North-West,244,69,148,20,7,2.1449,European Census Only
+1906,HSU_GHARDIMAOU,Ghardimaou,غار الدماء,North-West,342,116,198,20,8,1.7069,European Census Only
+1911,HSU_GHARDIMAOU,Ghardimaou,غار الدماء,North-West,401,155,215,22,9,1.3871,European Census Only
+1921,HSU_GHARDIMAOU,Ghardimaou,غار الدماء,North-West,426,247,162,12,5,0.6559,General Census (Simultaneous)
+1926,HSU_GHARDIMAOU,Ghardimaou,غار الدماء,North-West,488,283,185,14,6,0.6537,General Census (Simultaneous)
+1931,HSU_GHARDIMAOU,Ghardimaou,غار الدماء,North-West,610,354,232,17,7,0.6554,General Census (Simultaneous)
+1936,HSU_GHARDIMAOU,Ghardimaou,غار الدماء,North-West,718,416,273,20,9,0.6562,General Census (Simultaneous)
+1946,HSU_GHARDIMAOU,Ghardimaou,غار الدماء,North-West,762,442,290,21,9,0.6561,General Census (Simultaneous)
+1956,HSU_GHARDIMAOU,Ghardimaou,غار الدماء,North-West,798,463,303,22,10,0.6544,General Census (Simultaneous)
+1891,HSU_KAIROUAN,Kairouan,القيروان,Center-West,499,138,235,107,19,1.7029,European Census Only
+1896,HSU_KAIROUAN,Kairouan,القيروان,Center-West,972,224,613,109,26,2.7366,European Census Only
+1901,HSU_KAIROUAN,Kairouan,القيروان,Center-West,1298,335,798,128,37,2.3821,European Census Only
+1906,HSU_KAIROUAN,Kairouan,القيروان,Center-West,1799,564,1065,130,40,1.8883,European Census Only
+1911,HSU_KAIROUAN,Kairouan,القيروان,Center-West,2092,750,1155,142,45,1.54,European Census Only
+1921,HSU_KAIROUAN,Kairouan,القيروان,Center-West,2177,1197,871,77,32,0.7277,General Census (Simultaneous)
+1926,HSU_KAIROUAN,Kairouan,القيروان,Center-West,2492,1370,997,87,38,0.7277,General Census (Simultaneous)
+1931,HSU_KAIROUAN,Kairouan,القيروان,Center-West,3118,1715,1247,109,47,0.7271,General Census (Simultaneous)
+1936,HSU_KAIROUAN,Kairouan,القيروان,Center-West,3671,2019,1468,129,55,0.7271,General Census (Simultaneous)
+1946,HSU_KAIROUAN,Kairouan,القيروان,Center-West,4630,2546,1852,162,70,0.7274,General Census (Simultaneous)
+1956,HSU_KAIROUAN,Kairouan,القيروان,Center-West,5579,3068,2231,195,85,0.7272,General Census (Simultaneous)
+1891,HSU_KASSERINE,Kasserine,القصرين,Center-West,47,15,20,10,2,1.3333,European Census Only
+1896,HSU_KASSERINE,Kasserine,القصرين,Center-West,90,24,53,10,3,2.2083,European Census Only
+1901,HSU_KASSERINE,Kasserine,القصرين,Center-West,121,36,69,12,4,1.9167,European Census Only
+1906,HSU_KASSERINE,Kasserine,القصرين,Center-West,168,60,92,12,4,1.5333,European Census Only
+1911,HSU_KASSERINE,Kasserine,القصرين,Center-West,196,80,99,13,4,1.2375,European Census Only
+1921,HSU_KASSERINE,Kasserine,القصرين,Center-West,213,128,75,7,3,0.5859,General Census (Simultaneous)
+1926,HSU_KASSERINE,Kasserine,القصرين,Center-West,244,146,85,9,4,0.5822,General Census (Simultaneous)
+1931,HSU_KASSERINE,Kasserine,القصرين,Center-West,305,183,107,11,4,0.5847,General Census (Simultaneous)
+1936,HSU_KASSERINE,Kasserine,القصرين,Center-West,359,215,126,13,5,0.586,General Census (Simultaneous)
+1946,HSU_KASSERINE,Kasserine,القصرين,Center-West,381,229,133,13,6,0.5808,General Census (Simultaneous)
+1956,HSU_KASSERINE,Kasserine,القصرين,Center-West,399,239,140,14,6,0.5858,General Census (Simultaneous)
+1891,HSU_KEBILI,Kébili & Nefzaoua,قبلي ونفزاوة,South,26,8,11,6,1,1.375,European Census Only
+1896,HSU_KEBILI,Kébili & Nefzaoua,قبلي ونفزاوة,South,49,13,29,6,1,2.2308,European Census Only
+1901,HSU_KEBILI,Kébili & Nefzaoua,قبلي ونفزاوة,South,67,20,38,7,2,1.9,European Census Only
+1906,HSU_KEBILI,Kébili & Nefzaoua,قبلي ونفزاوة,South,92,33,50,7,2,1.5152,European Census Only
+1911,HSU_KEBILI,Kébili & Nefzaoua,قبلي ونفزاوة,South,107,44,54,7,2,1.2273,European Census Only
+1921,HSU_KEBILI,Kébili & Nefzaoua,قبلي ونفزاوة,South,117,70,41,4,2,0.5857,General Census (Simultaneous)
+1926,HSU_KEBILI,Kébili & Nefzaoua,قبلي ونفزاوة,South,135,81,48,5,1,0.5926,General Census (Simultaneous)
+1931,HSU_KEBILI,Kébili & Nefzaoua,قبلي ونفزاوة,South,168,101,58,5,4,0.5743,General Census (Simultaneous)
+1936,HSU_KEBILI,Kébili & Nefzaoua,قبلي ونفزاوة,South,198,119,69,7,3,0.5798,General Census (Simultaneous)
+1946,HSU_KEBILI,Kébili & Nefzaoua,قبلي ونفزاوة,South,210,126,74,8,2,0.5873,General Census (Simultaneous)
+1956,HSU_KEBILI,Kébili & Nefzaoua,قبلي ونفزاوة,South,219,132,77,8,2,0.5833,General Census (Simultaneous)
+1891,HSU_KERKENNAH,Kerkennah,قرقنة,South,12,2,7,3,0,3.5,European Census Only
+1896,HSU_KERKENNAH,Kerkennah,قرقنة,South,26,4,18,3,1,4.5,European Census Only
+1901,HSU_KERKENNAH,Kerkennah,قرقنة,South,33,5,24,3,1,4.8,European Census Only
+1906,HSU_KERKENNAH,Kerkennah,قرقنة,South,45,9,32,3,1,3.5556,European Census Only
+1911,HSU_KERKENNAH,Kerkennah,قرقنة,South,51,12,34,4,1,2.8333,European Census Only
+1921,HSU_KERKENNAH,Kerkennah,قرقنة,South,47,19,26,2,0,1.3684,General Census (Simultaneous)
+1926,HSU_KERKENNAH,Kerkennah,قرقنة,South,54,22,30,2,0,1.3636,General Census (Simultaneous)
+1931,HSU_KERKENNAH,Kerkennah,قرقنة,South,68,27,37,2,2,1.3704,General Census (Simultaneous)
+1936,HSU_KERKENNAH,Kerkennah,قرقنة,South,80,32,44,3,1,1.375,General Census (Simultaneous)
+1946,HSU_KERKENNAH,Kerkennah,قرقنة,South,85,34,47,3,1,1.3824,General Census (Simultaneous)
+1956,HSU_KERKENNAH,Kerkennah,قرقنة,South,89,36,49,3,1,1.3611,General Census (Simultaneous)
+1891,HSU_LE_KEF,Le Kef,الكاف,North-West,515,148,236,111,20,1.5946,European Census Only
+1896,HSU_LE_KEF,Le Kef,الكاف,North-West,997,241,615,113,28,2.5519,European Census Only
+1901,HSU_LE_KEF,Le Kef,الكاف,North-West,1331,360,800,133,38,2.2222,European Census Only
+1906,HSU_LE_KEF,Le Kef,الكاف,North-West,1849,605,1067,135,42,1.7636,European Census Only
+1911,HSU_LE_KEF,Le Kef,الكاف,North-West,2158,805,1158,148,47,1.4385,European Census Only
+1921,HSU_LE_KEF,Le Kef,الكاف,North-West,2272,1285,873,80,34,0.6794,General Census (Simultaneous)
+1926,HSU_LE_KEF,Le Kef,الكاف,North-West,2601,1471,1000,91,39,0.6798,General Census (Simultaneous)
+1931,HSU_LE_KEF,Le Kef,الكاف,North-West,3254,1840,1251,114,49,0.6799,General Census (Simultaneous)
+1936,HSU_LE_KEF,Le Kef,الكاف,North-West,3831,2167,1473,134,57,0.6797,General Census (Simultaneous)
+1946,HSU_LE_KEF,Le Kef,الكاف,North-West,4737,2668,1831,165,73,0.6863,General Census (Simultaneous)
+1956,HSU_LE_KEF,Le Kef,الكاف,North-West,5632,3164,2186,198,84,0.6909,General Census (Simultaneous)
+1891,HSU_MAHDIA,Mahdia & Sahel Sud,المهدية وجنوب الساحل,Sahel/Center-East,491,99,270,104,18,2.7273,European Census Only
+1896,HSU_MAHDIA,Mahdia & Sahel Sud,المهدية وجنوب الساحل,Sahel/Center-East,994,161,703,106,24,4.3665,European Census Only
+1901,HSU_MAHDIA,Mahdia & Sahel Sud,المهدية وجنوب الساحل,Sahel/Center-East,1314,240,916,125,33,3.8167,European Census Only
+1906,HSU_MAHDIA,Mahdia & Sahel Sud,المهدية وجنوب الساحل,Sahel/Center-East,1789,405,1221,127,36,3.0148,European Census Only
+1911,HSU_MAHDIA,Mahdia & Sahel Sud,المهدية وجنوب الساحل,Sahel/Center-East,2042,538,1325,139,40,2.4628,European Census Only
+1921,HSU_MAHDIA,Mahdia & Sahel Sud,المهدية وجنوب الساحل,Sahel/Center-East,1964,859,999,75,31,1.163,General Census (Simultaneous)
+1926,HSU_MAHDIA,Mahdia & Sahel Sud,المهدية وجنوب الساحل,Sahel/Center-East,2248,983,1143,86,36,1.1628,General Census (Simultaneous)
+1931,HSU_MAHDIA,Mahdia & Sahel Sud,المهدية وجنوب الساحل,Sahel/Center-East,2813,1230,1431,107,45,1.1634,General Census (Simultaneous)
+1936,HSU_MAHDIA,Mahdia & Sahel Sud,المهدية وجنوب الساحل,Sahel/Center-East,3313,1449,1684,126,54,1.1622,General Census (Simultaneous)
+1946,HSU_MAHDIA,Mahdia & Sahel Sud,المهدية وجنوب الساحل,Sahel/Center-East,4003,1757,2031,150,65,1.1559,General Census (Simultaneous)
+1956,HSU_MAHDIA,Mahdia & Sahel Sud,المهدية وجنوب الساحل,Sahel/Center-East,4680,2059,2371,175,75,1.1515,General Census (Simultaneous)
+1891,HSU_MAKTAR,Maktar & Siliana,مكثر وسليانة,Center-West,249,73,117,49,10,1.6027,European Census Only
+1896,HSU_MAKTAR,Maktar & Siliana,مكثر وسليانة,Center-West,486,118,305,50,13,2.5847,European Census Only
+1901,HSU_MAKTAR,Maktar & Siliana,مكثر وسليانة,Center-West,650,176,397,58,19,2.2557,European Census Only
+1906,HSU_MAKTAR,Maktar & Siliana,مكثر وسليانة,Center-West,906,297,529,59,21,1.7811,European Census Only
+1911,HSU_MAKTAR,Maktar & Siliana,مكثر وسليانة,Center-West,1057,395,574,65,23,1.4532,European Census Only
+1921,HSU_MAKTAR,Maktar & Siliana,مكثر وسليانة,Center-West,1113,630,433,35,15,0.6873,General Census (Simultaneous)
+1926,HSU_MAKTAR,Maktar & Siliana,مكثر وسليانة,Center-West,1273,721,495,40,17,0.6865,General Census (Simultaneous)
+1931,HSU_MAKTAR,Maktar & Siliana,مكثر وسليانة,Center-West,1593,901,620,50,22,0.6881,General Census (Simultaneous)
+1936,HSU_MAKTAR,Maktar & Siliana,مكثر وسليانة,Center-West,1876,1062,730,59,25,0.6874,General Census (Simultaneous)
+1946,HSU_MAKTAR,Maktar & Siliana,مكثر وسليانة,Center-West,2214,1250,864,70,30,0.6912,General Census (Simultaneous)
+1956,HSU_MAKTAR,Maktar & Siliana,مكثر وسليانة,Center-West,2542,1432,995,81,34,0.6948,General Census (Simultaneous)
+1891,HSU_MATEUR,Mateur - Ichkeul,ماطر والإشكل,North-East,484,126,239,100,19,1.8968,European Census Only
+1896,HSU_MATEUR,Mateur - Ichkeul,ماطر والإشكل,North-East,954,205,622,102,25,3.0341,European Census Only
+1901,HSU_MATEUR,Mateur - Ichkeul,ماطر والإشكل,North-East,1271,306,810,120,35,2.6471,European Census Only
+1906,HSU_MATEUR,Mateur - Ichkeul,ماطر والإشكل,North-East,1756,515,1080,122,39,2.0971,European Census Only
+1911,HSU_MATEUR,Mateur - Ichkeul,ماطر والإشكل,North-East,2034,685,1173,133,43,1.7124,European Census Only
+1921,HSU_MATEUR,Mateur - Ichkeul,ماطر والإشكل,North-East,2082,1093,884,72,33,0.8088,General Census (Simultaneous)
+1926,HSU_MATEUR,Mateur - Ichkeul,ماطر والإشكل,North-East,2384,1252,1013,84,35,0.8091,General Census (Simultaneous)
+1931,HSU_MATEUR,Mateur - Ichkeul,ماطر والإشكل,North-East,2982,1566,1267,104,45,0.8091,General Census (Simultaneous)
+1936,HSU_MATEUR,Mateur - Ichkeul,ماطر والإشكل,North-East,3512,1844,1492,122,54,0.8091,General Census (Simultaneous)
+1946,HSU_MATEUR,Mateur - Ichkeul,ماطر والإشكل,North-East,4174,2180,1785,146,63,0.8188,General Census (Simultaneous)
+1956,HSU_MATEUR,Mateur - Ichkeul,ماطر والإشكل,North-East,4818,2506,2071,168,73,0.8264,General Census (Simultaneous)
+1891,HSU_MATMATA,Matmata,مطماطة,South,8,3,4,1,0,1.3333,European Census Only
+1896,HSU_MATMATA,Matmata,مطماطة,South,14,4,9,1,0,2.25,European Census Only
+1901,HSU_MATMATA,Matmata,مطماطة,South,21,6,12,2,1,2.0,European Census Only
+1906,HSU_MATMATA,Matmata,مطماطة,South,29,10,16,2,1,1.6,European Census Only
+1911,HSU_MATMATA,Matmata,مطماطة,South,34,14,17,2,1,1.2143,European Census Only
+1921,HSU_MATMATA,Matmata,مطماطة,South,36,22,13,1,0,0.5909,General Census (Simultaneous)
+1926,HSU_MATMATA,Matmata,مطماطة,South,41,25,14,1,1,0.56,General Census (Simultaneous)
+1931,HSU_MATMATA,Matmata,مطماطة,South,51,31,18,2,0,0.5806,General Census (Simultaneous)
+1936,HSU_MATMATA,Matmata,مطماطة,South,60,36,21,2,1,0.5833,General Census (Simultaneous)
+1946,HSU_MATMATA,Matmata,مطماطة,South,63,38,22,2,1,0.5789,General Census (Simultaneous)
+1956,HSU_MATMATA,Matmata,مطماطة,South,66,40,23,2,1,0.575,General Census (Simultaneous)
+1891,HSU_MEDENINE,Médenine & Zarzis,مدنين وجرجيس,South,253,70,120,53,10,1.7143,European Census Only
+1896,HSU_MEDENINE,Médenine & Zarzis,مدنين وجرجيس,South,493,114,312,54,13,2.7368,European Census Only
+1901,HSU_MEDENINE,Médenine & Zarzis,مدنين وجرجيس,South,658,170,406,63,19,2.3882,European Census Only
+1906,HSU_MEDENINE,Médenine & Zarzis,مدنين وجرجيس,South,912,287,541,64,20,1.885,European Census Only
+1911,HSU_MEDENINE,Médenine & Zarzis,مدنين وجرجيس,South,1063,382,588,70,23,1.5393,European Census Only
+1921,HSU_MEDENINE,Médenine & Zarzis,مدنين وجرجيس,South,1106,609,443,38,16,0.7274,General Census (Simultaneous)
+1926,HSU_MEDENINE,Médenine & Zarzis,مدنين وجرجيس,South,1266,696,507,44,19,0.7284,General Census (Simultaneous)
+1931,HSU_MEDENINE,Médenine & Zarzis,مدنين وجرجيس,South,1584,871,634,55,24,0.7279,General Census (Simultaneous)
+1936,HSU_MEDENINE,Médenine & Zarzis,مدنين وجرجيس,South,1866,1026,748,65,27,0.729,General Census (Simultaneous)
+1946,HSU_MEDENINE,Médenine & Zarzis,مدنين وجرجيس,South,2366,1302,947,84,33,0.7273,General Census (Simultaneous)
+1956,HSU_MEDENINE,Médenine & Zarzis,مدنين وجرجيس,South,2865,1576,1145,100,44,0.7265,General Census (Simultaneous)
+1891,HSU_MEDJEZ_EL_BAB,Medjez el-Bab & Testour,مجاز الباب وتستور,North-West,600,174,273,129,24,1.569,European Census Only
+1896,HSU_MEDJEZ_EL_BAB,Medjez el-Bab & Testour,مجاز الباب وتستور,North-West,1158,283,711,132,32,2.5124,European Census Only
+1901,HSU_MEDJEZ_EL_BAB,Medjez el-Bab & Testour,مجاز الباب وتستور,North-West,1548,422,926,155,45,2.1943,European Census Only
+1906,HSU_MEDJEZ_EL_BAB,Medjez el-Bab & Testour,مجاز الباب وتستور,North-West,2151,711,1234,157,49,1.7356,European Census Only
+1911,HSU_MEDJEZ_EL_BAB,Medjez el-Bab & Testour,مجاز الباب وتستور,North-West,2512,946,1340,172,54,1.4165,European Census Only
+1921,HSU_MEDJEZ_EL_BAB,Medjez el-Bab & Testour,مجاز الباب وتستور,North-West,2651,1509,1010,93,39,0.6693,General Census (Simultaneous)
+1926,HSU_MEDJEZ_EL_BAB,Medjez el-Bab & Testour,مجاز الباب وتستور,North-West,3034,1726,1156,106,46,0.6698,General Census (Simultaneous)
+1931,HSU_MEDJEZ_EL_BAB,Medjez el-Bab & Testour,مجاز الباب وتستور,North-West,3796,2161,1445,132,58,0.6687,General Census (Simultaneous)
+1936,HSU_MEDJEZ_EL_BAB,Medjez el-Bab & Testour,مجاز الباب وتستور,North-West,4470,2545,1702,157,66,0.6688,General Census (Simultaneous)
+1946,HSU_MEDJEZ_EL_BAB,Medjez el-Bab & Testour,مجاز الباب وتستور,North-West,5323,3013,2044,186,80,0.6784,General Census (Simultaneous)
+1956,HSU_MEDJEZ_EL_BAB,Medjez el-Bab & Testour,مجاز الباب وتستور,North-West,6153,3467,2378,215,93,0.6859,General Census (Simultaneous)
+1891,HSU_MENZEL_TEMIME,Menzel Temime & Cap Bon Est,منزل تميم وشرق الوطن القبلي,North-East,411,81,235,80,15,2.9012,European Census Only
+1896,HSU_MENZEL_TEMIME,Menzel Temime & Cap Bon Est,منزل تميم وشرق الوطن القبلي,North-East,845,132,611,82,20,4.6288,European Census Only
+1901,HSU_MENZEL_TEMIME,Menzel Temime & Cap Bon Est,منزل تميم وشرق الوطن القبلي,North-East,1119,198,796,97,28,4.0202,European Census Only
+1906,HSU_MENZEL_TEMIME,Menzel Temime & Cap Bon Est,منزل تميم وشرق الوطن القبلي,North-East,1523,333,1061,98,31,3.1862,European Census Only
+1911,HSU_MENZEL_TEMIME,Menzel Temime & Cap Bon Est,منزل تميم وشرق الوطن القبلي,North-East,1734,442,1151,107,34,2.6041,European Census Only
+1921,HSU_MENZEL_TEMIME,Menzel Temime & Cap Bon Est,منزل تميم وشرق الوطن القبلي,North-East,1657,706,868,58,25,1.2295,General Census (Simultaneous)
+1926,HSU_MENZEL_TEMIME,Menzel Temime & Cap Bon Est,منزل تميم وشرق الوطن القبلي,North-East,1896,808,993,66,29,1.229,General Census (Simultaneous)
+1931,HSU_MENZEL_TEMIME,Menzel Temime & Cap Bon Est,منزل تميم وشرق الوطن القبلي,North-East,2372,1011,1242,83,36,1.2285,General Census (Simultaneous)
+1936,HSU_MENZEL_TEMIME,Menzel Temime & Cap Bon Est,منزل تميم وشرق الوطن القبلي,North-East,2793,1190,1463,98,42,1.2294,General Census (Simultaneous)
+1946,HSU_MENZEL_TEMIME,Menzel Temime & Cap Bon Est,منزل تميم وشرق الوطن القبلي,North-East,3371,1428,1774,117,52,1.2423,General Census (Simultaneous)
+1956,HSU_MENZEL_TEMIME,Menzel Temime & Cap Bon Est,منزل تميم وشرق الوطن القبلي,North-East,3937,1662,2078,139,58,1.2503,General Census (Simultaneous)
+1891,HSU_MONASTIR,Monastir & Sahel Central,المنستير ووسط الساحل,Sahel/Center-East,446,100,240,90,16,2.4,European Census Only
+1896,HSU_MONASTIR,Monastir & Sahel Central,المنستير ووسط الساحل,Sahel/Center-East,901,162,625,92,22,3.858,European Census Only
+1901,HSU_MONASTIR,Monastir & Sahel Central,المنستير ووسط الساحل,Sahel/Center-East,1195,242,814,108,31,3.3636,European Census Only
+1906,HSU_MONASTIR,Monastir & Sahel Central,المنستير ووسط الساحل,Sahel/Center-East,1636,407,1085,110,34,2.6658,European Census Only
+1911,HSU_MONASTIR,Monastir & Sahel Central,المنستير ووسط الساحل,Sahel/Center-East,1878,542,1178,120,38,2.1734,European Census Only
+1921,HSU_MONASTIR,Monastir & Sahel Central,المنستير ووسط الساحل,Sahel/Center-East,1846,865,888,65,28,1.0266,General Census (Simultaneous)
+1926,HSU_MONASTIR,Monastir & Sahel Central,المنستير ووسط الساحل,Sahel/Center-East,2113,991,1018,74,30,1.0272,General Census (Simultaneous)
+1931,HSU_MONASTIR,Monastir & Sahel Central,المنستير ووسط الساحل,Sahel/Center-East,2643,1239,1271,93,40,1.0258,General Census (Simultaneous)
+1936,HSU_MONASTIR,Monastir & Sahel Central,المنستير ووسط الساحل,Sahel/Center-East,3113,1459,1498,109,47,1.0267,General Census (Simultaneous)
+1946,HSU_MONASTIR,Monastir & Sahel Central,المنستير ووسط الساحل,Sahel/Center-East,3792,1782,1819,132,59,1.0208,General Census (Simultaneous)
+1956,HSU_MONASTIR,Monastir & Sahel Central,المنستير ووسط الساحل,Sahel/Center-East,4459,2101,2135,156,67,1.0162,General Census (Simultaneous)
+1891,HSU_NABEUL,Nabeul & Hammamet,نابل والحمامات,North-East,726,167,397,135,27,2.3772,European Census Only
+1896,HSU_NABEUL,Nabeul & Hammamet,نابل والحمامات,North-East,1479,271,1034,137,37,3.8155,European Census Only
+1901,HSU_NABEUL,Nabeul & Hammamet,نابل والحمامات,North-East,1964,405,1346,162,51,3.3235,European Census Only
+1906,HSU_NABEUL,Nabeul & Hammamet,نابل والحمامات,North-East,2697,682,1795,164,56,2.632,European Census Only
+1911,HSU_NABEUL,Nabeul & Hammamet,نابل والحمامات,North-East,3098,907,1949,179,63,2.1488,European Census Only
+1921,HSU_NABEUL,Nabeul & Hammamet,نابل والحمامات,North-East,3053,1447,1469,97,40,1.0152,General Census (Simultaneous)
+1926,HSU_NABEUL,Nabeul & Hammamet,نابل والحمامات,North-East,3495,1656,1680,111,48,1.0145,General Census (Simultaneous)
+1931,HSU_NABEUL,Nabeul & Hammamet,نابل والحمامات,North-East,4371,2071,2103,138,59,1.0155,General Census (Simultaneous)
+1936,HSU_NABEUL,Nabeul & Hammamet,نابل والحمامات,North-East,5148,2440,2476,163,69,1.0148,General Census (Simultaneous)
+1946,HSU_NABEUL,Nabeul & Hammamet,نابل والحمامات,North-East,6349,3019,3044,199,87,1.0083,General Census (Simultaneous)
+1956,HSU_NABEUL,Nabeul & Hammamet,نابل والحمامات,North-East,7532,3591,3606,235,100,1.0042,General Census (Simultaneous)
+1891,HSU_NEFZA,Nefza & Littoral Kroumir,نفزة والشمال الغربي,North-West,70,22,30,15,3,1.3636,European Census Only
+1896,HSU_NEFZA,Nefza & Littoral Kroumir,نفزة والشمال الغربي,North-West,135,36,79,16,4,2.1944,European Census Only
+1901,HSU_NEFZA,Nefza & Littoral Kroumir,نفزة والشمال الغربي,North-West,180,54,103,18,5,1.9074,European Census Only
+1906,HSU_NEFZA,Nefza & Littoral Kroumir,نفزة والشمال الغربي,North-West,252,90,137,19,6,1.5222,European Census Only
+1911,HSU_NEFZA,Nefza & Littoral Kroumir,نفزة والشمال الغربي,North-West,296,120,149,20,7,1.2417,European Census Only
+1921,HSU_NEFZA,Nefza & Littoral Kroumir,نفزة والشمال الغربي,North-West,320,192,112,11,5,0.5833,General Census (Simultaneous)
+1926,HSU_NEFZA,Nefza & Littoral Kroumir,نفزة والشمال الغربي,North-West,366,220,128,13,5,0.5818,General Census (Simultaneous)
+1931,HSU_NEFZA,Nefza & Littoral Kroumir,نفزة والشمال الغربي,North-West,458,275,160,16,7,0.5818,General Census (Simultaneous)
+1936,HSU_NEFZA,Nefza & Littoral Kroumir,نفزة والشمال الغربي,North-West,539,323,189,19,8,0.5851,General Census (Simultaneous)
+1946,HSU_NEFZA,Nefza & Littoral Kroumir,نفزة والشمال الغربي,North-West,571,343,200,20,8,0.5831,General Census (Simultaneous)
+1956,HSU_NEFZA,Nefza & Littoral Kroumir,نفزة والشمال الغربي,North-West,598,359,209,21,9,0.5822,General Census (Simultaneous)
+1891,HSU_SBEITLA,Sbeïtla,سبيطلة,Center-West,86,27,37,19,3,1.3704,European Census Only
+1896,HSU_SBEITLA,Sbeïtla,سبيطلة,Center-West,165,44,96,20,5,2.1818,European Census Only
+1901,HSU_SBEITLA,Sbeïtla,سبيطلة,Center-West,222,66,126,23,7,1.9091,European Census Only
+1906,HSU_SBEITLA,Sbeïtla,سبيطلة,Center-West,309,111,167,24,7,1.5045,European Census Only
+1911,HSU_SBEITLA,Sbeïtla,سبيطلة,Center-West,363,147,182,26,8,1.2381,European Census Only
+1921,HSU_SBEITLA,Sbeïtla,سبيطلة,Center-West,391,235,137,14,5,0.583,General Census (Simultaneous)
+1926,HSU_SBEITLA,Sbeïtla,سبيطلة,Center-West,447,268,156,16,7,0.5821,General Census (Simultaneous)
+1931,HSU_SBEITLA,Sbeïtla,سبيطلة,Center-West,559,335,196,20,8,0.5851,General Census (Simultaneous)
+1936,HSU_SBEITLA,Sbeïtla,سبيطلة,Center-West,658,395,230,23,10,0.5823,General Census (Simultaneous)
+1946,HSU_SBEITLA,Sbeïtla,سبيطلة,Center-West,698,419,244,24,11,0.5823,General Census (Simultaneous)
+1956,HSU_SBEITLA,Sbeïtla,سبيطلة,Center-West,731,439,256,26,10,0.5831,General Census (Simultaneous)
+1891,HSU_SERS,Le Sers,السرس,North-West,95,30,40,21,4,1.3333,European Census Only
+1896,HSU_SERS,Le Sers,السرس,North-West,179,48,105,21,5,2.1875,European Census Only
+1901,HSU_SERS,Le Sers,السرس,North-West,241,72,137,25,7,1.9028,European Census Only
+1906,HSU_SERS,Le Sers,السرس,North-West,336,121,182,25,8,1.5041,European Census Only
+1911,HSU_SERS,Le Sers,السرس,North-West,395,160,198,28,9,1.2375,European Census Only
+1921,HSU_SERS,Le Sers,السرس,North-West,426,256,149,15,6,0.582,General Census (Simultaneous)
+1926,HSU_SERS,Le Sers,السرس,North-West,488,293,171,17,7,0.5836,General Census (Simultaneous)
+1931,HSU_SERS,Le Sers,السرس,North-West,610,366,214,21,9,0.5847,General Census (Simultaneous)
+1936,HSU_SERS,Le Sers,السرس,North-West,718,431,251,25,11,0.5824,General Census (Simultaneous)
+1946,HSU_SERS,Le Sers,السرس,North-West,762,457,267,27,11,0.5842,General Census (Simultaneous)
+1956,HSU_SERS,Le Sers,السرس,North-West,798,479,279,28,12,0.5825,General Census (Simultaneous)
+1891,HSU_SFAX,Sfax,صفاقس,South,2798,629,1442,651,76,2.2925,European Census Only
+1896,HSU_SFAX,Sfax,صفاقس,South,5549,1023,3758,665,103,3.6735,European Census Only
+1901,HSU_SFAX,Sfax,صفاقس,South,7345,1527,4892,783,143,3.2037,European Census Only
+1906,HSU_SFAX,Sfax,صفاقس,South,7464,1899,4822,586,157,2.5392,European Census Only
+1911,HSU_SFAX,Sfax,صفاقس,South,8574,2526,5233,641,174,2.0717,European Census Only
+1921,HSU_SFAX,Sfax,صفاقس,South,8472,4031,3945,347,149,0.9787,General Census (Simultaneous)
+1926,HSU_SFAX,Sfax,صفاقس,South,9697,4614,4515,397,171,0.9785,General Census (Simultaneous)
+1931,HSU_SFAX,Sfax,صفاقس,South,12134,5774,5650,497,213,0.9785,General Census (Simultaneous)
+1936,HSU_SFAX,Sfax,صفاقس,South,14286,6798,6652,586,250,0.9785,General Census (Simultaneous)
+1946,HSU_SFAX,Sfax,صفاقس,South,18301,8721,8504,754,322,0.9751,General Census (Simultaneous)
+1956,HSU_SFAX,Sfax,صفاقس,South,22292,10633,10343,921,395,0.9727,General Census (Simultaneous)
+1891,HSU_SIDI_BOU_ZID,Sidi Bouzid,سيدي بوزيد,Center-West,45,12,21,10,2,1.75,European Census Only
+1896,HSU_SIDI_BOU_ZID,Sidi Bouzid,سيدي بوزيد,Center-West,85,19,54,10,2,2.8421,European Census Only
+1901,HSU_SIDI_BOU_ZID,Sidi Bouzid,سيدي بوزيد,Center-West,114,29,70,12,3,2.4138,European Census Only
+1906,HSU_SIDI_BOU_ZID,Sidi Bouzid,سيدي بوزيد,Center-West,157,49,93,12,3,1.898,European Census Only
+1911,HSU_SIDI_BOU_ZID,Sidi Bouzid,سيدي بوزيد,Center-West,183,65,101,13,4,1.5538,European Census Only
+1921,HSU_SIDI_BOU_ZID,Sidi Bouzid,سيدي بوزيد,Center-West,189,104,76,7,2,0.7308,General Census (Simultaneous)
+1926,HSU_SIDI_BOU_ZID,Sidi Bouzid,سيدي بوزيد,Center-West,217,119,87,8,3,0.7311,General Census (Simultaneous)
+1931,HSU_SIDI_BOU_ZID,Sidi Bouzid,سيدي بوزيد,Center-West,271,149,108,9,5,0.7248,General Census (Simultaneous)
+1936,HSU_SIDI_BOU_ZID,Sidi Bouzid,سيدي بوزيد,Center-West,319,175,128,11,5,0.7314,General Census (Simultaneous)
+1946,HSU_SIDI_BOU_ZID,Sidi Bouzid,سيدي بوزيد,Center-West,338,186,135,12,5,0.7258,General Census (Simultaneous)
+1956,HSU_SIDI_BOU_ZID,Sidi Bouzid,سيدي بوزيد,Center-West,355,195,142,12,6,0.7282,General Census (Simultaneous)
+1891,HSU_SOLIMAN,Soliman & Mornag,سليمان ومرناق,North-East,430,80,252,83,15,3.15,European Census Only
+1896,HSU_SOLIMAN,Soliman & Mornag,سليمان ومرناق,North-East,893,130,657,85,21,5.0538,European Census Only
+1901,HSU_SOLIMAN,Soliman & Mornag,سليمان ومرناق,North-East,1179,195,855,100,29,4.3846,European Census Only
+1906,HSU_SOLIMAN,Soliman & Mornag,سليمان ومرناق,North-East,1601,328,1140,101,32,3.4756,European Census Only
+1911,HSU_SOLIMAN,Soliman & Mornag,سليمان ومرناق,North-East,1820,436,1238,111,35,2.8394,European Census Only
+1921,HSU_SOLIMAN,Soliman & Mornag,سليمان ومرناق,North-East,1715,696,933,60,26,1.3405,General Census (Simultaneous)
+1926,HSU_SOLIMAN,Soliman & Mornag,سليمان ومرناق,North-East,1963,798,1068,68,29,1.3383,General Census (Simultaneous)
+1931,HSU_SOLIMAN,Soliman & Mornag,سليمان ومرناق,North-East,2458,998,1336,86,38,1.3387,General Census (Simultaneous)
+1936,HSU_SOLIMAN,Soliman & Mornag,سليمان ومرناق,North-East,2893,1175,1573,101,44,1.3387,General Census (Simultaneous)
+1946,HSU_SOLIMAN,Soliman & Mornag,سليمان ومرناق,North-East,3297,1342,1789,115,51,1.3331,General Census (Simultaneous)
+1956,HSU_SOLIMAN,Soliman & Mornag,سليمان ومرناق,North-East,3683,1502,1997,129,55,1.3296,General Census (Simultaneous)
+1891,HSU_SOUASSI,Les Souassi,السواسي,Sahel/Center-East,39,10,20,8,1,2.0,European Census Only
+1896,HSU_SOUASSI,Les Souassi,السواسي,Sahel/Center-East,80,16,53,9,2,3.3125,European Census Only
+1901,HSU_SOUASSI,Les Souassi,السواسي,Sahel/Center-East,105,23,69,10,3,3.0,European Census Only
+1906,HSU_SOUASSI,Les Souassi,السواسي,Sahel/Center-East,144,39,92,10,3,2.359,European Census Only
+1911,HSU_SOUASSI,Les Souassi,السواسي,Sahel/Center-East,165,52,99,11,3,1.9038,European Census Only
+1921,HSU_SOUASSI,Les Souassi,السواسي,Sahel/Center-East,166,83,75,6,2,0.9036,General Census (Simultaneous)
+1926,HSU_SOUASSI,Les Souassi,السواسي,Sahel/Center-East,190,95,86,7,2,0.9053,General Census (Simultaneous)
+1931,HSU_SOUASSI,Les Souassi,السواسي,Sahel/Center-East,237,118,107,8,4,0.9068,General Census (Simultaneous)
+1936,HSU_SOUASSI,Les Souassi,السواسي,Sahel/Center-East,279,140,126,10,3,0.9,General Census (Simultaneous)
+1946,HSU_SOUASSI,Les Souassi,السواسي,Sahel/Center-East,296,148,133,10,5,0.8986,General Census (Simultaneous)
+1956,HSU_SOUASSI,Les Souassi,السواسي,Sahel/Center-East,310,155,140,11,4,0.9032,General Census (Simultaneous)
+1891,HSU_SOUK_EL_ARBA,Jendouba (Souk el-Arba),جندوبة (سوق الأربعاء),North-West,545,170,235,118,22,1.3824,European Census Only
+1896,HSU_SOUK_EL_ARBA,Jendouba (Souk el-Arba),جندوبة (سوق الأربعاء),North-West,1037,276,611,120,30,2.2138,European Census Only
+1901,HSU_SOUK_EL_ARBA,Jendouba (Souk el-Arba),جندوبة (سوق الأربعاء),North-West,1391,412,796,142,41,1.932,European Census Only
+1906,HSU_SOUK_EL_ARBA,Jendouba (Souk el-Arba),جندوبة (سوق الأربعاء),North-West,1943,693,1061,143,46,1.531,European Census Only
+1911,HSU_SOUK_EL_ARBA,Jendouba (Souk el-Arba),جندوبة (سوق الأربعاء),North-West,2281,922,1151,157,51,1.2484,European Census Only
+1921,HSU_SOUK_EL_ARBA,Jendouba (Souk el-Arba),جندوبة (سوق الأربعاء),North-West,2461,1472,868,85,36,0.5897,General Census (Simultaneous)
+1926,HSU_SOUK_EL_ARBA,Jendouba (Souk el-Arba),جندوبة (سوق الأربعاء),North-West,2817,1686,992,97,42,0.5884,General Census (Simultaneous)
+1931,HSU_SOUK_EL_ARBA,Jendouba (Souk el-Arba),جندوبة (سوق الأربعاء),North-West,3525,2110,1242,121,52,0.5886,General Census (Simultaneous)
+1936,HSU_SOUK_EL_ARBA,Jendouba (Souk el-Arba),جندوبة (سوق الأربعاء),North-West,4151,2484,1462,143,62,0.5886,General Census (Simultaneous)
+1946,HSU_SOUK_EL_ARBA,Jendouba (Souk el-Arba),جندوبة (سوق الأربعاء),North-West,4974,2966,1768,167,73,0.5961,General Census (Simultaneous)
+1956,HSU_SOUK_EL_ARBA,Jendouba (Souk el-Arba),جندوبة (سوق الأربعاء),North-West,5778,3436,2068,191,83,0.6019,General Census (Simultaneous)
+1891,HSU_SOUK_EL_KHEMIS,Boussalem (Souk el-Khemis),بوسالم (سوق الخميس),North-West,190,67,72,43,8,1.0746,European Census Only
+1896,HSU_SOUK_EL_KHEMIS,Boussalem (Souk el-Khemis),بوسالم (سوق الخميس),North-West,350,108,187,44,11,1.7315,European Census Only
+1901,HSU_SOUK_EL_KHEMIS,Boussalem (Souk el-Khemis),بوسالم (سوق الخميس),North-West,473,162,244,52,15,1.5062,European Census Only
+1906,HSU_SOUK_EL_KHEMIS,Boussalem (Souk el-Khemis),بوسالم (سوق الخميس),North-West,665,272,325,52,16,1.1949,European Census Only
+1911,HSU_SOUK_EL_KHEMIS,Boussalem (Souk el-Khemis),بوسالم (سوق الخميس),North-West,790,362,353,57,18,0.9751,European Census Only
+1921,HSU_SOUK_EL_KHEMIS,Boussalem (Souk el-Khemis),بوسالم (سوق الخميس),North-West,888,577,266,31,14,0.461,General Census (Simultaneous)
+1926,HSU_SOUK_EL_KHEMIS,Boussalem (Souk el-Khemis),بوسالم (سوق الخميس),North-West,1016,660,305,36,15,0.4621,General Census (Simultaneous)
+1931,HSU_SOUK_EL_KHEMIS,Boussalem (Souk el-Khemis),بوسالم (سوق الخميس),North-West,1271,826,381,44,20,0.4613,General Census (Simultaneous)
+1936,HSU_SOUK_EL_KHEMIS,Boussalem (Souk el-Khemis),بوسالم (سوق الخميس),North-West,1497,973,449,52,23,0.4615,General Census (Simultaneous)
+1946,HSU_SOUK_EL_KHEMIS,Boussalem (Souk el-Khemis),بوسالم (سوق الخميس),North-West,1587,1032,476,56,23,0.4612,General Census (Simultaneous)
+1956,HSU_SOUK_EL_KHEMIS,Boussalem (Souk el-Khemis),بوسالم (سوق الخميس),North-West,1662,1080,499,58,25,0.462,General Census (Simultaneous)
+1891,HSU_SOUSSE,Sousse & Sahel Nord,سوسة وشمال الساحل,Sahel/Center-East,3299,659,1712,843,85,2.5979,European Census Only
+1896,HSU_SOUSSE,Sousse & Sahel Nord,سوسة وشمال الساحل,Sahel/Center-East,6509,1072,4460,861,116,4.1604,European Census Only
+1901,HSU_SOUSSE,Sousse & Sahel Nord,سوسة وشمال الساحل,Sahel/Center-East,8580,1600,5806,1013,161,3.6288,European Census Only
+1906,HSU_SOUSSE,Sousse & Sahel Nord,سوسة وشمال الساحل,Sahel/Center-East,8648,1990,5723,758,177,2.8759,European Census Only
+1911,HSU_SOUSSE,Sousse & Sahel Nord,سوسة وشمال الساحل,Sahel/Center-East,9884,2648,6211,829,196,2.3455,European Census Only
+1921,HSU_SOUSSE,Sousse & Sahel Nord,سوسة وشمال الساحل,Sahel/Center-East,9550,4225,4682,449,194,1.1082,General Census (Simultaneous)
+1926,HSU_SOUSSE,Sousse & Sahel Nord,سوسة وشمال الساحل,Sahel/Center-East,10931,4835,5360,515,221,1.1086,General Census (Simultaneous)
+1931,HSU_SOUSSE,Sousse & Sahel Nord,سوسة وشمال الساحل,Sahel/Center-East,13675,6049,6705,644,277,1.1084,General Census (Simultaneous)
+1936,HSU_SOUSSE,Sousse & Sahel Nord,سوسة وشمال الساحل,Sahel/Center-East,16103,7124,7895,758,326,1.1082,General Census (Simultaneous)
+1946,HSU_SOUSSE,Sousse & Sahel Nord,سوسة وشمال الساحل,Sahel/Center-East,20512,9090,10036,970,416,1.1041,General Census (Simultaneous)
+1956,HSU_SOUSSE,Sousse & Sahel Nord,سوسة وشمال الساحل,Sahel/Center-East,24893,11043,12164,1180,506,1.1015,General Census (Simultaneous)
+1891,HSU_TABARKA,Tabarka,طبرقة,North-West,329,85,156,76,12,1.8353,European Census Only
+1896,HSU_TABARKA,Tabarka,طبرقة,North-West,640,139,406,78,17,2.9209,European Census Only
+1901,HSU_TABARKA,Tabarka,طبرقة,North-West,851,207,529,92,23,2.5556,European Census Only
+1906,HSU_TABARKA,Tabarka,طبرقة,North-West,1173,349,705,93,26,2.0201,European Census Only
+1911,HSU_TABARKA,Tabarka,طبرقة,North-West,1360,464,765,102,29,1.6487,European Census Only
+1921,HSU_TABARKA,Tabarka,طبرقة,North-West,1396,740,577,55,24,0.7797,General Census (Simultaneous)
+1926,HSU_TABARKA,Tabarka,طبرقة,North-West,1598,848,660,63,27,0.7783,General Census (Simultaneous)
+1931,HSU_TABARKA,Tabarka,طبرقة,North-West,2000,1062,826,79,33,0.7778,General Census (Simultaneous)
+1936,HSU_TABARKA,Tabarka,طبرقة,North-West,2354,1249,972,93,40,0.7782,General Census (Simultaneous)
+1946,HSU_TABARKA,Tabarka,طبرقة,North-West,2885,1526,1194,115,50,0.7824,General Census (Simultaneous)
+1956,HSU_TABARKA,Tabarka,طبرقة,North-West,3408,1800,1412,137,59,0.7844,General Census (Simultaneous)
+1891,HSU_TATAOUINE,Tataouine,تطاوين,South,41,14,15,10,2,1.0714,European Census Only
+1896,HSU_TATAOUINE,Tataouine,تطاوين,South,75,23,40,10,2,1.7391,European Census Only
+1901,HSU_TATAOUINE,Tataouine,تطاوين,South,101,34,52,12,3,1.5294,European Census Only
+1906,HSU_TATAOUINE,Tataouine,تطاوين,South,143,58,70,12,3,1.2069,European Census Only
+1911,HSU_TATAOUINE,Tataouine,تطاوين,South,170,77,76,13,4,0.987,European Census Only
+1921,HSU_TATAOUINE,Tataouine,تطاوين,South,189,123,57,7,2,0.4634,General Census (Simultaneous)
+1926,HSU_TATAOUINE,Tataouine,تطاوين,South,217,141,65,8,3,0.461,General Census (Simultaneous)
+1931,HSU_TATAOUINE,Tataouine,تطاوين,South,271,176,81,9,5,0.4602,General Census (Simultaneous)
+1936,HSU_TATAOUINE,Tataouine,تطاوين,South,319,207,96,11,5,0.4638,General Census (Simultaneous)
+1946,HSU_TATAOUINE,Tataouine,تطاوين,South,338,220,101,12,5,0.4591,General Census (Simultaneous)
+1956,HSU_TATAOUINE,Tataouine,تطاوين,South,355,231,106,12,6,0.4589,General Census (Simultaneous)
+1891,HSU_TEBOURBA,Tébourba - Basse Medjerda,طبربة ومجاز المجردة السفلى,North-East,565,120,312,112,21,2.6,European Census Only
+1896,HSU_TEBOURBA,Tébourba - Basse Medjerda,طبربة ومجاز المجردة السفلى,North-East,1151,195,813,115,28,4.1692,European Census Only
+1901,HSU_TEBOURBA,Tébourba - Basse Medjerda,طبربة ومجاز المجردة السفلى,North-East,1523,291,1058,135,39,3.6357,European Census Only
+1906,HSU_TEBOURBA,Tébourba - Basse Medjerda,طبربة ومجاز المجردة السفلى,North-East,2079,489,1410,137,43,2.8834,European Census Only
+1911,HSU_TEBOURBA,Tébourba - Basse Medjerda,طبربة ومجاز المجردة السفلى,North-East,2378,650,1531,150,47,2.3554,European Census Only
+1921,HSU_TEBOURBA,Tébourba - Basse Medjerda,طبربة ومجاز المجردة السفلى,North-East,2307,1038,1154,81,34,1.1118,General Census (Simultaneous)
+1926,HSU_TEBOURBA,Tébourba - Basse Medjerda,طبربة ومجاز المجردة السفلى,North-East,2641,1188,1320,93,40,1.1111,General Census (Simultaneous)
+1931,HSU_TEBOURBA,Tébourba - Basse Medjerda,طبربة ومجاز المجردة السفلى,North-East,3305,1487,1653,115,50,1.1116,General Census (Simultaneous)
+1936,HSU_TEBOURBA,Tébourba - Basse Medjerda,طبربة ومجاز المجردة السفلى,North-East,3891,1751,1945,136,59,1.1108,General Census (Simultaneous)
+1946,HSU_TEBOURBA,Tébourba - Basse Medjerda,طبربة ومجاز المجردة السفلى,North-East,4509,2029,2255,158,67,1.1114,General Census (Simultaneous)
+1956,HSU_TEBOURBA,Tébourba - Basse Medjerda,طبربة ومجاز المجردة السفلى,North-East,5103,2297,2552,179,75,1.111,General Census (Simultaneous)
+1891,HSU_TEBOURSOUK,Téboursouk & Dougga,تبرسق ودقة,North-West,236,61,116,50,9,1.9016,European Census Only
+1896,HSU_TEBOURSOUK,Téboursouk & Dougga,تبرسق ودقة,North-West,463,99,301,51,12,3.0404,European Census Only
+1901,HSU_TEBOURSOUK,Téboursouk & Dougga,تبرسق ودقة,North-West,616,147,392,60,17,2.6667,European Census Only
+1906,HSU_TEBOURSOUK,Téboursouk & Dougga,تبرسق ودقة,North-West,851,248,523,61,19,2.1089,European Census Only
+1911,HSU_TEBOURSOUK,Téboursouk & Dougga,تبرسق ودقة,North-West,985,330,568,66,21,1.7212,European Census Only
+1921,HSU_TEBOURSOUK,Téboursouk & Dougga,تبرسق ودقة,North-West,1005,526,428,36,15,0.8137,General Census (Simultaneous)
+1926,HSU_TEBOURSOUK,Téboursouk & Dougga,تبرسق ودقة,North-West,1151,602,491,40,18,0.8156,General Census (Simultaneous)
+1931,HSU_TEBOURSOUK,Téboursouk & Dougga,تبرسق ودقة,North-West,1441,755,614,51,21,0.8132,General Census (Simultaneous)
+1936,HSU_TEBOURSOUK,Téboursouk & Dougga,تبرسق ودقة,North-West,1696,888,723,59,26,0.8142,General Census (Simultaneous)
+1946,HSU_TEBOURSOUK,Téboursouk & Dougga,تبرسق ودقة,North-West,2028,1056,870,71,31,0.8239,General Census (Simultaneous)
+1956,HSU_TEBOURSOUK,Téboursouk & Dougga,تبرسق ودقة,North-West,2353,1221,1014,82,36,0.8305,General Census (Simultaneous)
+1891,HSU_THALA,Thala,تالة,Center-West,184,57,83,36,8,1.4561,European Census Only
+1896,HSU_THALA,Thala,تالة,Center-West,358,93,218,37,10,2.3441,European Census Only
+1901,HSU_THALA,Thala,تالة,Center-West,479,139,283,43,14,2.036,European Census Only
+1906,HSU_THALA,Thala,تالة,Center-West,671,233,378,44,16,1.6223,European Census Only
+1911,HSU_THALA,Thala,تالة,Center-West,785,310,410,48,17,1.3226,European Census Only
+1921,HSU_THALA,Thala,تالة,Center-West,842,495,309,26,12,0.6242,General Census (Simultaneous)
+1926,HSU_THALA,Thala,تالة,Center-West,965,568,354,30,13,0.6232,General Census (Simultaneous)
+1931,HSU_THALA,Thala,تالة,Center-West,1207,710,443,38,16,0.6239,General Census (Simultaneous)
+1936,HSU_THALA,Thala,تالة,Center-West,1421,837,521,44,19,0.6225,General Census (Simultaneous)
+1946,HSU_THALA,Thala,تالة,Center-West,1711,1006,630,52,23,0.6262,General Census (Simultaneous)
+1956,HSU_THALA,Thala,تالة,Center-West,1995,1171,738,61,25,0.6302,General Census (Simultaneous)
+1891,HSU_TOZEUR,Tozeur (Djérid),توزر (الجريد),South,210,58,100,44,8,1.7241,European Census Only
+1896,HSU_TOZEUR,Tozeur (Djérid),توزر (الجريد),South,411,95,260,45,11,2.7368,European Census Only
+1901,HSU_TOZEUR,Tozeur (Djérid),توزر (الجريد),South,549,142,338,53,16,2.3803,European Census Only
+1906,HSU_TOZEUR,Tozeur (Djérid),توزر (الجريد),South,761,239,451,54,17,1.887,European Census Only
+1911,HSU_TOZEUR,Tozeur (Djérid),توزر (الجريد),South,885,318,489,59,19,1.5377,European Census Only
+1921,HSU_TOZEUR,Tozeur (Djérid),توزر (الجريد),South,923,507,369,32,15,0.7278,General Census (Simultaneous)
+1926,HSU_TOZEUR,Tozeur (Djérid),توزر (الجريد),South,1057,581,423,37,16,0.7281,General Census (Simultaneous)
+1931,HSU_TOZEUR,Tozeur (Djérid),توزر (الجريد),South,1322,727,529,47,19,0.7276,General Census (Simultaneous)
+1936,HSU_TOZEUR,Tozeur (Djérid),توزر (الجريد),South,1556,855,623,55,23,0.7287,General Census (Simultaneous)
+1946,HSU_TOZEUR,Tozeur (Djérid),توزر (الجريد),South,1958,1077,782,68,31,0.7261,General Census (Simultaneous)
+1956,HSU_TOZEUR,Tozeur (Djérid),توزر (الجريد),South,2355,1295,943,83,34,0.7282,General Census (Simultaneous)
+1891,HSU_TUNIS,Tunis & Banlieue,تونس وضواحيها,North-East,20823,4585,10285,5403,550,2.2432,European Census Only
+1896,HSU_TUNIS,Tunis & Banlieue,تونس وضواحيها,North-East,40514,7451,26800,5517,746,3.5968,European Census Only
+1901,HSU_TUNIS,Tunis & Banlieue,تونس وضواحيها,North-East,53541,11125,34888,6491,1037,3.136,European Census Only
+1906,HSU_TUNIS,Tunis & Banlieue,تونس وضواحيها,North-East,54221,13835,34387,4859,1140,2.4855,European Census Only
+1911,HSU_TUNIS,Tunis & Banlieue,تونس وضواحيها,North-East,62307,18406,37321,5315,1265,2.0277,European Census Only
+1921,HSU_TUNIS,Tunis & Banlieue,تونس وضواحيها,North-East,61616,29372,28134,2878,1232,0.9579,General Census (Simultaneous)
+1926,HSU_TUNIS,Tunis & Banlieue,تونس وضواحيها,North-East,70526,33619,32201,3292,1414,0.9578,General Census (Simultaneous)
+1931,HSU_TUNIS,Tunis & Banlieue,تونس وضواحيها,North-East,88240,42063,40291,4120,1766,0.9579,General Census (Simultaneous)
+1936,HSU_TUNIS,Tunis & Banlieue,تونس وضواحيها,North-East,103896,49526,47440,4851,2079,0.9579,General Census (Simultaneous)
+1946,HSU_TUNIS,Tunis & Banlieue,تونس وضواحيها,North-East,134848,64235,61585,6319,2709,0.9587,General Census (Simultaneous)
+1956,HSU_TUNIS,Tunis & Banlieue,تونس وضواحيها,North-East,165696,78892,75685,7784,3335,0.9593,General Census (Simultaneous)
+1891,HSU_ZAGHOUAN,Zaghouan,زغوان,North-East,410,109,193,92,16,1.7706,European Census Only
+1896,HSU_ZAGHOUAN,Zaghouan,زغوان,North-East,795,177,503,94,21,2.8418,European Census Only
+1901,HSU_ZAGHOUAN,Zaghouan,زغوان,North-East,1057,264,654,110,29,2.4773,European Census Only
+1906,HSU_ZAGHOUAN,Zaghouan,زغوان,North-East,1460,444,873,111,32,1.9662,European Census Only
+1911,HSU_ZAGHOUAN,Zaghouan,زغوان,North-East,1695,590,947,122,36,1.6051,European Census Only
+1921,HSU_ZAGHOUAN,Zaghouan,زغوان,North-East,1751,942,714,66,29,0.758,General Census (Simultaneous)
+1926,HSU_ZAGHOUAN,Zaghouan,زغوان,North-East,2005,1079,818,76,32,0.7581,General Census (Simultaneous)
+1931,HSU_ZAGHOUAN,Zaghouan,زغوان,North-East,2508,1349,1023,95,41,0.7583,General Census (Simultaneous)
+1936,HSU_ZAGHOUAN,Zaghouan,زغوان,North-East,2953,1588,1205,111,49,0.7588,General Census (Simultaneous)
+1946,HSU_ZAGHOUAN,Zaghouan,زغوان,North-East,3438,1844,1407,131,56,0.763,General Census (Simultaneous)
+1956,HSU_ZAGHOUAN,Zaghouan,زغوان,North-East,3906,2089,1602,150,65,0.7669,General Census (Simultaneous)

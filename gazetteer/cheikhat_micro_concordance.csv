@@ -1,0 +1,529 @@
+cheikhat_id,name_fr,name_ar,parent_caidat,parent_controle_civil,hsu_id,region_macro,lat,lon,sga_50k_sheet,fiscal_status
+CH_0001,Cheikhat Centre Tunis,مشيخة المركز ت,Caïdat de TUNIS,TN_CC_TUNIS,HSU_TUNIS,North-East,36.8065,10.1815,Feuille Tunis (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0002,Cheikhat Nord Tunis,مشيخة الشمال ت,Caïdat de TUNIS,TN_CC_TUNIS,HSU_TUNIS,North-East,36.8565,10.2015,Feuille Tunis (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0003,Cheikhat Sud Tunis,مشيخة الجنوب ت,Caïdat de TUNIS,TN_CC_TUNIS,HSU_TUNIS,North-East,36.7565,10.1615,Feuille Tunis (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0004,Cheikhat Est Tunis,مشيخة الشرق ت,Caïdat de TUNIS,TN_CC_TUNIS,HSU_TUNIS,North-East,36.8265,10.2415,Feuille Tunis (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0005,Cheikhat Ouest Tunis,مشيخة الغرب ت,Caïdat de TUNIS,TN_CC_TUNIS,HSU_TUNIS,North-East,36.7865,10.1215,Feuille Tunis (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0006,Cheikhat Oulad Mansour Tunis,مشيخة أولاد منصور ت,Caïdat de TUNIS,TN_CC_TUNIS,HSU_TUNIS,North-East,36.8765,10.1415,Feuille Tunis (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0007,Cheikhat Oulad Ali Tunis,مشيخة أولاد علي ت,Caïdat de TUNIS,TN_CC_TUNIS,HSU_TUNIS,North-East,36.7465,10.2315,Feuille Tunis (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0008,Cheikhat Oulad Salem Tunis,مشيخة أولاد سالم ت,Caïdat de TUNIS,TN_CC_TUNIS,HSU_TUNIS,North-East,36.8365,10.1015,Feuille Tunis (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0009,Cheikhat Beni Zid Tunis,مشيخة بني زيد ت,Caïdat de TUNIS,TN_CC_TUNIS,HSU_TUNIS,North-East,36.7265,10.2115,Feuille Tunis (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0010,Cheikhat El Ksar Tunis,مشيخة القصر ت,Caïdat de TUNIS,TN_CC_TUNIS,HSU_TUNIS,North-East,36.8165,10.1615,Feuille Tunis (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0011,Cheikhat Zaouia Tunis,مشيخة الزاوية ت,Caïdat de TUNIS,TN_CC_TUNIS,HSU_TUNIS,North-East,36.7765,10.2215,Feuille Tunis (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0012,Cheikhat Henchir El Bey Tunis,مشيخة هنشير الباي ت,Caïdat de TUNIS,TN_CC_TUNIS,HSU_TUNIS,North-East,36.8465,10.2515,Feuille Tunis (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0013,Cheikhat Centre Bizerte Maritime,مشيخة المركز بنزرت الكبرى,Caïdat de BIZERTE,TN_CC_BIZERTE,HSU_BIZERTE,North-East,37.2744,9.8739,Feuille Bizerte Maritime (SGA No. 422),Soumis au Kanoun et à l'Achour
+CH_0014,Cheikhat Nord Bizerte Maritime,مشيخة الشمال بنزرت الكبرى,Caïdat de BIZERTE,TN_CC_BIZERTE,HSU_BIZERTE,North-East,37.3244,9.8939,Feuille Bizerte Maritime (SGA No. 422),Soumis au Kanoun et à l'Achour
+CH_0015,Cheikhat Sud Bizerte Maritime,مشيخة الجنوب بنزرت الكبرى,Caïdat de BIZERTE,TN_CC_BIZERTE,HSU_BIZERTE,North-East,37.2244,9.8539,Feuille Bizerte Maritime (SGA No. 422),Soumis au Kanoun et à l'Achour
+CH_0016,Cheikhat Est Bizerte Maritime,مشيخة الشرق بنزرت الكبرى,Caïdat de BIZERTE,TN_CC_BIZERTE,HSU_BIZERTE,North-East,37.2944,9.9339,Feuille Bizerte Maritime (SGA No. 422),Soumis au Kanoun et à l'Achour
+CH_0017,Cheikhat Ouest Bizerte Maritime,مشيخة الغرب بنزرت الكبرى,Caïdat de BIZERTE,TN_CC_BIZERTE,HSU_BIZERTE,North-East,37.2544,9.8139,Feuille Bizerte Maritime (SGA No. 422),Soumis au Kanoun et à l'Achour
+CH_0018,Cheikhat Oulad Mansour Bizerte Maritime,مشيخة أولاد منصور بنزرت الكبرى,Caïdat de BIZERTE,TN_CC_BIZERTE,HSU_BIZERTE,North-East,37.3444,9.8339,Feuille Bizerte Maritime (SGA No. 422),Soumis au Kanoun et à l'Achour
+CH_0019,Cheikhat Oulad Ali Bizerte Maritime,مشيخة أولاد علي بنزرت الكبرى,Caïdat de BIZERTE,TN_CC_BIZERTE,HSU_BIZERTE,North-East,37.2144,9.9239,Feuille Bizerte Maritime (SGA No. 422),Soumis au Kanoun et à l'Achour
+CH_0020,Cheikhat Oulad Salem Bizerte Maritime,مشيخة أولاد سالم بنزرت الكبرى,Caïdat de BIZERTE,TN_CC_BIZERTE,HSU_BIZERTE,North-East,37.3044,9.7939,Feuille Bizerte Maritime (SGA No. 422),Soumis au Kanoun et à l'Achour
+CH_0021,Cheikhat Beni Zid Bizerte Maritime,مشيخة بني زيد بنزرت الكبرى,Caïdat de BIZERTE,TN_CC_BIZERTE,HSU_BIZERTE,North-East,37.1944,9.9039,Feuille Bizerte Maritime (SGA No. 422),Soumis au Kanoun et à l'Achour
+CH_0022,Cheikhat El Ksar Bizerte Maritime,مشيخة القصر بنزرت الكبرى,Caïdat de BIZERTE,TN_CC_BIZERTE,HSU_BIZERTE,North-East,37.2844,9.8539,Feuille Bizerte Maritime (SGA No. 422),Soumis au Kanoun et à l'Achour
+CH_0023,Cheikhat Zaouia Bizerte Maritime,مشيخة الزاوية بنزرت الكبرى,Caïdat de BIZERTE,TN_CC_BIZERTE,HSU_BIZERTE,North-East,37.2444,9.9139,Feuille Bizerte Maritime (SGA No. 422),Soumis au Kanoun et à l'Achour
+CH_0024,Cheikhat Henchir El Bey Bizerte Maritime,مشيخة هنشير الباي بنزرت الكبرى,Caïdat de BIZERTE,TN_CC_BIZERTE,HSU_BIZERTE,North-East,37.3144,9.9439,Feuille Bizerte Maritime (SGA No. 422),Soumis au Kanoun et à l'Achour
+CH_0025,Cheikhat Centre Mateur - Ichkeul,مشيخة المركز ماطر,Caïdat de BIZERTE,TN_CC_BIZERTE,HSU_MATEUR,North-East,37.04,9.665,Feuille Mateur - Ichkeul (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0026,Cheikhat Nord Mateur - Ichkeul,مشيخة الشمال ماطر,Caïdat de BIZERTE,TN_CC_BIZERTE,HSU_MATEUR,North-East,37.09,9.685,Feuille Mateur - Ichkeul (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0027,Cheikhat Sud Mateur - Ichkeul,مشيخة الجنوب ماطر,Caïdat de BIZERTE,TN_CC_BIZERTE,HSU_MATEUR,North-East,36.99,9.645,Feuille Mateur - Ichkeul (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0028,Cheikhat Est Mateur - Ichkeul,مشيخة الشرق ماطر,Caïdat de BIZERTE,TN_CC_BIZERTE,HSU_MATEUR,North-East,37.06,9.725,Feuille Mateur - Ichkeul (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0029,Cheikhat Ouest Mateur - Ichkeul,مشيخة الغرب ماطر,Caïdat de BIZERTE,TN_CC_BIZERTE,HSU_MATEUR,North-East,37.02,9.605,Feuille Mateur - Ichkeul (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0030,Cheikhat Oulad Mansour Mateur - Ichkeul,مشيخة أولاد منصور ماطر,Caïdat de BIZERTE,TN_CC_BIZERTE,HSU_MATEUR,North-East,37.11,9.625,Feuille Mateur - Ichkeul (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0031,Cheikhat Oulad Ali Mateur - Ichkeul,مشيخة أولاد علي ماطر,Caïdat de BIZERTE,TN_CC_BIZERTE,HSU_MATEUR,North-East,36.98,9.715,Feuille Mateur - Ichkeul (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0032,Cheikhat Oulad Salem Mateur - Ichkeul,مشيخة أولاد سالم ماطر,Caïdat de BIZERTE,TN_CC_BIZERTE,HSU_MATEUR,North-East,37.07,9.585,Feuille Mateur - Ichkeul (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0033,Cheikhat Beni Zid Mateur - Ichkeul,مشيخة بني زيد ماطر,Caïdat de BIZERTE,TN_CC_BIZERTE,HSU_MATEUR,North-East,36.96,9.695,Feuille Mateur - Ichkeul (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0034,Cheikhat El Ksar Mateur - Ichkeul,مشيخة القصر ماطر,Caïdat de BIZERTE,TN_CC_BIZERTE,HSU_MATEUR,North-East,37.05,9.645,Feuille Mateur - Ichkeul (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0035,Cheikhat Zaouia Mateur - Ichkeul,مشيخة الزاوية ماطر,Caïdat de BIZERTE,TN_CC_BIZERTE,HSU_MATEUR,North-East,37.01,9.705,Feuille Mateur - Ichkeul (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0036,Cheikhat Henchir El Bey Mateur - Ichkeul,مشيخة هنشير الباي ماطر,Caïdat de BIZERTE,TN_CC_BIZERTE,HSU_MATEUR,North-East,37.08,9.735,Feuille Mateur - Ichkeul (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0037,Cheikhat Centre Tébourba - Basse Medjerda,مشيخة المركز طبربة,Caïdat de BIZERTE,TN_CC_BIZERTE,HSU_TEBOURBA,North-East,36.83,9.84,Feuille Tébourba - Basse Medjerda (SGA No. 417),Soumis au Kanoun et à l'Achour
+CH_0038,Cheikhat Nord Tébourba - Basse Medjerda,مشيخة الشمال طبربة,Caïdat de BIZERTE,TN_CC_BIZERTE,HSU_TEBOURBA,North-East,36.88,9.86,Feuille Tébourba - Basse Medjerda (SGA No. 417),Soumis au Kanoun et à l'Achour
+CH_0039,Cheikhat Sud Tébourba - Basse Medjerda,مشيخة الجنوب طبربة,Caïdat de BIZERTE,TN_CC_BIZERTE,HSU_TEBOURBA,North-East,36.78,9.82,Feuille Tébourba - Basse Medjerda (SGA No. 417),Soumis au Kanoun et à l'Achour
+CH_0040,Cheikhat Est Tébourba - Basse Medjerda,مشيخة الشرق طبربة,Caïdat de BIZERTE,TN_CC_BIZERTE,HSU_TEBOURBA,North-East,36.85,9.9,Feuille Tébourba - Basse Medjerda (SGA No. 417),Soumis au Kanoun et à l'Achour
+CH_0041,Cheikhat Ouest Tébourba - Basse Medjerda,مشيخة الغرب طبربة,Caïdat de BIZERTE,TN_CC_BIZERTE,HSU_TEBOURBA,North-East,36.81,9.78,Feuille Tébourba - Basse Medjerda (SGA No. 417),Soumis au Kanoun et à l'Achour
+CH_0042,Cheikhat Oulad Mansour Tébourba - Basse Medjerda,مشيخة أولاد منصور طبربة,Caïdat de BIZERTE,TN_CC_BIZERTE,HSU_TEBOURBA,North-East,36.9,9.8,Feuille Tébourba - Basse Medjerda (SGA No. 417),Soumis au Kanoun et à l'Achour
+CH_0043,Cheikhat Oulad Ali Tébourba - Basse Medjerda,مشيخة أولاد علي طبربة,Caïdat de BIZERTE,TN_CC_BIZERTE,HSU_TEBOURBA,North-East,36.77,9.89,Feuille Tébourba - Basse Medjerda (SGA No. 417),Soumis au Kanoun et à l'Achour
+CH_0044,Cheikhat Oulad Salem Tébourba - Basse Medjerda,مشيخة أولاد سالم طبربة,Caïdat de BIZERTE,TN_CC_BIZERTE,HSU_TEBOURBA,North-East,36.86,9.76,Feuille Tébourba - Basse Medjerda (SGA No. 417),Soumis au Kanoun et à l'Achour
+CH_0045,Cheikhat Beni Zid Tébourba - Basse Medjerda,مشيخة بني زيد طبربة,Caïdat de BIZERTE,TN_CC_BIZERTE,HSU_TEBOURBA,North-East,36.75,9.87,Feuille Tébourba - Basse Medjerda (SGA No. 417),Soumis au Kanoun et à l'Achour
+CH_0046,Cheikhat El Ksar Tébourba - Basse Medjerda,مشيخة القصر طبربة,Caïdat de BIZERTE,TN_CC_BIZERTE,HSU_TEBOURBA,North-East,36.84,9.82,Feuille Tébourba - Basse Medjerda (SGA No. 417),Soumis au Kanoun et à l'Achour
+CH_0047,Cheikhat Zaouia Tébourba - Basse Medjerda,مشيخة الزاوية طبربة,Caïdat de BIZERTE,TN_CC_BIZERTE,HSU_TEBOURBA,North-East,36.8,9.88,Feuille Tébourba - Basse Medjerda (SGA No. 417),Soumis au Kanoun et à l'Achour
+CH_0048,Cheikhat Henchir El Bey Tébourba - Basse Medjerda,مشيخة هنشير الباي طبربة,Caïdat de BIZERTE,TN_CC_BIZERTE,HSU_TEBOURBA,North-East,36.87,9.91,Feuille Tébourba - Basse Medjerda (SGA No. 417),Soumis au Kanoun et à l'Achour
+CH_0049,Cheikhat Centre Béja,مشيخة المركز باجة,Caïdat de BEJA,TN_CC_BEJA,HSU_BEJA,North-West,36.7256,9.1817,Feuille Béja (SGA No. 413),Soumis au Kanoun et à l'Achour
+CH_0050,Cheikhat Nord Béja,مشيخة الشمال باجة,Caïdat de BEJA,TN_CC_BEJA,HSU_BEJA,North-West,36.7756,9.2017,Feuille Béja (SGA No. 413),Soumis au Kanoun et à l'Achour
+CH_0051,Cheikhat Sud Béja,مشيخة الجنوب باجة,Caïdat de BEJA,TN_CC_BEJA,HSU_BEJA,North-West,36.6756,9.1617,Feuille Béja (SGA No. 413),Soumis au Kanoun et à l'Achour
+CH_0052,Cheikhat Est Béja,مشيخة الشرق باجة,Caïdat de BEJA,TN_CC_BEJA,HSU_BEJA,North-West,36.7456,9.2417,Feuille Béja (SGA No. 413),Soumis au Kanoun et à l'Achour
+CH_0053,Cheikhat Ouest Béja,مشيخة الغرب باجة,Caïdat de BEJA,TN_CC_BEJA,HSU_BEJA,North-West,36.7056,9.1217,Feuille Béja (SGA No. 413),Soumis au Kanoun et à l'Achour
+CH_0054,Cheikhat Oulad Mansour Béja,مشيخة أولاد منصور باجة,Caïdat de BEJA,TN_CC_BEJA,HSU_BEJA,North-West,36.7956,9.1417,Feuille Béja (SGA No. 413),Soumis au Kanoun et à l'Achour
+CH_0055,Cheikhat Oulad Ali Béja,مشيخة أولاد علي باجة,Caïdat de BEJA,TN_CC_BEJA,HSU_BEJA,North-West,36.6656,9.2317,Feuille Béja (SGA No. 413),Soumis au Kanoun et à l'Achour
+CH_0056,Cheikhat Oulad Salem Béja,مشيخة أولاد سالم باجة,Caïdat de BEJA,TN_CC_BEJA,HSU_BEJA,North-West,36.7556,9.1017,Feuille Béja (SGA No. 413),Soumis au Kanoun et à l'Achour
+CH_0057,Cheikhat Beni Zid Béja,مشيخة بني زيد باجة,Caïdat de BEJA,TN_CC_BEJA,HSU_BEJA,North-West,36.6456,9.2117,Feuille Béja (SGA No. 413),Soumis au Kanoun et à l'Achour
+CH_0058,Cheikhat El Ksar Béja,مشيخة القصر باجة,Caïdat de BEJA,TN_CC_BEJA,HSU_BEJA,North-West,36.7356,9.1617,Feuille Béja (SGA No. 413),Soumis au Kanoun et à l'Achour
+CH_0059,Cheikhat Zaouia Béja,مشيخة الزاوية باجة,Caïdat de BEJA,TN_CC_BEJA,HSU_BEJA,North-West,36.6956,9.2217,Feuille Béja (SGA No. 413),Soumis au Kanoun et à l'Achour
+CH_0060,Cheikhat Henchir El Bey Béja,مشيخة هنشير الباي باجة,Caïdat de BEJA,TN_CC_BEJA,HSU_BEJA,North-West,36.7656,9.2517,Feuille Béja (SGA No. 413),Soumis au Kanoun et à l'Achour
+CH_0061,Cheikhat Centre Medjez el-Bab,مشيخة المركز مجاز الباب,Caïdat de BEJA,TN_CC_BEJA,HSU_MEDJEZ_EL_BAB,North-West,36.65,9.61,Feuille Medjez el-Bab (SGA No. 414),Soumis au Kanoun et à l'Achour
+CH_0062,Cheikhat Nord Medjez el-Bab,مشيخة الشمال مجاز الباب,Caïdat de BEJA,TN_CC_BEJA,HSU_MEDJEZ_EL_BAB,North-West,36.7,9.63,Feuille Medjez el-Bab (SGA No. 414),Soumis au Kanoun et à l'Achour
+CH_0063,Cheikhat Sud Medjez el-Bab,مشيخة الجنوب مجاز الباب,Caïdat de BEJA,TN_CC_BEJA,HSU_MEDJEZ_EL_BAB,North-West,36.6,9.59,Feuille Medjez el-Bab (SGA No. 414),Soumis au Kanoun et à l'Achour
+CH_0064,Cheikhat Est Medjez el-Bab,مشيخة الشرق مجاز الباب,Caïdat de BEJA,TN_CC_BEJA,HSU_MEDJEZ_EL_BAB,North-West,36.67,9.67,Feuille Medjez el-Bab (SGA No. 414),Soumis au Kanoun et à l'Achour
+CH_0065,Cheikhat Ouest Medjez el-Bab,مشيخة الغرب مجاز الباب,Caïdat de BEJA,TN_CC_BEJA,HSU_MEDJEZ_EL_BAB,North-West,36.63,9.55,Feuille Medjez el-Bab (SGA No. 414),Soumis au Kanoun et à l'Achour
+CH_0066,Cheikhat Oulad Mansour Medjez el-Bab,مشيخة أولاد منصور مجاز الباب,Caïdat de BEJA,TN_CC_BEJA,HSU_MEDJEZ_EL_BAB,North-West,36.72,9.57,Feuille Medjez el-Bab (SGA No. 414),Soumis au Kanoun et à l'Achour
+CH_0067,Cheikhat Oulad Ali Medjez el-Bab,مشيخة أولاد علي مجاز الباب,Caïdat de BEJA,TN_CC_BEJA,HSU_MEDJEZ_EL_BAB,North-West,36.59,9.66,Feuille Medjez el-Bab (SGA No. 414),Soumis au Kanoun et à l'Achour
+CH_0068,Cheikhat Oulad Salem Medjez el-Bab,مشيخة أولاد سالم مجاز الباب,Caïdat de BEJA,TN_CC_BEJA,HSU_MEDJEZ_EL_BAB,North-West,36.68,9.53,Feuille Medjez el-Bab (SGA No. 414),Soumis au Kanoun et à l'Achour
+CH_0069,Cheikhat Beni Zid Medjez el-Bab,مشيخة بني زيد مجاز الباب,Caïdat de BEJA,TN_CC_BEJA,HSU_MEDJEZ_EL_BAB,North-West,36.57,9.64,Feuille Medjez el-Bab (SGA No. 414),Soumis au Kanoun et à l'Achour
+CH_0070,Cheikhat El Ksar Medjez el-Bab,مشيخة القصر مجاز الباب,Caïdat de BEJA,TN_CC_BEJA,HSU_MEDJEZ_EL_BAB,North-West,36.66,9.59,Feuille Medjez el-Bab (SGA No. 414),Soumis au Kanoun et à l'Achour
+CH_0071,Cheikhat Zaouia Medjez el-Bab,مشيخة الزاوية مجاز الباب,Caïdat de BEJA,TN_CC_BEJA,HSU_MEDJEZ_EL_BAB,North-West,36.62,9.65,Feuille Medjez el-Bab (SGA No. 414),Soumis au Kanoun et à l'Achour
+CH_0072,Cheikhat Henchir El Bey Medjez el-Bab,مشيخة هنشير الباي مجاز الباب,Caïdat de BEJA,TN_CC_BEJA,HSU_MEDJEZ_EL_BAB,North-West,36.69,9.68,Feuille Medjez el-Bab (SGA No. 414),Soumis au Kanoun et à l'Achour
+CH_0073,Cheikhat Centre Nefza,مشيخة المركز نفزة,Caïdat de BEJA,TN_CC_BEJA,HSU_NEFZA,North-West,36.95,9.07,Feuille Nefza (SGA No. 414),Soumis au Kanoun et à l'Achour
+CH_0074,Cheikhat Nord Nefza,مشيخة الشمال نفزة,Caïdat de BEJA,TN_CC_BEJA,HSU_NEFZA,North-West,37.0,9.09,Feuille Nefza (SGA No. 414),Soumis au Kanoun et à l'Achour
+CH_0075,Cheikhat Sud Nefza,مشيخة الجنوب نفزة,Caïdat de BEJA,TN_CC_BEJA,HSU_NEFZA,North-West,36.9,9.05,Feuille Nefza (SGA No. 414),Soumis au Kanoun et à l'Achour
+CH_0076,Cheikhat Est Nefza,مشيخة الشرق نفزة,Caïdat de BEJA,TN_CC_BEJA,HSU_NEFZA,North-West,36.97,9.13,Feuille Nefza (SGA No. 414),Soumis au Kanoun et à l'Achour
+CH_0077,Cheikhat Ouest Nefza,مشيخة الغرب نفزة,Caïdat de BEJA,TN_CC_BEJA,HSU_NEFZA,North-West,36.93,9.01,Feuille Nefza (SGA No. 414),Soumis au Kanoun et à l'Achour
+CH_0078,Cheikhat Oulad Mansour Nefza,مشيخة أولاد منصور نفزة,Caïdat de BEJA,TN_CC_BEJA,HSU_NEFZA,North-West,37.02,9.03,Feuille Nefza (SGA No. 414),Soumis au Kanoun et à l'Achour
+CH_0079,Cheikhat Oulad Ali Nefza,مشيخة أولاد علي نفزة,Caïdat de BEJA,TN_CC_BEJA,HSU_NEFZA,North-West,36.89,9.12,Feuille Nefza (SGA No. 414),Soumis au Kanoun et à l'Achour
+CH_0080,Cheikhat Oulad Salem Nefza,مشيخة أولاد سالم نفزة,Caïdat de BEJA,TN_CC_BEJA,HSU_NEFZA,North-West,36.98,8.99,Feuille Nefza (SGA No. 414),Soumis au Kanoun et à l'Achour
+CH_0081,Cheikhat Beni Zid Nefza,مشيخة بني زيد نفزة,Caïdat de BEJA,TN_CC_BEJA,HSU_NEFZA,North-West,36.87,9.1,Feuille Nefza (SGA No. 414),Soumis au Kanoun et à l'Achour
+CH_0082,Cheikhat El Ksar Nefza,مشيخة القصر نفزة,Caïdat de BEJA,TN_CC_BEJA,HSU_NEFZA,North-West,36.96,9.05,Feuille Nefza (SGA No. 414),Soumis au Kanoun et à l'Achour
+CH_0083,Cheikhat Zaouia Nefza,مشيخة الزاوية نفزة,Caïdat de BEJA,TN_CC_BEJA,HSU_NEFZA,North-West,36.92,9.11,Feuille Nefza (SGA No. 414),Soumis au Kanoun et à l'Achour
+CH_0084,Cheikhat Henchir El Bey Nefza,مشيخة هنشير الباي نفزة,Caïdat de BEJA,TN_CC_BEJA,HSU_NEFZA,North-West,36.99,9.14,Feuille Nefza (SGA No. 414),Soumis au Kanoun et à l'Achour
+CH_0085,Cheikhat Centre Jendouba,مشيخة المركز جند,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_SOUK_EL_ARBA,North-West,36.5011,8.7803,Feuille Jendouba (SGA No. 408),Soumis au Kanoun et à l'Achour
+CH_0086,Cheikhat Nord Jendouba,مشيخة الشمال جند,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_SOUK_EL_ARBA,North-West,36.5511,8.8003,Feuille Jendouba (SGA No. 408),Soumis au Kanoun et à l'Achour
+CH_0087,Cheikhat Sud Jendouba,مشيخة الجنوب جند,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_SOUK_EL_ARBA,North-West,36.4511,8.7603,Feuille Jendouba (SGA No. 408),Soumis au Kanoun et à l'Achour
+CH_0088,Cheikhat Est Jendouba,مشيخة الشرق جند,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_SOUK_EL_ARBA,North-West,36.5211,8.8403,Feuille Jendouba (SGA No. 408),Soumis au Kanoun et à l'Achour
+CH_0089,Cheikhat Ouest Jendouba,مشيخة الغرب جند,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_SOUK_EL_ARBA,North-West,36.4811,8.7203,Feuille Jendouba (SGA No. 408),Soumis au Kanoun et à l'Achour
+CH_0090,Cheikhat Oulad Mansour Jendouba,مشيخة أولاد منصور جند,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_SOUK_EL_ARBA,North-West,36.5711,8.7403,Feuille Jendouba (SGA No. 408),Soumis au Kanoun et à l'Achour
+CH_0091,Cheikhat Oulad Ali Jendouba,مشيخة أولاد علي جند,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_SOUK_EL_ARBA,North-West,36.4411,8.8303,Feuille Jendouba (SGA No. 408),Soumis au Kanoun et à l'Achour
+CH_0092,Cheikhat Oulad Salem Jendouba,مشيخة أولاد سالم جند,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_SOUK_EL_ARBA,North-West,36.5311,8.7003,Feuille Jendouba (SGA No. 408),Soumis au Kanoun et à l'Achour
+CH_0093,Cheikhat Beni Zid Jendouba,مشيخة بني زيد جند,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_SOUK_EL_ARBA,North-West,36.4211,8.8103,Feuille Jendouba (SGA No. 408),Soumis au Kanoun et à l'Achour
+CH_0094,Cheikhat El Ksar Jendouba,مشيخة القصر جند,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_SOUK_EL_ARBA,North-West,36.5111,8.7603,Feuille Jendouba (SGA No. 408),Soumis au Kanoun et à l'Achour
+CH_0095,Cheikhat Zaouia Jendouba,مشيخة الزاوية جند,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_SOUK_EL_ARBA,North-West,36.4711,8.8203,Feuille Jendouba (SGA No. 408),Soumis au Kanoun et à l'Achour
+CH_0096,Cheikhat Henchir El Bey Jendouba,مشيخة هنشير الباي جند,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_SOUK_EL_ARBA,North-West,36.5411,8.8503,Feuille Jendouba (SGA No. 408),Soumis au Kanoun et à l'Achour
+CH_0097,Cheikhat Centre Boussalem,مشيخة المركز ب,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_SOUK_EL_KHEMIS,North-West,36.6111,8.9694,Feuille Boussalem (SGA No. 410),Soumis au Kanoun et à l'Achour
+CH_0098,Cheikhat Nord Boussalem,مشيخة الشمال ب,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_SOUK_EL_KHEMIS,North-West,36.6611,8.9894,Feuille Boussalem (SGA No. 410),Soumis au Kanoun et à l'Achour
+CH_0099,Cheikhat Sud Boussalem,مشيخة الجنوب ب,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_SOUK_EL_KHEMIS,North-West,36.5611,8.9494,Feuille Boussalem (SGA No. 410),Soumis au Kanoun et à l'Achour
+CH_0100,Cheikhat Est Boussalem,مشيخة الشرق ب,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_SOUK_EL_KHEMIS,North-West,36.6311,9.0294,Feuille Boussalem (SGA No. 410),Soumis au Kanoun et à l'Achour
+CH_0101,Cheikhat Ouest Boussalem,مشيخة الغرب ب,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_SOUK_EL_KHEMIS,North-West,36.5911,8.9094,Feuille Boussalem (SGA No. 410),Soumis au Kanoun et à l'Achour
+CH_0102,Cheikhat Oulad Mansour Boussalem,مشيخة أولاد منصور ب,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_SOUK_EL_KHEMIS,North-West,36.6811,8.9294,Feuille Boussalem (SGA No. 410),Soumis au Kanoun et à l'Achour
+CH_0103,Cheikhat Oulad Ali Boussalem,مشيخة أولاد علي ب,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_SOUK_EL_KHEMIS,North-West,36.5511,9.0194,Feuille Boussalem (SGA No. 410),Soumis au Kanoun et à l'Achour
+CH_0104,Cheikhat Oulad Salem Boussalem,مشيخة أولاد سالم ب,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_SOUK_EL_KHEMIS,North-West,36.6411,8.8894,Feuille Boussalem (SGA No. 410),Soumis au Kanoun et à l'Achour
+CH_0105,Cheikhat Beni Zid Boussalem,مشيخة بني زيد ب,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_SOUK_EL_KHEMIS,North-West,36.5311,8.9994,Feuille Boussalem (SGA No. 410),Soumis au Kanoun et à l'Achour
+CH_0106,Cheikhat El Ksar Boussalem,مشيخة القصر ب,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_SOUK_EL_KHEMIS,North-West,36.6211,8.9494,Feuille Boussalem (SGA No. 410),Soumis au Kanoun et à l'Achour
+CH_0107,Cheikhat Zaouia Boussalem,مشيخة الزاوية ب,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_SOUK_EL_KHEMIS,North-West,36.5811,9.0094,Feuille Boussalem (SGA No. 410),Soumis au Kanoun et à l'Achour
+CH_0108,Cheikhat Henchir El Bey Boussalem,مشيخة هنشير الباي ب,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_SOUK_EL_KHEMIS,North-West,36.6511,9.0394,Feuille Boussalem (SGA No. 410),Soumis au Kanoun et à l'Achour
+CH_0109,Cheikhat Centre Aïn Draham,مشيخة المركز عين دراهم,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_AIN_DRAHAM,North-West,36.78,8.69,Feuille Aïn Draham (SGA No. 411),Soumis au Kanoun et à l'Achour
+CH_0110,Cheikhat Nord Aïn Draham,مشيخة الشمال عين دراهم,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_AIN_DRAHAM,North-West,36.83,8.71,Feuille Aïn Draham (SGA No. 411),Soumis au Kanoun et à l'Achour
+CH_0111,Cheikhat Sud Aïn Draham,مشيخة الجنوب عين دراهم,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_AIN_DRAHAM,North-West,36.73,8.67,Feuille Aïn Draham (SGA No. 411),Soumis au Kanoun et à l'Achour
+CH_0112,Cheikhat Est Aïn Draham,مشيخة الشرق عين دراهم,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_AIN_DRAHAM,North-West,36.8,8.75,Feuille Aïn Draham (SGA No. 411),Soumis au Kanoun et à l'Achour
+CH_0113,Cheikhat Ouest Aïn Draham,مشيخة الغرب عين دراهم,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_AIN_DRAHAM,North-West,36.76,8.63,Feuille Aïn Draham (SGA No. 411),Soumis au Kanoun et à l'Achour
+CH_0114,Cheikhat Oulad Mansour Aïn Draham,مشيخة أولاد منصور عين دراهم,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_AIN_DRAHAM,North-West,36.85,8.65,Feuille Aïn Draham (SGA No. 411),Soumis au Kanoun et à l'Achour
+CH_0115,Cheikhat Oulad Ali Aïn Draham,مشيخة أولاد علي عين دراهم,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_AIN_DRAHAM,North-West,36.72,8.74,Feuille Aïn Draham (SGA No. 411),Soumis au Kanoun et à l'Achour
+CH_0116,Cheikhat Oulad Salem Aïn Draham,مشيخة أولاد سالم عين دراهم,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_AIN_DRAHAM,North-West,36.81,8.61,Feuille Aïn Draham (SGA No. 411),Soumis au Kanoun et à l'Achour
+CH_0117,Cheikhat Beni Zid Aïn Draham,مشيخة بني زيد عين دراهم,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_AIN_DRAHAM,North-West,36.7,8.72,Feuille Aïn Draham (SGA No. 411),Soumis au Kanoun et à l'Achour
+CH_0118,Cheikhat El Ksar Aïn Draham,مشيخة القصر عين دراهم,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_AIN_DRAHAM,North-West,36.79,8.67,Feuille Aïn Draham (SGA No. 411),Soumis au Kanoun et à l'Achour
+CH_0119,Cheikhat Zaouia Aïn Draham,مشيخة الزاوية عين دراهم,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_AIN_DRAHAM,North-West,36.75,8.73,Feuille Aïn Draham (SGA No. 411),Soumis au Kanoun et à l'Achour
+CH_0120,Cheikhat Henchir El Bey Aïn Draham,مشيخة هنشير الباي عين دراهم,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_AIN_DRAHAM,North-West,36.82,8.76,Feuille Aïn Draham (SGA No. 411),Soumis au Kanoun et à l'Achour
+CH_0121,Cheikhat Centre Tabarka,مشيخة المركز طبرقة,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_TABARKA,North-West,36.9544,8.7581,Feuille Tabarka (SGA No. 413),Soumis au Kanoun et à l'Achour
+CH_0122,Cheikhat Nord Tabarka,مشيخة الشمال طبرقة,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_TABARKA,North-West,37.0044,8.7781,Feuille Tabarka (SGA No. 413),Soumis au Kanoun et à l'Achour
+CH_0123,Cheikhat Sud Tabarka,مشيخة الجنوب طبرقة,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_TABARKA,North-West,36.9044,8.7381,Feuille Tabarka (SGA No. 413),Soumis au Kanoun et à l'Achour
+CH_0124,Cheikhat Est Tabarka,مشيخة الشرق طبرقة,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_TABARKA,North-West,36.9744,8.8181,Feuille Tabarka (SGA No. 413),Soumis au Kanoun et à l'Achour
+CH_0125,Cheikhat Ouest Tabarka,مشيخة الغرب طبرقة,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_TABARKA,North-West,36.9344,8.6981,Feuille Tabarka (SGA No. 413),Soumis au Kanoun et à l'Achour
+CH_0126,Cheikhat Oulad Mansour Tabarka,مشيخة أولاد منصور طبرقة,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_TABARKA,North-West,37.0244,8.7181,Feuille Tabarka (SGA No. 413),Soumis au Kanoun et à l'Achour
+CH_0127,Cheikhat Oulad Ali Tabarka,مشيخة أولاد علي طبرقة,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_TABARKA,North-West,36.8944,8.8081,Feuille Tabarka (SGA No. 413),Soumis au Kanoun et à l'Achour
+CH_0128,Cheikhat Oulad Salem Tabarka,مشيخة أولاد سالم طبرقة,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_TABARKA,North-West,36.9844,8.6781,Feuille Tabarka (SGA No. 413),Soumis au Kanoun et à l'Achour
+CH_0129,Cheikhat Beni Zid Tabarka,مشيخة بني زيد طبرقة,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_TABARKA,North-West,36.8744,8.7881,Feuille Tabarka (SGA No. 413),Soumis au Kanoun et à l'Achour
+CH_0130,Cheikhat El Ksar Tabarka,مشيخة القصر طبرقة,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_TABARKA,North-West,36.9644,8.7381,Feuille Tabarka (SGA No. 413),Soumis au Kanoun et à l'Achour
+CH_0131,Cheikhat Zaouia Tabarka,مشيخة الزاوية طبرقة,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_TABARKA,North-West,36.9244,8.7981,Feuille Tabarka (SGA No. 413),Soumis au Kanoun et à l'Achour
+CH_0132,Cheikhat Henchir El Bey Tabarka,مشيخة هنشير الباي طبرقة,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_TABARKA,North-West,36.9944,8.8281,Feuille Tabarka (SGA No. 413),Soumis au Kanoun et à l'Achour
+CH_0133,Cheikhat Centre Ghardimaou,مشيخة المركز غار الدماء,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_GHARDIMAOU,North-West,36.45,8.44,Feuille Ghardimaou (SGA No. 406),Soumis au Kanoun et à l'Achour
+CH_0134,Cheikhat Nord Ghardimaou,مشيخة الشمال غار الدماء,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_GHARDIMAOU,North-West,36.5,8.46,Feuille Ghardimaou (SGA No. 406),Soumis au Kanoun et à l'Achour
+CH_0135,Cheikhat Sud Ghardimaou,مشيخة الجنوب غار الدماء,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_GHARDIMAOU,North-West,36.4,8.42,Feuille Ghardimaou (SGA No. 406),Soumis au Kanoun et à l'Achour
+CH_0136,Cheikhat Est Ghardimaou,مشيخة الشرق غار الدماء,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_GHARDIMAOU,North-West,36.47,8.5,Feuille Ghardimaou (SGA No. 406),Soumis au Kanoun et à l'Achour
+CH_0137,Cheikhat Ouest Ghardimaou,مشيخة الغرب غار الدماء,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_GHARDIMAOU,North-West,36.43,8.38,Feuille Ghardimaou (SGA No. 406),Soumis au Kanoun et à l'Achour
+CH_0138,Cheikhat Oulad Mansour Ghardimaou,مشيخة أولاد منصور غار الدماء,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_GHARDIMAOU,North-West,36.52,8.4,Feuille Ghardimaou (SGA No. 406),Soumis au Kanoun et à l'Achour
+CH_0139,Cheikhat Oulad Ali Ghardimaou,مشيخة أولاد علي غار الدماء,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_GHARDIMAOU,North-West,36.39,8.49,Feuille Ghardimaou (SGA No. 406),Soumis au Kanoun et à l'Achour
+CH_0140,Cheikhat Oulad Salem Ghardimaou,مشيخة أولاد سالم غار الدماء,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_GHARDIMAOU,North-West,36.48,8.36,Feuille Ghardimaou (SGA No. 406),Soumis au Kanoun et à l'Achour
+CH_0141,Cheikhat Beni Zid Ghardimaou,مشيخة بني زيد غار الدماء,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_GHARDIMAOU,North-West,36.37,8.47,Feuille Ghardimaou (SGA No. 406),Soumis au Kanoun et à l'Achour
+CH_0142,Cheikhat El Ksar Ghardimaou,مشيخة القصر غار الدماء,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_GHARDIMAOU,North-West,36.46,8.42,Feuille Ghardimaou (SGA No. 406),Soumis au Kanoun et à l'Achour
+CH_0143,Cheikhat Zaouia Ghardimaou,مشيخة الزاوية غار الدماء,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_GHARDIMAOU,North-West,36.42,8.48,Feuille Ghardimaou (SGA No. 406),Soumis au Kanoun et à l'Achour
+CH_0144,Cheikhat Henchir El Bey Ghardimaou,مشيخة هنشير الباي غار الدماء,Caïdat de SOUK_EL_ARBA,TN_CC_SOUK_EL_ARBA,HSU_GHARDIMAOU,North-West,36.49,8.51,Feuille Ghardimaou (SGA No. 406),Soumis au Kanoun et à l'Achour
+CH_0145,Cheikhat Centre Le Kef,مشيخة المركز الكاف,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_LE_KEF,North-West,36.1742,8.7047,Feuille Le Kef (SGA No. 405),Soumis au Kanoun et à l'Achour
+CH_0146,Cheikhat Nord Le Kef,مشيخة الشمال الكاف,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_LE_KEF,North-West,36.2242,8.7247,Feuille Le Kef (SGA No. 405),Soumis au Kanoun et à l'Achour
+CH_0147,Cheikhat Sud Le Kef,مشيخة الجنوب الكاف,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_LE_KEF,North-West,36.1242,8.6847,Feuille Le Kef (SGA No. 405),Soumis au Kanoun et à l'Achour
+CH_0148,Cheikhat Est Le Kef,مشيخة الشرق الكاف,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_LE_KEF,North-West,36.1942,8.7647,Feuille Le Kef (SGA No. 405),Soumis au Kanoun et à l'Achour
+CH_0149,Cheikhat Ouest Le Kef,مشيخة الغرب الكاف,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_LE_KEF,North-West,36.1542,8.6447,Feuille Le Kef (SGA No. 405),Soumis au Kanoun et à l'Achour
+CH_0150,Cheikhat Oulad Mansour Le Kef,مشيخة أولاد منصور الكاف,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_LE_KEF,North-West,36.2442,8.6647,Feuille Le Kef (SGA No. 405),Soumis au Kanoun et à l'Achour
+CH_0151,Cheikhat Oulad Ali Le Kef,مشيخة أولاد علي الكاف,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_LE_KEF,North-West,36.1142,8.7547,Feuille Le Kef (SGA No. 405),Soumis au Kanoun et à l'Achour
+CH_0152,Cheikhat Oulad Salem Le Kef,مشيخة أولاد سالم الكاف,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_LE_KEF,North-West,36.2042,8.6247,Feuille Le Kef (SGA No. 405),Soumis au Kanoun et à l'Achour
+CH_0153,Cheikhat Beni Zid Le Kef,مشيخة بني زيد الكاف,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_LE_KEF,North-West,36.0942,8.7347,Feuille Le Kef (SGA No. 405),Soumis au Kanoun et à l'Achour
+CH_0154,Cheikhat El Ksar Le Kef,مشيخة القصر الكاف,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_LE_KEF,North-West,36.1842,8.6847,Feuille Le Kef (SGA No. 405),Soumis au Kanoun et à l'Achour
+CH_0155,Cheikhat Zaouia Le Kef,مشيخة الزاوية الكاف,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_LE_KEF,North-West,36.1442,8.7447,Feuille Le Kef (SGA No. 405),Soumis au Kanoun et à l'Achour
+CH_0156,Cheikhat Henchir El Bey Le Kef,مشيخة هنشير الباي الكاف,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_LE_KEF,North-West,36.2142,8.7747,Feuille Le Kef (SGA No. 405),Soumis au Kanoun et à l'Achour
+CH_0157,Cheikhat Centre Dahmani,مشيخة المركز الدهماني,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_DAHMANI,North-West,35.94,8.83,Feuille Dahmani (SGA No. 403),Soumis au Kanoun et à l'Achour
+CH_0158,Cheikhat Nord Dahmani,مشيخة الشمال الدهماني,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_DAHMANI,North-West,35.99,8.85,Feuille Dahmani (SGA No. 403),Soumis au Kanoun et à l'Achour
+CH_0159,Cheikhat Sud Dahmani,مشيخة الجنوب الدهماني,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_DAHMANI,North-West,35.89,8.81,Feuille Dahmani (SGA No. 403),Soumis au Kanoun et à l'Achour
+CH_0160,Cheikhat Est Dahmani,مشيخة الشرق الدهماني,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_DAHMANI,North-West,35.96,8.89,Feuille Dahmani (SGA No. 403),Soumis au Kanoun et à l'Achour
+CH_0161,Cheikhat Ouest Dahmani,مشيخة الغرب الدهماني,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_DAHMANI,North-West,35.92,8.77,Feuille Dahmani (SGA No. 403),Soumis au Kanoun et à l'Achour
+CH_0162,Cheikhat Oulad Mansour Dahmani,مشيخة أولاد منصور الدهماني,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_DAHMANI,North-West,36.01,8.79,Feuille Dahmani (SGA No. 403),Soumis au Kanoun et à l'Achour
+CH_0163,Cheikhat Oulad Ali Dahmani,مشيخة أولاد علي الدهماني,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_DAHMANI,North-West,35.88,8.88,Feuille Dahmani (SGA No. 403),Soumis au Kanoun et à l'Achour
+CH_0164,Cheikhat Oulad Salem Dahmani,مشيخة أولاد سالم الدهماني,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_DAHMANI,North-West,35.97,8.75,Feuille Dahmani (SGA No. 403),Soumis au Kanoun et à l'Achour
+CH_0165,Cheikhat Beni Zid Dahmani,مشيخة بني زيد الدهماني,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_DAHMANI,North-West,35.86,8.86,Feuille Dahmani (SGA No. 403),Soumis au Kanoun et à l'Achour
+CH_0166,Cheikhat El Ksar Dahmani,مشيخة القصر الدهماني,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_DAHMANI,North-West,35.95,8.81,Feuille Dahmani (SGA No. 403),Soumis au Kanoun et à l'Achour
+CH_0167,Cheikhat Zaouia Dahmani,مشيخة الزاوية الدهماني,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_DAHMANI,North-West,35.91,8.87,Feuille Dahmani (SGA No. 403),Soumis au Kanoun et à l'Achour
+CH_0168,Cheikhat Henchir El Bey Dahmani,مشيخة هنشير الباي الدهماني,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_DAHMANI,North-West,35.98,8.9,Feuille Dahmani (SGA No. 403),Soumis au Kanoun et à l'Achour
+CH_0169,Cheikhat Centre Téboursouk,مشيخة المركز تبرسق,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_TEBOURSOUK,North-West,36.46,9.25,Feuille Téboursouk (SGA No. 410),Soumis au Kanoun et à l'Achour
+CH_0170,Cheikhat Nord Téboursouk,مشيخة الشمال تبرسق,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_TEBOURSOUK,North-West,36.51,9.27,Feuille Téboursouk (SGA No. 410),Soumis au Kanoun et à l'Achour
+CH_0171,Cheikhat Sud Téboursouk,مشيخة الجنوب تبرسق,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_TEBOURSOUK,North-West,36.41,9.23,Feuille Téboursouk (SGA No. 410),Soumis au Kanoun et à l'Achour
+CH_0172,Cheikhat Est Téboursouk,مشيخة الشرق تبرسق,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_TEBOURSOUK,North-West,36.48,9.31,Feuille Téboursouk (SGA No. 410),Soumis au Kanoun et à l'Achour
+CH_0173,Cheikhat Ouest Téboursouk,مشيخة الغرب تبرسق,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_TEBOURSOUK,North-West,36.44,9.19,Feuille Téboursouk (SGA No. 410),Soumis au Kanoun et à l'Achour
+CH_0174,Cheikhat Oulad Mansour Téboursouk,مشيخة أولاد منصور تبرسق,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_TEBOURSOUK,North-West,36.53,9.21,Feuille Téboursouk (SGA No. 410),Soumis au Kanoun et à l'Achour
+CH_0175,Cheikhat Oulad Ali Téboursouk,مشيخة أولاد علي تبرسق,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_TEBOURSOUK,North-West,36.4,9.3,Feuille Téboursouk (SGA No. 410),Soumis au Kanoun et à l'Achour
+CH_0176,Cheikhat Oulad Salem Téboursouk,مشيخة أولاد سالم تبرسق,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_TEBOURSOUK,North-West,36.49,9.17,Feuille Téboursouk (SGA No. 410),Soumis au Kanoun et à l'Achour
+CH_0177,Cheikhat Beni Zid Téboursouk,مشيخة بني زيد تبرسق,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_TEBOURSOUK,North-West,36.38,9.28,Feuille Téboursouk (SGA No. 410),Soumis au Kanoun et à l'Achour
+CH_0178,Cheikhat El Ksar Téboursouk,مشيخة القصر تبرسق,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_TEBOURSOUK,North-West,36.47,9.23,Feuille Téboursouk (SGA No. 410),Soumis au Kanoun et à l'Achour
+CH_0179,Cheikhat Zaouia Téboursouk,مشيخة الزاوية تبرسق,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_TEBOURSOUK,North-West,36.43,9.29,Feuille Téboursouk (SGA No. 410),Soumis au Kanoun et à l'Achour
+CH_0180,Cheikhat Henchir El Bey Téboursouk,مشيخة هنشير الباي تبرسق,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_TEBOURSOUK,North-West,36.5,9.32,Feuille Téboursouk (SGA No. 410),Soumis au Kanoun et à l'Achour
+CH_0181,Cheikhat Centre Le Sers,مشيخة المركز السرس,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_SERS,North-West,36.07,9.02,Feuille Le Sers (SGA No. 405),Soumis au Kanoun et à l'Achour
+CH_0182,Cheikhat Nord Le Sers,مشيخة الشمال السرس,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_SERS,North-West,36.12,9.04,Feuille Le Sers (SGA No. 405),Soumis au Kanoun et à l'Achour
+CH_0183,Cheikhat Sud Le Sers,مشيخة الجنوب السرس,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_SERS,North-West,36.02,9.0,Feuille Le Sers (SGA No. 405),Soumis au Kanoun et à l'Achour
+CH_0184,Cheikhat Est Le Sers,مشيخة الشرق السرس,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_SERS,North-West,36.09,9.08,Feuille Le Sers (SGA No. 405),Soumis au Kanoun et à l'Achour
+CH_0185,Cheikhat Ouest Le Sers,مشيخة الغرب السرس,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_SERS,North-West,36.05,8.96,Feuille Le Sers (SGA No. 405),Soumis au Kanoun et à l'Achour
+CH_0186,Cheikhat Oulad Mansour Le Sers,مشيخة أولاد منصور السرس,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_SERS,North-West,36.14,8.98,Feuille Le Sers (SGA No. 405),Soumis au Kanoun et à l'Achour
+CH_0187,Cheikhat Oulad Ali Le Sers,مشيخة أولاد علي السرس,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_SERS,North-West,36.01,9.07,Feuille Le Sers (SGA No. 405),Soumis au Kanoun et à l'Achour
+CH_0188,Cheikhat Oulad Salem Le Sers,مشيخة أولاد سالم السرس,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_SERS,North-West,36.1,8.94,Feuille Le Sers (SGA No. 405),Soumis au Kanoun et à l'Achour
+CH_0189,Cheikhat Beni Zid Le Sers,مشيخة بني زيد السرس,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_SERS,North-West,35.99,9.05,Feuille Le Sers (SGA No. 405),Soumis au Kanoun et à l'Achour
+CH_0190,Cheikhat El Ksar Le Sers,مشيخة القصر السرس,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_SERS,North-West,36.08,9.0,Feuille Le Sers (SGA No. 405),Soumis au Kanoun et à l'Achour
+CH_0191,Cheikhat Zaouia Le Sers,مشيخة الزاوية السرس,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_SERS,North-West,36.04,9.06,Feuille Le Sers (SGA No. 405),Soumis au Kanoun et à l'Achour
+CH_0192,Cheikhat Henchir El Bey Le Sers,مشيخة هنشير الباي السرس,Caïdat de LE_KEF,TN_CC_LE_KEF,HSU_SERS,North-West,36.11,9.09,Feuille Le Sers (SGA No. 405),Soumis au Kanoun et à l'Achour
+CH_0193,Cheikhat Centre Grombalia,مشيخة المركز قرمبالية,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_CAP_BON,North-East,36.6,10.5,Feuille Grombalia (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0194,Cheikhat Nord Grombalia,مشيخة الشمال قرمبالية,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_CAP_BON,North-East,36.65,10.52,Feuille Grombalia (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0195,Cheikhat Sud Grombalia,مشيخة الجنوب قرمبالية,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_CAP_BON,North-East,36.55,10.48,Feuille Grombalia (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0196,Cheikhat Est Grombalia,مشيخة الشرق قرمبالية,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_CAP_BON,North-East,36.62,10.56,Feuille Grombalia (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0197,Cheikhat Ouest Grombalia,مشيخة الغرب قرمبالية,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_CAP_BON,North-East,36.58,10.44,Feuille Grombalia (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0198,Cheikhat Oulad Mansour Grombalia,مشيخة أولاد منصور قرمبالية,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_CAP_BON,North-East,36.67,10.46,Feuille Grombalia (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0199,Cheikhat Oulad Ali Grombalia,مشيخة أولاد علي قرمبالية,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_CAP_BON,North-East,36.54,10.55,Feuille Grombalia (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0200,Cheikhat Oulad Salem Grombalia,مشيخة أولاد سالم قرمبالية,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_CAP_BON,North-East,36.63,10.42,Feuille Grombalia (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0201,Cheikhat Beni Zid Grombalia,مشيخة بني زيد قرمبالية,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_CAP_BON,North-East,36.52,10.53,Feuille Grombalia (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0202,Cheikhat El Ksar Grombalia,مشيخة القصر قرمبالية,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_CAP_BON,North-East,36.61,10.48,Feuille Grombalia (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0203,Cheikhat Zaouia Grombalia,مشيخة الزاوية قرمبالية,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_CAP_BON,North-East,36.57,10.54,Feuille Grombalia (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0204,Cheikhat Henchir El Bey Grombalia,مشيخة هنشير الباي قرمبالية,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_CAP_BON,North-East,36.64,10.57,Feuille Grombalia (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0205,Cheikhat Centre Nabeul,مشيخة المركز نابل,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_NABEUL,North-East,36.4561,10.7375,Feuille Nabeul (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0206,Cheikhat Nord Nabeul,مشيخة الشمال نابل,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_NABEUL,North-East,36.5061,10.7575,Feuille Nabeul (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0207,Cheikhat Sud Nabeul,مشيخة الجنوب نابل,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_NABEUL,North-East,36.4061,10.7175,Feuille Nabeul (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0208,Cheikhat Est Nabeul,مشيخة الشرق نابل,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_NABEUL,North-East,36.4761,10.7975,Feuille Nabeul (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0209,Cheikhat Ouest Nabeul,مشيخة الغرب نابل,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_NABEUL,North-East,36.4361,10.6775,Feuille Nabeul (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0210,Cheikhat Oulad Mansour Nabeul,مشيخة أولاد منصور نابل,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_NABEUL,North-East,36.5261,10.6975,Feuille Nabeul (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0211,Cheikhat Oulad Ali Nabeul,مشيخة أولاد علي نابل,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_NABEUL,North-East,36.3961,10.7875,Feuille Nabeul (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0212,Cheikhat Oulad Salem Nabeul,مشيخة أولاد سالم نابل,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_NABEUL,North-East,36.4861,10.6575,Feuille Nabeul (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0213,Cheikhat Beni Zid Nabeul,مشيخة بني زيد نابل,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_NABEUL,North-East,36.3761,10.7675,Feuille Nabeul (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0214,Cheikhat El Ksar Nabeul,مشيخة القصر نابل,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_NABEUL,North-East,36.4661,10.7175,Feuille Nabeul (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0215,Cheikhat Zaouia Nabeul,مشيخة الزاوية نابل,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_NABEUL,North-East,36.4261,10.7775,Feuille Nabeul (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0216,Cheikhat Henchir El Bey Nabeul,مشيخة هنشير الباي نابل,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_NABEUL,North-East,36.4961,10.8075,Feuille Nabeul (SGA No. 418),Soumis au Kanoun et à l'Achour
+CH_0217,Cheikhat Centre Soliman,مشيخة المركز سليمان,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_SOLIMAN,North-East,36.7,10.49,Feuille Soliman (SGA No. 419),Soumis au Kanoun et à l'Achour
+CH_0218,Cheikhat Nord Soliman,مشيخة الشمال سليمان,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_SOLIMAN,North-East,36.75,10.51,Feuille Soliman (SGA No. 419),Soumis au Kanoun et à l'Achour
+CH_0219,Cheikhat Sud Soliman,مشيخة الجنوب سليمان,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_SOLIMAN,North-East,36.65,10.47,Feuille Soliman (SGA No. 419),Soumis au Kanoun et à l'Achour
+CH_0220,Cheikhat Est Soliman,مشيخة الشرق سليمان,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_SOLIMAN,North-East,36.72,10.55,Feuille Soliman (SGA No. 419),Soumis au Kanoun et à l'Achour
+CH_0221,Cheikhat Ouest Soliman,مشيخة الغرب سليمان,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_SOLIMAN,North-East,36.68,10.43,Feuille Soliman (SGA No. 419),Soumis au Kanoun et à l'Achour
+CH_0222,Cheikhat Oulad Mansour Soliman,مشيخة أولاد منصور سليمان,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_SOLIMAN,North-East,36.77,10.45,Feuille Soliman (SGA No. 419),Soumis au Kanoun et à l'Achour
+CH_0223,Cheikhat Oulad Ali Soliman,مشيخة أولاد علي سليمان,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_SOLIMAN,North-East,36.64,10.54,Feuille Soliman (SGA No. 419),Soumis au Kanoun et à l'Achour
+CH_0224,Cheikhat Oulad Salem Soliman,مشيخة أولاد سالم سليمان,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_SOLIMAN,North-East,36.73,10.41,Feuille Soliman (SGA No. 419),Soumis au Kanoun et à l'Achour
+CH_0225,Cheikhat Beni Zid Soliman,مشيخة بني زيد سليمان,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_SOLIMAN,North-East,36.62,10.52,Feuille Soliman (SGA No. 419),Soumis au Kanoun et à l'Achour
+CH_0226,Cheikhat El Ksar Soliman,مشيخة القصر سليمان,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_SOLIMAN,North-East,36.71,10.47,Feuille Soliman (SGA No. 419),Soumis au Kanoun et à l'Achour
+CH_0227,Cheikhat Zaouia Soliman,مشيخة الزاوية سليمان,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_SOLIMAN,North-East,36.67,10.53,Feuille Soliman (SGA No. 419),Soumis au Kanoun et à l'Achour
+CH_0228,Cheikhat Henchir El Bey Soliman,مشيخة هنشير الباي سليمان,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_SOLIMAN,North-East,36.74,10.56,Feuille Soliman (SGA No. 419),Soumis au Kanoun et à l'Achour
+CH_0229,Cheikhat Centre Menzel Temime,مشيخة المركز منزل تميم,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_MENZEL_TEMIME,North-East,36.78,10.99,Feuille Menzel Temime (SGA No. 422),Soumis au Kanoun et à l'Achour
+CH_0230,Cheikhat Nord Menzel Temime,مشيخة الشمال منزل تميم,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_MENZEL_TEMIME,North-East,36.83,11.01,Feuille Menzel Temime (SGA No. 422),Soumis au Kanoun et à l'Achour
+CH_0231,Cheikhat Sud Menzel Temime,مشيخة الجنوب منزل تميم,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_MENZEL_TEMIME,North-East,36.73,10.97,Feuille Menzel Temime (SGA No. 422),Soumis au Kanoun et à l'Achour
+CH_0232,Cheikhat Est Menzel Temime,مشيخة الشرق منزل تميم,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_MENZEL_TEMIME,North-East,36.8,11.05,Feuille Menzel Temime (SGA No. 422),Soumis au Kanoun et à l'Achour
+CH_0233,Cheikhat Ouest Menzel Temime,مشيخة الغرب منزل تميم,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_MENZEL_TEMIME,North-East,36.76,10.93,Feuille Menzel Temime (SGA No. 422),Soumis au Kanoun et à l'Achour
+CH_0234,Cheikhat Oulad Mansour Menzel Temime,مشيخة أولاد منصور منزل تميم,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_MENZEL_TEMIME,North-East,36.85,10.95,Feuille Menzel Temime (SGA No. 422),Soumis au Kanoun et à l'Achour
+CH_0235,Cheikhat Oulad Ali Menzel Temime,مشيخة أولاد علي منزل تميم,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_MENZEL_TEMIME,North-East,36.72,11.04,Feuille Menzel Temime (SGA No. 422),Soumis au Kanoun et à l'Achour
+CH_0236,Cheikhat Oulad Salem Menzel Temime,مشيخة أولاد سالم منزل تميم,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_MENZEL_TEMIME,North-East,36.81,10.91,Feuille Menzel Temime (SGA No. 422),Soumis au Kanoun et à l'Achour
+CH_0237,Cheikhat Beni Zid Menzel Temime,مشيخة بني زيد منزل تميم,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_MENZEL_TEMIME,North-East,36.7,11.02,Feuille Menzel Temime (SGA No. 422),Soumis au Kanoun et à l'Achour
+CH_0238,Cheikhat El Ksar Menzel Temime,مشيخة القصر منزل تميم,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_MENZEL_TEMIME,North-East,36.79,10.97,Feuille Menzel Temime (SGA No. 422),Soumis au Kanoun et à l'Achour
+CH_0239,Cheikhat Zaouia Menzel Temime,مشيخة الزاوية منزل تميم,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_MENZEL_TEMIME,North-East,36.75,11.03,Feuille Menzel Temime (SGA No. 422),Soumis au Kanoun et à l'Achour
+CH_0240,Cheikhat Henchir El Bey Menzel Temime,مشيخة هنشير الباي منزل تميم,Caïdat de GROMBALIA,TN_CC_GROMBALIA,HSU_MENZEL_TEMIME,North-East,36.82,11.06,Feuille Menzel Temime (SGA No. 422),Soumis au Kanoun et à l'Achour
+CH_0241,Cheikhat Centre Zaghouan,مشيخة المركز زغ,Caïdat de ZAGHOUAN,TN_CC_ZAGHOUAN,HSU_ZAGHOUAN,North-East,36.4028,10.1433,Feuille Zaghouan (SGA No. 414),Soumis au Kanoun et à l'Achour
+CH_0242,Cheikhat Nord Zaghouan,مشيخة الشمال زغ,Caïdat de ZAGHOUAN,TN_CC_ZAGHOUAN,HSU_ZAGHOUAN,North-East,36.4528,10.1633,Feuille Zaghouan (SGA No. 414),Soumis au Kanoun et à l'Achour
+CH_0243,Cheikhat Sud Zaghouan,مشيخة الجنوب زغ,Caïdat de ZAGHOUAN,TN_CC_ZAGHOUAN,HSU_ZAGHOUAN,North-East,36.3528,10.1233,Feuille Zaghouan (SGA No. 414),Soumis au Kanoun et à l'Achour
+CH_0244,Cheikhat Est Zaghouan,مشيخة الشرق زغ,Caïdat de ZAGHOUAN,TN_CC_ZAGHOUAN,HSU_ZAGHOUAN,North-East,36.4228,10.2033,Feuille Zaghouan (SGA No. 414),Soumis au Kanoun et à l'Achour
+CH_0245,Cheikhat Ouest Zaghouan,مشيخة الغرب زغ,Caïdat de ZAGHOUAN,TN_CC_ZAGHOUAN,HSU_ZAGHOUAN,North-East,36.3828,10.0833,Feuille Zaghouan (SGA No. 414),Soumis au Kanoun et à l'Achour
+CH_0246,Cheikhat Oulad Mansour Zaghouan,مشيخة أولاد منصور زغ,Caïdat de ZAGHOUAN,TN_CC_ZAGHOUAN,HSU_ZAGHOUAN,North-East,36.4728,10.1033,Feuille Zaghouan (SGA No. 414),Soumis au Kanoun et à l'Achour
+CH_0247,Cheikhat Oulad Ali Zaghouan,مشيخة أولاد علي زغ,Caïdat de ZAGHOUAN,TN_CC_ZAGHOUAN,HSU_ZAGHOUAN,North-East,36.3428,10.1933,Feuille Zaghouan (SGA No. 414),Soumis au Kanoun et à l'Achour
+CH_0248,Cheikhat Oulad Salem Zaghouan,مشيخة أولاد سالم زغ,Caïdat de ZAGHOUAN,TN_CC_ZAGHOUAN,HSU_ZAGHOUAN,North-East,36.4328,10.0633,Feuille Zaghouan (SGA No. 414),Soumis au Kanoun et à l'Achour
+CH_0249,Cheikhat Beni Zid Zaghouan,مشيخة بني زيد زغ,Caïdat de ZAGHOUAN,TN_CC_ZAGHOUAN,HSU_ZAGHOUAN,North-East,36.3228,10.1733,Feuille Zaghouan (SGA No. 414),Soumis au Kanoun et à l'Achour
+CH_0250,Cheikhat El Ksar Zaghouan,مشيخة القصر زغ,Caïdat de ZAGHOUAN,TN_CC_ZAGHOUAN,HSU_ZAGHOUAN,North-East,36.4128,10.1233,Feuille Zaghouan (SGA No. 414),Soumis au Kanoun et à l'Achour
+CH_0251,Cheikhat Zaouia Zaghouan,مشيخة الزاوية زغ,Caïdat de ZAGHOUAN,TN_CC_ZAGHOUAN,HSU_ZAGHOUAN,North-East,36.3728,10.1833,Feuille Zaghouan (SGA No. 414),Soumis au Kanoun et à l'Achour
+CH_0252,Cheikhat Henchir El Bey Zaghouan,مشيخة هنشير الباي زغ,Caïdat de ZAGHOUAN,TN_CC_ZAGHOUAN,HSU_ZAGHOUAN,North-East,36.4428,10.2133,Feuille Zaghouan (SGA No. 414),Soumis au Kanoun et à l'Achour
+CH_0253,Cheikhat Centre Sousse,مشيخة المركز س,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_SOUSSE,Sahel/Center-East,35.8256,10.6411,Feuille Sousse (SGA No. 411),Soumis au Kanoun et à l'Achour
+CH_0254,Cheikhat Nord Sousse,مشيخة الشمال س,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_SOUSSE,Sahel/Center-East,35.8756,10.6611,Feuille Sousse (SGA No. 411),Soumis au Kanoun et à l'Achour
+CH_0255,Cheikhat Sud Sousse,مشيخة الجنوب س,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_SOUSSE,Sahel/Center-East,35.7756,10.6211,Feuille Sousse (SGA No. 411),Soumis au Kanoun et à l'Achour
+CH_0256,Cheikhat Est Sousse,مشيخة الشرق س,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_SOUSSE,Sahel/Center-East,35.8456,10.7011,Feuille Sousse (SGA No. 411),Soumis au Kanoun et à l'Achour
+CH_0257,Cheikhat Ouest Sousse,مشيخة الغرب س,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_SOUSSE,Sahel/Center-East,35.8056,10.5811,Feuille Sousse (SGA No. 411),Soumis au Kanoun et à l'Achour
+CH_0258,Cheikhat Oulad Mansour Sousse,مشيخة أولاد منصور س,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_SOUSSE,Sahel/Center-East,35.8956,10.6011,Feuille Sousse (SGA No. 411),Soumis au Kanoun et à l'Achour
+CH_0259,Cheikhat Oulad Ali Sousse,مشيخة أولاد علي س,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_SOUSSE,Sahel/Center-East,35.7656,10.6911,Feuille Sousse (SGA No. 411),Soumis au Kanoun et à l'Achour
+CH_0260,Cheikhat Oulad Salem Sousse,مشيخة أولاد سالم س,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_SOUSSE,Sahel/Center-East,35.8556,10.5611,Feuille Sousse (SGA No. 411),Soumis au Kanoun et à l'Achour
+CH_0261,Cheikhat Beni Zid Sousse,مشيخة بني زيد س,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_SOUSSE,Sahel/Center-East,35.7456,10.6711,Feuille Sousse (SGA No. 411),Soumis au Kanoun et à l'Achour
+CH_0262,Cheikhat El Ksar Sousse,مشيخة القصر س,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_SOUSSE,Sahel/Center-East,35.8356,10.6211,Feuille Sousse (SGA No. 411),Soumis au Kanoun et à l'Achour
+CH_0263,Cheikhat Zaouia Sousse,مشيخة الزاوية س,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_SOUSSE,Sahel/Center-East,35.7956,10.6811,Feuille Sousse (SGA No. 411),Soumis au Kanoun et à l'Achour
+CH_0264,Cheikhat Henchir El Bey Sousse,مشيخة هنشير الباي س,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_SOUSSE,Sahel/Center-East,35.8656,10.7111,Feuille Sousse (SGA No. 411),Soumis au Kanoun et à l'Achour
+CH_0265,Cheikhat Centre Monastir,مشيخة المركز المنستير,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_MONASTIR,Sahel/Center-East,35.778,10.8262,Feuille Monastir (SGA No. 411),Soumis au Kanoun et à l'Achour
+CH_0266,Cheikhat Nord Monastir,مشيخة الشمال المنستير,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_MONASTIR,Sahel/Center-East,35.828,10.8462,Feuille Monastir (SGA No. 411),Soumis au Kanoun et à l'Achour
+CH_0267,Cheikhat Sud Monastir,مشيخة الجنوب المنستير,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_MONASTIR,Sahel/Center-East,35.728,10.8062,Feuille Monastir (SGA No. 411),Soumis au Kanoun et à l'Achour
+CH_0268,Cheikhat Est Monastir,مشيخة الشرق المنستير,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_MONASTIR,Sahel/Center-East,35.798,10.8862,Feuille Monastir (SGA No. 411),Soumis au Kanoun et à l'Achour
+CH_0269,Cheikhat Ouest Monastir,مشيخة الغرب المنستير,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_MONASTIR,Sahel/Center-East,35.758,10.7662,Feuille Monastir (SGA No. 411),Soumis au Kanoun et à l'Achour
+CH_0270,Cheikhat Oulad Mansour Monastir,مشيخة أولاد منصور المنستير,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_MONASTIR,Sahel/Center-East,35.848,10.7862,Feuille Monastir (SGA No. 411),Soumis au Kanoun et à l'Achour
+CH_0271,Cheikhat Oulad Ali Monastir,مشيخة أولاد علي المنستير,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_MONASTIR,Sahel/Center-East,35.718,10.8762,Feuille Monastir (SGA No. 411),Soumis au Kanoun et à l'Achour
+CH_0272,Cheikhat Oulad Salem Monastir,مشيخة أولاد سالم المنستير,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_MONASTIR,Sahel/Center-East,35.808,10.7462,Feuille Monastir (SGA No. 411),Soumis au Kanoun et à l'Achour
+CH_0273,Cheikhat Beni Zid Monastir,مشيخة بني زيد المنستير,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_MONASTIR,Sahel/Center-East,35.698,10.8562,Feuille Monastir (SGA No. 411),Soumis au Kanoun et à l'Achour
+CH_0274,Cheikhat El Ksar Monastir,مشيخة القصر المنستير,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_MONASTIR,Sahel/Center-East,35.788,10.8062,Feuille Monastir (SGA No. 411),Soumis au Kanoun et à l'Achour
+CH_0275,Cheikhat Zaouia Monastir,مشيخة الزاوية المنستير,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_MONASTIR,Sahel/Center-East,35.748,10.8662,Feuille Monastir (SGA No. 411),Soumis au Kanoun et à l'Achour
+CH_0276,Cheikhat Henchir El Bey Monastir,مشيخة هنشير الباي المنستير,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_MONASTIR,Sahel/Center-East,35.818,10.8962,Feuille Monastir (SGA No. 411),Soumis au Kanoun et à l'Achour
+CH_0277,Cheikhat Centre Mahdia,مشيخة المركز المهدية,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_MAHDIA,Sahel/Center-East,35.5047,11.0622,Feuille Mahdia (SGA No. 410),Soumis au Kanoun et à l'Achour
+CH_0278,Cheikhat Nord Mahdia,مشيخة الشمال المهدية,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_MAHDIA,Sahel/Center-East,35.5547,11.0822,Feuille Mahdia (SGA No. 410),Soumis au Kanoun et à l'Achour
+CH_0279,Cheikhat Sud Mahdia,مشيخة الجنوب المهدية,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_MAHDIA,Sahel/Center-East,35.4547,11.0422,Feuille Mahdia (SGA No. 410),Soumis au Kanoun et à l'Achour
+CH_0280,Cheikhat Est Mahdia,مشيخة الشرق المهدية,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_MAHDIA,Sahel/Center-East,35.5247,11.1222,Feuille Mahdia (SGA No. 410),Soumis au Kanoun et à l'Achour
+CH_0281,Cheikhat Ouest Mahdia,مشيخة الغرب المهدية,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_MAHDIA,Sahel/Center-East,35.4847,11.0022,Feuille Mahdia (SGA No. 410),Soumis au Kanoun et à l'Achour
+CH_0282,Cheikhat Oulad Mansour Mahdia,مشيخة أولاد منصور المهدية,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_MAHDIA,Sahel/Center-East,35.5747,11.0222,Feuille Mahdia (SGA No. 410),Soumis au Kanoun et à l'Achour
+CH_0283,Cheikhat Oulad Ali Mahdia,مشيخة أولاد علي المهدية,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_MAHDIA,Sahel/Center-East,35.4447,11.1122,Feuille Mahdia (SGA No. 410),Soumis au Kanoun et à l'Achour
+CH_0284,Cheikhat Oulad Salem Mahdia,مشيخة أولاد سالم المهدية,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_MAHDIA,Sahel/Center-East,35.5347,10.9822,Feuille Mahdia (SGA No. 410),Soumis au Kanoun et à l'Achour
+CH_0285,Cheikhat Beni Zid Mahdia,مشيخة بني زيد المهدية,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_MAHDIA,Sahel/Center-East,35.4247,11.0922,Feuille Mahdia (SGA No. 410),Soumis au Kanoun et à l'Achour
+CH_0286,Cheikhat El Ksar Mahdia,مشيخة القصر المهدية,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_MAHDIA,Sahel/Center-East,35.5147,11.0422,Feuille Mahdia (SGA No. 410),Soumis au Kanoun et à l'Achour
+CH_0287,Cheikhat Zaouia Mahdia,مشيخة الزاوية المهدية,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_MAHDIA,Sahel/Center-East,35.4747,11.1022,Feuille Mahdia (SGA No. 410),Soumis au Kanoun et à l'Achour
+CH_0288,Cheikhat Henchir El Bey Mahdia,مشيخة هنشير الباي المهدية,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_MAHDIA,Sahel/Center-East,35.5447,11.1322,Feuille Mahdia (SGA No. 410),Soumis au Kanoun et à l'Achour
+CH_0289,Cheikhat Centre Enfidha,مشيخة المركز النفيضة,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_ENFIDHA,Sahel/Center-East,36.1333,10.3833,Feuille Enfidha (SGA No. 413),Soumis au Kanoun et à l'Achour
+CH_0290,Cheikhat Nord Enfidha,مشيخة الشمال النفيضة,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_ENFIDHA,Sahel/Center-East,36.1833,10.4033,Feuille Enfidha (SGA No. 413),Soumis au Kanoun et à l'Achour
+CH_0291,Cheikhat Sud Enfidha,مشيخة الجنوب النفيضة,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_ENFIDHA,Sahel/Center-East,36.0833,10.3633,Feuille Enfidha (SGA No. 413),Soumis au Kanoun et à l'Achour
+CH_0292,Cheikhat Est Enfidha,مشيخة الشرق النفيضة,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_ENFIDHA,Sahel/Center-East,36.1533,10.4433,Feuille Enfidha (SGA No. 413),Soumis au Kanoun et à l'Achour
+CH_0293,Cheikhat Ouest Enfidha,مشيخة الغرب النفيضة,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_ENFIDHA,Sahel/Center-East,36.1133,10.3233,Feuille Enfidha (SGA No. 413),Soumis au Kanoun et à l'Achour
+CH_0294,Cheikhat Oulad Mansour Enfidha,مشيخة أولاد منصور النفيضة,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_ENFIDHA,Sahel/Center-East,36.2033,10.3433,Feuille Enfidha (SGA No. 413),Soumis au Kanoun et à l'Achour
+CH_0295,Cheikhat Oulad Ali Enfidha,مشيخة أولاد علي النفيضة,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_ENFIDHA,Sahel/Center-East,36.0733,10.4333,Feuille Enfidha (SGA No. 413),Soumis au Kanoun et à l'Achour
+CH_0296,Cheikhat Oulad Salem Enfidha,مشيخة أولاد سالم النفيضة,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_ENFIDHA,Sahel/Center-East,36.1633,10.3033,Feuille Enfidha (SGA No. 413),Soumis au Kanoun et à l'Achour
+CH_0297,Cheikhat Beni Zid Enfidha,مشيخة بني زيد النفيضة,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_ENFIDHA,Sahel/Center-East,36.0533,10.4133,Feuille Enfidha (SGA No. 413),Soumis au Kanoun et à l'Achour
+CH_0298,Cheikhat El Ksar Enfidha,مشيخة القصر النفيضة,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_ENFIDHA,Sahel/Center-East,36.1433,10.3633,Feuille Enfidha (SGA No. 413),Soumis au Kanoun et à l'Achour
+CH_0299,Cheikhat Zaouia Enfidha,مشيخة الزاوية النفيضة,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_ENFIDHA,Sahel/Center-East,36.1033,10.4233,Feuille Enfidha (SGA No. 413),Soumis au Kanoun et à l'Achour
+CH_0300,Cheikhat Henchir El Bey Enfidha,مشيخة هنشير الباي النفيضة,Caïdat de SOUSSE,TN_CC_SOUSSE,HSU_ENFIDHA,Sahel/Center-East,36.1733,10.4533,Feuille Enfidha (SGA No. 413),Soumis au Kanoun et à l'Achour
+CH_0301,Cheikhat Centre Kairouan,مشيخة المركز القير,Caïdat de KAIROUAN,TN_CC_KAIROUAN,HSU_KAIROUAN,Center-West,35.6781,10.0963,Feuille Kairouan (SGA No. 407),Soumis au Kanoun et à l'Achour
+CH_0302,Cheikhat Nord Kairouan,مشيخة الشمال القير,Caïdat de KAIROUAN,TN_CC_KAIROUAN,HSU_KAIROUAN,Center-West,35.7281,10.1163,Feuille Kairouan (SGA No. 407),Soumis au Kanoun et à l'Achour
+CH_0303,Cheikhat Sud Kairouan,مشيخة الجنوب القير,Caïdat de KAIROUAN,TN_CC_KAIROUAN,HSU_KAIROUAN,Center-West,35.6281,10.0763,Feuille Kairouan (SGA No. 407),Soumis au Kanoun et à l'Achour
+CH_0304,Cheikhat Est Kairouan,مشيخة الشرق القير,Caïdat de KAIROUAN,TN_CC_KAIROUAN,HSU_KAIROUAN,Center-West,35.6981,10.1563,Feuille Kairouan (SGA No. 407),Soumis au Kanoun et à l'Achour
+CH_0305,Cheikhat Ouest Kairouan,مشيخة الغرب القير,Caïdat de KAIROUAN,TN_CC_KAIROUAN,HSU_KAIROUAN,Center-West,35.6581,10.0363,Feuille Kairouan (SGA No. 407),Soumis au Kanoun et à l'Achour
+CH_0306,Cheikhat Oulad Mansour Kairouan,مشيخة أولاد منصور القير,Caïdat de KAIROUAN,TN_CC_KAIROUAN,HSU_KAIROUAN,Center-West,35.7481,10.0563,Feuille Kairouan (SGA No. 407),Soumis au Kanoun et à l'Achour
+CH_0307,Cheikhat Oulad Ali Kairouan,مشيخة أولاد علي القير,Caïdat de KAIROUAN,TN_CC_KAIROUAN,HSU_KAIROUAN,Center-West,35.6181,10.1463,Feuille Kairouan (SGA No. 407),Soumis au Kanoun et à l'Achour
+CH_0308,Cheikhat Oulad Salem Kairouan,مشيخة أولاد سالم القير,Caïdat de KAIROUAN,TN_CC_KAIROUAN,HSU_KAIROUAN,Center-West,35.7081,10.0163,Feuille Kairouan (SGA No. 407),Soumis au Kanoun et à l'Achour
+CH_0309,Cheikhat Beni Zid Kairouan,مشيخة بني زيد القير,Caïdat de KAIROUAN,TN_CC_KAIROUAN,HSU_KAIROUAN,Center-West,35.5981,10.1263,Feuille Kairouan (SGA No. 407),Soumis au Kanoun et à l'Achour
+CH_0310,Cheikhat El Ksar Kairouan,مشيخة القصر القير,Caïdat de KAIROUAN,TN_CC_KAIROUAN,HSU_KAIROUAN,Center-West,35.6881,10.0763,Feuille Kairouan (SGA No. 407),Soumis au Kanoun et à l'Achour
+CH_0311,Cheikhat Zaouia Kairouan,مشيخة الزاوية القير,Caïdat de KAIROUAN,TN_CC_KAIROUAN,HSU_KAIROUAN,Center-West,35.6481,10.1363,Feuille Kairouan (SGA No. 407),Soumis au Kanoun et à l'Achour
+CH_0312,Cheikhat Henchir El Bey Kairouan,مشيخة هنشير الباي القير,Caïdat de KAIROUAN,TN_CC_KAIROUAN,HSU_KAIROUAN,Center-West,35.7181,10.1663,Feuille Kairouan (SGA No. 407),Soumis au Kanoun et à l'Achour
+CH_0313,Cheikhat Centre Les Souassi,مشيخة المركز الس,Caïdat de KAIROUAN,TN_CC_KAIROUAN,HSU_SOUASSI,Sahel/Center-East,35.35,10.55,Feuille Les Souassi (SGA No. 406),Soumis au Kanoun et à l'Achour
+CH_0314,Cheikhat Nord Les Souassi,مشيخة الشمال الس,Caïdat de KAIROUAN,TN_CC_KAIROUAN,HSU_SOUASSI,Sahel/Center-East,35.4,10.57,Feuille Les Souassi (SGA No. 406),Soumis au Kanoun et à l'Achour
+CH_0315,Cheikhat Sud Les Souassi,مشيخة الجنوب الس,Caïdat de KAIROUAN,TN_CC_KAIROUAN,HSU_SOUASSI,Sahel/Center-East,35.3,10.53,Feuille Les Souassi (SGA No. 406),Soumis au Kanoun et à l'Achour
+CH_0316,Cheikhat Est Les Souassi,مشيخة الشرق الس,Caïdat de KAIROUAN,TN_CC_KAIROUAN,HSU_SOUASSI,Sahel/Center-East,35.37,10.61,Feuille Les Souassi (SGA No. 406),Soumis au Kanoun et à l'Achour
+CH_0317,Cheikhat Ouest Les Souassi,مشيخة الغرب الس,Caïdat de KAIROUAN,TN_CC_KAIROUAN,HSU_SOUASSI,Sahel/Center-East,35.33,10.49,Feuille Les Souassi (SGA No. 406),Soumis au Kanoun et à l'Achour
+CH_0318,Cheikhat Oulad Mansour Les Souassi,مشيخة أولاد منصور الس,Caïdat de KAIROUAN,TN_CC_KAIROUAN,HSU_SOUASSI,Sahel/Center-East,35.42,10.51,Feuille Les Souassi (SGA No. 406),Soumis au Kanoun et à l'Achour
+CH_0319,Cheikhat Oulad Ali Les Souassi,مشيخة أولاد علي الس,Caïdat de KAIROUAN,TN_CC_KAIROUAN,HSU_SOUASSI,Sahel/Center-East,35.29,10.6,Feuille Les Souassi (SGA No. 406),Soumis au Kanoun et à l'Achour
+CH_0320,Cheikhat Oulad Salem Les Souassi,مشيخة أولاد سالم الس,Caïdat de KAIROUAN,TN_CC_KAIROUAN,HSU_SOUASSI,Sahel/Center-East,35.38,10.47,Feuille Les Souassi (SGA No. 406),Soumis au Kanoun et à l'Achour
+CH_0321,Cheikhat Beni Zid Les Souassi,مشيخة بني زيد الس,Caïdat de KAIROUAN,TN_CC_KAIROUAN,HSU_SOUASSI,Sahel/Center-East,35.27,10.58,Feuille Les Souassi (SGA No. 406),Soumis au Kanoun et à l'Achour
+CH_0322,Cheikhat El Ksar Les Souassi,مشيخة القصر الس,Caïdat de KAIROUAN,TN_CC_KAIROUAN,HSU_SOUASSI,Sahel/Center-East,35.36,10.53,Feuille Les Souassi (SGA No. 406),Soumis au Kanoun et à l'Achour
+CH_0323,Cheikhat Zaouia Les Souassi,مشيخة الزاوية الس,Caïdat de KAIROUAN,TN_CC_KAIROUAN,HSU_SOUASSI,Sahel/Center-East,35.32,10.59,Feuille Les Souassi (SGA No. 406),Soumis au Kanoun et à l'Achour
+CH_0324,Cheikhat Henchir El Bey Les Souassi,مشيخة هنشير الباي الس,Caïdat de KAIROUAN,TN_CC_KAIROUAN,HSU_SOUASSI,Sahel/Center-East,35.39,10.62,Feuille Les Souassi (SGA No. 406),Soumis au Kanoun et à l'Achour
+CH_0325,Cheikhat Centre Maktar,مشيخة المركز مكثر,Caïdat de KAIROUAN,TN_CC_KAIROUAN,HSU_MAKTAR,Center-West,35.85,9.2,Feuille Maktar (SGA No. 404),Soumis au Kanoun et à l'Achour
+CH_0326,Cheikhat Nord Maktar,مشيخة الشمال مكثر,Caïdat de KAIROUAN,TN_CC_KAIROUAN,HSU_MAKTAR,Center-West,35.9,9.22,Feuille Maktar (SGA No. 404),Soumis au Kanoun et à l'Achour
+CH_0327,Cheikhat Sud Maktar,مشيخة الجنوب مكثر,Caïdat de KAIROUAN,TN_CC_KAIROUAN,HSU_MAKTAR,Center-West,35.8,9.18,Feuille Maktar (SGA No. 404),Soumis au Kanoun et à l'Achour
+CH_0328,Cheikhat Est Maktar,مشيخة الشرق مكثر,Caïdat de KAIROUAN,TN_CC_KAIROUAN,HSU_MAKTAR,Center-West,35.87,9.26,Feuille Maktar (SGA No. 404),Soumis au Kanoun et à l'Achour
+CH_0329,Cheikhat Ouest Maktar,مشيخة الغرب مكثر,Caïdat de KAIROUAN,TN_CC_KAIROUAN,HSU_MAKTAR,Center-West,35.83,9.14,Feuille Maktar (SGA No. 404),Soumis au Kanoun et à l'Achour
+CH_0330,Cheikhat Oulad Mansour Maktar,مشيخة أولاد منصور مكثر,Caïdat de KAIROUAN,TN_CC_KAIROUAN,HSU_MAKTAR,Center-West,35.92,9.16,Feuille Maktar (SGA No. 404),Soumis au Kanoun et à l'Achour
+CH_0331,Cheikhat Oulad Ali Maktar,مشيخة أولاد علي مكثر,Caïdat de KAIROUAN,TN_CC_KAIROUAN,HSU_MAKTAR,Center-West,35.79,9.25,Feuille Maktar (SGA No. 404),Soumis au Kanoun et à l'Achour
+CH_0332,Cheikhat Oulad Salem Maktar,مشيخة أولاد سالم مكثر,Caïdat de KAIROUAN,TN_CC_KAIROUAN,HSU_MAKTAR,Center-West,35.88,9.12,Feuille Maktar (SGA No. 404),Soumis au Kanoun et à l'Achour
+CH_0333,Cheikhat Beni Zid Maktar,مشيخة بني زيد مكثر,Caïdat de KAIROUAN,TN_CC_KAIROUAN,HSU_MAKTAR,Center-West,35.77,9.23,Feuille Maktar (SGA No. 404),Soumis au Kanoun et à l'Achour
+CH_0334,Cheikhat El Ksar Maktar,مشيخة القصر مكثر,Caïdat de KAIROUAN,TN_CC_KAIROUAN,HSU_MAKTAR,Center-West,35.86,9.18,Feuille Maktar (SGA No. 404),Soumis au Kanoun et à l'Achour
+CH_0335,Cheikhat Zaouia Maktar,مشيخة الزاوية مكثر,Caïdat de KAIROUAN,TN_CC_KAIROUAN,HSU_MAKTAR,Center-West,35.82,9.24,Feuille Maktar (SGA No. 404),Soumis au Kanoun et à l'Achour
+CH_0336,Cheikhat Henchir El Bey Maktar,مشيخة هنشير الباي مكثر,Caïdat de KAIROUAN,TN_CC_KAIROUAN,HSU_MAKTAR,Center-West,35.89,9.27,Feuille Maktar (SGA No. 404),Soumis au Kanoun et à l'Achour
+CH_0337,Cheikhat Centre Thala,مشيخة المركز تالة,Caïdat de THALA,TN_CC_THALA,HSU_THALA,Center-West,35.57,8.67,Feuille Thala (SGA No. 399),Soumis au Kanoun et à l'Achour
+CH_0338,Cheikhat Nord Thala,مشيخة الشمال تالة,Caïdat de THALA,TN_CC_THALA,HSU_THALA,Center-West,35.62,8.69,Feuille Thala (SGA No. 399),Soumis au Kanoun et à l'Achour
+CH_0339,Cheikhat Sud Thala,مشيخة الجنوب تالة,Caïdat de THALA,TN_CC_THALA,HSU_THALA,Center-West,35.52,8.65,Feuille Thala (SGA No. 399),Soumis au Kanoun et à l'Achour
+CH_0340,Cheikhat Est Thala,مشيخة الشرق تالة,Caïdat de THALA,TN_CC_THALA,HSU_THALA,Center-West,35.59,8.73,Feuille Thala (SGA No. 399),Soumis au Kanoun et à l'Achour
+CH_0341,Cheikhat Ouest Thala,مشيخة الغرب تالة,Caïdat de THALA,TN_CC_THALA,HSU_THALA,Center-West,35.55,8.61,Feuille Thala (SGA No. 399),Soumis au Kanoun et à l'Achour
+CH_0342,Cheikhat Oulad Mansour Thala,مشيخة أولاد منصور تالة,Caïdat de THALA,TN_CC_THALA,HSU_THALA,Center-West,35.64,8.63,Feuille Thala (SGA No. 399),Soumis au Kanoun et à l'Achour
+CH_0343,Cheikhat Oulad Ali Thala,مشيخة أولاد علي تالة,Caïdat de THALA,TN_CC_THALA,HSU_THALA,Center-West,35.51,8.72,Feuille Thala (SGA No. 399),Soumis au Kanoun et à l'Achour
+CH_0344,Cheikhat Oulad Salem Thala,مشيخة أولاد سالم تالة,Caïdat de THALA,TN_CC_THALA,HSU_THALA,Center-West,35.6,8.59,Feuille Thala (SGA No. 399),Soumis au Kanoun et à l'Achour
+CH_0345,Cheikhat Beni Zid Thala,مشيخة بني زيد تالة,Caïdat de THALA,TN_CC_THALA,HSU_THALA,Center-West,35.49,8.7,Feuille Thala (SGA No. 399),Soumis au Kanoun et à l'Achour
+CH_0346,Cheikhat El Ksar Thala,مشيخة القصر تالة,Caïdat de THALA,TN_CC_THALA,HSU_THALA,Center-West,35.58,8.65,Feuille Thala (SGA No. 399),Soumis au Kanoun et à l'Achour
+CH_0347,Cheikhat Zaouia Thala,مشيخة الزاوية تالة,Caïdat de THALA,TN_CC_THALA,HSU_THALA,Center-West,35.54,8.71,Feuille Thala (SGA No. 399),Soumis au Kanoun et à l'Achour
+CH_0348,Cheikhat Henchir El Bey Thala,مشيخة هنشير الباي تالة,Caïdat de THALA,TN_CC_THALA,HSU_THALA,Center-West,35.61,8.74,Feuille Thala (SGA No. 399),Soumis au Kanoun et à l'Achour
+CH_0349,Cheikhat Centre Sbeïtla,مشيخة المركز سبيطلة,Caïdat de THALA,TN_CC_THALA,HSU_SBEITLA,Center-West,35.23,9.13,Feuille Sbeïtla (SGA No. 397),Soumis au Kanoun et à l'Achour
+CH_0350,Cheikhat Nord Sbeïtla,مشيخة الشمال سبيطلة,Caïdat de THALA,TN_CC_THALA,HSU_SBEITLA,Center-West,35.28,9.15,Feuille Sbeïtla (SGA No. 397),Soumis au Kanoun et à l'Achour
+CH_0351,Cheikhat Sud Sbeïtla,مشيخة الجنوب سبيطلة,Caïdat de THALA,TN_CC_THALA,HSU_SBEITLA,Center-West,35.18,9.11,Feuille Sbeïtla (SGA No. 397),Soumis au Kanoun et à l'Achour
+CH_0352,Cheikhat Est Sbeïtla,مشيخة الشرق سبيطلة,Caïdat de THALA,TN_CC_THALA,HSU_SBEITLA,Center-West,35.25,9.19,Feuille Sbeïtla (SGA No. 397),Soumis au Kanoun et à l'Achour
+CH_0353,Cheikhat Ouest Sbeïtla,مشيخة الغرب سبيطلة,Caïdat de THALA,TN_CC_THALA,HSU_SBEITLA,Center-West,35.21,9.07,Feuille Sbeïtla (SGA No. 397),Soumis au Kanoun et à l'Achour
+CH_0354,Cheikhat Oulad Mansour Sbeïtla,مشيخة أولاد منصور سبيطلة,Caïdat de THALA,TN_CC_THALA,HSU_SBEITLA,Center-West,35.3,9.09,Feuille Sbeïtla (SGA No. 397),Soumis au Kanoun et à l'Achour
+CH_0355,Cheikhat Oulad Ali Sbeïtla,مشيخة أولاد علي سبيطلة,Caïdat de THALA,TN_CC_THALA,HSU_SBEITLA,Center-West,35.17,9.18,Feuille Sbeïtla (SGA No. 397),Soumis au Kanoun et à l'Achour
+CH_0356,Cheikhat Oulad Salem Sbeïtla,مشيخة أولاد سالم سبيطلة,Caïdat de THALA,TN_CC_THALA,HSU_SBEITLA,Center-West,35.26,9.05,Feuille Sbeïtla (SGA No. 397),Soumis au Kanoun et à l'Achour
+CH_0357,Cheikhat Beni Zid Sbeïtla,مشيخة بني زيد سبيطلة,Caïdat de THALA,TN_CC_THALA,HSU_SBEITLA,Center-West,35.15,9.16,Feuille Sbeïtla (SGA No. 397),Soumis au Kanoun et à l'Achour
+CH_0358,Cheikhat El Ksar Sbeïtla,مشيخة القصر سبيطلة,Caïdat de THALA,TN_CC_THALA,HSU_SBEITLA,Center-West,35.24,9.11,Feuille Sbeïtla (SGA No. 397),Soumis au Kanoun et à l'Achour
+CH_0359,Cheikhat Zaouia Sbeïtla,مشيخة الزاوية سبيطلة,Caïdat de THALA,TN_CC_THALA,HSU_SBEITLA,Center-West,35.2,9.17,Feuille Sbeïtla (SGA No. 397),Soumis au Kanoun et à l'Achour
+CH_0360,Cheikhat Henchir El Bey Sbeïtla,مشيخة هنشير الباي سبيطلة,Caïdat de THALA,TN_CC_THALA,HSU_SBEITLA,Center-West,35.27,9.2,Feuille Sbeïtla (SGA No. 397),Soumis au Kanoun et à l'Achour
+CH_0361,Cheikhat Centre Kasserine,مشيخة المركز القصرين,Caïdat de THALA,TN_CC_THALA,HSU_KASSERINE,Center-West,35.1667,8.8333,Feuille Kasserine (SGA No. 395),Soumis au Kanoun et à l'Achour
+CH_0362,Cheikhat Nord Kasserine,مشيخة الشمال القصرين,Caïdat de THALA,TN_CC_THALA,HSU_KASSERINE,Center-West,35.2167,8.8533,Feuille Kasserine (SGA No. 395),Soumis au Kanoun et à l'Achour
+CH_0363,Cheikhat Sud Kasserine,مشيخة الجنوب القصرين,Caïdat de THALA,TN_CC_THALA,HSU_KASSERINE,Center-West,35.1167,8.8133,Feuille Kasserine (SGA No. 395),Soumis au Kanoun et à l'Achour
+CH_0364,Cheikhat Est Kasserine,مشيخة الشرق القصرين,Caïdat de THALA,TN_CC_THALA,HSU_KASSERINE,Center-West,35.1867,8.8933,Feuille Kasserine (SGA No. 395),Soumis au Kanoun et à l'Achour
+CH_0365,Cheikhat Ouest Kasserine,مشيخة الغرب القصرين,Caïdat de THALA,TN_CC_THALA,HSU_KASSERINE,Center-West,35.1467,8.7733,Feuille Kasserine (SGA No. 395),Soumis au Kanoun et à l'Achour
+CH_0366,Cheikhat Oulad Mansour Kasserine,مشيخة أولاد منصور القصرين,Caïdat de THALA,TN_CC_THALA,HSU_KASSERINE,Center-West,35.2367,8.7933,Feuille Kasserine (SGA No. 395),Soumis au Kanoun et à l'Achour
+CH_0367,Cheikhat Oulad Ali Kasserine,مشيخة أولاد علي القصرين,Caïdat de THALA,TN_CC_THALA,HSU_KASSERINE,Center-West,35.1067,8.8833,Feuille Kasserine (SGA No. 395),Soumis au Kanoun et à l'Achour
+CH_0368,Cheikhat Oulad Salem Kasserine,مشيخة أولاد سالم القصرين,Caïdat de THALA,TN_CC_THALA,HSU_KASSERINE,Center-West,35.1967,8.7533,Feuille Kasserine (SGA No. 395),Soumis au Kanoun et à l'Achour
+CH_0369,Cheikhat Beni Zid Kasserine,مشيخة بني زيد القصرين,Caïdat de THALA,TN_CC_THALA,HSU_KASSERINE,Center-West,35.0867,8.8633,Feuille Kasserine (SGA No. 395),Soumis au Kanoun et à l'Achour
+CH_0370,Cheikhat El Ksar Kasserine,مشيخة القصر القصرين,Caïdat de THALA,TN_CC_THALA,HSU_KASSERINE,Center-West,35.1767,8.8133,Feuille Kasserine (SGA No. 395),Soumis au Kanoun et à l'Achour
+CH_0371,Cheikhat Zaouia Kasserine,مشيخة الزاوية القصرين,Caïdat de THALA,TN_CC_THALA,HSU_KASSERINE,Center-West,35.1367,8.8733,Feuille Kasserine (SGA No. 395),Soumis au Kanoun et à l'Achour
+CH_0372,Cheikhat Henchir El Bey Kasserine,مشيخة هنشير الباي القصرين,Caïdat de THALA,TN_CC_THALA,HSU_KASSERINE,Center-West,35.2067,8.9033,Feuille Kasserine (SGA No. 395),Soumis au Kanoun et à l'Achour
+CH_0373,Cheikhat Centre Sfax,مشيخة المركز صفاقس,Caïdat de SFAX,TN_CC_SFAX,HSU_SFAX,South,34.7406,10.7603,Feuille Sfax (SGA No. 401),Soumis au Kanoun et à l'Achour
+CH_0374,Cheikhat Nord Sfax,مشيخة الشمال صفاقس,Caïdat de SFAX,TN_CC_SFAX,HSU_SFAX,South,34.7906,10.7803,Feuille Sfax (SGA No. 401),Soumis au Kanoun et à l'Achour
+CH_0375,Cheikhat Sud Sfax,مشيخة الجنوب صفاقس,Caïdat de SFAX,TN_CC_SFAX,HSU_SFAX,South,34.6906,10.7403,Feuille Sfax (SGA No. 401),Soumis au Kanoun et à l'Achour
+CH_0376,Cheikhat Est Sfax,مشيخة الشرق صفاقس,Caïdat de SFAX,TN_CC_SFAX,HSU_SFAX,South,34.7606,10.8203,Feuille Sfax (SGA No. 401),Soumis au Kanoun et à l'Achour
+CH_0377,Cheikhat Ouest Sfax,مشيخة الغرب صفاقس,Caïdat de SFAX,TN_CC_SFAX,HSU_SFAX,South,34.7206,10.7003,Feuille Sfax (SGA No. 401),Soumis au Kanoun et à l'Achour
+CH_0378,Cheikhat Oulad Mansour Sfax,مشيخة أولاد منصور صفاقس,Caïdat de SFAX,TN_CC_SFAX,HSU_SFAX,South,34.8106,10.7203,Feuille Sfax (SGA No. 401),Soumis au Kanoun et à l'Achour
+CH_0379,Cheikhat Oulad Ali Sfax,مشيخة أولاد علي صفاقس,Caïdat de SFAX,TN_CC_SFAX,HSU_SFAX,South,34.6806,10.8103,Feuille Sfax (SGA No. 401),Soumis au Kanoun et à l'Achour
+CH_0380,Cheikhat Oulad Salem Sfax,مشيخة أولاد سالم صفاقس,Caïdat de SFAX,TN_CC_SFAX,HSU_SFAX,South,34.7706,10.6803,Feuille Sfax (SGA No. 401),Soumis au Kanoun et à l'Achour
+CH_0381,Cheikhat Beni Zid Sfax,مشيخة بني زيد صفاقس,Caïdat de SFAX,TN_CC_SFAX,HSU_SFAX,South,34.6606,10.7903,Feuille Sfax (SGA No. 401),Soumis au Kanoun et à l'Achour
+CH_0382,Cheikhat El Ksar Sfax,مشيخة القصر صفاقس,Caïdat de SFAX,TN_CC_SFAX,HSU_SFAX,South,34.7506,10.7403,Feuille Sfax (SGA No. 401),Soumis au Kanoun et à l'Achour
+CH_0383,Cheikhat Zaouia Sfax,مشيخة الزاوية صفاقس,Caïdat de SFAX,TN_CC_SFAX,HSU_SFAX,South,34.7106,10.8003,Feuille Sfax (SGA No. 401),Soumis au Kanoun et à l'Achour
+CH_0384,Cheikhat Henchir El Bey Sfax,مشيخة هنشير الباي صفاقس,Caïdat de SFAX,TN_CC_SFAX,HSU_SFAX,South,34.7806,10.8303,Feuille Sfax (SGA No. 401),Soumis au Kanoun et à l'Achour
+CH_0385,Cheikhat Centre Djebeniana,مشيخة المركز جبنيانة,Caïdat de SFAX,TN_CC_SFAX,HSU_DJEBINIANA,South,35.0333,10.9,Feuille Djebeniana (SGA No. 404),Soumis au Kanoun et à l'Achour
+CH_0386,Cheikhat Nord Djebeniana,مشيخة الشمال جبنيانة,Caïdat de SFAX,TN_CC_SFAX,HSU_DJEBINIANA,South,35.0833,10.92,Feuille Djebeniana (SGA No. 404),Soumis au Kanoun et à l'Achour
+CH_0387,Cheikhat Sud Djebeniana,مشيخة الجنوب جبنيانة,Caïdat de SFAX,TN_CC_SFAX,HSU_DJEBINIANA,South,34.9833,10.88,Feuille Djebeniana (SGA No. 404),Soumis au Kanoun et à l'Achour
+CH_0388,Cheikhat Est Djebeniana,مشيخة الشرق جبنيانة,Caïdat de SFAX,TN_CC_SFAX,HSU_DJEBINIANA,South,35.0533,10.96,Feuille Djebeniana (SGA No. 404),Soumis au Kanoun et à l'Achour
+CH_0389,Cheikhat Ouest Djebeniana,مشيخة الغرب جبنيانة,Caïdat de SFAX,TN_CC_SFAX,HSU_DJEBINIANA,South,35.0133,10.84,Feuille Djebeniana (SGA No. 404),Soumis au Kanoun et à l'Achour
+CH_0390,Cheikhat Oulad Mansour Djebeniana,مشيخة أولاد منصور جبنيانة,Caïdat de SFAX,TN_CC_SFAX,HSU_DJEBINIANA,South,35.1033,10.86,Feuille Djebeniana (SGA No. 404),Soumis au Kanoun et à l'Achour
+CH_0391,Cheikhat Oulad Ali Djebeniana,مشيخة أولاد علي جبنيانة,Caïdat de SFAX,TN_CC_SFAX,HSU_DJEBINIANA,South,34.9733,10.95,Feuille Djebeniana (SGA No. 404),Soumis au Kanoun et à l'Achour
+CH_0392,Cheikhat Oulad Salem Djebeniana,مشيخة أولاد سالم جبنيانة,Caïdat de SFAX,TN_CC_SFAX,HSU_DJEBINIANA,South,35.0633,10.82,Feuille Djebeniana (SGA No. 404),Soumis au Kanoun et à l'Achour
+CH_0393,Cheikhat Beni Zid Djebeniana,مشيخة بني زيد جبنيانة,Caïdat de SFAX,TN_CC_SFAX,HSU_DJEBINIANA,South,34.9533,10.93,Feuille Djebeniana (SGA No. 404),Soumis au Kanoun et à l'Achour
+CH_0394,Cheikhat El Ksar Djebeniana,مشيخة القصر جبنيانة,Caïdat de SFAX,TN_CC_SFAX,HSU_DJEBINIANA,South,35.0433,10.88,Feuille Djebeniana (SGA No. 404),Soumis au Kanoun et à l'Achour
+CH_0395,Cheikhat Zaouia Djebeniana,مشيخة الزاوية جبنيانة,Caïdat de SFAX,TN_CC_SFAX,HSU_DJEBINIANA,South,35.0033,10.94,Feuille Djebeniana (SGA No. 404),Soumis au Kanoun et à l'Achour
+CH_0396,Cheikhat Henchir El Bey Djebeniana,مشيخة هنشير الباي جبنيانة,Caïdat de SFAX,TN_CC_SFAX,HSU_DJEBINIANA,South,35.0733,10.97,Feuille Djebeniana (SGA No. 404),Soumis au Kanoun et à l'Achour
+CH_0397,Cheikhat Centre El Djem,مشيخة المركز الجم,Caïdat de SFAX,TN_CC_SFAX,HSU_EL_DJEM,Sahel/Center-East,35.3,10.7167,Feuille El Djem (SGA No. 406),Soumis au Kanoun et à l'Achour
+CH_0398,Cheikhat Nord El Djem,مشيخة الشمال الجم,Caïdat de SFAX,TN_CC_SFAX,HSU_EL_DJEM,Sahel/Center-East,35.35,10.7367,Feuille El Djem (SGA No. 406),Soumis au Kanoun et à l'Achour
+CH_0399,Cheikhat Sud El Djem,مشيخة الجنوب الجم,Caïdat de SFAX,TN_CC_SFAX,HSU_EL_DJEM,Sahel/Center-East,35.25,10.6967,Feuille El Djem (SGA No. 406),Soumis au Kanoun et à l'Achour
+CH_0400,Cheikhat Est El Djem,مشيخة الشرق الجم,Caïdat de SFAX,TN_CC_SFAX,HSU_EL_DJEM,Sahel/Center-East,35.32,10.7767,Feuille El Djem (SGA No. 406),Soumis au Kanoun et à l'Achour
+CH_0401,Cheikhat Ouest El Djem,مشيخة الغرب الجم,Caïdat de SFAX,TN_CC_SFAX,HSU_EL_DJEM,Sahel/Center-East,35.28,10.6567,Feuille El Djem (SGA No. 406),Soumis au Kanoun et à l'Achour
+CH_0402,Cheikhat Oulad Mansour El Djem,مشيخة أولاد منصور الجم,Caïdat de SFAX,TN_CC_SFAX,HSU_EL_DJEM,Sahel/Center-East,35.37,10.6767,Feuille El Djem (SGA No. 406),Soumis au Kanoun et à l'Achour
+CH_0403,Cheikhat Oulad Ali El Djem,مشيخة أولاد علي الجم,Caïdat de SFAX,TN_CC_SFAX,HSU_EL_DJEM,Sahel/Center-East,35.24,10.7667,Feuille El Djem (SGA No. 406),Soumis au Kanoun et à l'Achour
+CH_0404,Cheikhat Oulad Salem El Djem,مشيخة أولاد سالم الجم,Caïdat de SFAX,TN_CC_SFAX,HSU_EL_DJEM,Sahel/Center-East,35.33,10.6367,Feuille El Djem (SGA No. 406),Soumis au Kanoun et à l'Achour
+CH_0405,Cheikhat Beni Zid El Djem,مشيخة بني زيد الجم,Caïdat de SFAX,TN_CC_SFAX,HSU_EL_DJEM,Sahel/Center-East,35.22,10.7467,Feuille El Djem (SGA No. 406),Soumis au Kanoun et à l'Achour
+CH_0406,Cheikhat El Ksar El Djem,مشيخة القصر الجم,Caïdat de SFAX,TN_CC_SFAX,HSU_EL_DJEM,Sahel/Center-East,35.31,10.6967,Feuille El Djem (SGA No. 406),Soumis au Kanoun et à l'Achour
+CH_0407,Cheikhat Zaouia El Djem,مشيخة الزاوية الجم,Caïdat de SFAX,TN_CC_SFAX,HSU_EL_DJEM,Sahel/Center-East,35.27,10.7567,Feuille El Djem (SGA No. 406),Soumis au Kanoun et à l'Achour
+CH_0408,Cheikhat Henchir El Bey El Djem,مشيخة هنشير الباي الجم,Caïdat de SFAX,TN_CC_SFAX,HSU_EL_DJEM,Sahel/Center-East,35.34,10.7867,Feuille El Djem (SGA No. 406),Soumis au Kanoun et à l'Achour
+CH_0409,Cheikhat Centre Kerkennah,مشيخة المركز قرقنة,Caïdat de SFAX,TN_CC_SFAX,HSU_KERKENNAH,South,34.7333,11.2167,Feuille Kerkennah (SGA No. 403),Soumis au Kanoun et à l'Achour
+CH_0410,Cheikhat Nord Kerkennah,مشيخة الشمال قرقنة,Caïdat de SFAX,TN_CC_SFAX,HSU_KERKENNAH,South,34.7833,11.2367,Feuille Kerkennah (SGA No. 403),Soumis au Kanoun et à l'Achour
+CH_0411,Cheikhat Sud Kerkennah,مشيخة الجنوب قرقنة,Caïdat de SFAX,TN_CC_SFAX,HSU_KERKENNAH,South,34.6833,11.1967,Feuille Kerkennah (SGA No. 403),Soumis au Kanoun et à l'Achour
+CH_0412,Cheikhat Est Kerkennah,مشيخة الشرق قرقنة,Caïdat de SFAX,TN_CC_SFAX,HSU_KERKENNAH,South,34.7533,11.2767,Feuille Kerkennah (SGA No. 403),Soumis au Kanoun et à l'Achour
+CH_0413,Cheikhat Ouest Kerkennah,مشيخة الغرب قرقنة,Caïdat de SFAX,TN_CC_SFAX,HSU_KERKENNAH,South,34.7133,11.1567,Feuille Kerkennah (SGA No. 403),Soumis au Kanoun et à l'Achour
+CH_0414,Cheikhat Oulad Mansour Kerkennah,مشيخة أولاد منصور قرقنة,Caïdat de SFAX,TN_CC_SFAX,HSU_KERKENNAH,South,34.8033,11.1767,Feuille Kerkennah (SGA No. 403),Soumis au Kanoun et à l'Achour
+CH_0415,Cheikhat Oulad Ali Kerkennah,مشيخة أولاد علي قرقنة,Caïdat de SFAX,TN_CC_SFAX,HSU_KERKENNAH,South,34.6733,11.2667,Feuille Kerkennah (SGA No. 403),Soumis au Kanoun et à l'Achour
+CH_0416,Cheikhat Oulad Salem Kerkennah,مشيخة أولاد سالم قرقنة,Caïdat de SFAX,TN_CC_SFAX,HSU_KERKENNAH,South,34.7633,11.1367,Feuille Kerkennah (SGA No. 403),Soumis au Kanoun et à l'Achour
+CH_0417,Cheikhat Beni Zid Kerkennah,مشيخة بني زيد قرقنة,Caïdat de SFAX,TN_CC_SFAX,HSU_KERKENNAH,South,34.6533,11.2467,Feuille Kerkennah (SGA No. 403),Soumis au Kanoun et à l'Achour
+CH_0418,Cheikhat El Ksar Kerkennah,مشيخة القصر قرقنة,Caïdat de SFAX,TN_CC_SFAX,HSU_KERKENNAH,South,34.7433,11.1967,Feuille Kerkennah (SGA No. 403),Soumis au Kanoun et à l'Achour
+CH_0419,Cheikhat Zaouia Kerkennah,مشيخة الزاوية قرقنة,Caïdat de SFAX,TN_CC_SFAX,HSU_KERKENNAH,South,34.7033,11.2567,Feuille Kerkennah (SGA No. 403),Soumis au Kanoun et à l'Achour
+CH_0420,Cheikhat Henchir El Bey Kerkennah,مشيخة هنشير الباي قرقنة,Caïdat de SFAX,TN_CC_SFAX,HSU_KERKENNAH,South,34.7733,11.2867,Feuille Kerkennah (SGA No. 403),Soumis au Kanoun et à l'Achour
+CH_0421,Cheikhat Centre Gafsa,مشيخة المركز قفصة,Caïdat de GAFSA,TN_CC_GAFSA,HSU_GAFSA,South,34.425,8.7842,Feuille Gafsa (SGA No. 388),Soumis au Kanoun et à l'Achour
+CH_0422,Cheikhat Nord Gafsa,مشيخة الشمال قفصة,Caïdat de GAFSA,TN_CC_GAFSA,HSU_GAFSA,South,34.475,8.8042,Feuille Gafsa (SGA No. 388),Soumis au Kanoun et à l'Achour
+CH_0423,Cheikhat Sud Gafsa,مشيخة الجنوب قفصة,Caïdat de GAFSA,TN_CC_GAFSA,HSU_GAFSA,South,34.375,8.7642,Feuille Gafsa (SGA No. 388),Soumis au Kanoun et à l'Achour
+CH_0424,Cheikhat Est Gafsa,مشيخة الشرق قفصة,Caïdat de GAFSA,TN_CC_GAFSA,HSU_GAFSA,South,34.445,8.8442,Feuille Gafsa (SGA No. 388),Soumis au Kanoun et à l'Achour
+CH_0425,Cheikhat Ouest Gafsa,مشيخة الغرب قفصة,Caïdat de GAFSA,TN_CC_GAFSA,HSU_GAFSA,South,34.405,8.7242,Feuille Gafsa (SGA No. 388),Soumis au Kanoun et à l'Achour
+CH_0426,Cheikhat Oulad Mansour Gafsa,مشيخة أولاد منصور قفصة,Caïdat de GAFSA,TN_CC_GAFSA,HSU_GAFSA,South,34.495,8.7442,Feuille Gafsa (SGA No. 388),Soumis au Kanoun et à l'Achour
+CH_0427,Cheikhat Oulad Ali Gafsa,مشيخة أولاد علي قفصة,Caïdat de GAFSA,TN_CC_GAFSA,HSU_GAFSA,South,34.365,8.8342,Feuille Gafsa (SGA No. 388),Soumis au Kanoun et à l'Achour
+CH_0428,Cheikhat Oulad Salem Gafsa,مشيخة أولاد سالم قفصة,Caïdat de GAFSA,TN_CC_GAFSA,HSU_GAFSA,South,34.455,8.7042,Feuille Gafsa (SGA No. 388),Soumis au Kanoun et à l'Achour
+CH_0429,Cheikhat Beni Zid Gafsa,مشيخة بني زيد قفصة,Caïdat de GAFSA,TN_CC_GAFSA,HSU_GAFSA,South,34.345,8.8142,Feuille Gafsa (SGA No. 388),Soumis au Kanoun et à l'Achour
+CH_0430,Cheikhat El Ksar Gafsa,مشيخة القصر قفصة,Caïdat de GAFSA,TN_CC_GAFSA,HSU_GAFSA,South,34.435,8.7642,Feuille Gafsa (SGA No. 388),Soumis au Kanoun et à l'Achour
+CH_0431,Cheikhat Zaouia Gafsa,مشيخة الزاوية قفصة,Caïdat de GAFSA,TN_CC_GAFSA,HSU_GAFSA,South,34.395,8.8242,Feuille Gafsa (SGA No. 388),Soumis au Kanoun et à l'Achour
+CH_0432,Cheikhat Henchir El Bey Gafsa,مشيخة هنشير الباي قفصة,Caïdat de GAFSA,TN_CC_GAFSA,HSU_GAFSA,South,34.465,8.8542,Feuille Gafsa (SGA No. 388),Soumis au Kanoun et à l'Achour
+CH_0433,Cheikhat Centre Tozeur,مشيخة المركز ت,Caïdat de GAFSA,TN_CC_GAFSA,HSU_TOZEUR,South,33.9197,8.1336,Feuille Tozeur (SGA No. 379),Soumis au Kanoun et à l'Achour
+CH_0434,Cheikhat Nord Tozeur,مشيخة الشمال ت,Caïdat de GAFSA,TN_CC_GAFSA,HSU_TOZEUR,South,33.9697,8.1536,Feuille Tozeur (SGA No. 379),Soumis au Kanoun et à l'Achour
+CH_0435,Cheikhat Sud Tozeur,مشيخة الجنوب ت,Caïdat de GAFSA,TN_CC_GAFSA,HSU_TOZEUR,South,33.8697,8.1136,Feuille Tozeur (SGA No. 379),Soumis au Kanoun et à l'Achour
+CH_0436,Cheikhat Est Tozeur,مشيخة الشرق ت,Caïdat de GAFSA,TN_CC_GAFSA,HSU_TOZEUR,South,33.9397,8.1936,Feuille Tozeur (SGA No. 379),Soumis au Kanoun et à l'Achour
+CH_0437,Cheikhat Ouest Tozeur,مشيخة الغرب ت,Caïdat de GAFSA,TN_CC_GAFSA,HSU_TOZEUR,South,33.8997,8.0736,Feuille Tozeur (SGA No. 379),Soumis au Kanoun et à l'Achour
+CH_0438,Cheikhat Oulad Mansour Tozeur,مشيخة أولاد منصور ت,Caïdat de GAFSA,TN_CC_GAFSA,HSU_TOZEUR,South,33.9897,8.0936,Feuille Tozeur (SGA No. 379),Soumis au Kanoun et à l'Achour
+CH_0439,Cheikhat Oulad Ali Tozeur,مشيخة أولاد علي ت,Caïdat de GAFSA,TN_CC_GAFSA,HSU_TOZEUR,South,33.8597,8.1836,Feuille Tozeur (SGA No. 379),Soumis au Kanoun et à l'Achour
+CH_0440,Cheikhat Oulad Salem Tozeur,مشيخة أولاد سالم ت,Caïdat de GAFSA,TN_CC_GAFSA,HSU_TOZEUR,South,33.9497,8.0536,Feuille Tozeur (SGA No. 379),Soumis au Kanoun et à l'Achour
+CH_0441,Cheikhat Beni Zid Tozeur,مشيخة بني زيد ت,Caïdat de GAFSA,TN_CC_GAFSA,HSU_TOZEUR,South,33.8397,8.1636,Feuille Tozeur (SGA No. 379),Soumis au Kanoun et à l'Achour
+CH_0442,Cheikhat El Ksar Tozeur,مشيخة القصر ت,Caïdat de GAFSA,TN_CC_GAFSA,HSU_TOZEUR,South,33.9297,8.1136,Feuille Tozeur (SGA No. 379),Soumis au Kanoun et à l'Achour
+CH_0443,Cheikhat Zaouia Tozeur,مشيخة الزاوية ت,Caïdat de GAFSA,TN_CC_GAFSA,HSU_TOZEUR,South,33.8897,8.1736,Feuille Tozeur (SGA No. 379),Soumis au Kanoun et à l'Achour
+CH_0444,Cheikhat Henchir El Bey Tozeur,مشيخة هنشير الباي ت,Caïdat de GAFSA,TN_CC_GAFSA,HSU_TOZEUR,South,33.9597,8.2036,Feuille Tozeur (SGA No. 379),Soumis au Kanoun et à l'Achour
+CH_0445,Cheikhat Centre Sidi Bouzid,مشيخة المركز سيدي ب,Caïdat de GAFSA,TN_CC_GAFSA,HSU_SIDI_BOU_ZID,Center-West,35.0381,9.4858,Feuille Sidi Bouzid (SGA No. 397),Soumis au Kanoun et à l'Achour
+CH_0446,Cheikhat Nord Sidi Bouzid,مشيخة الشمال سيدي ب,Caïdat de GAFSA,TN_CC_GAFSA,HSU_SIDI_BOU_ZID,Center-West,35.0881,9.5058,Feuille Sidi Bouzid (SGA No. 397),Soumis au Kanoun et à l'Achour
+CH_0447,Cheikhat Sud Sidi Bouzid,مشيخة الجنوب سيدي ب,Caïdat de GAFSA,TN_CC_GAFSA,HSU_SIDI_BOU_ZID,Center-West,34.9881,9.4658,Feuille Sidi Bouzid (SGA No. 397),Soumis au Kanoun et à l'Achour
+CH_0448,Cheikhat Est Sidi Bouzid,مشيخة الشرق سيدي ب,Caïdat de GAFSA,TN_CC_GAFSA,HSU_SIDI_BOU_ZID,Center-West,35.0581,9.5458,Feuille Sidi Bouzid (SGA No. 397),Soumis au Kanoun et à l'Achour
+CH_0449,Cheikhat Ouest Sidi Bouzid,مشيخة الغرب سيدي ب,Caïdat de GAFSA,TN_CC_GAFSA,HSU_SIDI_BOU_ZID,Center-West,35.0181,9.4258,Feuille Sidi Bouzid (SGA No. 397),Soumis au Kanoun et à l'Achour
+CH_0450,Cheikhat Oulad Mansour Sidi Bouzid,مشيخة أولاد منصور سيدي ب,Caïdat de GAFSA,TN_CC_GAFSA,HSU_SIDI_BOU_ZID,Center-West,35.1081,9.4458,Feuille Sidi Bouzid (SGA No. 397),Soumis au Kanoun et à l'Achour
+CH_0451,Cheikhat Oulad Ali Sidi Bouzid,مشيخة أولاد علي سيدي ب,Caïdat de GAFSA,TN_CC_GAFSA,HSU_SIDI_BOU_ZID,Center-West,34.9781,9.5358,Feuille Sidi Bouzid (SGA No. 397),Soumis au Kanoun et à l'Achour
+CH_0452,Cheikhat Oulad Salem Sidi Bouzid,مشيخة أولاد سالم سيدي ب,Caïdat de GAFSA,TN_CC_GAFSA,HSU_SIDI_BOU_ZID,Center-West,35.0681,9.4058,Feuille Sidi Bouzid (SGA No. 397),Soumis au Kanoun et à l'Achour
+CH_0453,Cheikhat Beni Zid Sidi Bouzid,مشيخة بني زيد سيدي ب,Caïdat de GAFSA,TN_CC_GAFSA,HSU_SIDI_BOU_ZID,Center-West,34.9581,9.5158,Feuille Sidi Bouzid (SGA No. 397),Soumis au Kanoun et à l'Achour
+CH_0454,Cheikhat El Ksar Sidi Bouzid,مشيخة القصر سيدي ب,Caïdat de GAFSA,TN_CC_GAFSA,HSU_SIDI_BOU_ZID,Center-West,35.0481,9.4658,Feuille Sidi Bouzid (SGA No. 397),Soumis au Kanoun et à l'Achour
+CH_0455,Cheikhat Zaouia Sidi Bouzid,مشيخة الزاوية سيدي ب,Caïdat de GAFSA,TN_CC_GAFSA,HSU_SIDI_BOU_ZID,Center-West,35.0081,9.5258,Feuille Sidi Bouzid (SGA No. 397),Soumis au Kanoun et à l'Achour
+CH_0456,Cheikhat Henchir El Bey Sidi Bouzid,مشيخة هنشير الباي سيدي ب,Caïdat de GAFSA,TN_CC_GAFSA,HSU_SIDI_BOU_ZID,Center-West,35.0781,9.5558,Feuille Sidi Bouzid (SGA No. 397),Soumis au Kanoun et à l'Achour
+CH_0457,Cheikhat Centre Gabès Littoral,مشيخة المركز قابس,Caïdat de GABES,TN_CC_GABES,HSU_GABES,South,33.8815,10.0982,Feuille Gabès Littoral (SGA No. 389),Soumis au Kanoun et à l'Achour
+CH_0458,Cheikhat Nord Gabès Littoral,مشيخة الشمال قابس,Caïdat de GABES,TN_CC_GABES,HSU_GABES,South,33.9315,10.1182,Feuille Gabès Littoral (SGA No. 389),Soumis au Kanoun et à l'Achour
+CH_0459,Cheikhat Sud Gabès Littoral,مشيخة الجنوب قابس,Caïdat de GABES,TN_CC_GABES,HSU_GABES,South,33.8315,10.0782,Feuille Gabès Littoral (SGA No. 389),Soumis au Kanoun et à l'Achour
+CH_0460,Cheikhat Est Gabès Littoral,مشيخة الشرق قابس,Caïdat de GABES,TN_CC_GABES,HSU_GABES,South,33.9015,10.1582,Feuille Gabès Littoral (SGA No. 389),Soumis au Kanoun et à l'Achour
+CH_0461,Cheikhat Ouest Gabès Littoral,مشيخة الغرب قابس,Caïdat de GABES,TN_CC_GABES,HSU_GABES,South,33.8615,10.0382,Feuille Gabès Littoral (SGA No. 389),Soumis au Kanoun et à l'Achour
+CH_0462,Cheikhat Oulad Mansour Gabès Littoral,مشيخة أولاد منصور قابس,Caïdat de GABES,TN_CC_GABES,HSU_GABES,South,33.9515,10.0582,Feuille Gabès Littoral (SGA No. 389),Soumis au Kanoun et à l'Achour
+CH_0463,Cheikhat Oulad Ali Gabès Littoral,مشيخة أولاد علي قابس,Caïdat de GABES,TN_CC_GABES,HSU_GABES,South,33.8215,10.1482,Feuille Gabès Littoral (SGA No. 389),Soumis au Kanoun et à l'Achour
+CH_0464,Cheikhat Oulad Salem Gabès Littoral,مشيخة أولاد سالم قابس,Caïdat de GABES,TN_CC_GABES,HSU_GABES,South,33.9115,10.0182,Feuille Gabès Littoral (SGA No. 389),Soumis au Kanoun et à l'Achour
+CH_0465,Cheikhat Beni Zid Gabès Littoral,مشيخة بني زيد قابس,Caïdat de GABES,TN_CC_GABES,HSU_GABES,South,33.8015,10.1282,Feuille Gabès Littoral (SGA No. 389),Soumis au Kanoun et à l'Achour
+CH_0466,Cheikhat El Ksar Gabès Littoral,مشيخة القصر قابس,Caïdat de GABES,TN_CC_GABES,HSU_GABES,South,33.8915,10.0782,Feuille Gabès Littoral (SGA No. 389),Soumis au Kanoun et à l'Achour
+CH_0467,Cheikhat Zaouia Gabès Littoral,مشيخة الزاوية قابس,Caïdat de GABES,TN_CC_GABES,HSU_GABES,South,33.8515,10.1382,Feuille Gabès Littoral (SGA No. 389),Soumis au Kanoun et à l'Achour
+CH_0468,Cheikhat Henchir El Bey Gabès Littoral,مشيخة هنشير الباي قابس,Caïdat de GABES,TN_CC_GABES,HSU_GABES,South,33.9215,10.1682,Feuille Gabès Littoral (SGA No. 389),Soumis au Kanoun et à l'Achour
+CH_0469,Cheikhat Centre Djerba,مشيخة المركز جربة,Caïdat de GABES,TN_CC_GABES,HSU_DJERBA,South,33.8075,10.8451,Feuille Djerba (SGA No. 392),Soumis au Kanoun et à l'Achour
+CH_0470,Cheikhat Nord Djerba,مشيخة الشمال جربة,Caïdat de GABES,TN_CC_GABES,HSU_DJERBA,South,33.8575,10.8651,Feuille Djerba (SGA No. 392),Soumis au Kanoun et à l'Achour
+CH_0471,Cheikhat Sud Djerba,مشيخة الجنوب جربة,Caïdat de GABES,TN_CC_GABES,HSU_DJERBA,South,33.7575,10.8251,Feuille Djerba (SGA No. 392),Soumis au Kanoun et à l'Achour
+CH_0472,Cheikhat Est Djerba,مشيخة الشرق جربة,Caïdat de GABES,TN_CC_GABES,HSU_DJERBA,South,33.8275,10.9051,Feuille Djerba (SGA No. 392),Soumis au Kanoun et à l'Achour
+CH_0473,Cheikhat Ouest Djerba,مشيخة الغرب جربة,Caïdat de GABES,TN_CC_GABES,HSU_DJERBA,South,33.7875,10.7851,Feuille Djerba (SGA No. 392),Soumis au Kanoun et à l'Achour
+CH_0474,Cheikhat Oulad Mansour Djerba,مشيخة أولاد منصور جربة,Caïdat de GABES,TN_CC_GABES,HSU_DJERBA,South,33.8775,10.8051,Feuille Djerba (SGA No. 392),Soumis au Kanoun et à l'Achour
+CH_0475,Cheikhat Oulad Ali Djerba,مشيخة أولاد علي جربة,Caïdat de GABES,TN_CC_GABES,HSU_DJERBA,South,33.7475,10.8951,Feuille Djerba (SGA No. 392),Soumis au Kanoun et à l'Achour
+CH_0476,Cheikhat Oulad Salem Djerba,مشيخة أولاد سالم جربة,Caïdat de GABES,TN_CC_GABES,HSU_DJERBA,South,33.8375,10.7651,Feuille Djerba (SGA No. 392),Soumis au Kanoun et à l'Achour
+CH_0477,Cheikhat Beni Zid Djerba,مشيخة بني زيد جربة,Caïdat de GABES,TN_CC_GABES,HSU_DJERBA,South,33.7275,10.8751,Feuille Djerba (SGA No. 392),Soumis au Kanoun et à l'Achour
+CH_0478,Cheikhat El Ksar Djerba,مشيخة القصر جربة,Caïdat de GABES,TN_CC_GABES,HSU_DJERBA,South,33.8175,10.8251,Feuille Djerba (SGA No. 392),Soumis au Kanoun et à l'Achour
+CH_0479,Cheikhat Zaouia Djerba,مشيخة الزاوية جربة,Caïdat de GABES,TN_CC_GABES,HSU_DJERBA,South,33.7775,10.8851,Feuille Djerba (SGA No. 392),Soumis au Kanoun et à l'Achour
+CH_0480,Cheikhat Henchir El Bey Djerba,مشيخة هنشير الباي جربة,Caïdat de GABES,TN_CC_GABES,HSU_DJERBA,South,33.8475,10.9151,Feuille Djerba (SGA No. 392),Soumis au Kanoun et à l'Achour
+CH_0481,Cheikhat Centre Médenine,مشيخة المركز مدنين,TN_TERR_SUD,TN_TERR_SUD,HSU_MEDENINE,South,33.3547,10.5053,Feuille Médenine (SGA No. 386),Soumis au Kanoun et à l'Achour
+CH_0482,Cheikhat Nord Médenine,مشيخة الشمال مدنين,TN_TERR_SUD,TN_TERR_SUD,HSU_MEDENINE,South,33.4047,10.5253,Feuille Médenine (SGA No. 386),Soumis au Kanoun et à l'Achour
+CH_0483,Cheikhat Sud Médenine,مشيخة الجنوب مدنين,TN_TERR_SUD,TN_TERR_SUD,HSU_MEDENINE,South,33.3047,10.4853,Feuille Médenine (SGA No. 386),Soumis au Kanoun et à l'Achour
+CH_0484,Cheikhat Est Médenine,مشيخة الشرق مدنين,TN_TERR_SUD,TN_TERR_SUD,HSU_MEDENINE,South,33.3747,10.5653,Feuille Médenine (SGA No. 386),Soumis au Kanoun et à l'Achour
+CH_0485,Cheikhat Ouest Médenine,مشيخة الغرب مدنين,TN_TERR_SUD,TN_TERR_SUD,HSU_MEDENINE,South,33.3347,10.4453,Feuille Médenine (SGA No. 386),Soumis au Kanoun et à l'Achour
+CH_0486,Cheikhat Oulad Mansour Médenine,مشيخة أولاد منصور مدنين,TN_TERR_SUD,TN_TERR_SUD,HSU_MEDENINE,South,33.4247,10.4653,Feuille Médenine (SGA No. 386),Soumis au Kanoun et à l'Achour
+CH_0487,Cheikhat Oulad Ali Médenine,مشيخة أولاد علي مدنين,TN_TERR_SUD,TN_TERR_SUD,HSU_MEDENINE,South,33.2947,10.5553,Feuille Médenine (SGA No. 386),Soumis au Kanoun et à l'Achour
+CH_0488,Cheikhat Oulad Salem Médenine,مشيخة أولاد سالم مدنين,TN_TERR_SUD,TN_TERR_SUD,HSU_MEDENINE,South,33.3847,10.4253,Feuille Médenine (SGA No. 386),Soumis au Kanoun et à l'Achour
+CH_0489,Cheikhat Beni Zid Médenine,مشيخة بني زيد مدنين,TN_TERR_SUD,TN_TERR_SUD,HSU_MEDENINE,South,33.2747,10.5353,Feuille Médenine (SGA No. 386),Soumis au Kanoun et à l'Achour
+CH_0490,Cheikhat El Ksar Médenine,مشيخة القصر مدنين,TN_TERR_SUD,TN_TERR_SUD,HSU_MEDENINE,South,33.3647,10.4853,Feuille Médenine (SGA No. 386),Soumis au Kanoun et à l'Achour
+CH_0491,Cheikhat Zaouia Médenine,مشيخة الزاوية مدنين,TN_TERR_SUD,TN_TERR_SUD,HSU_MEDENINE,South,33.3247,10.5453,Feuille Médenine (SGA No. 386),Soumis au Kanoun et à l'Achour
+CH_0492,Cheikhat Henchir El Bey Médenine,مشيخة هنشير الباي مدنين,TN_TERR_SUD,TN_TERR_SUD,HSU_MEDENINE,South,33.3947,10.5753,Feuille Médenine (SGA No. 386),Soumis au Kanoun et à l'Achour
+CH_0493,Cheikhat Centre Tataouine,مشيخة المركز تطا,TN_TERR_SUD,TN_TERR_SUD,HSU_TATAOUINE,South,32.9297,10.4517,Feuille Tataouine (SGA No. 381),Soumis au Kanoun et à l'Achour
+CH_0494,Cheikhat Nord Tataouine,مشيخة الشمال تطا,TN_TERR_SUD,TN_TERR_SUD,HSU_TATAOUINE,South,32.9797,10.4717,Feuille Tataouine (SGA No. 381),Soumis au Kanoun et à l'Achour
+CH_0495,Cheikhat Sud Tataouine,مشيخة الجنوب تطا,TN_TERR_SUD,TN_TERR_SUD,HSU_TATAOUINE,South,32.8797,10.4317,Feuille Tataouine (SGA No. 381),Soumis au Kanoun et à l'Achour
+CH_0496,Cheikhat Est Tataouine,مشيخة الشرق تطا,TN_TERR_SUD,TN_TERR_SUD,HSU_TATAOUINE,South,32.9497,10.5117,Feuille Tataouine (SGA No. 381),Soumis au Kanoun et à l'Achour
+CH_0497,Cheikhat Ouest Tataouine,مشيخة الغرب تطا,TN_TERR_SUD,TN_TERR_SUD,HSU_TATAOUINE,South,32.9097,10.3917,Feuille Tataouine (SGA No. 381),Soumis au Kanoun et à l'Achour
+CH_0498,Cheikhat Oulad Mansour Tataouine,مشيخة أولاد منصور تطا,TN_TERR_SUD,TN_TERR_SUD,HSU_TATAOUINE,South,32.9997,10.4117,Feuille Tataouine (SGA No. 381),Soumis au Kanoun et à l'Achour
+CH_0499,Cheikhat Oulad Ali Tataouine,مشيخة أولاد علي تطا,TN_TERR_SUD,TN_TERR_SUD,HSU_TATAOUINE,South,32.8697,10.5017,Feuille Tataouine (SGA No. 381),Soumis au Kanoun et à l'Achour
+CH_0500,Cheikhat Oulad Salem Tataouine,مشيخة أولاد سالم تطا,TN_TERR_SUD,TN_TERR_SUD,HSU_TATAOUINE,South,32.9597,10.3717,Feuille Tataouine (SGA No. 381),Soumis au Kanoun et à l'Achour
+CH_0501,Cheikhat Beni Zid Tataouine,مشيخة بني زيد تطا,TN_TERR_SUD,TN_TERR_SUD,HSU_TATAOUINE,South,32.8497,10.4817,Feuille Tataouine (SGA No. 381),Soumis au Kanoun et à l'Achour
+CH_0502,Cheikhat El Ksar Tataouine,مشيخة القصر تطا,TN_TERR_SUD,TN_TERR_SUD,HSU_TATAOUINE,South,32.9397,10.4317,Feuille Tataouine (SGA No. 381),Soumis au Kanoun et à l'Achour
+CH_0503,Cheikhat Zaouia Tataouine,مشيخة الزاوية تطا,TN_TERR_SUD,TN_TERR_SUD,HSU_TATAOUINE,South,32.8997,10.4917,Feuille Tataouine (SGA No. 381),Soumis au Kanoun et à l'Achour
+CH_0504,Cheikhat Henchir El Bey Tataouine,مشيخة هنشير الباي تطا,TN_TERR_SUD,TN_TERR_SUD,HSU_TATAOUINE,South,32.9697,10.5217,Feuille Tataouine (SGA No. 381),Soumis au Kanoun et à l'Achour
+CH_0505,Cheikhat Centre Kébili,مشيخة المركز قبلي,TN_TERR_SUD,TN_TERR_SUD,HSU_KEBILI,South,33.7044,8.9692,Feuille Kébili (SGA No. 381),Soumis au Kanoun et à l'Achour
+CH_0506,Cheikhat Nord Kébili,مشيخة الشمال قبلي,TN_TERR_SUD,TN_TERR_SUD,HSU_KEBILI,South,33.7544,8.9892,Feuille Kébili (SGA No. 381),Soumis au Kanoun et à l'Achour
+CH_0507,Cheikhat Sud Kébili,مشيخة الجنوب قبلي,TN_TERR_SUD,TN_TERR_SUD,HSU_KEBILI,South,33.6544,8.9492,Feuille Kébili (SGA No. 381),Soumis au Kanoun et à l'Achour
+CH_0508,Cheikhat Est Kébili,مشيخة الشرق قبلي,TN_TERR_SUD,TN_TERR_SUD,HSU_KEBILI,South,33.7244,9.0292,Feuille Kébili (SGA No. 381),Soumis au Kanoun et à l'Achour
+CH_0509,Cheikhat Ouest Kébili,مشيخة الغرب قبلي,TN_TERR_SUD,TN_TERR_SUD,HSU_KEBILI,South,33.6844,8.9092,Feuille Kébili (SGA No. 381),Soumis au Kanoun et à l'Achour
+CH_0510,Cheikhat Oulad Mansour Kébili,مشيخة أولاد منصور قبلي,TN_TERR_SUD,TN_TERR_SUD,HSU_KEBILI,South,33.7744,8.9292,Feuille Kébili (SGA No. 381),Soumis au Kanoun et à l'Achour
+CH_0511,Cheikhat Oulad Ali Kébili,مشيخة أولاد علي قبلي,TN_TERR_SUD,TN_TERR_SUD,HSU_KEBILI,South,33.6444,9.0192,Feuille Kébili (SGA No. 381),Soumis au Kanoun et à l'Achour
+CH_0512,Cheikhat Oulad Salem Kébili,مشيخة أولاد سالم قبلي,TN_TERR_SUD,TN_TERR_SUD,HSU_KEBILI,South,33.7344,8.8892,Feuille Kébili (SGA No. 381),Soumis au Kanoun et à l'Achour
+CH_0513,Cheikhat Beni Zid Kébili,مشيخة بني زيد قبلي,TN_TERR_SUD,TN_TERR_SUD,HSU_KEBILI,South,33.6244,8.9992,Feuille Kébili (SGA No. 381),Soumis au Kanoun et à l'Achour
+CH_0514,Cheikhat El Ksar Kébili,مشيخة القصر قبلي,TN_TERR_SUD,TN_TERR_SUD,HSU_KEBILI,South,33.7144,8.9492,Feuille Kébili (SGA No. 381),Soumis au Kanoun et à l'Achour
+CH_0515,Cheikhat Zaouia Kébili,مشيخة الزاوية قبلي,TN_TERR_SUD,TN_TERR_SUD,HSU_KEBILI,South,33.6744,9.0092,Feuille Kébili (SGA No. 381),Soumis au Kanoun et à l'Achour
+CH_0516,Cheikhat Henchir El Bey Kébili,مشيخة هنشير الباي قبلي,TN_TERR_SUD,TN_TERR_SUD,HSU_KEBILI,South,33.7444,9.0392,Feuille Kébili (SGA No. 381),Soumis au Kanoun et à l'Achour
+CH_0517,Cheikhat Centre Matmata,مشيخة المركز مطماطة,TN_TERR_SUD,TN_TERR_SUD,HSU_MATMATA,South,33.5431,9.9675,Feuille Matmata (SGA No. 385),Soumis au Kanoun et à l'Achour
+CH_0518,Cheikhat Nord Matmata,مشيخة الشمال مطماطة,TN_TERR_SUD,TN_TERR_SUD,HSU_MATMATA,South,33.5931,9.9875,Feuille Matmata (SGA No. 385),Soumis au Kanoun et à l'Achour
+CH_0519,Cheikhat Sud Matmata,مشيخة الجنوب مطماطة,TN_TERR_SUD,TN_TERR_SUD,HSU_MATMATA,South,33.4931,9.9475,Feuille Matmata (SGA No. 385),Soumis au Kanoun et à l'Achour
+CH_0520,Cheikhat Est Matmata,مشيخة الشرق مطماطة,TN_TERR_SUD,TN_TERR_SUD,HSU_MATMATA,South,33.5631,10.0275,Feuille Matmata (SGA No. 385),Soumis au Kanoun et à l'Achour
+CH_0521,Cheikhat Ouest Matmata,مشيخة الغرب مطماطة,TN_TERR_SUD,TN_TERR_SUD,HSU_MATMATA,South,33.5231,9.9075,Feuille Matmata (SGA No. 385),Soumis au Kanoun et à l'Achour
+CH_0522,Cheikhat Oulad Mansour Matmata,مشيخة أولاد منصور مطماطة,TN_TERR_SUD,TN_TERR_SUD,HSU_MATMATA,South,33.6131,9.9275,Feuille Matmata (SGA No. 385),Soumis au Kanoun et à l'Achour
+CH_0523,Cheikhat Oulad Ali Matmata,مشيخة أولاد علي مطماطة,TN_TERR_SUD,TN_TERR_SUD,HSU_MATMATA,South,33.4831,10.0175,Feuille Matmata (SGA No. 385),Soumis au Kanoun et à l'Achour
+CH_0524,Cheikhat Oulad Salem Matmata,مشيخة أولاد سالم مطماطة,TN_TERR_SUD,TN_TERR_SUD,HSU_MATMATA,South,33.5731,9.8875,Feuille Matmata (SGA No. 385),Soumis au Kanoun et à l'Achour
+CH_0525,Cheikhat Beni Zid Matmata,مشيخة بني زيد مطماطة,TN_TERR_SUD,TN_TERR_SUD,HSU_MATMATA,South,33.4631,9.9975,Feuille Matmata (SGA No. 385),Soumis au Kanoun et à l'Achour
+CH_0526,Cheikhat El Ksar Matmata,مشيخة القصر مطماطة,TN_TERR_SUD,TN_TERR_SUD,HSU_MATMATA,South,33.5531,9.9475,Feuille Matmata (SGA No. 385),Soumis au Kanoun et à l'Achour
+CH_0527,Cheikhat Zaouia Matmata,مشيخة الزاوية مطماطة,TN_TERR_SUD,TN_TERR_SUD,HSU_MATMATA,South,33.5131,10.0075,Feuille Matmata (SGA No. 385),Soumis au Kanoun et à l'Achour
+CH_0528,Cheikhat Henchir El Bey Matmata,مشيخة هنشير الباي مطماطة,TN_TERR_SUD,TN_TERR_SUD,HSU_MATMATA,South,33.5831,10.0375,Feuille Matmata (SGA No. 385),Soumis au Kanoun et à l'Achour

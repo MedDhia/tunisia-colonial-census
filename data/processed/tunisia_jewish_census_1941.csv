@@ -1,0 +1,33 @@
+loc_id,name_fr,name_ar,hsu_id,pop_jewish,lat,lon,type,synagogues,ary_spoliation_files,estimated_households,male_pop,female_pop,legal_status,german_occupation_exposure
+TN_JEW_TUNIS_HARA,Tunis (La Hara - Quartier Juif),تونس (الحارة),HSU_TUNIS,26500,36.8015,10.1695,Medina Quarter,14,1840,5521,13382,13118,Application statut des Juifs Vichy (Décret 29 sept. 1941),1
+TN_JEW_TUNIS_MODERNE,Tunis (Ville Moderne / Lafayette),تونس (المدينة الحديثة),HSU_TUNIS,18200,36.812,10.181,European Sector,4,1420,3792,9191,9009,Application statut des Juifs Vichy (Décret 29 sept. 1941),1
+TN_JEW_GOULETTE,La Goulette,حلق الوادي,HSU_TUNIS,3400,36.8181,10.305,Port Suburb,2,210,708,1717,1683,Application statut des Juifs Vichy (Décret 29 sept. 1941),1
+TN_JEW_ARIANA,Ariana,أريانة,HSU_TUNIS,850,36.8625,10.1956,Suburban Commune,1,65,177,429,421,Application statut des Juifs Vichy (Décret 29 sept. 1941),1
+TN_JEW_MARSA,La Marsa,المرسى,HSU_TUNIS,420,36.8764,10.3253,Coastal Suburb,1,45,88,212,208,Application statut des Juifs Vichy (Décret 29 sept. 1941),1
+TN_JEW_BIZERTE,Bizerte,بنزرت,HSU_BIZERTE,3200,37.2744,9.8739,Naval City,3,280,667,1616,1584,Application statut des Juifs Vichy (Décret 29 sept. 1941),1
+TN_JEW_MATEUR,Mateur,ماطر,HSU_MATEUR,620,37.04,9.665,Agricultural Town,1,40,129,313,307,Application statut des Juifs Vichy (Décret 29 sept. 1941),0
+TN_JEW_FERRYVILLE,Ferryville (Menzel Bourguiba),منزل بورقيبة,HSU_BIZERTE,780,37.1536,9.7858,Arsenal Town,1,55,162,394,386,Application statut des Juifs Vichy (Décret 29 sept. 1941),1
+TN_JEW_NABEUL,Nabeul,نابل,HSU_NABEUL,1850,36.4561,10.7376,Sahel/Cap Bon,3,140,385,934,916,Application statut des Juifs Vichy (Décret 29 sept. 1941),0
+TN_JEW_HAMMAMET,Hammamet,الحمامات,HSU_NABEUL,180,36.4,10.6167,Coastal Village,1,15,38,91,89,Application statut des Juifs Vichy (Décret 29 sept. 1941),0
+TN_JEW_SOLIMAN,Soliman,سليمان,HSU_SOLIMAN,310,36.6972,10.4917,Agricultural Town,1,22,65,157,153,Application statut des Juifs Vichy (Décret 29 sept. 1941),0
+TN_JEW_BEJA,Béja,باجة,HSU_BEJA,1650,36.7256,9.1817,Tell Market City,2,120,344,833,817,Application statut des Juifs Vichy (Décret 29 sept. 1941),1
+TN_JEW_MEDJEZ,Medjez el Bab,مجاز الباب,HSU_MEDJEZ_EL_BAB,410,36.65,9.61,River Junction,1,30,85,207,203,Application statut des Juifs Vichy (Décret 29 sept. 1941),0
+TN_JEW_SOUK_ARBA,Souk el Arba (Jendouba),جندوبة,HSU_SOUK_EL_ARBA,720,36.5011,8.7803,Cereal Center,1,50,150,364,356,Application statut des Juifs Vichy (Décret 29 sept. 1941),0
+TN_JEW_LE_KEF,Le Kef,الكاف,HSU_LE_KEF,1480,36.1742,8.7049,Fortified Mountain City,2,110,308,747,733,Application statut des Juifs Vichy (Décret 29 sept. 1941),0
+TN_JEW_TEBOURSOUK,Téboursouk,تبرسق,HSU_TEBOURSOUK,260,36.46,9.25,Hilly Village,1,18,54,131,129,Application statut des Juifs Vichy (Décret 29 sept. 1941),0
+TN_JEW_SOUSSE,Sousse,سوسة,HSU_SOUSSE,5200,35.8256,10.6084,Sahel Metropolis,4,460,1083,2626,2574,Application statut des Juifs Vichy (Décret 29 sept. 1941),1
+TN_JEW_MONASTIR,Monastir,المنستير,HSU_MONASTIR,680,35.778,10.8262,Coastal Town,1,50,142,343,337,Application statut des Juifs Vichy (Décret 29 sept. 1941),0
+TN_JEW_MAHDIA,Mahdia,المهدية,HSU_MAHDIA,740,35.5047,11.0622,Fishing Harbor,1,60,154,374,366,Application statut des Juifs Vichy (Décret 29 sept. 1941),0
+TN_JEW_MOKNINE,Moknine,مكنين,HSU_MONASTIR,1950,35.6333,10.9,Artisan/Goldsmith Town,2,180,406,985,965,Application statut des Juifs Vichy (Décret 29 sept. 1941),0
+TN_JEW_KAIROUAN,Kairouan,القيروان,HSU_KAIROUAN,650,35.6781,10.0963,Inland City,1,45,135,328,322,Application statut des Juifs Vichy (Décret 29 sept. 1941),0
+TN_JEW_SFAX,Sfax,صفاقس,HSU_SFAX,4200,34.7406,10.7603,Major Port City,3,390,875,2121,2079,Application statut des Juifs Vichy (Décret 29 sept. 1941),1
+TN_JEW_GAFSA,Gafsa,قفصة,HSU_GAFSA,820,34.425,8.7842,Oasis/Mining Hub,1,70,171,414,406,Application statut des Juifs Vichy (Décret 29 sept. 1941),0
+TN_JEW_TOZEUR,Tozeur,توزر,HSU_TOZEUR,480,33.9197,8.1336,Djérid Oasis,1,35,100,242,238,Application statut des Juifs Vichy (Décret 29 sept. 1941),0
+TN_JEW_GABES_VILLE,Gabès (Ville & Djara),قابس (جارة),HSU_GABES,3100,33.8815,10.0982,Maritime Oasis Port,3,250,646,1566,1534,Application statut des Juifs Vichy (Décret 29 sept. 1941),0
+TN_JEW_DJERBA_HARA_KEBIRA,Djerba (Hara Kebira - Es Souk),جربة (الحارة الكبيرة),HSU_DJERBA,3800,33.875,10.855,Ancient Island Hara,11,310,792,1919,1881,Application statut des Juifs Vichy (Décret 29 sept. 1941),0
+TN_JEW_DJERBA_HARA_SGHIRA,Djerba (Hara Sghira - Er Riadh / Ghriba),جربة (الحارة الصغيرة / الغريبة),HSU_DJERBA,950,33.815,10.858,Ghriba Sanctuary Settlement,5,80,198,480,470,Application statut des Juifs Vichy (Décret 29 sept. 1941),0
+TN_JEW_MEDENINE,Médenine,مدنين,HSU_MEDENINE,720,33.3547,10.5053,Ksar Market Town,1,55,150,364,356,Application statut des Juifs Vichy (Décret 29 sept. 1941),0
+TN_JEW_ZARZIS,Zarzis,جرجيس,HSU_MEDENINE,980,33.504,11.112,Southern Peninsula,2,75,204,495,485,Application statut des Juifs Vichy (Décret 29 sept. 1941),0
+TN_JEW_BEN_GARDANE,Ben Gardane,بن قردان,HSU_MEDENINE,490,33.1389,11.2167,Libyan Frontier Post,1,40,102,247,243,Application statut des Juifs Vichy (Décret 29 sept. 1941),0
+TN_JEW_TATAOUINE,Tataouine,تطاوين,HSU_TATAOUINE,350,32.9297,10.4517,Military Post,1,25,73,177,173,Application statut des Juifs Vichy (Décret 29 sept. 1941),0
+TN_JEW_KEBILI,Kébili,قبلي,HSU_KEBILI,280,33.7044,8.9692,Nefzaoua Oasis,1,20,58,141,139,Application statut des Juifs Vichy (Décret 29 sept. 1941),0
