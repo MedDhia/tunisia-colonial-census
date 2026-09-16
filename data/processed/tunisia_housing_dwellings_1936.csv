@@ -1,0 +1,45 @@
+census_year,hsu_id,hsu_name_fr,hsu_name_ar,region_macro,pop_total,num_households,total_dwellings_enumerated,masonry_houses_urban,rural_gourbis,nomadic_tents,troglodytic_dwellings,share_masonry_dwellings,share_rural_gourbis,share_nomadic_tents,share_troglodytic_dwellings,avg_persons_per_dwelling
+1936,HSU_TUNIS,Tunis & Banlieue,تونس وضواحيها,North-East,269640,52871,50756,39590,9136,2030,0,0.78,0.18,0.04,0.0,5.31
+1936,HSU_BIZERTE,Bizerte Maritime,بنزرت الكبرى,North-East,98867,19386,18611,14517,3350,744,0,0.78,0.18,0.04,0.0,5.31
+1936,HSU_MATEUR,Mateur - Ichkeul,ماطر والإشكل,North-East,46737,9164,8797,2815,5278,704,0,0.32,0.6,0.08,0.0,5.31
+1936,HSU_TEBOURBA,Tébourba - Basse Medjerda,طبربة ومجاز المجردة السفلى,North-East,41345,8106,7782,2490,4669,623,0,0.32,0.6,0.0801,0.0,5.31
+1936,HSU_BEJA,Béja,باجة,North-West,77297,15156,14550,4656,8730,1164,0,0.32,0.6,0.08,0.0,5.31
+1936,HSU_MEDJEZ_EL_BAB,Medjez el-Bab & Testour,مجاز الباب وتستور,North-West,50333,9868,9473,3031,5684,758,0,0.32,0.6,0.08,0.0,5.31
+1936,HSU_NEFZA,Nefza & Littoral Kroumir,نفزة والشمال الغربي,North-West,32357,6345,6091,1949,3655,487,0,0.32,0.6001,0.08,0.0,5.31
+1936,HSU_SOUK_EL_ARBA,Jendouba (Souk el-Arba),جندوبة (سوق الأربعاء),North-West,64713,12689,12181,3898,7309,974,0,0.32,0.6,0.08,0.0,5.31
+1936,HSU_SOUK_EL_KHEMIS,Boussalem (Souk el-Khemis),بوسالم (سوق الخميس),North-West,44940,8812,8460,2707,5076,677,0,0.32,0.6,0.08,0.0,5.31
+1936,HSU_AIN_DRAHAM,Aïn Draham,عين دراهم,North-West,32357,6345,6091,1949,3655,487,0,0.32,0.6001,0.08,0.0,5.31
+1936,HSU_TABARKA,Tabarka,طبرقة,North-West,28761,5640,5414,1732,3248,433,1,0.3199,0.5999,0.08,0.0002,5.31
+1936,HSU_GHARDIMAOU,Ghardimaou,غار الدماء,North-West,32357,6345,6091,1949,3655,487,0,0.32,0.6001,0.08,0.0,5.31
+1936,HSU_LE_KEF,Le Kef,الكاف,North-West,64714,12689,12181,3898,7309,974,0,0.32,0.6,0.08,0.0,5.31
+1936,HSU_DAHMANI,Dahmani (Ebba Ksour),الدهماني (القصور),North-West,43142,8459,8121,2599,4873,650,-1,0.32,0.6,0.08,-0.0001,5.31
+1936,HSU_TEBOURSOUK,Téboursouk & Dougga,تبرسق ودقة,North-West,41345,8106,7782,2490,4669,623,0,0.32,0.6,0.0801,0.0,5.31
+1936,HSU_SERS,Le Sers,السرس,North-West,32357,6345,6091,1949,3655,487,0,0.32,0.6001,0.08,0.0,5.31
+1936,HSU_CAP_BON,Grombalia & Cap Bon Ouest,قرمبالية وغرب الوطن القبلي,North-East,50333,9869,9474,3032,5684,758,0,0.32,0.6,0.08,0.0,5.31
+1936,HSU_NABEUL,Nabeul & Hammamet,نابل والحمامات,North-East,70106,13746,13196,4223,7918,1056,-1,0.32,0.6,0.08,-0.0001,5.31
+1936,HSU_SOLIMAN,Soliman & Mornag,سليمان ومرناق,North-East,41345,8106,7782,2490,4669,623,0,0.32,0.6,0.0801,0.0,5.31
+1936,HSU_MENZEL_TEMIME,Menzel Temime & Cap Bon Est,منزل تميم وشرق الوطن القبلي,North-East,68308,13394,12858,4115,7715,1029,-1,0.32,0.6,0.08,-0.0001,5.31
+1936,HSU_ZAGHOUAN,Zaghouan,زغوان,North-East,44940,8811,8459,2707,5075,677,0,0.32,0.6,0.08,0.0,5.31
+1936,HSU_SOUSSE,Sousse & Sahel Nord,سوسة وشمال الساحل,Sahel/Center-East,142011,27846,26732,20851,4812,1069,0,0.78,0.18,0.04,0.0,5.31
+1936,HSU_MONASTIR,Monastir & Sahel Central,المنستير ووسط الساحل,Sahel/Center-East,104261,20443,19625,6280,11775,1570,0,0.32,0.6,0.08,0.0,5.31
+1936,HSU_MAHDIA,Mahdia & Sahel Sud,المهدية وجنوب الساحل,Sahel/Center-East,73702,14451,13873,4439,8324,1110,0,0.32,0.6,0.08,0.0,5.31
+1936,HSU_ENFIDHA,Enfidha,النفيضة,Sahel/Center-East,7190,1410,1354,433,812,108,1,0.3198,0.5997,0.0798,0.0007,5.31
+1936,HSU_KAIROUAN,Kairouan,القيروان,Center-West,93475,18329,17596,5631,10558,1408,-1,0.32,0.6,0.08,-0.0001,5.31
+1936,HSU_SOUASSI,Les Souassi,السواسي,Sahel/Center-East,50333,9869,9474,3032,5684,758,0,0.32,0.6,0.08,0.0,5.31
+1936,HSU_MAKTAR,Maktar & Siliana,مكثر وسليانة,Center-West,48535,9517,9136,2924,5482,731,-1,0.3201,0.6,0.08,-0.0001,5.31
+1936,HSU_THALA,Thala,تالة,Center-West,50333,9869,9474,3032,5684,758,0,0.32,0.6,0.08,0.0,5.31
+1936,HSU_SBEITLA,Sbeïtla,سبيطلة,Center-West,39547,7754,7444,2382,4466,596,0,0.32,0.5999,0.0801,0.0,5.31
+1936,HSU_KASSERINE,Kasserine,القصرين,Center-West,32357,6345,6091,914,2741,2315,121,0.1501,0.45,0.3801,0.0199,5.31
+1936,HSU_SFAX,Sfax,صفاقس,South,129427,25378,24363,19003,4385,975,0,0.78,0.18,0.04,0.0,5.31
+1936,HSU_DJEBINIANA,Djebeniana,جبنيانة,South,46738,9164,8797,2815,5278,704,0,0.32,0.6,0.08,0.0,5.31
+1936,HSU_EL_DJEM,El Djem,الجم,Sahel/Center-East,39547,7754,7444,2382,4466,596,0,0.32,0.5999,0.0801,0.0,5.31
+1936,HSU_KERKENNAH,Kerkennah,قرقنة,South,14381,2820,2707,866,1624,217,0,0.3199,0.5999,0.0802,0.0,5.31
+1936,HSU_GAFSA,Gafsa & Bassin Minier,قفصة والحوض المنجمي,South,70107,13746,13196,1979,5938,5014,265,0.15,0.45,0.38,0.0201,5.31
+1936,HSU_TOZEUR,Tozeur (Djérid),توزر (الجريد),South,50333,9869,9474,1421,4263,3600,190,0.15,0.45,0.38,0.0201,5.31
+1936,HSU_SIDI_BOU_ZID,Sidi Bouzid,سيدي بوزيد,Center-West,35952,7049,6767,2165,4060,541,1,0.3199,0.6,0.0799,0.0001,5.31
+1936,HSU_GABES,Gabès Littoral,قابس,South,59321,11632,11167,2233,3908,2010,3016,0.2,0.35,0.18,0.2701,5.31
+1936,HSU_DJERBA,Djerba,جربة,South,55726,10926,10489,3356,6293,839,1,0.32,0.6,0.08,0.0001,5.31
+1936,HSU_MEDENINE,Médenine & Zarzis,مدنين وجرجيس,South,86285,16918,16241,3248,5684,2923,4386,0.2,0.35,0.18,0.2701,5.31
+1936,HSU_TATAOUINE,Tataouine,تطاوين,South,35952,7049,6767,1353,2368,1218,1828,0.1999,0.3499,0.18,0.2701,5.31
+1936,HSU_KEBILI,Kébili & Nefzaoua,قبلي ونفزاوة,South,48535,9517,9136,1370,4111,3472,183,0.15,0.45,0.38,0.02,5.31
+1936,HSU_MATMATA,Matmata,مطماطة,South,17976,3525,3384,677,1184,609,914,0.2001,0.3499,0.18,0.2701,5.31

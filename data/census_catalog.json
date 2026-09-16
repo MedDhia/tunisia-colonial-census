@@ -65,6 +65,29 @@
   {
     "census_year": 1883,
     "census_date": "1883-1956",
+    "title": "Journal Officiel Tunisien (JOT) : Décrets beylicaux de recensement, délimitations municipales et réorganisations territoriales",
+    "series_title": "Journal officiel de la Régence de Tunis / Journal officiel tunisien",
+    "bnf_notice_id": "cb344136979",
+    "gallica_ark": "ark:/12148/cb344136979",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/cb344136979",
+    "publisher": "Imprimerie officielle de la Régence de Tunis",
+    "publication_place": "Tunis",
+    "publication_year": "1883-1956",
+    "doc_type": "official_gazette_and_legal_decrees",
+    "coverage_scope": "national_protectorate_wide",
+    "admin_granularity": "commune,caidat,cheikhat",
+    "variables": [
+      "decree_promulgation_date",
+      "official_legal_counts",
+      "boundary_modifications",
+      "cheikhat_creations",
+      "municipal_statutes"
+    ],
+    "notes": "Official journal of the Protectorate publishing Beylical decrees ordering quinquennial censuses, official municipal and caidal population counts, and administrative delimitations."
+  },
+  {
+    "census_year": 1883,
+    "census_date": "1883-1956",
     "title": "Statistique de la navigation maritime et du mouvement des ports de la Tunisie",
     "series_title": "Statistique générale de la Tunisie / Direction des Douanes et de la Navigation",
     "bnf_notice_id": "cb328727346",
@@ -191,6 +214,29 @@
   },
   {
     "census_year": 1890,
+    "census_date": "1890-1950",
+    "title": "Recensement des populations nomades, semi-nomades et fractions militaires des Territoires du Sud",
+    "series_title": "Commandement supérieur des Territoires du Sud / Affaires indigènes",
+    "bnf_notice_id": "cb32861655f",
+    "gallica_ark": "ark:/12148/cb32861655f",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/cb32861655f",
+    "publisher": "Imprimerie militaire",
+    "publication_place": "Tunis / Medenine",
+    "publication_year": "1891-1951",
+    "doc_type": "military_and_nomadic_census",
+    "coverage_scope": "southern_military_territories",
+    "admin_granularity": "cercle_militaire,poste_annexe,fraction_tribale",
+    "variables": [
+      "tentes_nomades_recensees",
+      "pop_nomade_masculine",
+      "pop_nomade_feminine",
+      "fractions_goum_auxiliaires",
+      "troupeaux_en_transhumance"
+    ],
+    "notes": "Military censuses of transhumant pastoralist confederations (Ouerghemma, Nefzaoua, Merazig, Touazine, Ouderna) administered by the Bureaux des Affaires Indigènes."
+  },
+  {
+    "census_year": 1890,
     "census_date": "1880-1938",
     "title": "Statistique des chemins de fer tunisiens (Trafic voyageurs et fret par gare)",
     "series_title": "Statistique des chemins de fer français / Documents divers : Algérie et Tunisie",
@@ -254,6 +300,29 @@
   },
   {
     "census_year": 1892,
+    "census_date": "1892-1955",
+    "title": "Statistique annuelle des pèlerins tunisiens se rendant aux Lieux Saints de l Islam (Pèlerinage à La Mecque / Hajj)",
+    "series_title": "Secrétariat général du gouvernement / Service des passeports et des affaires musulmanes",
+    "bnf_notice_id": "cb328727346",
+    "gallica_ark": "ark:/12148/cb328727346",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/cb328727346",
+    "publisher": "Imprimerie officielle",
+    "publication_place": "Tunis",
+    "publication_year": "1893-1955",
+    "doc_type": "hajj_pilgrimage_and_mobility_census",
+    "coverage_scope": "tunisian_muslim_pilgrims",
+    "admin_granularity": "caidat_d_origine,port_d_embarquement",
+    "variables": [
+      "pilgrims_male",
+      "pilgrims_female",
+      "passports_issued",
+      "sanitary_passports_el_tor_quarantine",
+      "social_profession_of_pilgrim"
+    ],
+    "notes": "Surveillance and demographic registration of Tunisian pilgrims traveling to Mecca, recording home caïdat, age, wealth status, and sanitary quarantine clearance."
+  },
+  {
+    "census_year": 1892,
     "census_date": "1885-1955",
     "title": "Statistique du mouvement de la population (Naissances, mariages, décès et état civil)",
     "series_title": "Statistique générale de la Tunisie / Bulletin de la Statistique générale de la France",
@@ -309,6 +378,28 @@
     "admin_granularity": "Contrôle Civil, Caïdat, Zone de plantation",
     "variables": "Recensement des oliviers en plein rapport, jeunes plants, superficie des terres domaniales et collectives disponibles (terres Siala), contrats de Mgharsa, main-d'œuvre agricole",
     "notes": "Foundational survey by Director of Agriculture Paul Bourde that launched the massive expansion of the Sfax olive forest on the Siala public domain lands."
+  },
+  {
+    "census_year": 1894,
+    "census_date": "1894-1948",
+    "title": "Revue tunisienne (Institut de Carthage) : Études démographiques, toponymiques et sociologiques sur les tribus et cités",
+    "series_title": "Revue tunisienne / Institut de Carthage",
+    "bnf_notice_id": "cb34426578m",
+    "gallica_ark": "ark:/12148/cb34426578m",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/cb34426578m",
+    "publisher": "Institut de Carthage",
+    "publication_place": "Tunis",
+    "publication_year": "1894-1948",
+    "doc_type": "scholarly_demographic_and_ethnographic_serial",
+    "coverage_scope": "historical_and_regional_monographs",
+    "admin_granularity": "tribu,caidat,bourg_historique",
+    "variables": [
+      "genealogies_tribales",
+      "toponymie_arabe_et_berbere",
+      "statistiques_demographiques_locales",
+      "corporations_de_metiers"
+    ],
+    "notes": "Pioneering multidisciplinary journal publishing comprehensive demographic surveys, local monographs, guild rolls, and historical censuses of Tunisian towns and tribes."
   },
   {
     "census_year": 1895,
@@ -415,6 +506,30 @@
   },
   {
     "census_year": 1898,
+    "census_date": "1898-1950",
+    "title": "Organisation et fonctionnement de l Assistance Médicale Gratuite (AMG) : Dispensaires ruraux, médecins et vaccinations",
+    "series_title": "Direction de la Santé publique / Archives de l Institut Pasteur",
+    "bnf_notice_id": "cb343779032",
+    "gallica_ark": "ark:/12148/cb343779032",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/cb343779032",
+    "publisher": "Imprimerie générale",
+    "publication_place": "Tunis",
+    "publication_year": "1899-1951",
+    "doc_type": "public_health_and_vaccination_census",
+    "coverage_scope": "rural_indigenous_healthcare",
+    "admin_granularity": "circonscription_medicale,caidat",
+    "variables": [
+      "dispensaries_count",
+      "doctors_count",
+      "consultations_indigenes",
+      "smallpox_vaccinations_variole",
+      "typhus_cases_notified",
+      "malaria_treatment_quinine"
+    ],
+    "notes": "Annual reporting on rural medical circuits, free medical assistance, sanitary cordons, and vaccination coverage across indigenous populations."
+  },
+  {
+    "census_year": 1898,
     "census_date": "1890-1945",
     "title": "Statistique des hôpitaux, infirmeries régionales et de l'assistance médicale publique",
     "series_title": "Statistique générale de la Tunisie / Direction de la santé publique",
@@ -494,6 +609,29 @@
       "extraction_tonnage_iron_lead_zinc"
     ],
     "notes": "Annual establishment census of all active mines (Gafsa phosphate basin, Djerissa iron, Sakiet lead/zinc) detailing worker headcounts by nationality and underground/surface status."
+  },
+  {
+    "census_year": 1900,
+    "census_date": "1900-1950",
+    "title": "Statistique du cheptel et assiette des taxes pastorales (Recensement de l Achour et du Kanoun)",
+    "series_title": "Statistique générale de la Tunisie / Bulletin de la Direction générale de l agriculture",
+    "bnf_notice_id": "cb32757727j",
+    "gallica_ark": "ark:/12148/cb32757727j",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/cb32757727j",
+    "publisher": "Direction de l Agriculture et du Commerce",
+    "publication_place": "Tunis",
+    "publication_year": "1901-1951",
+    "doc_type": "livestock_and_pastoral_census",
+    "coverage_scope": "pastoral_herds_and_draft_animals",
+    "admin_granularity": "caidat,cheikhat",
+    "variables": [
+      "head_count_sheep_ovins",
+      "head_count_goats_caprins",
+      "head_count_cattle_bovins",
+      "head_count_camels_camelides",
+      "head_count_equines_chevaux_mulets"
+    ],
+    "notes": "Annual tax enumeration of domestic livestock for the Achour and Kanoun tax rolls, providing direct measurement of rural pastoral wealth across all caïdats."
   },
   {
     "census_year": 1900,
@@ -605,6 +743,32 @@
     "notes": "Cadastral forestry census of the state forest domain (Kroumirie, Mogods, Dorsale), recording cork-oak harvest tonnages, timber concessions, and registered forest-user populations (*populations usagères*)."
   },
   {
+    "census_year": 1904,
+    "census_date": "1904-1955",
+    "title": "Statistique générale de la Tunisie : Mouvement naturel de la population (Naissances, mariages, décès et mortalité infantile)",
+    "series_title": "Statistique générale de la Tunisie / Bureau de la Statistique",
+    "bnf_notice_id": "cb328727346",
+    "gallica_ark": "ark:/12148/cb328727346",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/cb328727346",
+    "publisher": "Secrétariat général du gouvernement tunisien",
+    "publication_place": "Tunis",
+    "publication_year": "1905-1955",
+    "doc_type": "vital_statistics_serial",
+    "coverage_scope": "civil_status_registrations",
+    "admin_granularity": "commune,controle_civil,caidat",
+    "variables": [
+      "annual_births_muslim",
+      "annual_births_jewish",
+      "annual_births_european",
+      "annual_deaths_muslim",
+      "annual_deaths_jewish",
+      "annual_deaths_european",
+      "infant_mortality_rate",
+      "natural_increase_rate"
+    ],
+    "notes": "Continuous annual vital statistics series recording live births, stillbirths, deaths by age group, and civil marriages across ethnic and religious communities."
+  },
+  {
     "census_year": 1905,
     "census_date": "1905-03-01",
     "title": "Recensement des centres de colonisation et des villages de peuplement français en Tunisie",
@@ -694,6 +858,28 @@
       "livestock_camels"
     ],
     "notes": "Exhaustive annual fiscal tree-by-tree and livestock head count conducted by French controllers and caïds across all cheikhats for tax assessment."
+  },
+  {
+    "census_year": 1907,
+    "census_date": "1907-1955",
+    "title": "Sociétés Indigènes de Prévoyance (SIP) : Rôles des fellahs adhérents, prêts de semences et silos coopératifs",
+    "series_title": "Direction de l Intérieur et de la Prévoyance sociale",
+    "bnf_notice_id": "cb328727346",
+    "gallica_ark": "ark:/12148/cb328727346",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/cb328727346",
+    "publisher": "Imprimerie officielle",
+    "publication_place": "Tunis",
+    "publication_year": "1908-1955",
+    "doc_type": "agrarian_microcredit_and_peasant_census",
+    "coverage_scope": "indigenous_agricultural_operators",
+    "admin_granularity": "caidat,cheikhat",
+    "variables": [
+      "fellahs_members_count",
+      "seed_loans_metric_quintals",
+      "cash_advances_francs",
+      "drought_relief_beneficiaries"
+    ],
+    "notes": "Compulsory mutual aid societies for Muslim farmers, enumerating peasant heads of household receiving seasonal seed credits and agricultural equipment advances."
   },
   {
     "census_year": 1907,
@@ -1185,6 +1371,54 @@
       "urban_rural"
     ],
     "notes": "Benchmark pre-WWII general census combining both European and native populations in a single unified volume with complete cheikhat breakdowns."
+  },
+  {
+    "census_year": 1936,
+    "census_date": "1936-03-12",
+    "title": "Recensement de la population active par branches économiques et professions (Recensements de 1936 et 1946)",
+    "series_title": "Direction générale des Finances / Service de la statistique générale",
+    "bnf_notice_id": "cb328727346",
+    "gallica_ark": "ark:/12148/cb328727346",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/cb328727346",
+    "publisher": "Imprimerie rapide",
+    "publication_place": "Tunis",
+    "publication_year": 1938,
+    "doc_type": "labor_and_occupational_census",
+    "coverage_scope": "active_labor_force",
+    "admin_granularity": "controle_civil,caidat,commune",
+    "variables": [
+      "pop_active_agriculture",
+      "pop_active_mining_industry",
+      "pop_active_crafts_artisans",
+      "pop_active_commerce_transport",
+      "pop_active_public_administration",
+      "pop_inactive"
+    ],
+    "notes": "Granular occupational structure of the Tunisian and European population, disaggregating agricultural laborers, khammès, phosphate miners, dockers, craftsmen, and civil servants."
+  },
+  {
+    "census_year": 1936,
+    "census_date": "1936-03-12",
+    "title": "Recensement des logements, habitations et locaux : Maisons en dur, gourbis, tentes et troglodytes",
+    "series_title": "Recensement général de la population de 1936",
+    "bnf_notice_id": "cb328727346",
+    "gallica_ark": "ark:/12148/cb328727346",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/cb328727346",
+    "publisher": "Imprimerie rapide",
+    "publication_place": "Tunis",
+    "publication_year": 1937,
+    "doc_type": "housing_and_dwelling_census",
+    "coverage_scope": "all_residential_structures",
+    "admin_granularity": "commune,caidat,cheikhat",
+    "variables": [
+      "maisons_maconnerie",
+      "gourbis_ruraux",
+      "tentes_nomades",
+      "habitations_troglodytiques",
+      "menages_recenses",
+      "pieces_par_logement"
+    ],
+    "notes": "Exhaustive census of physical dwelling types across Tunisia, capturing traditional rural gourbis, Bedouin tents, and troglodytic dwellings in Matmata and Tataouine."
   },
   {
     "census_year": 1941,

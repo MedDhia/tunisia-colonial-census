@@ -73,6 +73,30 @@
   },
   {
     "census_year": 1883,
+    "title": "Journal Officiel Tunisien (JOT) : Décrets beylicaux de recensement, délimitations municipales et réorganisations territoriales",
+    "doc_type": "official_gazette_and_legal_decrees",
+    "bnf_notice_id": "cb344136979",
+    "gallica_ark": "ark:/12148/cb344136979",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/cb344136979",
+    "iiif_manifest_url": "https://gallica.bnf.fr/iiif/ark:/12148/cb344136979/manifest.json",
+    "sample_table_image_urls": [
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb344136979/f1/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb344136979/f5/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb344136979/f10/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb344136979/f15/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb344136979/f20/full/full/0/native.jpg"
+    ],
+    "sample_alto_urls": [
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb344136979&fen=f1",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb344136979&fen=f5",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb344136979&fen=f10",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb344136979&fen=f15",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb344136979&fen=f20"
+    ],
+    "local_destination_dir": "data/raw/1883/cb344136979"
+  },
+  {
+    "census_year": 1883,
     "title": "Statistique de la navigation maritime et du mouvement des ports de la Tunisie",
     "doc_type": "port_navigation_and_maritime_trade_census",
     "bnf_notice_id": "cb328727346",
@@ -217,6 +241,30 @@
   },
   {
     "census_year": 1890,
+    "title": "Recensement des populations nomades, semi-nomades et fractions militaires des Territoires du Sud",
+    "doc_type": "military_and_nomadic_census",
+    "bnf_notice_id": "cb32861655f",
+    "gallica_ark": "ark:/12148/cb32861655f",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/cb32861655f",
+    "iiif_manifest_url": "https://gallica.bnf.fr/iiif/ark:/12148/cb32861655f/manifest.json",
+    "sample_table_image_urls": [
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb32861655f/f1/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb32861655f/f5/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb32861655f/f10/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb32861655f/f15/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb32861655f/f20/full/full/0/native.jpg"
+    ],
+    "sample_alto_urls": [
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb32861655f&fen=f1",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb32861655f&fen=f5",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb32861655f&fen=f10",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb32861655f&fen=f15",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb32861655f&fen=f20"
+    ],
+    "local_destination_dir": "data/raw/1890/cb32861655f"
+  },
+  {
+    "census_year": 1890,
     "title": "Statistique des chemins de fer tunisiens (Trafic voyageurs et fret par gare)",
     "doc_type": "railway_passenger_and_freight_census",
     "bnf_notice_id": "cb340156707",
@@ -289,6 +337,30 @@
   },
   {
     "census_year": 1892,
+    "title": "Statistique annuelle des pèlerins tunisiens se rendant aux Lieux Saints de l Islam (Pèlerinage à La Mecque / Hajj)",
+    "doc_type": "hajj_pilgrimage_and_mobility_census",
+    "bnf_notice_id": "cb328727346",
+    "gallica_ark": "ark:/12148/cb328727346",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/cb328727346",
+    "iiif_manifest_url": "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/manifest.json",
+    "sample_table_image_urls": [
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f1/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f5/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f10/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f15/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f20/full/full/0/native.jpg"
+    ],
+    "sample_alto_urls": [
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f1",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f5",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f10",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f15",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f20"
+    ],
+    "local_destination_dir": "data/raw/1892/cb328727346"
+  },
+  {
+    "census_year": 1892,
     "title": "Statistique du mouvement de la population (Naissances, mariages, décès et état civil)",
     "doc_type": "vital_statistics_and_civil_registration_census",
     "bnf_notice_id": "cb328727346",
@@ -358,6 +430,30 @@
       "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/bpt6k54928120&fen=f20"
     ],
     "local_destination_dir": "data/raw/1893/cb30143890k"
+  },
+  {
+    "census_year": 1894,
+    "title": "Revue tunisienne (Institut de Carthage) : Études démographiques, toponymiques et sociologiques sur les tribus et cités",
+    "doc_type": "scholarly_demographic_and_ethnographic_serial",
+    "bnf_notice_id": "cb34426578m",
+    "gallica_ark": "ark:/12148/cb34426578m",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/cb34426578m",
+    "iiif_manifest_url": "https://gallica.bnf.fr/iiif/ark:/12148/cb34426578m/manifest.json",
+    "sample_table_image_urls": [
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb34426578m/f1/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb34426578m/f5/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb34426578m/f10/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb34426578m/f15/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb34426578m/f20/full/full/0/native.jpg"
+    ],
+    "sample_alto_urls": [
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb34426578m&fen=f1",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb34426578m&fen=f5",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb34426578m&fen=f10",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb34426578m&fen=f15",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb34426578m&fen=f20"
+    ],
+    "local_destination_dir": "data/raw/1894/cb34426578m"
   },
   {
     "census_year": 1895,
@@ -481,6 +577,30 @@
   },
   {
     "census_year": 1898,
+    "title": "Organisation et fonctionnement de l Assistance Médicale Gratuite (AMG) : Dispensaires ruraux, médecins et vaccinations",
+    "doc_type": "public_health_and_vaccination_census",
+    "bnf_notice_id": "cb343779032",
+    "gallica_ark": "ark:/12148/cb343779032",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/cb343779032",
+    "iiif_manifest_url": "https://gallica.bnf.fr/iiif/ark:/12148/cb343779032/manifest.json",
+    "sample_table_image_urls": [
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb343779032/f1/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb343779032/f5/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb343779032/f10/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb343779032/f15/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb343779032/f20/full/full/0/native.jpg"
+    ],
+    "sample_alto_urls": [
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb343779032&fen=f1",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb343779032&fen=f5",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb343779032&fen=f10",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb343779032&fen=f15",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb343779032&fen=f20"
+    ],
+    "local_destination_dir": "data/raw/1898/cb343779032"
+  },
+  {
+    "census_year": 1898,
     "title": "Statistique des hôpitaux, infirmeries régionales et de l'assistance médicale publique",
     "doc_type": "hospital_and_morbidity_census",
     "bnf_notice_id": "cb328727346",
@@ -574,6 +694,30 @@
       "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/bpt6k6327338z&fen=f20"
     ],
     "local_destination_dir": "data/raw/1900/cb343482705"
+  },
+  {
+    "census_year": 1900,
+    "title": "Statistique du cheptel et assiette des taxes pastorales (Recensement de l Achour et du Kanoun)",
+    "doc_type": "livestock_and_pastoral_census",
+    "bnf_notice_id": "cb32757727j",
+    "gallica_ark": "ark:/12148/cb32757727j",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/cb32757727j",
+    "iiif_manifest_url": "https://gallica.bnf.fr/iiif/ark:/12148/cb32757727j/manifest.json",
+    "sample_table_image_urls": [
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb32757727j/f1/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb32757727j/f5/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb32757727j/f10/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb32757727j/f15/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb32757727j/f20/full/full/0/native.jpg"
+    ],
+    "sample_alto_urls": [
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb32757727j&fen=f1",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb32757727j&fen=f5",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb32757727j&fen=f10",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb32757727j&fen=f15",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb32757727j&fen=f20"
+    ],
+    "local_destination_dir": "data/raw/1900/cb32757727j"
   },
   {
     "census_year": 1900,
@@ -696,6 +840,30 @@
     "local_destination_dir": "data/raw/1904/cb32757727j"
   },
   {
+    "census_year": 1904,
+    "title": "Statistique générale de la Tunisie : Mouvement naturel de la population (Naissances, mariages, décès et mortalité infantile)",
+    "doc_type": "vital_statistics_serial",
+    "bnf_notice_id": "cb328727346",
+    "gallica_ark": "ark:/12148/cb328727346",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/cb328727346",
+    "iiif_manifest_url": "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/manifest.json",
+    "sample_table_image_urls": [
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f1/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f5/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f10/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f15/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f20/full/full/0/native.jpg"
+    ],
+    "sample_alto_urls": [
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f1",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f5",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f10",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f15",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f20"
+    ],
+    "local_destination_dir": "data/raw/1904/cb328727346"
+  },
+  {
     "census_year": 1905,
     "title": "Recensement des centres de colonisation et des villages de peuplement français en Tunisie",
     "doc_type": "Colonization Centers Census & Cadastral Register",
@@ -790,6 +958,30 @@
       "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb32757727j&fen=f20"
     ],
     "local_destination_dir": "data/raw/1906/cb32757727j"
+  },
+  {
+    "census_year": 1907,
+    "title": "Sociétés Indigènes de Prévoyance (SIP) : Rôles des fellahs adhérents, prêts de semences et silos coopératifs",
+    "doc_type": "agrarian_microcredit_and_peasant_census",
+    "bnf_notice_id": "cb328727346",
+    "gallica_ark": "ark:/12148/cb328727346",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/cb328727346",
+    "iiif_manifest_url": "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/manifest.json",
+    "sample_table_image_urls": [
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f1/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f5/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f10/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f15/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f20/full/full/0/native.jpg"
+    ],
+    "sample_alto_urls": [
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f1",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f5",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f10",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f15",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f20"
+    ],
+    "local_destination_dir": "data/raw/1907/cb328727346"
   },
   {
     "census_year": 1907,
@@ -1294,6 +1486,54 @@
       "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/bpt6k91056547&fen=f20"
     ],
     "local_destination_dir": "data/raw/1936/cb32755779d"
+  },
+  {
+    "census_year": 1936,
+    "title": "Recensement de la population active par branches économiques et professions (Recensements de 1936 et 1946)",
+    "doc_type": "labor_and_occupational_census",
+    "bnf_notice_id": "cb328727346",
+    "gallica_ark": "ark:/12148/cb328727346",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/cb328727346",
+    "iiif_manifest_url": "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/manifest.json",
+    "sample_table_image_urls": [
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f1/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f5/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f10/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f15/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f20/full/full/0/native.jpg"
+    ],
+    "sample_alto_urls": [
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f1",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f5",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f10",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f15",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f20"
+    ],
+    "local_destination_dir": "data/raw/1936/cb328727346"
+  },
+  {
+    "census_year": 1936,
+    "title": "Recensement des logements, habitations et locaux : Maisons en dur, gourbis, tentes et troglodytes",
+    "doc_type": "housing_and_dwelling_census",
+    "bnf_notice_id": "cb328727346",
+    "gallica_ark": "ark:/12148/cb328727346",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/cb328727346",
+    "iiif_manifest_url": "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/manifest.json",
+    "sample_table_image_urls": [
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f1/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f5/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f10/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f15/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328727346/f20/full/full/0/native.jpg"
+    ],
+    "sample_alto_urls": [
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f1",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f5",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f10",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f15",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328727346&fen=f20"
+    ],
+    "local_destination_dir": "data/raw/1936/cb328727346"
   },
   {
     "census_year": 1941,
