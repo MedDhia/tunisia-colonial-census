@@ -1,0 +1,41 @@
+{
+  "total_waves_audited": 6,
+  "total_records_checked": 570,
+  "discrepancy_count_community": 0,
+  "discrepancy_count_sex": 0,
+  "household_anomalies": 0,
+  "coordinate_outliers": 0,
+  "status": "PASSED",
+  "wave_reports": {
+    "1921": {
+      "record_count": 95,
+      "total_pop": 2093945,
+      "errors": []
+    },
+    "1926": {
+      "record_count": 95,
+      "total_pop": 2159713,
+      "errors": []
+    },
+    "1931": {
+      "record_count": 95,
+      "total_pop": 2410691,
+      "errors": []
+    },
+    "1936": {
+      "record_count": 95,
+      "total_pop": 2608318,
+      "errors": []
+    },
+    "1946": {
+      "record_count": 95,
+      "total_pop": 3230956,
+      "errors": []
+    },
+    "1956": {
+      "record_count": 95,
+      "total_pop": 3783169,
+      "errors": []
+    }
+  }
+}

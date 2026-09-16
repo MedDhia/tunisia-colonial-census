@@ -1,0 +1,45 @@
+hsu_id,hsu_name_fr,hsu_name_ar,region_macro,historical_controle_civil,centroid_lat,centroid_lon,temporal_validity,constituent_colonial_units
+HSU_TUNIS,Tunis & Banlieue,تونس وضواحيها,North-East,TN_CC_TUNIS,36.8065,10.1815,"All years: 1921, 1926, 1931, 1936, 1946, 1956","Tunis, Banlieue, Goulette, Marsa, Carthage, Radès, Hammam-Lif, Ariana"
+HSU_BIZERTE,Bizerte Maritime,بنزرت الكبرى,North-East,TN_CC_BIZERTE,37.2744,9.8739,All years: 1921-1956,"Caïdat Bizerte, Ferryville, Ghar El Melh, Ras Djebel"
+HSU_MATEUR,Mateur - Ichkeul,ماطر والإشكل,North-East,TN_CC_BIZERTE,37.04,9.665,All years: 1921-1956,Caïdat & Commune Mateur
+HSU_TEBOURBA,Tébourba - Basse Medjerda,طبربة ومجاز المجردة السفلى,North-East,TN_CC_BIZERTE,36.83,9.84,All years: 1921-1956,Caïdat & Commune Tébourba
+HSU_BEJA,Béja,باجة,North-West,TN_CC_BEJA,36.7256,9.1817,All years: 1921-1956,Caïdat & Commune Béja
+HSU_MEDJEZ_EL_BAB,Medjez el-Bab & Testour,مجاز الباب وتستور,North-West,TN_CC_BEJA,36.65,9.61,All years: 1921-1956,"Caïdat Medjez el-Bab, Testour"
+HSU_NEFZA,Nefza & Littoral Kroumir,نفزة والشمال الغربي,North-West,TN_CC_BEJA,36.95,9.07,All years: 1921-1956,Caïdat de Nefza
+HSU_SOUK_EL_ARBA,Jendouba (Souk el-Arba),جندوبة (سوق الأربعاء),North-West,TN_CC_SOUK_EL_ARBA,36.5011,8.7803,All years: 1921-1956,Caïdat & Commune Souk el-Arba
+HSU_SOUK_EL_KHEMIS,Boussalem (Souk el-Khemis),بوسالم (سوق الخميس),North-West,TN_CC_SOUK_EL_ARBA,36.6111,8.9694,All years: 1921-1956,Caïdat de Souk el-Khemis
+HSU_AIN_DRAHAM,Aïn Draham,عين دراهم,North-West,TN_CC_SOUK_EL_ARBA,36.78,8.69,All years: 1921-1956,Caïdat & Commune Aïn Draham
+HSU_TABARKA,Tabarka,طبرقة,North-West,TN_CC_SOUK_EL_ARBA,36.9544,8.7581,All years: 1921-1956,Caïdat & Commune Tabarka
+HSU_GHARDIMAOU,Ghardimaou,غار الدماء,North-West,TN_CC_SOUK_EL_ARBA,36.45,8.44,All years: 1921-1956,Caïdat de Ghardimaou
+HSU_LE_KEF,Le Kef,الكاف,North-West,TN_CC_LE_KEF,36.1742,8.7047,All years: 1921-1956,Caïdat & Commune Le Kef
+HSU_DAHMANI,Dahmani (Ebba Ksour),الدهماني (القصور),North-West,TN_CC_LE_KEF,35.94,8.83,All years: 1921-1956,Caïdat d'Ebba Ksour
+HSU_TEBOURSOUK,Téboursouk & Dougga,تبرسق ودقة,North-West,TN_CC_LE_KEF,36.46,9.25,All years: 1921-1956,Caïdat & Commune Téboursouk
+HSU_SERS,Le Sers,السرس,North-West,TN_CC_LE_KEF,36.07,9.02,All years: 1921-1956,Caïdat du Sers
+HSU_CAP_BON,Grombalia & Cap Bon Ouest,قرمبالية وغرب الوطن القبلي,North-East,TN_CC_GROMBALIA,36.6,10.5,All years: 1921-1956,Caïdat & Commune Grombalia
+HSU_NABEUL,Nabeul & Hammamet,نابل والحمامات,North-East,TN_CC_GROMBALIA,36.4561,10.7375,All years: 1921-1956,"Caïdat Nabeul, Communes Nabeul, Hammamet"
+HSU_SOLIMAN,Soliman & Mornag,سليمان ومرناق,North-East,TN_CC_GROMBALIA,36.7,10.49,All years: 1921-1956,Caïdat & Commune Soliman
+HSU_MENZEL_TEMIME,Menzel Temime & Cap Bon Est,منزل تميم وشرق الوطن القبلي,North-East,TN_CC_GROMBALIA,36.78,10.99,All years: 1921-1956,"Caïdat Menzel Temime, Communes Kélibia, Korba"
+HSU_ZAGHOUAN,Zaghouan,زغوان,North-East,TN_CC_ZAGHOUAN,36.4028,10.1433,All years: 1921-1956,Caïdat & Commune Zaghouan
+HSU_SOUSSE,Sousse & Sahel Nord,سوسة وشمال الساحل,Sahel/Center-East,TN_CC_SOUSSE,35.8256,10.6411,All years: 1921-1956,"Caïdat Sousse, Communes Sousse, Msaken, Kalaa Kebira"
+HSU_MONASTIR,Monastir & Sahel Central,المنستير ووسط الساحل,Sahel/Center-East,TN_CC_SOUSSE,35.778,10.8262,All years: 1921-1956,"Caïdat Monastir, Communes Monastir, Moknine, Ksar Hellal"
+HSU_MAHDIA,Mahdia & Sahel Sud,المهدية وجنوب الساحل,Sahel/Center-East,TN_CC_SOUSSE,35.5047,11.0622,All years: 1921-1956,Caïdat & Commune Mahdia
+HSU_ENFIDHA,Enfidha,النفيضة,Sahel/Center-East,TN_CC_SOUSSE,36.1333,10.3833,All years: 1921-1956,Commune et domaine d'Enfidaville
+HSU_KAIROUAN,Kairouan,القيروان,Center-West,TN_CC_KAIROUAN,35.6781,10.0963,All years: 1921-1956,Caïdat & Commune Kairouan
+HSU_SOUASSI,Les Souassi,السواسي,Sahel/Center-East,TN_CC_KAIROUAN,35.35,10.55,All years: 1921-1956,Caïdat des Souassi
+HSU_MAKTAR,Maktar & Siliana,مكثر وسليانة,Center-West,TN_CC_KAIROUAN,35.85,9.2,All years: 1921-1956,Caïdat & Commune Maktar
+HSU_THALA,Thala,تالة,Center-West,TN_CC_THALA,35.57,8.67,All years: 1921-1956,Caïdat & Commune Thala
+HSU_SBEITLA,Sbeïtla,سبيطلة,Center-West,TN_CC_THALA,35.23,9.13,All years: 1921-1956,Caïdat de Sbeïtla
+HSU_KASSERINE,Kasserine,القصرين,Center-West,TN_CC_THALA,35.1667,8.8333,All years: 1921-1956,Caïdat de Kasserine
+HSU_SFAX,Sfax,صفاقس,South,TN_CC_SFAX,34.7406,10.7603,All years: 1921-1956,Caïdat & Commune Sfax
+HSU_DJEBINIANA,Djebeniana,جبنيانة,South,TN_CC_SFAX,35.0333,10.9,All years: 1921-1956,Caïdat des Djebiniana
+HSU_EL_DJEM,El Djem,الجم,Sahel/Center-East,TN_CC_SFAX,35.3,10.7167,All years: 1921-1956,Caïdat & Commune El Djem
+HSU_KERKENNAH,Kerkennah,قرقنة,South,TN_CC_SFAX,34.7333,11.2167,All years: 1921-1956,Caïdat des îles Kerkennah
+HSU_GAFSA,Gafsa & Bassin Minier,قفصة والحوض المنجمي,South,TN_CC_GAFSA,34.425,8.7842,All years: 1921-1956,"Caïdat Gafsa, Metlaoui, Redeyef"
+HSU_TOZEUR,Tozeur (Djérid),توزر (الجريد),South,TN_CC_GAFSA,33.9197,8.1336,All years: 1921-1956,"Caïdat Tozeur, Nefta"
+HSU_SIDI_BOU_ZID,Sidi Bouzid,سيدي بوزيد,Center-West,TN_CC_GAFSA,35.0381,9.4858,All years: 1921-1956,Caïdat de Sidi Bou Zid
+HSU_GABES,Gabès Littoral,قابس,South,TN_CC_GABES,33.8815,10.0982,All years: 1921-1956,Caïdat & Commune Gabès
+HSU_DJERBA,Djerba,جربة,South,TN_CC_GABES,33.8075,10.8451,All years: 1921-1956,"Caïdat Djerba, Commune Houmt Souk"
+HSU_MEDENINE,Médenine & Zarzis,مدنين وجرجيس,South,TN_TERR_SUD,33.3547,10.5053,All years: 1921-1956,"Caïdat Médenine, Zarzis, Ben Gardane"
+HSU_TATAOUINE,Tataouine,تطاوين,South,TN_TERR_SUD,32.9297,10.4517,All years: 1921-1956,"Caïdat Tataouine, Remada"
+HSU_KEBILI,Kébili & Nefzaoua,قبلي ونفزاوة,South,TN_TERR_SUD,33.7044,8.9692,All years: 1921-1956,"Caïdat Kébili, Douz"
+HSU_MATMATA,Matmata,مطماطة,South,TN_TERR_SUD,33.5431,9.9675,All years: 1921-1956,Caïdat de Matmata

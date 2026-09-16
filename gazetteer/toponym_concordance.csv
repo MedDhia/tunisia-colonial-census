@@ -1,0 +1,110 @@
+unit_id,name_colonial,name_canonical_fr,name_canonical_ar,admin_level,parent_controle_civil,hsu_id,region_macro,is_urban_commune,modern_governorate_fr,modern_governorate_ar,centroid_lat,centroid_lon,notes
+TN_CC_TUNIS,Contrôle civil de Tunis,Tunis,تونس,controle_civil,Tunis,HSU_TUNIS,North-East,False,Tunis,تونس,36.8065,10.1815,Capital district and surrounding banlieue
+TN_CAID_BANLIEUE,Caïdat de la Banlieue de Tunis,Banlieue de Tunis,ضاحية تونس,caidat,Tunis,HSU_TUNIS,North-East,False,Tunis / Manouba / Ben Arous,تونس / منوبة / بن عروس,36.78,10.12,Rural and periurban hinterland of Tunis
+TN_COM_TUNIS,Commune de Tunis,Tunis Ville,مدينة تونس,commune,Tunis,HSU_TUNIS,North-East,True,Tunis,تونس,36.8,10.18,"Municipality of Tunis (European city, Medina, Bab Souika, Bab El Jazira)"
+TN_COM_GOULETTE,Commune de La Goulette,La Goulette,حلق الوادي,commune,Tunis,HSU_TUNIS,North-East,True,Tunis,تونس,36.8181,10.305,Port town with major Italian and Maltese population
+TN_COM_MARSA,Commune de La Marsa,La Marsa,المرسى,commune,Tunis,HSU_TUNIS,North-East,True,Tunis,تونس,36.8764,10.3253,Coastal resort and Beylical residence
+TN_COM_CARTHAGE,Commune de Carthage,Carthage,قرطاج,commune,Tunis,HSU_TUNIS,North-East,True,Tunis,تونس,36.8528,10.3233,Residential commune and archdiocese seat
+TN_COM_RADES,Commune de Radès,Radès,رادس,commune,Tunis,HSU_TUNIS,North-East,True,Ben Arous,بن عروس,36.7686,10.2764,Southern suburban commune
+TN_COM_HAMMAM_LIF,Commune de Hammam-Lif,Hammam-Lif,حمام الأنف,commune,Tunis,HSU_TUNIS,North-East,True,Ben Arous,بن عروس,36.73,10.34,Thermal coastal resort and Beylical palace
+TN_COM_ARIANA,Commune de l'Ariana,Ariana,أريانة,commune,Tunis,HSU_TUNIS,North-East,True,Ariana,أريانة,36.8625,10.1956,Northern agricultural town becoming suburban commune
+TN_CC_BIZERTE,Contrôle civil de Bizerte,Bizerte,بنزرت,controle_civil,Bizerte,HSU_BIZERTE,North-East,False,Bizerte,بنزرت,37.2744,9.8739,Northern maritime control district
+TN_CAID_BIZERTE,Caïdat de Bizerte,Bizerte,بنزرت,caidat,Bizerte,HSU_BIZERTE,North-East,False,Bizerte,بنزرت,37.25,9.85,Native caïdat of Bizerte district
+TN_CAID_MATEUR,Caïdat de Mateur,Mateur,ماطر,caidat,Bizerte,HSU_MATEUR,North-East,False,Bizerte,بنزرت,37.04,9.665,Agricultural cereal plain of Ichkeul-Mateur
+TN_COM_BIZERTE,Commune de Bizerte,Bizerte Ville,مدينة بنزرت,commune,Bizerte,HSU_BIZERTE,North-East,True,Bizerte,بنزرت,37.2744,9.8739,Major naval port and European commercial city
+TN_COM_MATEUR,Commune de Mateur,Mateur,ماطر,commune,Bizerte,HSU_MATEUR,North-East,True,Bizerte,بنزرت,37.04,9.665,Agricultural center municipality
+TN_COM_FERRYVILLE,Commune de Ferryville,Menzel Bourguiba,منزل بورقيبة,commune,Bizerte,HSU_BIZERTE,North-East,True,Bizerte,بنزرت,37.1536,9.7858,Arsenal and naval military town created 1898
+TN_COM_GHAR_EL_MELH,Commune de Porto-Farina,Ghar El Melh,غار الملح,commune,Bizerte,HSU_BIZERTE,North-East,True,Bizerte,بنزرت,37.1689,10.1878,Andalusian coastal fishing harbor
+TN_COM_RAS_DJEBEL,Commune de Ras Djebel,Ras Djebel,رأس الجبل,commune,Bizerte,HSU_BIZERTE,North-East,True,Bizerte,بنزرت,37.2153,10.1206,Andalusian agricultural commune
+TN_CAID_TEBOURBA,Caïdat de Tébourba,Tébourba,طبربة,caidat,Bizerte,HSU_TEBOURBA,North-East,False,Manouba,منوبة,36.83,9.84,Medjerda valley irrigated farming region
+TN_COM_TEBOURBA,Commune de Tébourba,Tébourba,طبربة,commune,Bizerte,HSU_TEBOURBA,North-East,True,Manouba,منوبة,36.83,9.84,Municipal center of Lower Medjerda
+TN_CC_BEJA,Contrôle civil de Béja,Béja,باجة,controle_civil,Béja,HSU_BEJA,North-West,False,Béja,باجة,36.7256,9.1817,Granary of Tunisia - Medjerda and Kroumirie foot-hills
+TN_CAID_BEJA,Caïdat de Béja,Béja,باجة,caidat,Béja,HSU_BEJA,North-West,False,Béja,باجة,36.72,9.18,High-yielding wheat producing native jurisdiction
+TN_CAID_MEDJEZ_EL_BAB,Caïdat de Medjez el-Bab,Medjez el-Bab,مجاز الباب,caidat,Béja,HSU_MEDJEZ_EL_BAB,North-West,False,Béja,باجة,36.65,9.61,Strategic Medjerda crossing and colonial concession zone
+TN_CAID_NEFZA,Caïdat de Nefza,Nefza,نفزة,caidat,Béja,HSU_NEFZA,North-West,False,Béja,باجة,36.95,9.07,Forested coastal territory and mining region
+TN_COM_BEJA,Commune de Béja,Béja Ville,مدينة باجة,commune,Béja,HSU_BEJA,North-West,True,Béja,باجة,36.7256,9.1817,Ancient and colonial town municipality
+TN_COM_MEDJEZ_EL_BAB,Commune de Medjez el-Bab,Medjez el-Bab,مجاز الباب,commune,Béja,HSU_MEDJEZ_EL_BAB,North-West,True,Béja,باجة,36.65,9.61,Municipal center on railway and road junction
+TN_COM_TESTOUR,Commune de Testour,Testour,تستور,commune,Béja,HSU_MEDJEZ_EL_BAB,North-West,True,Béja,باجة,36.5528,9.4444,Historic 17th-century Andalusian agricultural commune
+TN_CC_SOUK_EL_ARBA,Contrôle civil de Souk el-Arba,Jendouba,جندوبة,controle_civil,Souk el-Arba,HSU_SOUK_EL_ARBA,North-West,False,Jendouba,جندوبة,36.5011,8.7803,Upper Medjerda & Kroumirie border region
+TN_CAID_SOUK_EL_ARBA,Caïdat de Souk el-Arba,Jendouba,جندوبة,caidat,Souk el-Arba,HSU_SOUK_EL_ARBA,North-West,False,Jendouba,جندوبة,36.5,8.78,Major colonial cereal and livestock center
+TN_CAID_SOUK_EL_KHEMIS,Caïdat de Souk el-Khemis,Boussalem,بوسالم,caidat,Souk el-Arba,HSU_SOUK_EL_KHEMIS,North-West,False,Jendouba,جندوبة,36.6111,8.9694,Rich alluvial agricultural plain of Bou Heurtma
+TN_CAID_AIN_DRAHAM,Caïdat d'Aïn Draham,Aïn Draham,عين دراهم,caidat,Souk el-Arba,HSU_AIN_DRAHAM,North-West,False,Jendouba,جندوبة,36.78,8.69,Kroumirie cork-oak forest mountain jurisdiction
+TN_CAID_TABARKA,Caïdat de Tabarka,Tabarka,طبرقة,caidat,Souk el-Arba,HSU_TABARKA,North-West,False,Jendouba,جندوبة,36.9544,8.7581,"Border port, coral fishery and cork export outlet"
+TN_CAID_GHARDIMAOU,Caïdat de Ghardimaou,Ghardimaou,غار الدماء,caidat,Souk el-Arba,HSU_GHARDIMAOU,North-West,False,Jendouba,جندوبة,36.45,8.44,Algerian frontier jurisdiction on international railway
+TN_COM_SOUK_EL_ARBA,Commune de Souk el-Arba,Jendouba Ville,مدينة جندوبة,commune,Souk el-Arba,HSU_SOUK_EL_ARBA,North-West,True,Jendouba,جندوبة,36.5011,8.7803,Colonial market hub and railway town
+TN_COM_TABARKA,Commune de Tabarka,Tabarka,طبرقة,commune,Souk el-Arba,HSU_TABARKA,North-West,True,Jendouba,جندوبة,36.9544,8.7581,Port municipality
+TN_COM_AIN_DRAHAM,Commune d'Aïn Draham,Aïn Draham,عين دراهم,commune,Souk el-Arba,HSU_AIN_DRAHAM,North-West,True,Jendouba,جندوبة,36.78,8.69,Mountain resort and forestry administration center
+TN_CC_LE_KEF,Contrôle civil du Kef,Le Kef,الكاف,controle_civil,Le Kef,HSU_LE_KEF,North-West,False,Le Kef,الكاف,36.1742,8.7047,Haut-Tell western military and administrative anchor
+TN_CAID_LE_KEF,Caïdat du Kef,Le Kef,الكاف,caidat,Le Kef,HSU_LE_KEF,North-West,False,Le Kef,الكاف,36.17,8.7,Administrative core of the western Tell
+TN_CAID_DAHMANI,Caïdat d'Ebba Ksour,Dahmani,الدهماني,caidat,Le Kef,HSU_DAHMANI,North-West,False,Le Kef,الكاف,35.94,8.83,Cereal plateau and phosphate/lead mining zone
+TN_CAID_TEBOURSOUK,Caïdat de Téboursouk,Téboursouk,تبرسق,caidat,Le Kef,HSU_TEBOURSOUK,North-West,False,Béja,باجة,36.46,9.25,Ancient Roman and olive-growing territory around Dougga
+TN_CAID_SERS,Caïdat du Sers,Le Sers,السرس,caidat,Le Kef,HSU_SERS,North-West,False,Le Kef,الكاف,36.07,9.02,Cereal plain and railway junction
+TN_COM_LE_KEF,Commune du Kef,Le Kef Ville,مدينة الكاف,commune,Le Kef,HSU_LE_KEF,North-West,True,Le Kef,الكاف,36.1742,8.7047,Historic fortified mountain city
+TN_COM_TEBOURSOUK,Commune de Téboursouk,Téboursouk,تبرسق,commune,Le Kef,HSU_TEBOURSOUK,North-West,True,Béja,باجة,36.46,9.25,Olive-farming commune
+TN_CC_GROMBALIA,Contrôle civil de Grombalia,Grombalia,قرمبالية,controle_civil,Grombalia,HSU_CAP_BON,North-East,False,Nabeul,نابل,36.6,10.5,Cap Bon agricultural and viticultural peninsula
+TN_CAID_GROMBALIA,Caïdat de Grombalia,Grombalia,قرمبالية,caidat,Grombalia,HSU_CAP_BON,North-East,False,Nabeul,نابل,36.6,10.5,Center of French colonial viticulture concessions
+TN_CAID_NABEUL,Caïdat de Nabeul,Nabeul,نابل,caidat,Grombalia,HSU_NABEUL,North-East,False,Nabeul,نابل,36.45,10.73,"Citrus, pottery, and coastal artisan district"
+TN_CAID_SOLIMAN,Caïdat de Soliman,Soliman,سليمان,caidat,Grombalia,HSU_SOLIMAN,North-East,False,Nabeul,نابل,36.7,10.49,Andalusian fertile plain of Mornag-Soliman
+TN_CAID_MENZEL_TEMIME,Caïdat de Menzel Temime,Menzel Temime,منزل تميم,caidat,Grombalia,HSU_MENZEL_TEMIME,North-East,False,Nabeul,نابل,36.78,10.99,Eastern Cap Bon cereal and groundnut plains
+TN_COM_NABEUL,Commune de Nabeul,Nabeul Ville,مدينة نابل,commune,Grombalia,HSU_NABEUL,North-East,True,Nabeul,نابل,36.4561,10.7375,Cap Bon capital town
+TN_COM_HAMMAMET,Commune d'Hammamet,Hammamet,الحمامات,commune,Grombalia,HSU_NABEUL,North-East,True,Nabeul,نابل,36.4,10.6167,Coastal fishing village and growing resort
+TN_COM_GROMBALIA,Commune de Grombalia,Grombalia,قرمبالية,commune,Grombalia,HSU_CAP_BON,North-East,True,Nabeul,نابل,36.6,10.5,Colonial wine-growing center
+TN_COM_KELIBIA,Commune de Kélibia,Kélibia,قليبية,commune,Grombalia,HSU_MENZEL_TEMIME,North-East,True,Nabeul,نابل,36.8475,11.0939,Maritime fishing port and fortress town
+TN_COM_KORBA,Commune de Korba,Korba,قربة,commune,Grombalia,HSU_MENZEL_TEMIME,North-East,True,Nabeul,نابل,36.5786,10.8586,Tomato and horticultural production center
+TN_COM_SOLIMAN,Commune de Soliman,Soliman,سليمان,commune,Grombalia,HSU_SOLIMAN,North-East,True,Nabeul,نابل,36.6972,10.4917,Historic agricultural town
+TN_CC_ZAGHOUAN,Contrôle civil de Zaghouan,Zaghouan,زغوان,controle_civil,Zaghouan,HSU_ZAGHOUAN,North-East,False,Zaghouan,زغوان,36.4028,10.1433,Aqueduct mountain range and olive estates
+TN_CAID_ZAGHOUAN,Caïdat de Zaghouan,Zaghouan,زغوان,caidat,Zaghouan,HSU_ZAGHOUAN,North-East,False,Zaghouan,زغوان,36.4,10.14,Rural mountain and plain caïdat
+TN_COM_ZAGHOUAN,Commune de Zaghouan,Zaghouan,زغوان,commune,Zaghouan,HSU_ZAGHOUAN,North-East,True,Zaghouan,زغوان,36.4028,10.1433,Spring waters and olive-growing municipality
+TN_CC_SOUSSE,Contrôle civil de Sousse,Sousse,سوسة,controle_civil,Sousse,HSU_SOUSSE,Sahel/Center-East,False,Sousse,سوسة,35.8256,10.6411,Eastern coastal Sahelian demographic powerhouse
+TN_CAID_SOUSSE,Caïdat de Sousse,Sousse,سوسة,caidat,Sousse,HSU_SOUSSE,Sahel/Center-East,False,Sousse,سوسة,35.82,10.63,Olive-rich native caïdat of northern Sahel
+TN_CAID_MONASTIR,Caïdat de Monastir,Monastir,المنستير,caidat,Sousse,HSU_MONASTIR,Sahel/Center-East,False,Monastir,المنستير,35.778,10.8262,Central Sahelian dense agricultural towns
+TN_CAID_MAHDIA,Caïdat de Mahdia,Mahdia,المهدية,caidat,Sousse,HSU_MAHDIA,Sahel/Center-East,False,Mahdia,المهدية,35.5047,11.0622,Southern Sahel fishing and olive jurisdiction
+TN_COM_SOUSSE,Commune de Sousse,Sousse Ville,مدينة سوسة,commune,Sousse,HSU_SOUSSE,Sahel/Center-East,True,Sousse,سوسة,35.8256,10.6411,Second largest port and commercial city
+TN_COM_MONASTIR,Commune de Monastir,Monastir Ville,مدينة المنستير,commune,Sousse,HSU_MONASTIR,Sahel/Center-East,True,Monastir,المنستير,35.778,10.8262,Ancient Ribat fortress city and port
+TN_COM_MAHDIA,Commune de Mahdia,Mahdia Ville,مدينة المهدية,commune,Sousse,HSU_MAHDIA,Sahel/Center-East,True,Mahdia,المهدية,35.5047,11.0622,Fatimid historic maritime town
+TN_COM_MSAKEN,Commune de Msaken,Msaken,مساكن,commune,Sousse,HSU_SOUSSE,Sahel/Center-East,True,Sousse,سوسة,35.7333,10.5833,Large inland Sahelian town
+TN_COM_MOKNINE,Commune de Moknine,Moknine,مكنين,commune,Sousse,HSU_MONASTIR,Sahel/Center-East,True,Monastir,المنستير,35.6333,10.9,"Pottery, jewelry, and weaving urban center"
+TN_COM_KSAR_HELLAL,Commune de Ksar Hellal,Ksar Hellal,قصر هلال,commune,Sousse,HSU_MONASTIR,Sahel/Center-East,True,Monastir,المنستير,35.65,10.8833,Major textile and trade hub
+TN_COM_KALAA_KEBIRA,Commune de Kalaa Kebira,Kalaa Kebira,القلعة الكبيرة,commune,Sousse,HSU_SOUSSE,Sahel/Center-East,True,Sousse,سوسة,35.8667,10.5333,Major olive-growing town
+TN_COM_ENFIDAVILLE,Commune d'Enfidaville,Enfidha,النفيضة,commune,Sousse,HSU_ENFIDHA,Sahel/Center-East,True,Sousse,سوسة,36.1333,10.3833,Seat of Société franco-africaine mega-estate
+TN_CC_KAIROUAN,Contrôle civil de Kairouan,Kairouan,القيروان,controle_civil,Kairouan,HSU_KAIROUAN,Center-West,False,Kairouan,القيروان,35.6781,10.0963,Historic religious center and steppe transition zone
+TN_CAID_KAIROUAN,Caïdat de Kairouan,Kairouan,القيروان,caidat,Kairouan,HSU_KAIROUAN,Center-West,False,Kairouan,القيروان,35.67,10.09,Steppe plains and pastoralist tribes surrounding holy city
+TN_CAID_SOUASSI,Caïdat des Souassi,Souassi,السواسي,caidat,Kairouan,HSU_SOUASSI,Sahel/Center-East,False,Mahdia,المهدية,35.35,10.55,Tribal pastoral confederation territory
+TN_CAID_MAKTAR,Caïdat de Maktar,Maktar,مكثر,caidat,Kairouan,HSU_MAKTAR,Center-West,False,Siliana,سليانة,35.85,9.2,High steppe plateau and forest ridge
+TN_COM_KAIROUAN,Commune de Kairouan,Kairouan Ville,مدينة القيروان,commune,Kairouan,HSU_KAIROUAN,Center-West,True,Kairouan,القيروان,35.6781,10.0963,First Islamic capital of the Maghreb and artisan carpet hub
+TN_COM_MAKTAR,Commune de Maktar,Maktar,مكثر,commune,Kairouan,HSU_MAKTAR,Center-West,True,Siliana,سليانة,35.85,9.2,Highland administrative municipality
+TN_CC_THALA,Contrôle civil de Thala,Thala,تالة,controle_civil,Thala,HSU_THALA,Center-West,False,Kasserine,القصرين,35.57,8.67,High steppe and pastoral borderland region
+TN_CAID_THALA,Caïdat de Thala,Thala,تالة,caidat,Thala,HSU_THALA,Center-West,False,Kasserine,القصرين,35.57,8.67,Highland tribal territory (Fraichiche & Madjer)
+TN_CAID_SBEITLA,Caïdat de Sbeïtla,Sbeïtla,سبيطلة,caidat,Thala,HSU_SBEITLA,Center-West,False,Kasserine,القصرين,35.23,9.13,Alfa grass (alfa/esparto) plains and Roman ruins
+TN_CAID_KASSERINE,Caïdat de Kasserine,Kasserine,القصرين,caidat,Thala,HSU_KASSERINE,Center-West,False,Kasserine,القصرين,35.1667,8.8333,Chambi mountain base and pastoralist lands
+TN_COM_THALA,Commune de Thala,Thala,تالة,commune,Thala,HSU_THALA,Center-West,True,Kasserine,القصرين,35.57,8.67,Administrative town near Algerian border
+TN_CC_SFAX,Contrôle civil de Sfax,Sfax,صفاقس,controle_civil,Sfax,HSU_SFAX,South,False,Sfax,صفاقس,34.7406,10.7603,Economic capital of South - olive forests & phosphate port
+TN_CAID_SFAX,Caïdat de Sfax,Sfax,صفاقس,caidat,Sfax,HSU_SFAX,South,False,Sfax,صفاقس,34.74,10.75,Extensive dry-farming olive orchards (Ghaba)
+TN_CAID_DJEBINIANA,Caïdat des Djebiniana,Djebeniana,جبنيانة,caidat,Sfax,HSU_DJEBINIANA,South,False,Sfax,صفاقس,35.0333,10.9,Northern Sfax olive belt
+TN_CAID_EL_DJEM,Caïdat d'El Djem,El Djem,الجم,caidat,Sfax,HSU_EL_DJEM,Sahel/Center-East,False,Mahdia,المهدية,35.3,10.7167,Amphitheater Roman crossroads and olive market
+TN_CAID_KERKENNAH,Caïdat des Kerkennah,Kerkennah,قرقنة,caidat,Sfax,HSU_KERKENNAH,South,False,Sfax,صفاقس,34.7333,11.2167,Archipelago maritime and fishing communities
+TN_COM_SFAX,Commune de Sfax,Sfax Ville,مدينة صفاقس,commune,Sfax,HSU_SFAX,South,True,Sfax,صفاقس,34.7406,10.7603,"Commercial port, railway terminus, and trading metropolis"
+TN_COM_EL_DJEM,Commune d'El Djem,El Djem,الجم,commune,Sfax,HSU_EL_DJEM,Sahel/Center-East,True,Mahdia,المهدية,35.3,10.7167,Municipal market center
+TN_CC_GAFSA,Contrôle civil de Gafsa,Gafsa,قفصة,controle_civil,Gafsa,HSU_GAFSA,South,False,Gafsa,قفصة,34.425,8.7842,Phosphate mining basin and southern oasis crossroads
+TN_CAID_GAFSA,Caïdat de Gafsa,Gafsa,قفصة,caidat,Gafsa,HSU_GAFSA,South,False,Gafsa,قفصة,34.42,8.78,Nomadic pastures and date palm oases
+TN_CAID_TOZEUR,Caïdat de Tozeur (Djérid),Tozeur,توزر,caidat,Gafsa,HSU_TOZEUR,South,False,Tozeur,توزر,33.9197,8.1336,Ancient palm grove civilization and deglet noor trade
+TN_CAID_SIDI_BOU_ZID,Caïdat de Sidi Bou Zid,Sidi Bouzid,سيدي بوزيد,caidat,Gafsa,HSU_SIDI_BOU_ZID,Center-West,False,Sidi Bouzid,سيدي بوزيد,35.0381,9.4858,Pastoral steppe of the Hammama tribal confederation
+TN_COM_GAFSA,Commune de Gafsa,Gafsa Ville,مدينة قفصة,commune,Gafsa,HSU_GAFSA,South,True,Gafsa,قفصة,34.425,8.7842,Oasis capital and administrative hub
+TN_COM_METLAOUI,Commune de Metlaoui,Metlaoui,المتلوي,commune,Gafsa,HSU_GAFSA,South,True,Gafsa,قفصة,34.3333,8.4,Headquarters of Compagnie des Phosphates de Gafsa
+TN_COM_REDEYEF,Commune de Redeyef,Redeyef,الرديف,commune,Gafsa,HSU_GAFSA,South,True,Gafsa,قفصة,34.3833,8.15,Major phosphate extraction center
+TN_COM_TOZEUR,Commune de Tozeur,Tozeur Ville,مدينة توزر,commune,Gafsa,HSU_TOZEUR,South,True,Tozeur,توزر,33.9197,8.1336,Djérid oasis town municipality
+TN_COM_NEFTA,Commune de Nefta,Nefta,نفطة,commune,Gafsa,HSU_TOZEUR,South,True,Tozeur,توزر,33.8731,7.8778,Holy oasis and Sufi religious center
+TN_CC_GABES,Contrôle civil de Gabès,Gabès,قابس,controle_civil,Gabès,HSU_GABES,South,False,Gabès,قابس,33.8815,10.0982,Maritime oasis and gateway to pre-Saharan desert
+TN_CAID_GABES,Caïdat de Gabès,Gabès,قابس,caidat,Gabès,HSU_GABES,South,False,Gabès,قابس,33.88,10.09,Coastline oases and pastoral hinterland
+TN_CAID_DJERBA,Caïdat de Djerba,Djerba,جربة,caidat,Gabès,HSU_DJERBA,South,False,Médenine,مدنين,33.8075,10.8451,Island with ancient Jewish community and Ibadi population
+TN_COM_GABES,Commune de Gabès,Gabès Ville,مدينة قابس,commune,Gabès,HSU_GABES,South,True,Gabès,قابس,33.8815,10.0982,Port town and military post
+TN_COM_HOUMT_SOUK,Commune de Houmt Souk,Houmt Souk,حومة السوق,commune,Gabès,HSU_DJERBA,South,True,Médenine,مدنين,33.875,10.858,Principal market town on Djerba island
+TN_TERR_SUD,Territoires du Sud,Territoires Militaires du Sud,الأقاليم العسكرية بالجنوب,controle_civil,Territoires du Sud,HSU_TERR_SUD,South,False,Médenine / Tataouine / Kébili,مدنين / تطاوين / قبلي,33.0,10.0,Military administration under Affaires Indigènes
+TN_CAID_MEDENINE,Caïdat de Médenine (Ouerghemma),Médenine,مدنين,caidat,Territoires du Sud,HSU_MEDENINE,South,False,Médenine,مدنين,33.3547,10.5053,Ksour region and Ouerghemma tribal confederation
+TN_CAID_TATAOUINE,Caïdat de Tataouine,Tataouine,تطاوين,caidat,Territoires du Sud,HSU_TATAOUINE,South,False,Tataouine,تطاوين,32.9297,10.4517,Southern mountain range and pre-Saharan desert border
+TN_CAID_KEBILI,Caïdat de Kébili (Nefzaoua),Kébili,قبلي,caidat,Territoires du Sud,HSU_KEBILI,South,False,Kébili,قبلي,33.7044,8.9692,Nefzaoua palm groves and Chott el-Djerid basin
+TN_CAID_DOUZ,Caïdat de Douz,Douz,دوز,caidat,Territoires du Sud,HSU_KEBILI,South,False,Kébili,قبلي,33.4667,9.0167,M'razig nomadic desert confederation center
+TN_CAID_MATMATA,Caïdat de Matmata,Matmata,مطماطة,caidat,Territoires du Sud,HSU_MATMATA,South,False,Gabès,قابس,33.5431,9.9675,Berber troglodyte mountain communities
+TN_COM_MEDENINE,Commune de Médenine,Médenine,مدنين,commune,Territoires du Sud,HSU_MEDENINE,South,True,Médenine,مدنين,33.3547,10.5053,Administrative center of the military southern district
+TN_COM_ZARZIS,Commune de Zarzis,Zarzis,جرجيس,commune,Territoires du Sud,HSU_MEDENINE,South,True,Médenine,مدنين,33.5042,11.1122,Coastal peninsula olive-forest and sponge fishing harbor
+TN_COM_BEN_GARDANE,Commune de Ben Gardane,Ben Gardane,بنقردان,commune,Territoires du Sud,HSU_MEDENINE,South,True,Médenine,مدنين,33.1389,11.2167,Frontier military post and Libyan trading station

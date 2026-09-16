@@ -1,0 +1,5153 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_AIN_DRAHAM",
+        "hsu_name_fr": "A\u00efn Draham",
+        "hsu_name_ar": "\u0639\u064a\u0646 \u062f\u0631\u0627\u0647\u0645",
+        "region_macro": "North-West",
+        "historical_controle_civil": "TN_CC_SOUK_EL_ARBA",
+        "centroid_lat": 36.78,
+        "centroid_lon": 8.69,
+        "area_km2": 600.0,
+        "pop_total_1921": "25976",
+        "share_european_1921": "0.04647",
+        "share_french_1921": "0.03188",
+        "share_italian_1921": "0.01259",
+        "share_jewish_1921": "0.00312",
+        "pop_density_1921": "43.29",
+        "urbanization_rate_1921": "0.1111",
+        "pop_total_1926": "26792",
+        "share_european_1926": "0.05155",
+        "share_french_1926": "0.03538",
+        "share_italian_1926": "0.01392",
+        "share_jewish_1926": "0.00314",
+        "pop_density_1926": "44.65",
+        "urbanization_rate_1926": "0.11112",
+        "pop_total_1931": "29905",
+        "share_european_1931": "0.05778",
+        "share_french_1931": "0.03963",
+        "share_italian_1931": "0.01565",
+        "share_jewish_1931": "0.00311",
+        "pop_density_1931": "49.84",
+        "urbanization_rate_1931": "0.11112",
+        "pop_total_1936": "32357",
+        "share_european_1936": "0.06292",
+        "share_french_1936": "0.04317",
+        "share_italian_1936": "0.01703",
+        "share_jewish_1936": "0.00343",
+        "pop_density_1936": "53.93",
+        "urbanization_rate_1936": "0.1111",
+        "pop_total_1946": "40080",
+        "share_european_1946": "0.06277",
+        "share_french_1946": "0.04304",
+        "share_italian_1946": "0.01707",
+        "share_jewish_1946": "0.00342",
+        "pop_density_1946": "66.8",
+        "urbanization_rate_1946": "0.1111",
+        "pop_total_1956": "46932",
+        "share_european_1956": "0.06373",
+        "share_french_1956": "0.04364",
+        "share_italian_1956": "0.01739",
+        "share_jewish_1956": "0.00296",
+        "pop_density_1956": "78.22",
+        "urbanization_rate_1956": "0.11112",
+        "growth_pop_1921_1936": "24.56",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.0165"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.84545,
+              36.78
+            ],
+            [
+              8.82462,
+              36.84225
+            ],
+            [
+              8.76772,
+              36.88782
+            ],
+            [
+              8.69,
+              36.9045
+            ],
+            [
+              8.61228,
+              36.88782
+            ],
+            [
+              8.55538,
+              36.84225
+            ],
+            [
+              8.53455,
+              36.78
+            ],
+            [
+              8.55538,
+              36.71775
+            ],
+            [
+              8.61228,
+              36.67218
+            ],
+            [
+              8.69,
+              36.6555
+            ],
+            [
+              8.76772,
+              36.67218
+            ],
+            [
+              8.82462,
+              36.71775
+            ],
+            [
+              8.84545,
+              36.78
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_BEJA",
+        "hsu_name_fr": "B\u00e9ja",
+        "hsu_name_ar": "\u0628\u0627\u062c\u0629",
+        "region_macro": "North-West",
+        "historical_controle_civil": "TN_CC_BEJA",
+        "centroid_lat": 36.7256,
+        "centroid_lon": 9.1817,
+        "area_km2": 1800.0,
+        "pop_total_1921": "62054",
+        "share_european_1921": "0.05664",
+        "share_french_1921": "0.03316",
+        "share_italian_1921": "0.02066",
+        "share_jewish_1921": "0.01362",
+        "pop_density_1921": "34.47",
+        "urbanization_rate_1921": "0.18605",
+        "pop_total_1926": "64002",
+        "share_european_1926": "0.06284",
+        "share_french_1926": "0.03678",
+        "share_italian_1926": "0.02292",
+        "share_jewish_1926": "0.01359",
+        "pop_density_1926": "35.56",
+        "urbanization_rate_1926": "0.18604",
+        "pop_total_1931": "71440",
+        "share_european_1931": "0.07045",
+        "share_french_1931": "0.04124",
+        "share_italian_1931": "0.0257",
+        "share_jewish_1931": "0.01359",
+        "pop_density_1931": "39.69",
+        "urbanization_rate_1931": "0.18604",
+        "pop_total_1936": "77297",
+        "share_european_1936": "0.07667",
+        "share_french_1936": "0.04488",
+        "share_italian_1936": "0.02794",
+        "share_jewish_1936": "0.01497",
+        "pop_density_1936": "42.94",
+        "urbanization_rate_1936": "0.18605",
+        "pop_total_1946": "95749",
+        "share_european_1946": "0.07589",
+        "share_french_1946": "0.04406",
+        "share_italian_1946": "0.02803",
+        "share_jewish_1946": "0.01497",
+        "pop_density_1946": "53.19",
+        "urbanization_rate_1946": "0.18605",
+        "pop_total_1956": "112113",
+        "share_european_1956": "0.07657",
+        "share_french_1956": "0.04419",
+        "share_italian_1956": "0.02855",
+        "share_jewish_1956": "0.01292",
+        "pop_density_1956": "62.28",
+        "urbanization_rate_1956": "0.18604",
+        "growth_pop_1921_1936": "24.56",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.02"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.45075,
+              36.7256
+            ],
+            [
+              9.4147,
+              36.83342
+            ],
+            [
+              9.31622,
+              36.91235
+            ],
+            [
+              9.1817,
+              36.94124
+            ],
+            [
+              9.04718,
+              36.91235
+            ],
+            [
+              8.9487,
+              36.83342
+            ],
+            [
+              8.91265,
+              36.7256
+            ],
+            [
+              8.9487,
+              36.61778
+            ],
+            [
+              9.04718,
+              36.53885
+            ],
+            [
+              9.1817,
+              36.50996
+            ],
+            [
+              9.31622,
+              36.53885
+            ],
+            [
+              9.4147,
+              36.61778
+            ],
+            [
+              9.45075,
+              36.7256
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_BIZERTE",
+        "hsu_name_fr": "Bizerte Maritime",
+        "hsu_name_ar": "\u0628\u0646\u0632\u0631\u062a \u0627\u0644\u0643\u0628\u0631\u0649",
+        "region_macro": "North-East",
+        "historical_controle_civil": "TN_CC_BIZERTE",
+        "centroid_lat": 37.2744,
+        "centroid_lon": 9.8739,
+        "area_km2": 1150.0,
+        "pop_total_1921": "79371",
+        "share_european_1921": "0.17801",
+        "share_french_1921": "0.09328",
+        "share_italian_1921": "0.07494",
+        "share_jewish_1921": "0.01637",
+        "pop_density_1921": "69.02",
+        "urbanization_rate_1921": "0.54545",
+        "pop_total_1926": "81864",
+        "share_european_1926": "0.19755",
+        "share_french_1926": "0.10353",
+        "share_italian_1926": "0.08315",
+        "share_jewish_1926": "0.01636",
+        "pop_density_1926": "71.19",
+        "urbanization_rate_1926": "0.54545",
+        "pop_total_1931": "91378",
+        "share_european_1931": "0.22142",
+        "share_french_1931": "0.11603",
+        "share_italian_1931": "0.09321",
+        "share_jewish_1931": "0.01636",
+        "pop_density_1931": "79.46",
+        "urbanization_rate_1931": "0.54546",
+        "pop_total_1936": "98867",
+        "share_european_1936": "0.24097",
+        "share_french_1936": "0.12627",
+        "share_italian_1936": "0.10143",
+        "share_jewish_1936": "0.018",
+        "pop_density_1936": "85.97",
+        "urbanization_rate_1936": "0.54545",
+        "pop_total_1946": "122469",
+        "share_european_1946": "0.25407",
+        "share_french_1946": "0.1334",
+        "share_italian_1946": "0.10668",
+        "share_jewish_1946": "0.018",
+        "pop_density_1946": "106.49",
+        "urbanization_rate_1946": "0.54545",
+        "pop_total_1956": "143401",
+        "share_european_1956": "0.26772",
+        "share_french_1956": "0.14075",
+        "share_italian_1956": "0.11222",
+        "share_jewish_1956": "0.01555",
+        "pop_density_1956": "124.7",
+        "urbanization_rate_1956": "0.54546",
+        "growth_pop_1921_1936": "24.56",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.063"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.09051,
+              37.2744
+            ],
+            [
+              10.06149,
+              37.36058
+            ],
+            [
+              9.9822,
+              37.42367
+            ],
+            [
+              9.8739,
+              37.44677
+            ],
+            [
+              9.7656,
+              37.42367
+            ],
+            [
+              9.68631,
+              37.36058
+            ],
+            [
+              9.65729,
+              37.2744
+            ],
+            [
+              9.68631,
+              37.18822
+            ],
+            [
+              9.7656,
+              37.12513
+            ],
+            [
+              9.8739,
+              37.10203
+            ],
+            [
+              9.9822,
+              37.12513
+            ],
+            [
+              10.06149,
+              37.18822
+            ],
+            [
+              10.09051,
+              37.2744
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_CAP_BON",
+        "hsu_name_fr": "Grombalia & Cap Bon Ouest",
+        "hsu_name_ar": "\u0642\u0631\u0645\u0628\u0627\u0644\u064a\u0629 \u0648\u063a\u0631\u0628 \u0627\u0644\u0648\u0637\u0646 \u0627\u0644\u0642\u0628\u0644\u064a",
+        "region_macro": "North-East",
+        "historical_controle_civil": "TN_CC_GROMBALIA",
+        "centroid_lat": 36.6,
+        "centroid_lon": 10.5,
+        "area_km2": 950.0,
+        "pop_total_1921": "40407",
+        "share_european_1921": "0.08932",
+        "share_french_1921": "0.03455",
+        "share_italian_1921": "0.05088",
+        "share_jewish_1921": "0.00767",
+        "pop_density_1921": "42.53",
+        "urbanization_rate_1921": "0.10713",
+        "pop_total_1926": "41676",
+        "share_european_1926": "0.09912",
+        "share_french_1926": "0.03834",
+        "share_italian_1926": "0.05646",
+        "share_jewish_1926": "0.00768",
+        "pop_density_1926": "43.87",
+        "urbanization_rate_1926": "0.10714",
+        "pop_total_1931": "46519",
+        "share_european_1931": "0.11109",
+        "share_french_1931": "0.04299",
+        "share_italian_1931": "0.06329",
+        "share_jewish_1931": "0.0077",
+        "pop_density_1931": "48.97",
+        "urbanization_rate_1931": "0.10714",
+        "pop_total_1936": "50333",
+        "share_european_1936": "0.12091",
+        "share_french_1936": "0.04679",
+        "share_italian_1936": "0.06888",
+        "share_jewish_1936": "0.00844",
+        "pop_density_1936": "52.98",
+        "urbanization_rate_1936": "0.10715",
+        "pop_total_1946": "62348",
+        "share_european_1946": "0.11211",
+        "share_french_1946": "0.0435",
+        "share_italian_1946": "0.06369",
+        "share_jewish_1946": "0.00844",
+        "pop_density_1946": "65.63",
+        "urbanization_rate_1946": "0.10714",
+        "pop_total_1956": "73004",
+        "share_european_1956": "0.10758",
+        "share_french_1956": "0.04182",
+        "share_italian_1956": "0.061",
+        "share_jewish_1956": "0.0073",
+        "pop_density_1956": "76.85",
+        "urbanization_rate_1956": "0.10714",
+        "growth_pop_1921_1936": "24.57",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.0316"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.69514,
+              36.6
+            ],
+            [
+              10.669,
+              36.67833
+            ],
+            [
+              10.59757,
+              36.73567
+            ],
+            [
+              10.5,
+              36.75666
+            ],
+            [
+              10.40243,
+              36.73567
+            ],
+            [
+              10.331,
+              36.67833
+            ],
+            [
+              10.30486,
+              36.6
+            ],
+            [
+              10.331,
+              36.52167
+            ],
+            [
+              10.40243,
+              36.46433
+            ],
+            [
+              10.5,
+              36.44334
+            ],
+            [
+              10.59757,
+              36.46433
+            ],
+            [
+              10.669,
+              36.52167
+            ],
+            [
+              10.69514,
+              36.6
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_DAHMANI",
+        "hsu_name_fr": "Dahmani (Ebba Ksour)",
+        "hsu_name_ar": "\u0627\u0644\u062f\u0647\u0645\u0627\u0646\u064a (\u0627\u0644\u0642\u0635\u0648\u0631)",
+        "region_macro": "North-West",
+        "historical_controle_civil": "TN_CC_LE_KEF",
+        "centroid_lat": 35.94,
+        "centroid_lon": 8.83,
+        "area_km2": 1300.0,
+        "pop_total_1921": "34634",
+        "share_european_1921": "0.0205",
+        "share_french_1921": "0.01129",
+        "share_italian_1921": "0.0082",
+        "share_jewish_1921": "0.00199",
+        "pop_density_1921": "26.64",
+        "urbanization_rate_1921": "0.0",
+        "pop_total_1926": "35722",
+        "share_european_1926": "0.02276",
+        "share_french_1926": "0.01251",
+        "share_italian_1926": "0.0091",
+        "share_jewish_1926": "0.00199",
+        "pop_density_1926": "27.48",
+        "urbanization_rate_1926": "0.0",
+        "pop_total_1931": "39874",
+        "share_european_1931": "0.02551",
+        "share_french_1931": "0.01402",
+        "share_italian_1931": "0.01021",
+        "share_jewish_1931": "0.00201",
+        "pop_density_1931": "30.67",
+        "urbanization_rate_1931": "0.0",
+        "pop_total_1936": "43142",
+        "share_european_1936": "0.02775",
+        "share_french_1936": "0.01525",
+        "share_italian_1936": "0.0111",
+        "share_jewish_1936": "0.0022",
+        "pop_density_1936": "33.19",
+        "urbanization_rate_1936": "0.0",
+        "pop_total_1946": "53441",
+        "share_european_1946": "0.02375",
+        "share_french_1946": "0.01306",
+        "share_italian_1946": "0.00951",
+        "share_jewish_1946": "0.00221",
+        "pop_density_1946": "41.11",
+        "urbanization_rate_1946": "0.0",
+        "pop_total_1956": "62575",
+        "share_european_1956": "0.02125",
+        "share_french_1956": "0.0117",
+        "share_italian_1956": "0.0085",
+        "share_jewish_1956": "0.0019",
+        "pop_density_1956": "48.13",
+        "urbanization_rate_1956": "0.0",
+        "growth_pop_1921_1936": "24.57",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.0072"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.05635,
+              35.94
+            ],
+            [
+              9.02603,
+              36.03163
+            ],
+            [
+              8.94318,
+              36.09871
+            ],
+            [
+              8.83,
+              36.12326
+            ],
+            [
+              8.71682,
+              36.09871
+            ],
+            [
+              8.63397,
+              36.03163
+            ],
+            [
+              8.60365,
+              35.94
+            ],
+            [
+              8.63397,
+              35.84837
+            ],
+            [
+              8.71682,
+              35.78129
+            ],
+            [
+              8.83,
+              35.75674
+            ],
+            [
+              8.94318,
+              35.78129
+            ],
+            [
+              9.02603,
+              35.84837
+            ],
+            [
+              9.05635,
+              35.94
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_DJEBINIANA",
+        "hsu_name_fr": "Djebeniana",
+        "hsu_name_ar": "\u062c\u0628\u0646\u064a\u0627\u0646\u0629",
+        "region_macro": "South",
+        "historical_controle_civil": "TN_CC_SFAX",
+        "centroid_lat": 35.0333,
+        "centroid_lon": 10.9,
+        "area_km2": 1200.0,
+        "pop_total_1921": "37521",
+        "share_european_1921": "0.00821",
+        "share_french_1921": "0.0037",
+        "share_italian_1921": "0.0041",
+        "share_jewish_1921": "0.002",
+        "pop_density_1921": "31.27",
+        "urbanization_rate_1921": "0.0",
+        "pop_total_1926": "38699",
+        "share_european_1926": "0.0091",
+        "share_french_1926": "0.00408",
+        "share_italian_1926": "0.00455",
+        "share_jewish_1926": "0.00199",
+        "pop_density_1926": "32.25",
+        "urbanization_rate_1926": "0.0",
+        "pop_total_1931": "43196",
+        "share_european_1931": "0.01021",
+        "share_french_1931": "0.00458",
+        "share_italian_1931": "0.00509",
+        "share_jewish_1931": "0.00199",
+        "pop_density_1931": "36.0",
+        "urbanization_rate_1931": "0.0",
+        "pop_total_1936": "46738",
+        "share_european_1936": "0.0111",
+        "share_french_1936": "0.00501",
+        "share_italian_1936": "0.00556",
+        "share_jewish_1936": "0.0022",
+        "pop_density_1936": "38.95",
+        "urbanization_rate_1936": "0.0",
+        "pop_total_1946": "57894",
+        "share_european_1946": "0.0095",
+        "share_french_1946": "0.00428",
+        "share_italian_1946": "0.00475",
+        "share_jewish_1946": "0.00219",
+        "pop_density_1946": "48.24",
+        "urbanization_rate_1946": "0.0",
+        "pop_total_1956": "67789",
+        "share_european_1956": "0.0085",
+        "share_french_1956": "0.00382",
+        "share_italian_1956": "0.00425",
+        "share_jewish_1956": "0.0019",
+        "pop_density_1956": "56.49",
+        "urbanization_rate_1956": "0.0",
+        "growth_pop_1921_1936": "24.56",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.0029"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.11503,
+              35.0333
+            ],
+            [
+              11.08622,
+              35.12134
+            ],
+            [
+              11.00752,
+              35.18578
+            ],
+            [
+              10.9,
+              35.20937
+            ],
+            [
+              10.79248,
+              35.18578
+            ],
+            [
+              10.71378,
+              35.12134
+            ],
+            [
+              10.68497,
+              35.0333
+            ],
+            [
+              10.71378,
+              34.94526
+            ],
+            [
+              10.79248,
+              34.88082
+            ],
+            [
+              10.9,
+              34.85723
+            ],
+            [
+              11.00752,
+              34.88082
+            ],
+            [
+              11.08622,
+              34.94526
+            ],
+            [
+              11.11503,
+              35.0333
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_DJERBA",
+        "hsu_name_fr": "Djerba",
+        "hsu_name_ar": "\u062c\u0631\u0628\u0629",
+        "region_macro": "South",
+        "historical_controle_civil": "TN_CC_GABES",
+        "centroid_lat": 33.8075,
+        "centroid_lon": 10.8451,
+        "area_km2": 514.0,
+        "pop_total_1921": "44737",
+        "share_european_1921": "0.0262",
+        "share_french_1921": "0.01227",
+        "share_italian_1921": "0.01279",
+        "share_jewish_1921": "0.10805",
+        "pop_density_1921": "87.04",
+        "urbanization_rate_1921": "0.1613",
+        "pop_total_1926": "46141",
+        "share_european_1926": "0.02906",
+        "share_french_1926": "0.01361",
+        "share_italian_1926": "0.01417",
+        "share_jewish_1926": "0.10806",
+        "pop_density_1926": "89.77",
+        "urbanization_rate_1926": "0.16129",
+        "pop_total_1931": "51503",
+        "share_european_1931": "0.03258",
+        "share_french_1931": "0.01524",
+        "share_italian_1931": "0.01588",
+        "share_jewish_1931": "0.10807",
+        "pop_density_1931": "100.2",
+        "urbanization_rate_1931": "0.16129",
+        "pop_total_1936": "55726",
+        "share_european_1936": "0.03544",
+        "share_french_1936": "0.0166",
+        "share_italian_1936": "0.0173",
+        "share_jewish_1936": "0.11887",
+        "pop_density_1936": "108.42",
+        "urbanization_rate_1936": "0.16129",
+        "pop_total_1946": "69028",
+        "share_european_1946": "0.0348",
+        "share_french_1946": "0.01634",
+        "share_italian_1946": "0.01694",
+        "share_jewish_1946": "0.11886",
+        "pop_density_1946": "134.3",
+        "urbanization_rate_1946": "0.1613",
+        "pop_total_1956": "80825",
+        "share_european_1956": "0.03488",
+        "share_french_1956": "0.01642",
+        "share_italian_1956": "0.01695",
+        "share_jewish_1956": "0.10267",
+        "pop_density_1956": "157.25",
+        "urbanization_rate_1956": "0.16129",
+        "growth_pop_1921_1936": "24.56",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.0092"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.98378,
+              33.8075
+            ],
+            [
+              10.9652,
+              33.86512
+            ],
+            [
+              10.91444,
+              33.9073
+            ],
+            [
+              10.8451,
+              33.92273
+            ],
+            [
+              10.77576,
+              33.9073
+            ],
+            [
+              10.725,
+              33.86512
+            ],
+            [
+              10.70642,
+              33.8075
+            ],
+            [
+              10.725,
+              33.74988
+            ],
+            [
+              10.77576,
+              33.7077
+            ],
+            [
+              10.8451,
+              33.69227
+            ],
+            [
+              10.91444,
+              33.7077
+            ],
+            [
+              10.9652,
+              33.74988
+            ],
+            [
+              10.98378,
+              33.8075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_EL_DJEM",
+        "hsu_name_fr": "El Djem",
+        "hsu_name_ar": "\u0627\u0644\u062c\u0645",
+        "region_macro": "Sahel/Center-East",
+        "historical_controle_civil": "TN_CC_SFAX",
+        "centroid_lat": 35.3,
+        "centroid_lon": 10.7167,
+        "area_km2": 900.0,
+        "pop_total_1921": "31748",
+        "share_european_1921": "0.02013",
+        "share_french_1921": "0.00932",
+        "share_italian_1921": "0.00989",
+        "share_jewish_1921": "0.00365",
+        "pop_density_1921": "35.28",
+        "urbanization_rate_1921": "0.0909",
+        "pop_total_1926": "32746",
+        "share_european_1926": "0.02232",
+        "share_french_1926": "0.01035",
+        "share_italian_1926": "0.01096",
+        "share_jewish_1926": "0.00363",
+        "pop_density_1926": "36.38",
+        "urbanization_rate_1926": "0.09091",
+        "pop_total_1931": "36551",
+        "share_european_1931": "0.02503",
+        "share_french_1931": "0.0116",
+        "share_italian_1931": "0.01228",
+        "share_jewish_1931": "0.00364",
+        "pop_density_1931": "40.61",
+        "urbanization_rate_1931": "0.09091",
+        "pop_total_1936": "39547",
+        "share_european_1936": "0.02726",
+        "share_french_1936": "0.01264",
+        "share_italian_1936": "0.0134",
+        "share_jewish_1936": "0.00402",
+        "pop_density_1936": "43.94",
+        "urbanization_rate_1936": "0.0909",
+        "pop_total_1946": "48987",
+        "share_european_1946": "0.02584",
+        "share_french_1946": "0.01202",
+        "share_italian_1946": "0.01268",
+        "share_jewish_1946": "0.004",
+        "pop_density_1946": "54.43",
+        "urbanization_rate_1946": "0.0909",
+        "pop_total_1956": "57361",
+        "share_european_1956": "0.02523",
+        "share_french_1956": "0.01175",
+        "share_italian_1956": "0.01233",
+        "share_jewish_1956": "0.00347",
+        "pop_density_1956": "63.73",
+        "urbanization_rate_1956": "0.09092",
+        "growth_pop_1921_1936": "24.57",
+        "growth_pop_1936_1956": "45.05",
+        "delta_share_eur_1921_1936": "0.0071"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.90354,
+              35.3
+            ],
+            [
+              10.8785,
+              35.37624
+            ],
+            [
+              10.81012,
+              35.43205
+            ],
+            [
+              10.7167,
+              35.45248
+            ],
+            [
+              10.62328,
+              35.43205
+            ],
+            [
+              10.5549,
+              35.37624
+            ],
+            [
+              10.52986,
+              35.3
+            ],
+            [
+              10.5549,
+              35.22376
+            ],
+            [
+              10.62328,
+              35.16795
+            ],
+            [
+              10.7167,
+              35.14752
+            ],
+            [
+              10.81012,
+              35.16795
+            ],
+            [
+              10.8785,
+              35.22376
+            ],
+            [
+              10.90354,
+              35.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_ENFIDHA",
+        "hsu_name_fr": "Enfidha",
+        "hsu_name_ar": "\u0627\u0644\u0646\u0641\u064a\u0636\u0629",
+        "region_macro": "Sahel/Center-East",
+        "historical_controle_civil": "TN_CC_SOUSSE",
+        "centroid_lat": 36.1333,
+        "centroid_lon": 10.3833,
+        "area_km2": 950.0,
+        "pop_total_1921": "5772",
+        "share_european_1921": "0.14761",
+        "share_french_1921": "0.09598",
+        "share_italian_1921": "0.04435",
+        "share_jewish_1921": "0.00502",
+        "pop_density_1921": "6.08",
+        "urbanization_rate_1921": "1.0",
+        "pop_total_1926": "5954",
+        "share_european_1926": "0.16376",
+        "share_french_1926": "0.10648",
+        "share_italian_1926": "0.04904",
+        "share_jewish_1926": "0.00504",
+        "pop_density_1926": "6.27",
+        "urbanization_rate_1926": "1.0",
+        "pop_total_1931": "6646",
+        "share_european_1931": "0.18357",
+        "share_french_1931": "0.11932",
+        "share_italian_1931": "0.05507",
+        "share_jewish_1931": "0.00497",
+        "pop_density_1931": "7.0",
+        "urbanization_rate_1931": "1.0",
+        "pop_total_1936": "7190",
+        "share_european_1936": "0.19986",
+        "share_french_1936": "0.1299",
+        "share_italian_1936": "0.05994",
+        "share_jewish_1936": "0.00556",
+        "pop_density_1936": "7.57",
+        "urbanization_rate_1936": "1.0",
+        "pop_total_1946": "8907",
+        "share_european_1946": "0.21242",
+        "share_french_1946": "0.13809",
+        "share_italian_1946": "0.06377",
+        "share_jewish_1946": "0.0055",
+        "pop_density_1946": "9.38",
+        "urbanization_rate_1946": "1.0",
+        "pop_total_1956": "10429",
+        "share_european_1956": "0.22505",
+        "share_french_1956": "0.14632",
+        "share_italian_1956": "0.0675",
+        "share_jewish_1956": "0.00479",
+        "pop_density_1956": "10.98",
+        "urbanization_rate_1956": "1.0",
+        "growth_pop_1921_1936": "24.57",
+        "growth_pop_1936_1956": "45.05",
+        "delta_share_eur_1921_1936": "0.0523"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.57727,
+              36.1333
+            ],
+            [
+              10.55129,
+              36.21163
+            ],
+            [
+              10.48029,
+              36.26897
+            ],
+            [
+              10.3833,
+              36.28996
+            ],
+            [
+              10.28631,
+              36.26897
+            ],
+            [
+              10.21531,
+              36.21163
+            ],
+            [
+              10.18933,
+              36.1333
+            ],
+            [
+              10.21531,
+              36.05497
+            ],
+            [
+              10.28631,
+              35.99763
+            ],
+            [
+              10.3833,
+              35.97664
+            ],
+            [
+              10.48029,
+              35.99763
+            ],
+            [
+              10.55129,
+              36.05497
+            ],
+            [
+              10.57727,
+              36.1333
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_GABES",
+        "hsu_name_fr": "Gab\u00e8s Littoral",
+        "hsu_name_ar": "\u0642\u0627\u0628\u0633",
+        "region_macro": "South",
+        "historical_controle_civil": "TN_CC_GABES",
+        "centroid_lat": 33.8815,
+        "centroid_lon": 10.0982,
+        "area_km2": 7100.0,
+        "pop_total_1921": "47623",
+        "share_european_1921": "0.05617",
+        "share_french_1921": "0.03053",
+        "share_italian_1921": "0.02272",
+        "share_jewish_1921": "0.0294",
+        "pop_density_1921": "6.71",
+        "urbanization_rate_1921": "0.24242",
+        "pop_total_1926": "49118",
+        "share_european_1926": "0.06232",
+        "share_french_1926": "0.03386",
+        "share_italian_1926": "0.0252",
+        "share_jewish_1926": "0.0294",
+        "pop_density_1926": "6.92",
+        "urbanization_rate_1926": "0.24242",
+        "pop_total_1931": "54826",
+        "share_european_1931": "0.06986",
+        "share_french_1931": "0.03796",
+        "share_italian_1931": "0.02825",
+        "share_jewish_1931": "0.02938",
+        "pop_density_1931": "7.72",
+        "urbanization_rate_1931": "0.24242",
+        "pop_total_1936": "59321",
+        "share_european_1936": "0.07603",
+        "share_french_1936": "0.04132",
+        "share_italian_1936": "0.03075",
+        "share_jewish_1936": "0.03233",
+        "pop_density_1936": "8.36",
+        "urbanization_rate_1936": "0.24243",
+        "pop_total_1946": "73482",
+        "share_european_1946": "0.07734",
+        "share_french_1946": "0.04211",
+        "share_italian_1946": "0.03122",
+        "share_jewish_1946": "0.03233",
+        "pop_density_1946": "10.35",
+        "urbanization_rate_1946": "0.24243",
+        "pop_total_1956": "86040",
+        "share_european_1956": "0.07954",
+        "share_french_1956": "0.04336",
+        "share_italian_1956": "0.03207",
+        "share_jewish_1956": "0.02792",
+        "pop_density_1956": "12.12",
+        "urbanization_rate_1956": "0.24242",
+        "growth_pop_1921_1936": "24.56",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.0199"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.61408,
+              33.8815
+            ],
+            [
+              10.54497,
+              34.09564
+            ],
+            [
+              10.35614,
+              34.2524
+            ],
+            [
+              10.0982,
+              34.30978
+            ],
+            [
+              9.84026,
+              34.2524
+            ],
+            [
+              9.65143,
+              34.09564
+            ],
+            [
+              9.58232,
+              33.8815
+            ],
+            [
+              9.65143,
+              33.66736
+            ],
+            [
+              9.84026,
+              33.5106
+            ],
+            [
+              10.0982,
+              33.45322
+            ],
+            [
+              10.35614,
+              33.5106
+            ],
+            [
+              10.54497,
+              33.66736
+            ],
+            [
+              10.61408,
+              33.8815
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_GAFSA",
+        "hsu_name_fr": "Gafsa & Bassin Minier",
+        "hsu_name_ar": "\u0642\u0641\u0635\u0629 \u0648\u0627\u0644\u062d\u0648\u0636 \u0627\u0644\u0645\u0646\u062c\u0645\u064a",
+        "region_macro": "South",
+        "historical_controle_civil": "TN_CC_GAFSA",
+        "centroid_lat": 34.425,
+        "centroid_lon": 8.7842,
+        "area_km2": 6500.0,
+        "pop_total_1921": "56282",
+        "share_european_1921": "0.07864",
+        "share_french_1921": "0.03744",
+        "share_italian_1921": "0.03703",
+        "share_jewish_1921": "0.01963",
+        "pop_density_1921": "8.66",
+        "urbanization_rate_1921": "0.43591",
+        "pop_total_1926": "58049",
+        "share_european_1926": "0.08727",
+        "share_french_1926": "0.04157",
+        "share_italian_1926": "0.0411",
+        "share_jewish_1926": "0.01964",
+        "pop_density_1926": "8.93",
+        "urbanization_rate_1926": "0.43591",
+        "pop_total_1931": "64794",
+        "share_european_1931": "0.09782",
+        "share_french_1931": "0.04658",
+        "share_italian_1931": "0.04607",
+        "share_jewish_1931": "0.01963",
+        "pop_density_1931": "9.97",
+        "urbanization_rate_1931": "0.43589",
+        "pop_total_1936": "70107",
+        "share_european_1936": "0.10645",
+        "share_french_1936": "0.05068",
+        "share_italian_1936": "0.05014",
+        "share_jewish_1936": "0.02161",
+        "pop_density_1936": "10.79",
+        "urbanization_rate_1936": "0.43591",
+        "pop_total_1946": "86842",
+        "share_european_1946": "0.11057",
+        "share_french_1946": "0.05259",
+        "share_italian_1946": "0.05213",
+        "share_jewish_1946": "0.0216",
+        "pop_density_1946": "13.36",
+        "urbanization_rate_1946": "0.4359",
+        "pop_total_1956": "101684",
+        "share_european_1956": "0.11536",
+        "share_french_1956": "0.05482",
+        "share_italian_1956": "0.05442",
+        "share_jewish_1956": "0.01866",
+        "pop_density_1956": "15.64",
+        "urbanization_rate_1956": "0.4359",
+        "growth_pop_1921_1936": "24.56",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.0278"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.28099,
+              34.425
+            ],
+            [
+              9.21443,
+              34.62989
+            ],
+            [
+              9.0326,
+              34.77989
+            ],
+            [
+              8.7842,
+              34.83479
+            ],
+            [
+              8.5358,
+              34.77989
+            ],
+            [
+              8.35397,
+              34.62989
+            ],
+            [
+              8.28741,
+              34.425
+            ],
+            [
+              8.35397,
+              34.22011
+            ],
+            [
+              8.5358,
+              34.07011
+            ],
+            [
+              8.7842,
+              34.01521
+            ],
+            [
+              9.0326,
+              34.07011
+            ],
+            [
+              9.21443,
+              34.22011
+            ],
+            [
+              9.28099,
+              34.425
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_GHARDIMAOU",
+        "hsu_name_fr": "Ghardimaou",
+        "hsu_name_ar": "\u063a\u0627\u0631 \u0627\u0644\u062f\u0645\u0627\u0621",
+        "region_macro": "North-West",
+        "historical_controle_civil": "TN_CC_SOUK_EL_ARBA",
+        "centroid_lat": 36.45,
+        "centroid_lon": 8.44,
+        "area_km2": 800.0,
+        "pop_total_1921": "25976",
+        "share_european_1921": "0.0164",
+        "share_french_1921": "0.00951",
+        "share_italian_1921": "0.00624",
+        "share_jewish_1921": "0.002",
+        "pop_density_1921": "32.47",
+        "urbanization_rate_1921": "0.0",
+        "pop_total_1926": "26792",
+        "share_european_1926": "0.01821",
+        "share_french_1926": "0.01056",
+        "share_italian_1926": "0.00691",
+        "share_jewish_1926": "0.00202",
+        "pop_density_1926": "33.49",
+        "urbanization_rate_1926": "0.0",
+        "pop_total_1931": "29905",
+        "share_european_1931": "0.0204",
+        "share_french_1931": "0.01184",
+        "share_italian_1931": "0.00776",
+        "share_jewish_1931": "0.00201",
+        "pop_density_1931": "37.38",
+        "urbanization_rate_1931": "0.0",
+        "pop_total_1936": "32357",
+        "share_european_1936": "0.02219",
+        "share_french_1936": "0.01286",
+        "share_italian_1936": "0.00844",
+        "share_jewish_1936": "0.00219",
+        "pop_density_1936": "40.45",
+        "urbanization_rate_1936": "0.0",
+        "pop_total_1946": "40081",
+        "share_european_1946": "0.01901",
+        "share_french_1946": "0.01103",
+        "share_italian_1946": "0.00724",
+        "share_jewish_1946": "0.0022",
+        "pop_density_1946": "50.1",
+        "urbanization_rate_1946": "0.0",
+        "pop_total_1956": "46931",
+        "share_european_1956": "0.017",
+        "share_french_1956": "0.00987",
+        "share_italian_1956": "0.00646",
+        "share_jewish_1956": "0.0019",
+        "pop_density_1956": "58.66",
+        "urbanization_rate_1956": "0.0",
+        "growth_pop_1921_1936": "24.56",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.0058"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.61873,
+              36.45
+            ],
+            [
+              8.59478,
+              36.52188
+            ],
+            [
+              8.52936,
+              36.5745
+            ],
+            [
+              8.44,
+              36.59376
+            ],
+            [
+              8.35064,
+              36.5745
+            ],
+            [
+              8.28522,
+              36.52188
+            ],
+            [
+              8.26127,
+              36.45
+            ],
+            [
+              8.28522,
+              36.37812
+            ],
+            [
+              8.35064,
+              36.3255
+            ],
+            [
+              8.44,
+              36.30624
+            ],
+            [
+              8.52936,
+              36.3255
+            ],
+            [
+              8.59478,
+              36.37812
+            ],
+            [
+              8.61873,
+              36.45
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_KAIROUAN",
+        "hsu_name_fr": "Kairouan",
+        "hsu_name_ar": "\u0627\u0644\u0642\u064a\u0631\u0648\u0627\u0646",
+        "region_macro": "Center-West",
+        "historical_controle_civil": "TN_CC_KAIROUAN",
+        "centroid_lat": 35.6781,
+        "centroid_lon": 10.0963,
+        "area_km2": 4200.0,
+        "pop_total_1921": "75041",
+        "share_european_1921": "0.02901",
+        "share_french_1921": "0.01595",
+        "share_italian_1921": "0.01161",
+        "share_jewish_1921": "0.01077",
+        "pop_density_1921": "17.87",
+        "urbanization_rate_1921": "0.23077",
+        "pop_total_1926": "77398",
+        "share_european_1926": "0.0322",
+        "share_french_1926": "0.0177",
+        "share_italian_1926": "0.01288",
+        "share_jewish_1926": "0.01076",
+        "pop_density_1926": "18.43",
+        "urbanization_rate_1926": "0.23077",
+        "pop_total_1931": "86393",
+        "share_european_1931": "0.03609",
+        "share_french_1931": "0.01985",
+        "share_italian_1931": "0.01443",
+        "share_jewish_1931": "0.01076",
+        "pop_density_1931": "20.57",
+        "urbanization_rate_1931": "0.23077",
+        "pop_total_1936": "93475",
+        "share_european_1936": "0.03927",
+        "share_french_1936": "0.0216",
+        "share_italian_1936": "0.0157",
+        "share_jewish_1936": "0.01184",
+        "pop_density_1936": "22.26",
+        "urbanization_rate_1936": "0.23077",
+        "pop_total_1946": "115788",
+        "share_european_1946": "0.03999",
+        "share_french_1946": "0.02199",
+        "share_italian_1946": "0.01599",
+        "share_jewish_1946": "0.01185",
+        "pop_density_1946": "27.57",
+        "urbanization_rate_1946": "0.23077",
+        "pop_total_1956": "135578",
+        "share_european_1956": "0.04115",
+        "share_french_1956": "0.02263",
+        "share_italian_1956": "0.01646",
+        "share_jewish_1956": "0.01023",
+        "pop_density_1956": "32.28",
+        "urbanization_rate_1956": "0.23077",
+        "growth_pop_1921_1936": "24.57",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.0103"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.50181,
+              35.6781
+            ],
+            [
+              10.44749,
+              35.8428
+            ],
+            [
+              10.29906,
+              35.96337
+            ],
+            [
+              10.0963,
+              36.0075
+            ],
+            [
+              9.89354,
+              35.96337
+            ],
+            [
+              9.74511,
+              35.8428
+            ],
+            [
+              9.69079,
+              35.6781
+            ],
+            [
+              9.74511,
+              35.5134
+            ],
+            [
+              9.89354,
+              35.39283
+            ],
+            [
+              10.0963,
+              35.3487
+            ],
+            [
+              10.29906,
+              35.39283
+            ],
+            [
+              10.44749,
+              35.5134
+            ],
+            [
+              10.50181,
+              35.6781
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_KASSERINE",
+        "hsu_name_fr": "Kasserine",
+        "hsu_name_ar": "\u0627\u0644\u0642\u0635\u0631\u064a\u0646",
+        "region_macro": "Center-West",
+        "historical_controle_civil": "TN_CC_THALA",
+        "centroid_lat": 35.1667,
+        "centroid_lon": 8.8333,
+        "area_km2": 2500.0,
+        "pop_total_1921": "25976",
+        "share_european_1921": "0.0082",
+        "share_french_1921": "0.00493",
+        "share_italian_1921": "0.00289",
+        "share_jewish_1921": "0.001",
+        "pop_density_1921": "10.39",
+        "urbanization_rate_1921": "0.0",
+        "pop_total_1926": "26792",
+        "share_european_1926": "0.00911",
+        "share_french_1926": "0.00545",
+        "share_italian_1926": "0.00317",
+        "share_jewish_1926": "0.00101",
+        "pop_density_1926": "10.72",
+        "urbanization_rate_1926": "0.0",
+        "pop_total_1931": "29905",
+        "share_european_1931": "0.0102",
+        "share_french_1931": "0.00612",
+        "share_italian_1931": "0.00358",
+        "share_jewish_1931": "0.001",
+        "pop_density_1931": "11.96",
+        "urbanization_rate_1931": "0.0",
+        "pop_total_1936": "32357",
+        "share_european_1936": "0.01109",
+        "share_french_1936": "0.00664",
+        "share_italian_1936": "0.00389",
+        "share_jewish_1936": "0.00111",
+        "pop_density_1936": "12.94",
+        "urbanization_rate_1936": "0.0",
+        "pop_total_1946": "40081",
+        "share_european_1946": "0.00951",
+        "share_french_1946": "0.00571",
+        "share_italian_1946": "0.00332",
+        "share_jewish_1946": "0.0011",
+        "pop_density_1946": "16.03",
+        "urbanization_rate_1946": "0.0",
+        "pop_total_1956": "46931",
+        "share_european_1956": "0.0085",
+        "share_french_1956": "0.00509",
+        "share_italian_1956": "0.00298",
+        "share_jewish_1956": "0.00096",
+        "pop_density_1956": "18.77",
+        "urbanization_rate_1956": "0.0",
+        "growth_pop_1921_1936": "24.56",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.0029"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.14418,
+              35.1667
+            ],
+            [
+              9.10253,
+              35.29377
+            ],
+            [
+              8.98874,
+              35.38679
+            ],
+            [
+              8.8333,
+              35.42084
+            ],
+            [
+              8.67786,
+              35.38679
+            ],
+            [
+              8.56407,
+              35.29377
+            ],
+            [
+              8.52242,
+              35.1667
+            ],
+            [
+              8.56407,
+              35.03963
+            ],
+            [
+              8.67786,
+              34.94661
+            ],
+            [
+              8.8333,
+              34.91256
+            ],
+            [
+              8.98874,
+              34.94661
+            ],
+            [
+              9.10253,
+              35.03963
+            ],
+            [
+              9.14418,
+              35.1667
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_KEBILI",
+        "hsu_name_fr": "K\u00e9bili & Nefzaoua",
+        "hsu_name_ar": "\u0642\u0628\u0644\u064a \u0648\u0646\u0641\u0632\u0627\u0648\u0629",
+        "region_macro": "South",
+        "historical_controle_civil": "TN_TERR_SUD",
+        "centroid_lat": 33.7044,
+        "centroid_lon": 8.9692,
+        "area_km2": 22000.0,
+        "pop_total_1921": "38964",
+        "share_european_1921": "0.003",
+        "share_french_1921": "0.0018",
+        "share_italian_1921": "0.00105",
+        "share_jewish_1921": "0.00321",
+        "pop_density_1921": "1.77",
+        "urbanization_rate_1921": "0.0",
+        "pop_total_1926": "40187",
+        "share_european_1926": "0.00336",
+        "share_french_1926": "0.00202",
+        "share_italian_1926": "0.00119",
+        "share_jewish_1926": "0.00323",
+        "pop_density_1926": "1.83",
+        "urbanization_rate_1926": "0.0",
+        "pop_total_1931": "44858",
+        "share_european_1931": "0.00375",
+        "share_french_1931": "0.00225",
+        "share_italian_1931": "0.00129",
+        "share_jewish_1931": "0.00323",
+        "pop_density_1931": "2.04",
+        "urbanization_rate_1931": "0.0",
+        "pop_total_1936": "48535",
+        "share_european_1936": "0.00408",
+        "share_french_1936": "0.00245",
+        "share_italian_1936": "0.00142",
+        "share_jewish_1936": "0.00354",
+        "pop_density_1936": "2.21",
+        "urbanization_rate_1936": "0.0",
+        "pop_total_1946": "60121",
+        "share_european_1946": "0.00349",
+        "share_french_1946": "0.0021",
+        "share_italian_1946": "0.00123",
+        "share_jewish_1946": "0.00354",
+        "pop_density_1946": "2.73",
+        "urbanization_rate_1946": "0.0",
+        "pop_total_1956": "70396",
+        "share_european_1956": "0.00311",
+        "share_french_1956": "0.00188",
+        "share_italian_1956": "0.00109",
+        "share_jewish_1956": "0.00307",
+        "pop_density_1956": "3.2",
+        "urbanization_rate_1956": "0.0",
+        "growth_pop_1921_1936": "24.56",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.0011"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.87543,
+              33.7044
+            ],
+            [
+              9.75401,
+              34.08135
+            ],
+            [
+              9.42231,
+              34.3573
+            ],
+            [
+              8.9692,
+              34.4583
+            ],
+            [
+              8.51609,
+              34.3573
+            ],
+            [
+              8.18439,
+              34.08135
+            ],
+            [
+              8.06297,
+              33.7044
+            ],
+            [
+              8.18439,
+              33.32745
+            ],
+            [
+              8.51609,
+              33.0515
+            ],
+            [
+              8.9692,
+              32.9505
+            ],
+            [
+              9.42231,
+              33.0515
+            ],
+            [
+              9.75401,
+              33.32745
+            ],
+            [
+              9.87543,
+              33.7044
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_KERKENNAH",
+        "hsu_name_fr": "Kerkennah",
+        "hsu_name_ar": "\u0642\u0631\u0642\u0646\u0629",
+        "region_macro": "South",
+        "historical_controle_civil": "TN_CC_SFAX",
+        "centroid_lat": 34.7333,
+        "centroid_lon": 11.2167,
+        "area_km2": 160.0,
+        "pop_total_1921": "11545",
+        "share_european_1921": "0.00407",
+        "share_french_1921": "0.00165",
+        "share_italian_1921": "0.00225",
+        "share_jewish_1921": "0.00104",
+        "pop_density_1921": "72.16",
+        "urbanization_rate_1921": "0.0",
+        "pop_total_1926": "11907",
+        "share_european_1926": "0.00454",
+        "share_french_1926": "0.00185",
+        "share_italian_1926": "0.00252",
+        "share_jewish_1926": "0.00101",
+        "pop_density_1926": "74.42",
+        "urbanization_rate_1926": "0.0",
+        "pop_total_1931": "13291",
+        "share_european_1931": "0.00512",
+        "share_french_1931": "0.00203",
+        "share_italian_1931": "0.00278",
+        "share_jewish_1931": "0.00098",
+        "pop_density_1931": "83.07",
+        "urbanization_rate_1931": "0.0",
+        "pop_total_1936": "14381",
+        "share_european_1936": "0.00556",
+        "share_french_1936": "0.00223",
+        "share_italian_1936": "0.00306",
+        "share_jewish_1936": "0.00111",
+        "pop_density_1936": "89.88",
+        "urbanization_rate_1936": "0.0",
+        "pop_total_1946": "17814",
+        "share_european_1946": "0.00477",
+        "share_french_1946": "0.00191",
+        "share_italian_1946": "0.00264",
+        "share_jewish_1946": "0.00112",
+        "pop_density_1946": "111.34",
+        "urbanization_rate_1946": "0.0",
+        "pop_total_1956": "20858",
+        "share_european_1956": "0.00427",
+        "share_french_1956": "0.00173",
+        "share_italian_1956": "0.00235",
+        "share_jewish_1956": "0.00096",
+        "pop_density_1956": "130.36",
+        "urbanization_rate_1956": "0.0",
+        "growth_pop_1921_1936": "24.56",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.0015"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.29493,
+              34.7333
+            ],
+            [
+              11.28445,
+              34.76545
+            ],
+            [
+              11.25582,
+              34.78898
+            ],
+            [
+              11.2167,
+              34.79759
+            ],
+            [
+              11.17758,
+              34.78898
+            ],
+            [
+              11.14895,
+              34.76545
+            ],
+            [
+              11.13847,
+              34.7333
+            ],
+            [
+              11.14895,
+              34.70115
+            ],
+            [
+              11.17758,
+              34.67762
+            ],
+            [
+              11.2167,
+              34.66901
+            ],
+            [
+              11.25582,
+              34.67762
+            ],
+            [
+              11.28445,
+              34.70115
+            ],
+            [
+              11.29493,
+              34.7333
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_LE_KEF",
+        "hsu_name_fr": "Le Kef",
+        "hsu_name_ar": "\u0627\u0644\u0643\u0627\u0641",
+        "region_macro": "North-West",
+        "historical_controle_civil": "TN_CC_LE_KEF",
+        "centroid_lat": 36.1742,
+        "centroid_lon": 8.7047,
+        "area_km2": 1900.0,
+        "pop_total_1921": "51952",
+        "share_european_1921": "0.04373",
+        "share_french_1921": "0.02473",
+        "share_italian_1921": "0.0168",
+        "share_jewish_1921": "0.01166",
+        "pop_density_1921": "27.34",
+        "urbanization_rate_1921": "0.16667",
+        "pop_total_1926": "53584",
+        "share_european_1926": "0.04854",
+        "share_french_1926": "0.02745",
+        "share_italian_1926": "0.01866",
+        "share_jewish_1926": "0.01168",
+        "pop_density_1926": "28.2",
+        "urbanization_rate_1926": "0.16667",
+        "pop_total_1931": "59810",
+        "share_european_1931": "0.05441",
+        "share_french_1931": "0.03076",
+        "share_italian_1931": "0.02092",
+        "share_jewish_1931": "0.01165",
+        "pop_density_1931": "31.48",
+        "urbanization_rate_1931": "0.16666",
+        "pop_total_1936": "64714",
+        "share_european_1936": "0.0592",
+        "share_french_1936": "0.03349",
+        "share_italian_1936": "0.02276",
+        "share_jewish_1936": "0.01283",
+        "pop_density_1936": "34.06",
+        "urbanization_rate_1936": "0.16667",
+        "pop_total_1946": "80161",
+        "share_european_1946": "0.05909",
+        "share_french_1946": "0.03328",
+        "share_italian_1946": "0.02284",
+        "share_jewish_1946": "0.01284",
+        "pop_density_1946": "42.19",
+        "urbanization_rate_1946": "0.16666",
+        "pop_total_1956": "93863",
+        "share_european_1956": "0.06",
+        "share_french_1956": "0.03371",
+        "share_italian_1956": "0.02329",
+        "share_jewish_1956": "0.01108",
+        "pop_density_1956": "49.4",
+        "urbanization_rate_1956": "0.16667",
+        "growth_pop_1921_1936": "24.56",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.0155"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.97916,
+              36.1742
+            ],
+            [
+              8.94239,
+              36.28498
+            ],
+            [
+              8.84193,
+              36.36607
+            ],
+            [
+              8.7047,
+              36.39575
+            ],
+            [
+              8.56747,
+              36.36607
+            ],
+            [
+              8.46701,
+              36.28498
+            ],
+            [
+              8.43024,
+              36.1742
+            ],
+            [
+              8.46701,
+              36.06342
+            ],
+            [
+              8.56747,
+              35.98233
+            ],
+            [
+              8.7047,
+              35.95265
+            ],
+            [
+              8.84193,
+              35.98233
+            ],
+            [
+              8.94239,
+              36.06342
+            ],
+            [
+              8.97916,
+              36.1742
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_MAHDIA",
+        "hsu_name_fr": "Mahdia & Sahel Sud",
+        "hsu_name_ar": "\u0627\u0644\u0645\u0647\u062f\u064a\u0629 \u0648\u062c\u0646\u0648\u0628 \u0627\u0644\u0633\u0627\u062d\u0644",
+        "region_macro": "Sahel/Center-East",
+        "historical_controle_civil": "TN_CC_SOUSSE",
+        "centroid_lat": 35.5047,
+        "centroid_lon": 11.0622,
+        "area_km2": 1600.0,
+        "pop_total_1921": "59168",
+        "share_european_1921": "0.03319",
+        "share_french_1921": "0.01452",
+        "share_italian_1921": "0.01688",
+        "share_jewish_1921": "0.00975",
+        "pop_density_1921": "36.98",
+        "urbanization_rate_1921": "0.14635",
+        "pop_total_1926": "61026",
+        "share_european_1926": "0.03684",
+        "share_french_1926": "0.01611",
+        "share_italian_1926": "0.01873",
+        "share_jewish_1926": "0.00977",
+        "pop_density_1926": "38.14",
+        "urbanization_rate_1926": "0.14635",
+        "pop_total_1931": "68117",
+        "share_european_1931": "0.0413",
+        "share_french_1931": "0.01806",
+        "share_italian_1931": "0.02101",
+        "share_jewish_1931": "0.00975",
+        "pop_density_1931": "42.57",
+        "urbanization_rate_1931": "0.14634",
+        "pop_total_1936": "73702",
+        "share_european_1936": "0.04495",
+        "share_french_1936": "0.01966",
+        "share_italian_1936": "0.02285",
+        "share_jewish_1936": "0.01073",
+        "pop_density_1936": "46.06",
+        "urbanization_rate_1936": "0.14635",
+        "pop_total_1946": "91295",
+        "share_european_1946": "0.04385",
+        "share_french_1946": "0.01925",
+        "share_italian_1946": "0.02225",
+        "share_jewish_1946": "0.01073",
+        "pop_density_1946": "57.06",
+        "urbanization_rate_1946": "0.14634",
+        "pop_total_1956": "106899",
+        "share_european_1956": "0.04378",
+        "share_french_1956": "0.01926",
+        "share_italian_1956": "0.02218",
+        "share_jewish_1956": "0.00927",
+        "pop_density_1956": "66.81",
+        "urbanization_rate_1956": "0.14634",
+        "growth_pop_1921_1936": "24.56",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.0118"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.31195,
+              35.5047
+            ],
+            [
+              11.27849,
+              35.60636
+            ],
+            [
+              11.18707,
+              35.68077
+            ],
+            [
+              11.0622,
+              35.70801
+            ],
+            [
+              10.93733,
+              35.68077
+            ],
+            [
+              10.84591,
+              35.60636
+            ],
+            [
+              10.81245,
+              35.5047
+            ],
+            [
+              10.84591,
+              35.40304
+            ],
+            [
+              10.93733,
+              35.32863
+            ],
+            [
+              11.0622,
+              35.30139
+            ],
+            [
+              11.18707,
+              35.32863
+            ],
+            [
+              11.27849,
+              35.40304
+            ],
+            [
+              11.31195,
+              35.5047
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_MAKTAR",
+        "hsu_name_fr": "Maktar & Siliana",
+        "hsu_name_ar": "\u0645\u0643\u062b\u0631 \u0648\u0633\u0644\u064a\u0627\u0646\u0629",
+        "region_macro": "Center-West",
+        "historical_controle_civil": "TN_CC_KAIROUAN",
+        "centroid_lat": 35.85,
+        "centroid_lon": 9.2,
+        "area_km2": 2100.0,
+        "pop_total_1921": "38964",
+        "share_european_1921": "0.02856",
+        "share_french_1921": "0.01617",
+        "share_italian_1921": "0.01111",
+        "share_jewish_1921": "0.00334",
+        "pop_density_1921": "18.55",
+        "urbanization_rate_1921": "0.07407",
+        "pop_total_1926": "40188",
+        "share_european_1926": "0.03168",
+        "share_french_1926": "0.01794",
+        "share_italian_1926": "0.01232",
+        "share_jewish_1926": "0.00333",
+        "pop_density_1926": "19.14",
+        "urbanization_rate_1926": "0.07408",
+        "pop_total_1931": "44858",
+        "share_european_1931": "0.03551",
+        "share_french_1931": "0.02009",
+        "share_italian_1931": "0.01382",
+        "share_jewish_1931": "0.00332",
+        "pop_density_1931": "21.36",
+        "urbanization_rate_1931": "0.07408",
+        "pop_total_1936": "48535",
+        "share_european_1936": "0.03865",
+        "share_french_1936": "0.02188",
+        "share_italian_1936": "0.01504",
+        "share_jewish_1936": "0.00367",
+        "pop_density_1936": "23.11",
+        "urbanization_rate_1936": "0.07407",
+        "pop_total_1946": "60121",
+        "share_european_1946": "0.03683",
+        "share_french_1946": "0.02079",
+        "share_italian_1946": "0.01437",
+        "share_jewish_1946": "0.00366",
+        "pop_density_1946": "28.63",
+        "urbanization_rate_1946": "0.07407",
+        "pop_total_1956": "70397",
+        "share_european_1956": "0.03611",
+        "share_french_1956": "0.02034",
+        "share_italian_1956": "0.01413",
+        "share_jewish_1956": "0.00317",
+        "pop_density_1956": "33.52",
+        "urbanization_rate_1956": "0.07408",
+        "growth_pop_1921_1936": "24.56",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.0101"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.48736,
+              35.85
+            ],
+            [
+              9.44886,
+              35.96646
+            ],
+            [
+              9.34368,
+              36.05172
+            ],
+            [
+              9.2,
+              36.08292
+            ],
+            [
+              9.05632,
+              36.05172
+            ],
+            [
+              8.95114,
+              35.96646
+            ],
+            [
+              8.91264,
+              35.85
+            ],
+            [
+              8.95114,
+              35.73354
+            ],
+            [
+              9.05632,
+              35.64828
+            ],
+            [
+              9.2,
+              35.61708
+            ],
+            [
+              9.34368,
+              35.64828
+            ],
+            [
+              9.44886,
+              35.73354
+            ],
+            [
+              9.48736,
+              35.85
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_MATEUR",
+        "hsu_name_fr": "Mateur - Ichkeul",
+        "hsu_name_ar": "\u0645\u0627\u0637\u0631 \u0648\u0627\u0644\u0625\u0634\u0643\u0644",
+        "region_macro": "North-East",
+        "historical_controle_civil": "TN_CC_BIZERTE",
+        "centroid_lat": 37.04,
+        "centroid_lon": 9.665,
+        "area_km2": 1200.0,
+        "pop_total_1921": "37520",
+        "share_european_1921": "0.05549",
+        "share_french_1921": "0.02913",
+        "share_italian_1921": "0.02356",
+        "share_jewish_1921": "0.00885",
+        "pop_density_1921": "31.27",
+        "urbanization_rate_1921": "0.15384",
+        "pop_total_1926": "38699",
+        "share_european_1926": "0.0616",
+        "share_french_1926": "0.03235",
+        "share_italian_1926": "0.02618",
+        "share_jewish_1926": "0.00886",
+        "pop_density_1926": "32.25",
+        "urbanization_rate_1926": "0.15385",
+        "pop_total_1931": "43197",
+        "share_european_1931": "0.06903",
+        "share_french_1931": "0.03625",
+        "share_italian_1931": "0.02933",
+        "share_jewish_1931": "0.00884",
+        "pop_density_1931": "36.0",
+        "urbanization_rate_1931": "0.15385",
+        "pop_total_1936": "46737",
+        "share_european_1936": "0.07514",
+        "share_french_1936": "0.03945",
+        "share_italian_1936": "0.03192",
+        "share_jewish_1936": "0.00974",
+        "pop_density_1936": "38.95",
+        "urbanization_rate_1936": "0.15384",
+        "pop_total_1946": "57895",
+        "share_european_1946": "0.0721",
+        "share_french_1946": "0.03765",
+        "share_italian_1946": "0.03083",
+        "share_jewish_1946": "0.00972",
+        "pop_density_1946": "48.25",
+        "urbanization_rate_1946": "0.15385",
+        "pop_total_1956": "67789",
+        "share_european_1956": "0.07107",
+        "share_french_1956": "0.03697",
+        "share_italian_1956": "0.03055",
+        "share_jewish_1956": "0.00839",
+        "pop_density_1956": "56.49",
+        "urbanization_rate_1956": "0.15385",
+        "growth_pop_1921_1936": "24.57",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.0197"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.88558,
+              37.04
+            ],
+            [
+              9.85603,
+              37.12804
+            ],
+            [
+              9.77529,
+              37.19248
+            ],
+            [
+              9.665,
+              37.21607
+            ],
+            [
+              9.55471,
+              37.19248
+            ],
+            [
+              9.47397,
+              37.12804
+            ],
+            [
+              9.44442,
+              37.04
+            ],
+            [
+              9.47397,
+              36.95196
+            ],
+            [
+              9.55471,
+              36.88752
+            ],
+            [
+              9.665,
+              36.86393
+            ],
+            [
+              9.77529,
+              36.88752
+            ],
+            [
+              9.85603,
+              36.95196
+            ],
+            [
+              9.88558,
+              37.04
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_MATMATA",
+        "hsu_name_fr": "Matmata",
+        "hsu_name_ar": "\u0645\u0637\u0645\u0627\u0637\u0629",
+        "region_macro": "South",
+        "historical_controle_civil": "TN_TERR_SUD",
+        "centroid_lat": 33.5431,
+        "centroid_lon": 9.9675,
+        "area_km2": 4500.0,
+        "pop_total_1921": "14431",
+        "share_european_1921": "0.00249",
+        "share_french_1921": "0.00152",
+        "share_italian_1921": "0.0009",
+        "share_jewish_1921": "0.00097",
+        "pop_density_1921": "3.21",
+        "urbanization_rate_1921": "0.0",
+        "pop_total_1926": "14884",
+        "share_european_1926": "0.00275",
+        "share_french_1926": "0.00168",
+        "share_italian_1926": "0.00094",
+        "share_jewish_1926": "0.00101",
+        "pop_density_1926": "3.31",
+        "urbanization_rate_1926": "0.0",
+        "pop_total_1931": "16614",
+        "share_european_1931": "0.00307",
+        "share_french_1931": "0.00187",
+        "share_italian_1931": "0.00108",
+        "share_jewish_1931": "0.00102",
+        "pop_density_1931": "3.69",
+        "urbanization_rate_1931": "0.0",
+        "pop_total_1936": "17976",
+        "share_european_1936": "0.00334",
+        "share_french_1936": "0.002",
+        "share_italian_1936": "0.00117",
+        "share_jewish_1936": "0.00111",
+        "pop_density_1936": "3.99",
+        "urbanization_rate_1936": "0.0",
+        "pop_total_1946": "22267",
+        "share_european_1946": "0.00283",
+        "share_french_1946": "0.00171",
+        "share_italian_1946": "0.00099",
+        "share_jewish_1946": "0.00108",
+        "pop_density_1946": "4.95",
+        "urbanization_rate_1946": "0.0",
+        "pop_total_1956": "26073",
+        "share_european_1956": "0.00253",
+        "share_french_1956": "0.00153",
+        "share_italian_1956": "0.00088",
+        "share_jewish_1956": "0.00096",
+        "pop_density_1956": "5.79",
+        "urbanization_rate_1956": "0.0",
+        "growth_pop_1921_1936": "24.57",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.0009"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.37659,
+              33.5431
+            ],
+            [
+              10.32178,
+              33.71358
+            ],
+            [
+              10.17204,
+              33.83838
+            ],
+            [
+              9.9675,
+              33.88406
+            ],
+            [
+              9.76296,
+              33.83838
+            ],
+            [
+              9.61322,
+              33.71358
+            ],
+            [
+              9.55841,
+              33.5431
+            ],
+            [
+              9.61322,
+              33.37262
+            ],
+            [
+              9.76296,
+              33.24782
+            ],
+            [
+              9.9675,
+              33.20214
+            ],
+            [
+              10.17204,
+              33.24782
+            ],
+            [
+              10.32178,
+              33.37262
+            ],
+            [
+              10.37659,
+              33.5431
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_MEDENINE",
+        "hsu_name_fr": "M\u00e9denine & Zarzis",
+        "hsu_name_ar": "\u0645\u062f\u0646\u064a\u0646 \u0648\u062c\u0631\u062c\u064a\u0633",
+        "region_macro": "South",
+        "historical_controle_civil": "TN_TERR_SUD",
+        "centroid_lat": 33.3547,
+        "centroid_lon": 10.5053,
+        "area_km2": 8500.0,
+        "pop_total_1921": "69269",
+        "share_european_1921": "0.01597",
+        "share_french_1921": "0.00879",
+        "share_italian_1921": "0.0064",
+        "share_jewish_1921": "0.01376",
+        "pop_density_1921": "8.15",
+        "urbanization_rate_1921": "0.27083",
+        "pop_total_1926": "71445",
+        "share_european_1926": "0.01772",
+        "share_french_1926": "0.00974",
+        "share_italian_1926": "0.0071",
+        "share_jewish_1926": "0.01376",
+        "pop_density_1926": "8.41",
+        "urbanization_rate_1926": "0.27084",
+        "pop_total_1931": "79747",
+        "share_european_1931": "0.01986",
+        "share_french_1931": "0.01092",
+        "share_italian_1931": "0.00795",
+        "share_jewish_1931": "0.01374",
+        "pop_density_1931": "9.38",
+        "urbanization_rate_1931": "0.27083",
+        "pop_total_1936": "86285",
+        "share_european_1936": "0.02163",
+        "share_french_1936": "0.01189",
+        "share_italian_1936": "0.00867",
+        "share_jewish_1936": "0.01512",
+        "pop_density_1936": "10.15",
+        "urbanization_rate_1936": "0.27084",
+        "pop_total_1946": "106882",
+        "share_european_1946": "0.02214",
+        "share_french_1946": "0.01218",
+        "share_italian_1946": "0.00886",
+        "share_jewish_1946": "0.01512",
+        "pop_density_1946": "12.57",
+        "urbanization_rate_1946": "0.27083",
+        "pop_total_1956": "125150",
+        "share_european_1956": "0.02289",
+        "share_french_1956": "0.01259",
+        "share_italian_1956": "0.00915",
+        "share_jewish_1956": "0.01306",
+        "pop_density_1956": "14.72",
+        "urbanization_rate_1956": "0.27083",
+        "growth_pop_1921_1936": "24.57",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.0057"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.06632,
+              33.3547
+            ],
+            [
+              10.99116,
+              33.589
+            ],
+            [
+              10.78581,
+              33.76053
+            ],
+            [
+              10.5053,
+              33.82331
+            ],
+            [
+              10.22479,
+              33.76053
+            ],
+            [
+              10.01944,
+              33.589
+            ],
+            [
+              9.94428,
+              33.3547
+            ],
+            [
+              10.01944,
+              33.1204
+            ],
+            [
+              10.22479,
+              32.94887
+            ],
+            [
+              10.5053,
+              32.88609
+            ],
+            [
+              10.78581,
+              32.94887
+            ],
+            [
+              10.99116,
+              33.1204
+            ],
+            [
+              11.06632,
+              33.3547
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_MEDJEZ_EL_BAB",
+        "hsu_name_fr": "Medjez el-Bab & Testour",
+        "hsu_name_ar": "\u0645\u062c\u0627\u0632 \u0627\u0644\u0628\u0627\u0628 \u0648\u062a\u0633\u062a\u0648\u0631",
+        "region_macro": "North-West",
+        "historical_controle_civil": "TN_CC_BEJA",
+        "centroid_lat": 36.65,
+        "centroid_lon": 9.61,
+        "area_km2": 1250.0,
+        "pop_total_1921": "40406",
+        "share_european_1921": "0.06561",
+        "share_french_1921": "0.03735",
+        "share_italian_1921": "0.025",
+        "share_jewish_1921": "0.01037",
+        "pop_density_1921": "32.32",
+        "urbanization_rate_1921": "0.21428",
+        "pop_total_1926": "41675",
+        "share_european_1926": "0.0728",
+        "share_french_1926": "0.04142",
+        "share_italian_1926": "0.02774",
+        "share_jewish_1926": "0.01037",
+        "pop_density_1926": "33.34",
+        "urbanization_rate_1926": "0.21428",
+        "pop_total_1931": "46519",
+        "share_european_1931": "0.0816",
+        "share_french_1931": "0.04645",
+        "share_italian_1931": "0.03106",
+        "share_jewish_1931": "0.01036",
+        "pop_density_1931": "37.22",
+        "urbanization_rate_1931": "0.21428",
+        "pop_total_1936": "50333",
+        "share_european_1936": "0.08881",
+        "share_french_1936": "0.05056",
+        "share_italian_1936": "0.03381",
+        "share_jewish_1936": "0.0114",
+        "pop_density_1936": "40.27",
+        "urbanization_rate_1936": "0.21429",
+        "pop_total_1946": "62348",
+        "share_european_1946": "0.08538",
+        "share_french_1946": "0.04833",
+        "share_italian_1946": "0.03278",
+        "share_jewish_1946": "0.01139",
+        "pop_density_1946": "49.88",
+        "urbanization_rate_1946": "0.21428",
+        "pop_total_1956": "73004",
+        "share_european_1956": "0.08428",
+        "share_french_1956": "0.04749",
+        "share_italian_1956": "0.03257",
+        "share_jewish_1956": "0.00984",
+        "pop_density_1956": "58.4",
+        "urbanization_rate_1956": "0.21429",
+        "growth_pop_1921_1936": "24.57",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.0232"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.83399,
+              36.65
+            ],
+            [
+              9.80398,
+              36.73985
+            ],
+            [
+              9.72199,
+              36.80563
+            ],
+            [
+              9.61,
+              36.8297
+            ],
+            [
+              9.49801,
+              36.80563
+            ],
+            [
+              9.41602,
+              36.73985
+            ],
+            [
+              9.38601,
+              36.65
+            ],
+            [
+              9.41602,
+              36.56015
+            ],
+            [
+              9.49801,
+              36.49437
+            ],
+            [
+              9.61,
+              36.4703
+            ],
+            [
+              9.72199,
+              36.49437
+            ],
+            [
+              9.80398,
+              36.56015
+            ],
+            [
+              9.83399,
+              36.65
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_MENZEL_TEMIME",
+        "hsu_name_fr": "Menzel Temime & Cap Bon Est",
+        "hsu_name_ar": "\u0645\u0646\u0632\u0644 \u062a\u0645\u064a\u0645 \u0648\u0634\u0631\u0642 \u0627\u0644\u0648\u0637\u0646 \u0627\u0644\u0642\u0628\u0644\u064a",
+        "region_macro": "North-East",
+        "historical_controle_civil": "TN_CC_GROMBALIA",
+        "centroid_lat": 36.78,
+        "centroid_lon": 10.99,
+        "area_km2": 750.0,
+        "pop_total_1921": "54837",
+        "share_european_1921": "0.03022",
+        "share_french_1921": "0.01287",
+        "share_italian_1921": "0.01583",
+        "share_jewish_1921": "0.00842",
+        "pop_density_1921": "73.12",
+        "urbanization_rate_1921": "0.21051",
+        "pop_total_1926": "56561",
+        "share_european_1926": "0.03352",
+        "share_french_1926": "0.01429",
+        "share_italian_1926": "0.01756",
+        "share_jewish_1926": "0.00842",
+        "pop_density_1926": "75.41",
+        "urbanization_rate_1926": "0.21053",
+        "pop_total_1931": "63134",
+        "share_european_1931": "0.03757",
+        "share_french_1931": "0.01601",
+        "share_italian_1931": "0.01967",
+        "share_jewish_1931": "0.00843",
+        "pop_density_1931": "84.18",
+        "urbanization_rate_1931": "0.21054",
+        "pop_total_1936": "68308",
+        "share_european_1936": "0.04089",
+        "share_french_1936": "0.01742",
+        "share_italian_1936": "0.02142",
+        "share_jewish_1936": "0.00928",
+        "pop_density_1936": "91.08",
+        "urbanization_rate_1936": "0.21052",
+        "pop_total_1946": "84615",
+        "share_european_1946": "0.03984",
+        "share_french_1946": "0.01688",
+        "share_italian_1946": "0.02097",
+        "share_jewish_1946": "0.00927",
+        "pop_density_1946": "112.82",
+        "urbanization_rate_1946": "0.21053",
+        "pop_total_1956": "99077",
+        "share_european_1956": "0.03974",
+        "share_french_1956": "0.01677",
+        "share_italian_1956": "0.02097",
+        "share_jewish_1956": "0.008",
+        "pop_density_1956": "132.1",
+        "urbanization_rate_1956": "0.21052",
+        "growth_pop_1921_1936": "24.57",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.0107"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.16379,
+              36.78
+            ],
+            [
+              11.14051,
+              36.8496
+            ],
+            [
+              11.0769,
+              36.90055
+            ],
+            [
+              10.99,
+              36.9192
+            ],
+            [
+              10.9031,
+              36.90055
+            ],
+            [
+              10.83949,
+              36.8496
+            ],
+            [
+              10.81621,
+              36.78
+            ],
+            [
+              10.83949,
+              36.7104
+            ],
+            [
+              10.9031,
+              36.65945
+            ],
+            [
+              10.99,
+              36.6408
+            ],
+            [
+              11.0769,
+              36.65945
+            ],
+            [
+              11.14051,
+              36.7104
+            ],
+            [
+              11.16379,
+              36.78
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_MONASTIR",
+        "hsu_name_fr": "Monastir & Sahel Central",
+        "hsu_name_ar": "\u0627\u0644\u0645\u0646\u0633\u062a\u064a\u0631 \u0648\u0648\u0633\u0637 \u0627\u0644\u0633\u0627\u062d\u0644",
+        "region_macro": "Sahel/Center-East",
+        "historical_controle_civil": "TN_CC_SOUSSE",
+        "centroid_lat": 35.778,
+        "centroid_lon": 10.8262,
+        "area_km2": 1050.0,
+        "pop_total_1921": "83701",
+        "share_european_1921": "0.02205",
+        "share_french_1921": "0.01033",
+        "share_italian_1921": "0.01061",
+        "share_jewish_1921": "0.01276",
+        "pop_density_1921": "79.72",
+        "urbanization_rate_1921": "0.31035",
+        "pop_total_1926": "86329",
+        "share_european_1926": "0.02448",
+        "share_french_1926": "0.01148",
+        "share_italian_1926": "0.01179",
+        "share_jewish_1926": "0.01275",
+        "pop_density_1926": "82.22",
+        "urbanization_rate_1926": "0.31035",
+        "pop_total_1931": "96361",
+        "share_european_1931": "0.02743",
+        "share_french_1931": "0.01286",
+        "share_italian_1931": "0.01319",
+        "share_jewish_1931": "0.01276",
+        "pop_density_1931": "91.77",
+        "urbanization_rate_1931": "0.31034",
+        "pop_total_1936": "104261",
+        "share_european_1936": "0.02986",
+        "share_french_1936": "0.01399",
+        "share_italian_1936": "0.01437",
+        "share_jewish_1936": "0.01403",
+        "pop_density_1936": "99.3",
+        "urbanization_rate_1936": "0.31035",
+        "pop_total_1946": "129149",
+        "share_european_1946": "0.02936",
+        "share_french_1946": "0.0138",
+        "share_italian_1946": "0.01408",
+        "share_jewish_1946": "0.01403",
+        "pop_density_1946": "123.0",
+        "urbanization_rate_1946": "0.31035",
+        "pop_total_1956": "151222",
+        "share_european_1956": "0.02949",
+        "share_french_1956": "0.01389",
+        "share_italian_1956": "0.01412",
+        "share_jewish_1956": "0.01213",
+        "pop_density_1956": "144.02",
+        "urbanization_rate_1956": "0.31035",
+        "growth_pop_1921_1936": "24.56",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.0078"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.02921,
+              35.778
+            ],
+            [
+              11.00201,
+              35.86035
+            ],
+            [
+              10.92771,
+              35.92064
+            ],
+            [
+              10.8262,
+              35.9427
+            ],
+            [
+              10.72469,
+              35.92064
+            ],
+            [
+              10.65039,
+              35.86035
+            ],
+            [
+              10.62319,
+              35.778
+            ],
+            [
+              10.65039,
+              35.69565
+            ],
+            [
+              10.72469,
+              35.63536
+            ],
+            [
+              10.8262,
+              35.6133
+            ],
+            [
+              10.92771,
+              35.63536
+            ],
+            [
+              11.00201,
+              35.69565
+            ],
+            [
+              11.02921,
+              35.778
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_NABEUL",
+        "hsu_name_fr": "Nabeul & Hammamet",
+        "hsu_name_ar": "\u0646\u0627\u0628\u0644 \u0648\u0627\u0644\u062d\u0645\u0627\u0645\u0627\u062a",
+        "region_macro": "North-East",
+        "historical_controle_civil": "TN_CC_GROMBALIA",
+        "centroid_lat": 36.4561,
+        "centroid_lon": 10.7375,
+        "area_km2": 600.0,
+        "pop_total_1921": "56281",
+        "share_european_1921": "0.05425",
+        "share_french_1921": "0.02571",
+        "share_italian_1921": "0.0261",
+        "share_jewish_1921": "0.03333",
+        "pop_density_1921": "93.8",
+        "urbanization_rate_1921": "0.28205",
+        "pop_total_1926": "58049",
+        "share_european_1926": "0.06021",
+        "share_french_1926": "0.02853",
+        "share_italian_1926": "0.02894",
+        "share_jewish_1926": "0.03335",
+        "pop_density_1926": "96.75",
+        "urbanization_rate_1926": "0.28205",
+        "pop_total_1931": "64795",
+        "share_european_1931": "0.06746",
+        "share_french_1931": "0.03196",
+        "share_italian_1931": "0.03246",
+        "share_jewish_1931": "0.03332",
+        "pop_density_1931": "107.99",
+        "urbanization_rate_1931": "0.28206",
+        "pop_total_1936": "70106",
+        "share_european_1936": "0.07343",
+        "share_french_1936": "0.0348",
+        "share_italian_1936": "0.03532",
+        "share_jewish_1936": "0.03666",
+        "pop_density_1936": "116.84",
+        "urbanization_rate_1936": "0.28204",
+        "pop_total_1946": "86842",
+        "share_european_1946": "0.07311",
+        "share_french_1946": "0.03476",
+        "share_italian_1946": "0.03505",
+        "share_jewish_1946": "0.03668",
+        "pop_density_1946": "144.74",
+        "urbanization_rate_1946": "0.28205",
+        "pop_total_1956": "101684",
+        "share_european_1956": "0.07407",
+        "share_french_1956": "0.03532",
+        "share_italian_1956": "0.03546",
+        "share_jewish_1956": "0.03167",
+        "pop_density_1956": "169.47",
+        "urbanization_rate_1956": "0.28205",
+        "growth_pop_1921_1936": "24.56",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.0192"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.89229,
+              36.4561
+            ],
+            [
+              10.87156,
+              36.51835
+            ],
+            [
+              10.8149,
+              36.56392
+            ],
+            [
+              10.7375,
+              36.5806
+            ],
+            [
+              10.6601,
+              36.56392
+            ],
+            [
+              10.60344,
+              36.51835
+            ],
+            [
+              10.58271,
+              36.4561
+            ],
+            [
+              10.60344,
+              36.39385
+            ],
+            [
+              10.6601,
+              36.34828
+            ],
+            [
+              10.7375,
+              36.3316
+            ],
+            [
+              10.8149,
+              36.34828
+            ],
+            [
+              10.87156,
+              36.39385
+            ],
+            [
+              10.89229,
+              36.4561
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_NEFZA",
+        "hsu_name_fr": "Nefza & Littoral Kroumir",
+        "hsu_name_ar": "\u0646\u0641\u0632\u0629 \u0648\u0627\u0644\u0634\u0645\u0627\u0644 \u0627\u0644\u063a\u0631\u0628\u064a",
+        "region_macro": "North-West",
+        "historical_controle_civil": "TN_CC_BEJA",
+        "centroid_lat": 36.95,
+        "centroid_lon": 9.07,
+        "area_km2": 850.0,
+        "pop_total_1921": "25976",
+        "share_european_1921": "0.01232",
+        "share_french_1921": "0.00739",
+        "share_italian_1921": "0.00431",
+        "share_jewish_1921": "0.001",
+        "pop_density_1921": "30.56",
+        "urbanization_rate_1921": "0.0",
+        "pop_total_1926": "26792",
+        "share_european_1926": "0.01366",
+        "share_french_1926": "0.00821",
+        "share_italian_1926": "0.00478",
+        "share_jewish_1926": "0.00101",
+        "pop_density_1926": "31.52",
+        "urbanization_rate_1926": "0.0",
+        "pop_total_1931": "29905",
+        "share_european_1931": "0.01532",
+        "share_french_1931": "0.0092",
+        "share_italian_1931": "0.00535",
+        "share_jewish_1931": "0.001",
+        "pop_density_1931": "35.18",
+        "urbanization_rate_1931": "0.0",
+        "pop_total_1936": "32357",
+        "share_european_1936": "0.01666",
+        "share_french_1936": "0.00998",
+        "share_italian_1936": "0.00584",
+        "share_jewish_1936": "0.00111",
+        "pop_density_1936": "38.07",
+        "urbanization_rate_1936": "0.0",
+        "pop_total_1946": "40081",
+        "share_european_1946": "0.01425",
+        "share_french_1946": "0.00856",
+        "share_italian_1946": "0.00499",
+        "share_jewish_1946": "0.0011",
+        "pop_density_1946": "47.15",
+        "urbanization_rate_1946": "0.0",
+        "pop_total_1956": "46931",
+        "share_european_1956": "0.01274",
+        "share_french_1956": "0.00765",
+        "share_italian_1956": "0.00445",
+        "share_jewish_1956": "0.00096",
+        "pop_density_1956": "55.21",
+        "urbanization_rate_1956": "0.0",
+        "growth_pop_1921_1936": "24.56",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.0043"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.25543,
+              36.95
+            ],
+            [
+              9.23059,
+              37.02409
+            ],
+            [
+              9.16271,
+              37.07833
+            ],
+            [
+              9.07,
+              37.09819
+            ],
+            [
+              8.97729,
+              37.07833
+            ],
+            [
+              8.90941,
+              37.02409
+            ],
+            [
+              8.88457,
+              36.95
+            ],
+            [
+              8.90941,
+              36.87591
+            ],
+            [
+              8.97729,
+              36.82167
+            ],
+            [
+              9.07,
+              36.80181
+            ],
+            [
+              9.16271,
+              36.82167
+            ],
+            [
+              9.23059,
+              36.87591
+            ],
+            [
+              9.25543,
+              36.95
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_SBEITLA",
+        "hsu_name_fr": "Sbe\u00eftla",
+        "hsu_name_ar": "\u0633\u0628\u064a\u0637\u0644\u0629",
+        "region_macro": "Center-West",
+        "historical_controle_civil": "TN_CC_THALA",
+        "centroid_lat": 35.23,
+        "centroid_lon": 9.13,
+        "area_km2": 3100.0,
+        "pop_total_1921": "31748",
+        "share_european_1921": "0.01232",
+        "share_french_1921": "0.0074",
+        "share_italian_1921": "0.00432",
+        "share_jewish_1921": "0.00101",
+        "pop_density_1921": "10.24",
+        "urbanization_rate_1921": "0.0",
+        "pop_total_1926": "32745",
+        "share_european_1926": "0.01365",
+        "share_french_1926": "0.00818",
+        "share_italian_1926": "0.00476",
+        "share_jewish_1926": "0.00101",
+        "pop_density_1926": "10.56",
+        "urbanization_rate_1926": "0.0",
+        "pop_total_1931": "36551",
+        "share_european_1931": "0.01529",
+        "share_french_1931": "0.00917",
+        "share_italian_1931": "0.00536",
+        "share_jewish_1931": "0.00101",
+        "pop_density_1931": "11.79",
+        "urbanization_rate_1931": "0.0",
+        "pop_total_1936": "39547",
+        "share_european_1936": "0.01664",
+        "share_french_1936": "0.00999",
+        "share_italian_1936": "0.00582",
+        "share_jewish_1936": "0.00111",
+        "pop_density_1936": "12.76",
+        "urbanization_rate_1936": "0.0",
+        "pop_total_1946": "48988",
+        "share_european_1946": "0.01425",
+        "share_french_1946": "0.00855",
+        "share_italian_1946": "0.00498",
+        "share_jewish_1946": "0.0011",
+        "pop_density_1946": "15.8",
+        "urbanization_rate_1946": "0.0",
+        "pop_total_1956": "57360",
+        "share_european_1956": "0.01274",
+        "share_french_1956": "0.00765",
+        "share_italian_1956": "0.00446",
+        "share_jewish_1956": "0.00094",
+        "pop_density_1956": "18.5",
+        "urbanization_rate_1956": "0.0",
+        "growth_pop_1921_1936": "24.57",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.0043"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.47645,
+              35.23
+            ],
+            [
+              9.43004,
+              35.3715
+            ],
+            [
+              9.30323,
+              35.47508
+            ],
+            [
+              9.13,
+              35.513
+            ],
+            [
+              8.95677,
+              35.47508
+            ],
+            [
+              8.82996,
+              35.3715
+            ],
+            [
+              8.78355,
+              35.23
+            ],
+            [
+              8.82996,
+              35.0885
+            ],
+            [
+              8.95677,
+              34.98492
+            ],
+            [
+              9.13,
+              34.947
+            ],
+            [
+              9.30323,
+              34.98492
+            ],
+            [
+              9.43004,
+              35.0885
+            ],
+            [
+              9.47645,
+              35.23
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_SERS",
+        "hsu_name_fr": "Le Sers",
+        "hsu_name_ar": "\u0627\u0644\u0633\u0631\u0633",
+        "region_macro": "North-West",
+        "historical_controle_civil": "TN_CC_LE_KEF",
+        "centroid_lat": 36.07,
+        "centroid_lon": 9.02,
+        "area_km2": 850.0,
+        "pop_total_1921": "25976",
+        "share_european_1921": "0.0164",
+        "share_french_1921": "0.00986",
+        "share_italian_1921": "0.00574",
+        "share_jewish_1921": "0.002",
+        "pop_density_1921": "30.56",
+        "urbanization_rate_1921": "0.0",
+        "pop_total_1926": "26792",
+        "share_european_1926": "0.01821",
+        "share_french_1926": "0.01094",
+        "share_italian_1926": "0.00638",
+        "share_jewish_1926": "0.00202",
+        "pop_density_1926": "31.52",
+        "urbanization_rate_1926": "0.0",
+        "pop_total_1931": "29905",
+        "share_european_1931": "0.0204",
+        "share_french_1931": "0.01224",
+        "share_italian_1931": "0.00716",
+        "share_jewish_1931": "0.00201",
+        "pop_density_1931": "35.18",
+        "urbanization_rate_1931": "0.0",
+        "pop_total_1936": "32357",
+        "share_european_1936": "0.02219",
+        "share_french_1936": "0.01332",
+        "share_italian_1936": "0.00776",
+        "share_jewish_1936": "0.00219",
+        "pop_density_1936": "38.07",
+        "urbanization_rate_1936": "0.0",
+        "pop_total_1946": "40081",
+        "share_european_1946": "0.01901",
+        "share_french_1946": "0.0114",
+        "share_italian_1946": "0.00666",
+        "share_jewish_1946": "0.0022",
+        "pop_density_1946": "47.15",
+        "urbanization_rate_1946": "0.0",
+        "pop_total_1956": "46931",
+        "share_european_1956": "0.017",
+        "share_french_1956": "0.01021",
+        "share_italian_1956": "0.00594",
+        "share_jewish_1956": "0.0019",
+        "pop_density_1956": "55.21",
+        "urbanization_rate_1956": "0.0",
+        "growth_pop_1921_1936": "24.56",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.0058"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.20333,
+              36.07
+            ],
+            [
+              9.17877,
+              36.14409
+            ],
+            [
+              9.11167,
+              36.19833
+            ],
+            [
+              9.02,
+              36.21819
+            ],
+            [
+              8.92833,
+              36.19833
+            ],
+            [
+              8.86123,
+              36.14409
+            ],
+            [
+              8.83667,
+              36.07
+            ],
+            [
+              8.86123,
+              35.99591
+            ],
+            [
+              8.92833,
+              35.94167
+            ],
+            [
+              9.02,
+              35.92181
+            ],
+            [
+              9.11167,
+              35.94167
+            ],
+            [
+              9.17877,
+              35.99591
+            ],
+            [
+              9.20333,
+              36.07
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_SFAX",
+        "hsu_name_fr": "Sfax",
+        "hsu_name_ar": "\u0635\u0641\u0627\u0642\u0633",
+        "region_macro": "South",
+        "historical_controle_civil": "TN_CC_SFAX",
+        "centroid_lat": 34.7406,
+        "centroid_lon": 10.7603,
+        "area_km2": 3800.0,
+        "pop_total_1921": "103903",
+        "share_european_1921": "0.08154",
+        "share_french_1921": "0.0388",
+        "share_italian_1921": "0.03797",
+        "share_jewish_1921": "0.02792",
+        "pop_density_1921": "27.34",
+        "urbanization_rate_1921": "0.30555",
+        "pop_total_1926": "107166",
+        "share_european_1926": "0.09049",
+        "share_french_1926": "0.04305",
+        "share_italian_1926": "0.04213",
+        "share_jewish_1926": "0.02792",
+        "pop_density_1926": "28.2",
+        "urbanization_rate_1926": "0.30555",
+        "pop_total_1931": "119621",
+        "share_european_1931": "0.10144",
+        "share_french_1931": "0.04827",
+        "share_italian_1931": "0.04723",
+        "share_jewish_1931": "0.02791",
+        "pop_density_1931": "31.48",
+        "urbanization_rate_1931": "0.30556",
+        "pop_total_1936": "129427",
+        "share_european_1936": "0.11038",
+        "share_french_1936": "0.05252",
+        "share_italian_1936": "0.0514",
+        "share_jewish_1936": "0.0307",
+        "pop_density_1936": "34.06",
+        "urbanization_rate_1936": "0.30555",
+        "pop_total_1946": "160323",
+        "share_european_1946": "0.11415",
+        "share_french_1946": "0.0544",
+        "share_italian_1946": "0.05304",
+        "share_jewish_1946": "0.03071",
+        "pop_density_1946": "42.19",
+        "urbanization_rate_1946": "0.30556",
+        "pop_total_1956": "187724",
+        "share_european_1956": "0.11875",
+        "share_french_1956": "0.05664",
+        "share_italian_1956": "0.0551",
+        "share_jewish_1956": "0.02652",
+        "pop_density_1956": "49.4",
+        "urbanization_rate_1956": "0.30555",
+        "growth_pop_1921_1936": "24.57",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.0288"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.14159,
+              34.7406
+            ],
+            [
+              11.09051,
+              34.89726
+            ],
+            [
+              10.95095,
+              35.01195
+            ],
+            [
+              10.7603,
+              35.05392
+            ],
+            [
+              10.56965,
+              35.01195
+            ],
+            [
+              10.43009,
+              34.89726
+            ],
+            [
+              10.37901,
+              34.7406
+            ],
+            [
+              10.43009,
+              34.58394
+            ],
+            [
+              10.56965,
+              34.46925
+            ],
+            [
+              10.7603,
+              34.42728
+            ],
+            [
+              10.95095,
+              34.46925
+            ],
+            [
+              11.09051,
+              34.58394
+            ],
+            [
+              11.14159,
+              34.7406
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_SIDI_BOU_ZID",
+        "hsu_name_fr": "Sidi Bouzid",
+        "hsu_name_ar": "\u0633\u064a\u062f\u064a \u0628\u0648\u0632\u064a\u062f",
+        "region_macro": "Center-West",
+        "historical_controle_civil": "TN_CC_GAFSA",
+        "centroid_lat": 35.0381,
+        "centroid_lon": 9.4858,
+        "area_km2": 7000.0,
+        "pop_total_1921": "28862",
+        "share_european_1921": "0.00655",
+        "share_french_1921": "0.0036",
+        "share_italian_1921": "0.00263",
+        "share_jewish_1921": "0.001",
+        "pop_density_1921": "4.12",
+        "urbanization_rate_1921": "0.0",
+        "pop_total_1926": "29769",
+        "share_european_1926": "0.00729",
+        "share_french_1926": "0.004",
+        "share_italian_1926": "0.00292",
+        "share_jewish_1926": "0.00101",
+        "pop_density_1926": "4.25",
+        "urbanization_rate_1926": "0.0",
+        "pop_total_1931": "33228",
+        "share_european_1931": "0.00816",
+        "share_french_1931": "0.00448",
+        "share_italian_1931": "0.00325",
+        "share_jewish_1931": "0.00099",
+        "pop_density_1931": "4.75",
+        "urbanization_rate_1931": "0.0",
+        "pop_total_1936": "35952",
+        "share_european_1936": "0.00887",
+        "share_french_1936": "0.00487",
+        "share_italian_1936": "0.00356",
+        "share_jewish_1936": "0.00111",
+        "pop_density_1936": "5.14",
+        "urbanization_rate_1936": "0.0",
+        "pop_total_1946": "44534",
+        "share_european_1946": "0.00759",
+        "share_french_1946": "0.00418",
+        "share_italian_1946": "0.00303",
+        "share_jewish_1946": "0.0011",
+        "pop_density_1946": "6.36",
+        "urbanization_rate_1946": "0.0",
+        "pop_total_1956": "52146",
+        "share_european_1956": "0.00681",
+        "share_french_1956": "0.00374",
+        "share_italian_1956": "0.00272",
+        "share_jewish_1956": "0.00096",
+        "pop_density_1956": "7.45",
+        "urbanization_rate_1956": "0.0",
+        "growth_pop_1921_1936": "24.57",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.0023"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.00518,
+              35.0381
+            ],
+            [
+              9.9356,
+              35.25073
+            ],
+            [
+              9.74549,
+              35.40638
+            ],
+            [
+              9.4858,
+              35.46336
+            ],
+            [
+              9.22611,
+              35.40638
+            ],
+            [
+              9.036,
+              35.25073
+            ],
+            [
+              8.96642,
+              35.0381
+            ],
+            [
+              9.036,
+              34.82547
+            ],
+            [
+              9.22611,
+              34.66982
+            ],
+            [
+              9.4858,
+              34.61284
+            ],
+            [
+              9.74549,
+              34.66982
+            ],
+            [
+              9.9356,
+              34.82547
+            ],
+            [
+              10.00518,
+              35.0381
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_SOLIMAN",
+        "hsu_name_fr": "Soliman & Mornag",
+        "hsu_name_ar": "\u0633\u0644\u064a\u0645\u0627\u0646 \u0648\u0645\u0631\u0646\u0627\u0642",
+        "region_macro": "North-East",
+        "historical_controle_civil": "TN_CC_GROMBALIA",
+        "centroid_lat": 36.7,
+        "centroid_lon": 10.49,
+        "area_km2": 550.0,
+        "pop_total_1921": "33191",
+        "share_european_1921": "0.05167",
+        "share_french_1921": "0.02097",
+        "share_italian_1921": "0.02811",
+        "share_jewish_1921": "0.00563",
+        "pop_density_1921": "60.35",
+        "urbanization_rate_1921": "0.13043",
+        "pop_total_1926": "34234",
+        "share_european_1926": "0.05734",
+        "share_french_1926": "0.02331",
+        "share_italian_1926": "0.0312",
+        "share_jewish_1926": "0.00567",
+        "pop_density_1926": "62.24",
+        "urbanization_rate_1926": "0.13043",
+        "pop_total_1931": "38212",
+        "share_european_1931": "0.06433",
+        "share_french_1931": "0.02612",
+        "share_italian_1931": "0.03496",
+        "share_jewish_1931": "0.00565",
+        "pop_density_1931": "69.48",
+        "urbanization_rate_1931": "0.13043",
+        "pop_total_1936": "41345",
+        "share_european_1936": "0.06997",
+        "share_french_1936": "0.02842",
+        "share_italian_1936": "0.03805",
+        "share_jewish_1936": "0.00622",
+        "pop_density_1936": "75.17",
+        "urbanization_rate_1936": "0.13044",
+        "pop_total_1946": "51214",
+        "share_european_1946": "0.06438",
+        "share_french_1946": "0.0262",
+        "share_italian_1946": "0.03493",
+        "share_jewish_1946": "0.00621",
+        "pop_density_1946": "93.12",
+        "urbanization_rate_1946": "0.13043",
+        "pop_total_1956": "59968",
+        "share_european_1956": "0.06142",
+        "share_french_1956": "0.02505",
+        "share_italian_1956": "0.0333",
+        "share_jewish_1956": "0.00537",
+        "pop_density_1956": "109.03",
+        "urbanization_rate_1956": "0.13044",
+        "growth_pop_1921_1936": "24.57",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.0183"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.63867,
+              36.7
+            ],
+            [
+              10.61875,
+              36.7596
+            ],
+            [
+              10.56434,
+              36.80323
+            ],
+            [
+              10.49,
+              36.8192
+            ],
+            [
+              10.41566,
+              36.80323
+            ],
+            [
+              10.36125,
+              36.7596
+            ],
+            [
+              10.34133,
+              36.7
+            ],
+            [
+              10.36125,
+              36.6404
+            ],
+            [
+              10.41566,
+              36.59677
+            ],
+            [
+              10.49,
+              36.5808
+            ],
+            [
+              10.56434,
+              36.59677
+            ],
+            [
+              10.61875,
+              36.6404
+            ],
+            [
+              10.63867,
+              36.7
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_SOUASSI",
+        "hsu_name_fr": "Les Souassi",
+        "hsu_name_ar": "\u0627\u0644\u0633\u0648\u0627\u0633\u064a",
+        "region_macro": "Sahel/Center-East",
+        "historical_controle_civil": "TN_CC_KAIROUAN",
+        "centroid_lat": 35.35,
+        "centroid_lon": 10.55,
+        "area_km2": 1500.0,
+        "pop_total_1921": "40407",
+        "share_european_1921": "0.00411",
+        "share_french_1921": "0.00205",
+        "share_italian_1921": "0.00186",
+        "share_jewish_1921": "0.00099",
+        "pop_density_1921": "26.94",
+        "urbanization_rate_1921": "0.0",
+        "pop_total_1926": "41676",
+        "share_european_1926": "0.00456",
+        "share_french_1926": "0.00228",
+        "share_italian_1926": "0.00206",
+        "share_jewish_1926": "0.00101",
+        "pop_density_1926": "27.78",
+        "urbanization_rate_1926": "0.0",
+        "pop_total_1931": "46519",
+        "share_european_1931": "0.00509",
+        "share_french_1931": "0.00254",
+        "share_italian_1931": "0.0023",
+        "share_jewish_1931": "0.00101",
+        "pop_density_1931": "31.01",
+        "urbanization_rate_1931": "0.0",
+        "pop_total_1936": "50333",
+        "share_european_1936": "0.00554",
+        "share_french_1936": "0.00278",
+        "share_italian_1936": "0.0025",
+        "share_jewish_1936": "0.00109",
+        "pop_density_1936": "33.56",
+        "urbanization_rate_1936": "0.0",
+        "pop_total_1946": "62348",
+        "share_european_1946": "0.00475",
+        "share_french_1946": "0.00237",
+        "share_italian_1946": "0.00213",
+        "share_jewish_1946": "0.00111",
+        "pop_density_1946": "41.57",
+        "urbanization_rate_1946": "0.0",
+        "pop_total_1956": "73004",
+        "share_european_1956": "0.00425",
+        "share_french_1956": "0.00212",
+        "share_italian_1956": "0.00192",
+        "share_jewish_1956": "0.00095",
+        "pop_density_1956": "48.67",
+        "urbanization_rate_1956": "0.0",
+        "growth_pop_1921_1936": "24.57",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.0014"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.79135,
+              35.35
+            ],
+            [
+              10.75902,
+              35.44843
+            ],
+            [
+              10.67068,
+              35.52048
+            ],
+            [
+              10.55,
+              35.54686
+            ],
+            [
+              10.42932,
+              35.52048
+            ],
+            [
+              10.34098,
+              35.44843
+            ],
+            [
+              10.30865,
+              35.35
+            ],
+            [
+              10.34098,
+              35.25157
+            ],
+            [
+              10.42932,
+              35.17952
+            ],
+            [
+              10.55,
+              35.15314
+            ],
+            [
+              10.67068,
+              35.17952
+            ],
+            [
+              10.75902,
+              35.25157
+            ],
+            [
+              10.79135,
+              35.35
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_SOUK_EL_ARBA",
+        "hsu_name_fr": "Jendouba (Souk el-Arba)",
+        "hsu_name_ar": "\u062c\u0646\u062f\u0648\u0628\u0629 (\u0633\u0648\u0642 \u0627\u0644\u0623\u0631\u0628\u0639\u0627\u0621)",
+        "region_macro": "North-West",
+        "historical_controle_civil": "TN_CC_SOUK_EL_ARBA",
+        "centroid_lat": 36.5011,
+        "centroid_lon": 8.7803,
+        "area_km2": 1400.0,
+        "pop_total_1921": "51951",
+        "share_european_1921": "0.04737",
+        "share_french_1921": "0.02833",
+        "share_italian_1921": "0.01671",
+        "share_jewish_1921": "0.00801",
+        "pop_density_1921": "37.11",
+        "urbanization_rate_1921": "0.1111",
+        "pop_total_1926": "53584",
+        "share_european_1926": "0.05257",
+        "share_french_1926": "0.03146",
+        "share_italian_1926": "0.01851",
+        "share_jewish_1926": "0.00801",
+        "pop_density_1926": "38.27",
+        "urbanization_rate_1926": "0.11112",
+        "pop_total_1931": "59811",
+        "share_european_1931": "0.05894",
+        "share_french_1931": "0.03528",
+        "share_italian_1931": "0.02077",
+        "share_jewish_1931": "0.00801",
+        "pop_density_1931": "42.72",
+        "urbanization_rate_1931": "0.11112",
+        "pop_total_1936": "64713",
+        "share_european_1936": "0.06414",
+        "share_french_1936": "0.03838",
+        "share_italian_1936": "0.02259",
+        "share_jewish_1936": "0.00879",
+        "pop_density_1936": "46.22",
+        "urbanization_rate_1936": "0.11111",
+        "pop_total_1946": "80162",
+        "share_european_1946": "0.06205",
+        "share_french_1946": "0.037",
+        "share_italian_1946": "0.02206",
+        "share_jewish_1946": "0.00881",
+        "pop_density_1946": "57.26",
+        "urbanization_rate_1946": "0.11111",
+        "pop_total_1956": "93862",
+        "share_european_1956": "0.06156",
+        "share_french_1956": "0.03661",
+        "share_italian_1956": "0.02203",
+        "share_jewish_1956": "0.0076",
+        "pop_density_1956": "67.04",
+        "urbanization_rate_1956": "0.11111",
+        "growth_pop_1921_1936": "24.57",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.0168"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.01689,
+              36.5011
+            ],
+            [
+              8.98519,
+              36.59619
+            ],
+            [
+              8.89859,
+              36.6658
+            ],
+            [
+              8.7803,
+              36.69128
+            ],
+            [
+              8.66201,
+              36.6658
+            ],
+            [
+              8.57541,
+              36.59619
+            ],
+            [
+              8.54371,
+              36.5011
+            ],
+            [
+              8.57541,
+              36.40601
+            ],
+            [
+              8.66201,
+              36.3364
+            ],
+            [
+              8.7803,
+              36.31092
+            ],
+            [
+              8.89859,
+              36.3364
+            ],
+            [
+              8.98519,
+              36.40601
+            ],
+            [
+              9.01689,
+              36.5011
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_SOUK_EL_KHEMIS",
+        "hsu_name_fr": "Boussalem (Souk el-Khemis)",
+        "hsu_name_ar": "\u0628\u0648\u0633\u0627\u0644\u0645 (\u0633\u0648\u0642 \u0627\u0644\u062e\u0645\u064a\u0633)",
+        "region_macro": "North-West",
+        "historical_controle_civil": "TN_CC_SOUK_EL_ARBA",
+        "centroid_lat": 36.6111,
+        "centroid_lon": 8.9694,
+        "area_km2": 750.0,
+        "pop_total_1921": "36078",
+        "share_european_1921": "0.02461",
+        "share_french_1921": "0.01599",
+        "share_italian_1921": "0.00737",
+        "share_jewish_1921": "0.002",
+        "pop_density_1921": "48.1",
+        "urbanization_rate_1921": "0.0",
+        "pop_total_1926": "37211",
+        "share_european_1926": "0.0273",
+        "share_french_1926": "0.01774",
+        "share_italian_1926": "0.0082",
+        "share_jewish_1926": "0.00199",
+        "pop_density_1926": "49.61",
+        "urbanization_rate_1926": "0.0",
+        "pop_total_1931": "41535",
+        "share_european_1931": "0.0306",
+        "share_french_1931": "0.01989",
+        "share_italian_1931": "0.00917",
+        "share_jewish_1931": "0.002",
+        "pop_density_1931": "55.38",
+        "urbanization_rate_1931": "0.0",
+        "pop_total_1936": "44940",
+        "share_european_1936": "0.03331",
+        "share_french_1936": "0.02165",
+        "share_italian_1936": "0.00999",
+        "share_jewish_1936": "0.0022",
+        "pop_density_1936": "59.92",
+        "urbanization_rate_1936": "0.0",
+        "pop_total_1946": "55668",
+        "share_european_1946": "0.02851",
+        "share_french_1946": "0.01854",
+        "share_italian_1946": "0.00855",
+        "share_jewish_1946": "0.00219",
+        "pop_density_1946": "74.22",
+        "urbanization_rate_1946": "0.0",
+        "pop_total_1956": "65182",
+        "share_european_1956": "0.0255",
+        "share_french_1956": "0.01657",
+        "share_italian_1956": "0.00766",
+        "share_jewish_1956": "0.0019",
+        "pop_density_1956": "86.91",
+        "urbanization_rate_1956": "0.0",
+        "growth_pop_1921_1936": "24.56",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.0087"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.14281,
+              36.6111
+            ],
+            [
+              9.11958,
+              36.6807
+            ],
+            [
+              9.05611,
+              36.73165
+            ],
+            [
+              8.9694,
+              36.7503
+            ],
+            [
+              8.88269,
+              36.73165
+            ],
+            [
+              8.81922,
+              36.6807
+            ],
+            [
+              8.79599,
+              36.6111
+            ],
+            [
+              8.81922,
+              36.5415
+            ],
+            [
+              8.88269,
+              36.49055
+            ],
+            [
+              8.9694,
+              36.4719
+            ],
+            [
+              9.05611,
+              36.49055
+            ],
+            [
+              9.11958,
+              36.5415
+            ],
+            [
+              9.14281,
+              36.6111
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_SOUSSE",
+        "hsu_name_fr": "Sousse & Sahel Nord",
+        "hsu_name_ar": "\u0633\u0648\u0633\u0629 \u0648\u0634\u0645\u0627\u0644 \u0627\u0644\u0633\u0627\u062d\u0644",
+        "region_macro": "Sahel/Center-East",
+        "historical_controle_civil": "TN_CC_SOUSSE",
+        "centroid_lat": 35.8256,
+        "centroid_lon": 10.6411,
+        "area_km2": 1400.0,
+        "pop_total_1921": "114006",
+        "share_european_1921": "0.08377",
+        "share_french_1921": "0.03706",
+        "share_italian_1921": "0.04107",
+        "share_jewish_1921": "0.02356",
+        "pop_density_1921": "81.43",
+        "urbanization_rate_1921": "0.43038",
+        "pop_total_1926": "117586",
+        "share_european_1926": "0.09296",
+        "share_french_1926": "0.04112",
+        "share_italian_1926": "0.04558",
+        "share_jewish_1926": "0.02357",
+        "pop_density_1926": "83.99",
+        "urbanization_rate_1926": "0.43038",
+        "pop_total_1931": "131250",
+        "share_european_1931": "0.10419",
+        "share_french_1931": "0.04609",
+        "share_italian_1931": "0.05109",
+        "share_jewish_1931": "0.02357",
+        "pop_density_1931": "93.75",
+        "urbanization_rate_1931": "0.43038",
+        "pop_total_1936": "142011",
+        "share_european_1936": "0.11339",
+        "share_french_1936": "0.05017",
+        "share_italian_1936": "0.05559",
+        "share_jewish_1936": "0.02593",
+        "pop_density_1936": "101.44",
+        "urbanization_rate_1936": "0.43038",
+        "pop_total_1946": "175910",
+        "share_european_1946": "0.11661",
+        "share_french_1946": "0.05167",
+        "share_italian_1946": "0.05705",
+        "share_jewish_1946": "0.02592",
+        "pop_density_1946": "125.65",
+        "urbanization_rate_1946": "0.43038",
+        "pop_total_1956": "205976",
+        "share_european_1956": "0.12085",
+        "share_french_1956": "0.05361",
+        "share_italian_1956": "0.05906",
+        "share_jewish_1956": "0.0224",
+        "pop_density_1956": "147.13",
+        "urbanization_rate_1956": "0.43038",
+        "growth_pop_1921_1936": "24.56",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.0296"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.87566,
+              35.8256
+            ],
+            [
+              10.84423,
+              35.92069
+            ],
+            [
+              10.75838,
+              35.9903
+            ],
+            [
+              10.6411,
+              36.01578
+            ],
+            [
+              10.52382,
+              35.9903
+            ],
+            [
+              10.43797,
+              35.92069
+            ],
+            [
+              10.40654,
+              35.8256
+            ],
+            [
+              10.43797,
+              35.73051
+            ],
+            [
+              10.52382,
+              35.6609
+            ],
+            [
+              10.6411,
+              35.63542
+            ],
+            [
+              10.75838,
+              35.6609
+            ],
+            [
+              10.84423,
+              35.73051
+            ],
+            [
+              10.87566,
+              35.8256
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_TABARKA",
+        "hsu_name_fr": "Tabarka",
+        "hsu_name_ar": "\u0637\u0628\u0631\u0642\u0629",
+        "region_macro": "North-West",
+        "historical_controle_civil": "TN_CC_SOUK_EL_ARBA",
+        "centroid_lat": 36.9544,
+        "centroid_lon": 8.7581,
+        "area_km2": 700.0,
+        "pop_total_1921": "23089",
+        "share_european_1921": "0.06046",
+        "share_french_1921": "0.03205",
+        "share_italian_1921": "0.02499",
+        "share_jewish_1921": "0.0055",
+        "pop_density_1921": "32.98",
+        "urbanization_rate_1921": "0.12499",
+        "pop_total_1926": "23815",
+        "share_european_1926": "0.0671",
+        "share_french_1926": "0.03561",
+        "share_italian_1926": "0.02771",
+        "share_jewish_1926": "0.0055",
+        "pop_density_1926": "34.02",
+        "urbanization_rate_1926": "0.12501",
+        "pop_total_1931": "26583",
+        "share_european_1931": "0.07524",
+        "share_french_1931": "0.03995",
+        "share_italian_1931": "0.03107",
+        "share_jewish_1931": "0.00553",
+        "pop_density_1931": "37.98",
+        "urbanization_rate_1931": "0.125",
+        "pop_total_1936": "28761",
+        "share_european_1936": "0.08185",
+        "share_french_1936": "0.04343",
+        "share_italian_1936": "0.0338",
+        "share_jewish_1936": "0.00605",
+        "pop_density_1936": "41.09",
+        "urbanization_rate_1936": "0.125",
+        "pop_total_1946": "35627",
+        "share_european_1946": "0.08098",
+        "share_french_1946": "0.04283",
+        "share_italian_1946": "0.03351",
+        "share_jewish_1946": "0.00606",
+        "pop_density_1946": "50.9",
+        "urbanization_rate_1946": "0.12499",
+        "pop_total_1956": "41717",
+        "share_european_1956": "0.08169",
+        "share_french_1956": "0.04315",
+        "share_italian_1956": "0.03385",
+        "share_jewish_1956": "0.00523",
+        "pop_density_1956": "59.6",
+        "urbanization_rate_1956": "0.12501",
+        "growth_pop_1921_1936": "24.57",
+        "growth_pop_1936_1956": "45.05",
+        "delta_share_eur_1921_1936": "0.0214"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.92638,
+              36.9544
+            ],
+            [
+              8.90384,
+              37.02164
+            ],
+            [
+              8.84224,
+              37.07086
+            ],
+            [
+              8.7581,
+              37.08888
+            ],
+            [
+              8.67396,
+              37.07086
+            ],
+            [
+              8.61236,
+              37.02164
+            ],
+            [
+              8.58982,
+              36.9544
+            ],
+            [
+              8.61236,
+              36.88716
+            ],
+            [
+              8.67396,
+              36.83794
+            ],
+            [
+              8.7581,
+              36.81992
+            ],
+            [
+              8.84224,
+              36.83794
+            ],
+            [
+              8.90384,
+              36.88716
+            ],
+            [
+              8.92638,
+              36.9544
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_TATAOUINE",
+        "hsu_name_fr": "Tataouine",
+        "hsu_name_ar": "\u062a\u0637\u0627\u0648\u064a\u0646",
+        "region_macro": "South",
+        "historical_controle_civil": "TN_TERR_SUD",
+        "centroid_lat": 32.9297,
+        "centroid_lon": 10.4517,
+        "area_km2": 38000.0,
+        "pop_total_1921": "28862",
+        "share_european_1921": "0.00655",
+        "share_french_1921": "0.00426",
+        "share_italian_1921": "0.00197",
+        "share_jewish_1921": "0.01001",
+        "pop_density_1921": "0.76",
+        "urbanization_rate_1921": "0.0",
+        "pop_total_1926": "29769",
+        "share_european_1926": "0.00729",
+        "share_french_1926": "0.00474",
+        "share_italian_1926": "0.00218",
+        "share_jewish_1926": "0.01001",
+        "pop_density_1926": "0.78",
+        "urbanization_rate_1926": "0.0",
+        "pop_total_1931": "33228",
+        "share_european_1931": "0.00816",
+        "share_french_1931": "0.0053",
+        "share_italian_1931": "0.00244",
+        "share_jewish_1931": "0.00999",
+        "pop_density_1931": "0.87",
+        "urbanization_rate_1931": "0.0",
+        "pop_total_1936": "35952",
+        "share_european_1936": "0.00887",
+        "share_french_1936": "0.00576",
+        "share_italian_1936": "0.00267",
+        "share_jewish_1936": "0.01099",
+        "pop_density_1936": "0.95",
+        "urbanization_rate_1936": "0.0",
+        "pop_total_1946": "44534",
+        "share_european_1946": "0.00759",
+        "share_french_1946": "0.00494",
+        "share_italian_1946": "0.00227",
+        "share_jewish_1946": "0.011",
+        "pop_density_1946": "1.17",
+        "urbanization_rate_1946": "0.0",
+        "pop_total_1956": "52146",
+        "share_european_1956": "0.00681",
+        "share_french_1956": "0.00443",
+        "share_italian_1956": "0.00203",
+        "share_jewish_1956": "0.00949",
+        "pop_density_1956": "1.37",
+        "urbanization_rate_1956": "0.0",
+        "growth_pop_1921_1936": "24.57",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.0023"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.63218,
+              32.9297
+            ],
+            [
+              11.47402,
+              33.42511
+            ],
+            [
+              11.04194,
+              33.78777
+            ],
+            [
+              10.4517,
+              33.92052
+            ],
+            [
+              9.86146,
+              33.78777
+            ],
+            [
+              9.42938,
+              33.42511
+            ],
+            [
+              9.27122,
+              32.9297
+            ],
+            [
+              9.42938,
+              32.43429
+            ],
+            [
+              9.86146,
+              32.07163
+            ],
+            [
+              10.4517,
+              31.93888
+            ],
+            [
+              11.04194,
+              32.07163
+            ],
+            [
+              11.47402,
+              32.43429
+            ],
+            [
+              11.63218,
+              32.9297
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_TEBOURBA",
+        "hsu_name_fr": "T\u00e9bourba - Basse Medjerda",
+        "hsu_name_ar": "\u0637\u0628\u0631\u0628\u0629 \u0648\u0645\u062c\u0627\u0632 \u0627\u0644\u0645\u062c\u0631\u062f\u0629 \u0627\u0644\u0633\u0641\u0644\u0649",
+        "region_macro": "North-East",
+        "historical_controle_civil": "TN_CC_BIZERTE",
+        "centroid_lat": 36.83,
+        "centroid_lon": 9.84,
+        "area_km2": 650.0,
+        "pop_total_1921": "33191",
+        "share_european_1921": "0.06951",
+        "share_french_1921": "0.03127",
+        "share_italian_1921": "0.03477",
+        "share_jewish_1921": "0.01217",
+        "pop_density_1921": "51.06",
+        "urbanization_rate_1921": "0.13043",
+        "pop_total_1926": "34234",
+        "share_european_1926": "0.07715",
+        "share_french_1926": "0.0347",
+        "share_italian_1926": "0.03856",
+        "share_jewish_1926": "0.01218",
+        "pop_density_1926": "52.67",
+        "urbanization_rate_1926": "0.13043",
+        "pop_total_1931": "38212",
+        "share_european_1931": "0.08649",
+        "share_french_1931": "0.03891",
+        "share_italian_1931": "0.04326",
+        "share_jewish_1931": "0.01217",
+        "pop_density_1931": "58.79",
+        "urbanization_rate_1931": "0.13043",
+        "pop_total_1936": "41345",
+        "share_european_1936": "0.09411",
+        "share_french_1936": "0.04235",
+        "share_italian_1936": "0.04704",
+        "share_jewish_1936": "0.01338",
+        "pop_density_1936": "63.61",
+        "urbanization_rate_1936": "0.13044",
+        "pop_total_1946": "51214",
+        "share_european_1946": "0.08804",
+        "share_french_1946": "0.03962",
+        "share_italian_1946": "0.04403",
+        "share_jewish_1946": "0.01339",
+        "pop_density_1946": "78.79",
+        "urbanization_rate_1946": "0.13043",
+        "pop_total_1956": "59968",
+        "share_european_1956": "0.0851",
+        "share_french_1956": "0.0383",
+        "share_italian_1956": "0.04256",
+        "share_jewish_1956": "0.01156",
+        "pop_density_1956": "92.26",
+        "urbanization_rate_1956": "0.13044",
+        "growth_pop_1921_1936": "24.57",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.0246"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.0019,
+              36.83
+            ],
+            [
+              9.98021,
+              36.89479
+            ],
+            [
+              9.92095,
+              36.94222
+            ],
+            [
+              9.84,
+              36.95959
+            ],
+            [
+              9.75905,
+              36.94222
+            ],
+            [
+              9.69979,
+              36.89479
+            ],
+            [
+              9.6781,
+              36.83
+            ],
+            [
+              9.69979,
+              36.76521
+            ],
+            [
+              9.75905,
+              36.71778
+            ],
+            [
+              9.84,
+              36.70041
+            ],
+            [
+              9.92095,
+              36.71778
+            ],
+            [
+              9.98021,
+              36.76521
+            ],
+            [
+              10.0019,
+              36.83
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_TEBOURSOUK",
+        "hsu_name_fr": "T\u00e9boursouk & Dougga",
+        "hsu_name_ar": "\u062a\u0628\u0631\u0633\u0642 \u0648\u062f\u0642\u0629",
+        "region_macro": "North-West",
+        "historical_controle_civil": "TN_CC_LE_KEF",
+        "centroid_lat": 36.46,
+        "centroid_lon": 9.25,
+        "area_km2": 900.0,
+        "pop_total_1921": "33191",
+        "share_european_1921": "0.03028",
+        "share_french_1921": "0.01585",
+        "share_italian_1921": "0.0129",
+        "share_jewish_1921": "0.00738",
+        "pop_density_1921": "36.88",
+        "urbanization_rate_1921": "0.13043",
+        "pop_total_1926": "34234",
+        "share_european_1926": "0.03362",
+        "share_french_1926": "0.01758",
+        "share_italian_1926": "0.01434",
+        "share_jewish_1926": "0.00739",
+        "pop_density_1926": "38.04",
+        "urbanization_rate_1926": "0.13043",
+        "pop_total_1931": "38212",
+        "share_european_1931": "0.03771",
+        "share_french_1931": "0.01976",
+        "share_italian_1931": "0.01607",
+        "share_jewish_1931": "0.00741",
+        "pop_density_1931": "42.46",
+        "urbanization_rate_1931": "0.13043",
+        "pop_total_1936": "41345",
+        "share_european_1936": "0.04102",
+        "share_french_1936": "0.02148",
+        "share_italian_1936": "0.01749",
+        "share_jewish_1936": "0.00813",
+        "pop_density_1936": "45.94",
+        "urbanization_rate_1936": "0.13044",
+        "pop_total_1946": "51214",
+        "share_european_1946": "0.0396",
+        "share_french_1946": "0.02062",
+        "share_italian_1946": "0.01699",
+        "share_jewish_1946": "0.00812",
+        "pop_density_1946": "56.9",
+        "urbanization_rate_1946": "0.13043",
+        "pop_total_1956": "59968",
+        "share_european_1956": "0.03924",
+        "share_french_1956": "0.02036",
+        "share_italian_1956": "0.01691",
+        "share_jewish_1956": "0.00702",
+        "pop_density_1956": "66.63",
+        "urbanization_rate_1956": "0.13044",
+        "growth_pop_1921_1936": "24.57",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.0107"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.43959,
+              36.46
+            ],
+            [
+              9.41419,
+              36.53624
+            ],
+            [
+              9.3448,
+              36.59205
+            ],
+            [
+              9.25,
+              36.61248
+            ],
+            [
+              9.1552,
+              36.59205
+            ],
+            [
+              9.08581,
+              36.53624
+            ],
+            [
+              9.06041,
+              36.46
+            ],
+            [
+              9.08581,
+              36.38376
+            ],
+            [
+              9.1552,
+              36.32795
+            ],
+            [
+              9.25,
+              36.30752
+            ],
+            [
+              9.3448,
+              36.32795
+            ],
+            [
+              9.41419,
+              36.38376
+            ],
+            [
+              9.43959,
+              36.46
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_THALA",
+        "hsu_name_fr": "Thala",
+        "hsu_name_ar": "\u062a\u0627\u0644\u0629",
+        "region_macro": "Center-West",
+        "historical_controle_civil": "TN_CC_THALA",
+        "centroid_lat": 35.57,
+        "centroid_lon": 8.67,
+        "area_km2": 2600.0,
+        "pop_total_1921": "40407",
+        "share_european_1921": "0.02084",
+        "share_french_1921": "0.01225",
+        "share_italian_1921": "0.00765",
+        "share_jewish_1921": "0.00329",
+        "pop_density_1921": "15.54",
+        "urbanization_rate_1921": "0.07142",
+        "pop_total_1926": "41676",
+        "share_european_1926": "0.02315",
+        "share_french_1926": "0.01363",
+        "share_italian_1926": "0.00849",
+        "share_jewish_1926": "0.00329",
+        "pop_density_1926": "16.03",
+        "urbanization_rate_1926": "0.07143",
+        "pop_total_1931": "46519",
+        "share_european_1931": "0.02595",
+        "share_french_1931": "0.01526",
+        "share_italian_1931": "0.00952",
+        "share_jewish_1931": "0.00327",
+        "pop_density_1931": "17.89",
+        "urbanization_rate_1931": "0.07143",
+        "pop_total_1936": "50333",
+        "share_european_1936": "0.02823",
+        "share_french_1936": "0.01663",
+        "share_italian_1936": "0.01035",
+        "share_jewish_1936": "0.00362",
+        "pop_density_1936": "19.36",
+        "urbanization_rate_1936": "0.07142",
+        "pop_total_1946": "62347",
+        "share_european_1946": "0.02744",
+        "share_french_1946": "0.01614",
+        "share_italian_1946": "0.0101",
+        "share_jewish_1946": "0.00361",
+        "pop_density_1946": "23.98",
+        "urbanization_rate_1946": "0.07142",
+        "pop_total_1956": "73004",
+        "share_european_1956": "0.02733",
+        "share_french_1956": "0.01604",
+        "share_italian_1956": "0.01011",
+        "share_jewish_1956": "0.00312",
+        "pop_density_1956": "28.08",
+        "urbanization_rate_1956": "0.07143",
+        "growth_pop_1921_1936": "24.57",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.0074"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.98863,
+              35.57
+            ],
+            [
+              8.94594,
+              35.69959
+            ],
+            [
+              8.82931,
+              35.79445
+            ],
+            [
+              8.67,
+              35.82917
+            ],
+            [
+              8.51069,
+              35.79445
+            ],
+            [
+              8.39406,
+              35.69959
+            ],
+            [
+              8.35137,
+              35.57
+            ],
+            [
+              8.39406,
+              35.44041
+            ],
+            [
+              8.51069,
+              35.34555
+            ],
+            [
+              8.67,
+              35.31083
+            ],
+            [
+              8.82931,
+              35.34555
+            ],
+            [
+              8.94594,
+              35.44041
+            ],
+            [
+              8.98863,
+              35.57
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_TOZEUR",
+        "hsu_name_fr": "Tozeur (Dj\u00e9rid)",
+        "hsu_name_ar": "\u062a\u0648\u0632\u0631 (\u0627\u0644\u062c\u0631\u064a\u062f)",
+        "region_macro": "South",
+        "historical_controle_civil": "TN_CC_GAFSA",
+        "centroid_lat": 33.9197,
+        "centroid_lon": 8.1336,
+        "area_km2": 4700.0,
+        "pop_total_1921": "40408",
+        "share_european_1921": "0.02284",
+        "share_french_1921": "0.01255",
+        "share_italian_1921": "0.00913",
+        "share_jewish_1921": "0.02037",
+        "pop_density_1921": "8.6",
+        "urbanization_rate_1921": "0.35716",
+        "pop_total_1926": "41676",
+        "share_european_1926": "0.02536",
+        "share_french_1926": "0.01394",
+        "share_italian_1926": "0.01015",
+        "share_jewish_1926": "0.02037",
+        "pop_density_1926": "8.87",
+        "urbanization_rate_1926": "0.35714",
+        "pop_total_1931": "46519",
+        "share_european_1931": "0.02842",
+        "share_french_1931": "0.01563",
+        "share_italian_1931": "0.01137",
+        "share_jewish_1931": "0.02036",
+        "pop_density_1931": "9.9",
+        "urbanization_rate_1931": "0.35714",
+        "pop_total_1936": "50333",
+        "share_european_1936": "0.03091",
+        "share_french_1936": "0.01699",
+        "share_italian_1936": "0.01238",
+        "share_jewish_1936": "0.02239",
+        "pop_density_1936": "10.71",
+        "urbanization_rate_1936": "0.35714",
+        "pop_total_1946": "62349",
+        "share_european_1946": "0.0314",
+        "share_french_1946": "0.01727",
+        "share_italian_1946": "0.01254",
+        "share_jewish_1946": "0.02239",
+        "pop_density_1946": "13.27",
+        "urbanization_rate_1946": "0.35715",
+        "pop_total_1956": "73003",
+        "share_european_1956": "0.03226",
+        "share_french_1956": "0.01774",
+        "share_italian_1956": "0.01292",
+        "share_jewish_1956": "0.01934",
+        "pop_density_1956": "15.53",
+        "urbanization_rate_1956": "0.35714",
+        "growth_pop_1921_1936": "24.56",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.0081"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.55352,
+              33.9197
+            ],
+            [
+              8.49726,
+              34.09393
+            ],
+            [
+              8.34356,
+              34.22147
+            ],
+            [
+              8.1336,
+              34.26816
+            ],
+            [
+              7.92364,
+              34.22147
+            ],
+            [
+              7.76994,
+              34.09393
+            ],
+            [
+              7.71368,
+              33.9197
+            ],
+            [
+              7.76994,
+              33.74547
+            ],
+            [
+              7.92364,
+              33.61793
+            ],
+            [
+              8.1336,
+              33.57124
+            ],
+            [
+              8.34356,
+              33.61793
+            ],
+            [
+              8.49726,
+              33.74547
+            ],
+            [
+              8.55352,
+              33.9197
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_TUNIS",
+        "hsu_name_fr": "Tunis & Banlieue",
+        "hsu_name_ar": "\u062a\u0648\u0646\u0633 \u0648\u0636\u0648\u0627\u062d\u064a\u0647\u0627",
+        "region_macro": "North-East",
+        "historical_controle_civil": "TN_CC_TUNIS",
+        "centroid_lat": 36.8065,
+        "centroid_lon": 10.1815,
+        "area_km2": 350.0,
+        "pop_total_1921": "216466",
+        "share_european_1921": "0.28465",
+        "share_french_1921": "0.13569",
+        "share_italian_1921": "0.12997",
+        "share_jewish_1921": "0.08279",
+        "pop_density_1921": "618.47",
+        "urbanization_rate_1921": "0.78667",
+        "pop_total_1926": "223265",
+        "share_european_1926": "0.31588",
+        "share_french_1926": "0.15058",
+        "share_italian_1926": "0.14423",
+        "share_jewish_1926": "0.0828",
+        "pop_density_1926": "637.9",
+        "urbanization_rate_1926": "0.78667",
+        "pop_total_1931": "249210",
+        "share_european_1931": "0.35408",
+        "share_french_1931": "0.16879",
+        "share_italian_1931": "0.16167",
+        "share_jewish_1931": "0.0828",
+        "pop_density_1931": "712.03",
+        "urbanization_rate_1931": "0.78667",
+        "pop_total_1936": "269640",
+        "share_european_1936": "0.38531",
+        "share_french_1936": "0.18367",
+        "share_italian_1936": "0.17594",
+        "share_jewish_1936": "0.09108",
+        "pop_density_1936": "770.4",
+        "urbanization_rate_1936": "0.78667",
+        "pop_total_1946": "334007",
+        "share_european_1946": "0.40373",
+        "share_french_1946": "0.19232",
+        "share_italian_1946": "0.18438",
+        "share_jewish_1946": "0.09108",
+        "pop_density_1946": "954.31",
+        "urbanization_rate_1946": "0.78667",
+        "pop_total_1956": "391092",
+        "share_european_1956": "0.42368",
+        "share_french_1956": "0.20172",
+        "share_italian_1956": "0.19352",
+        "share_jewish_1956": "0.07866",
+        "pop_density_1956": "1117.41",
+        "urbanization_rate_1956": "0.78667",
+        "growth_pop_1921_1936": "24.56",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.1007"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.30026,
+              36.8065
+            ],
+            [
+              10.28435,
+              36.85405
+            ],
+            [
+              10.24088,
+              36.88885
+            ],
+            [
+              10.1815,
+              36.90159
+            ],
+            [
+              10.12212,
+              36.88885
+            ],
+            [
+              10.07865,
+              36.85405
+            ],
+            [
+              10.06274,
+              36.8065
+            ],
+            [
+              10.07865,
+              36.75895
+            ],
+            [
+              10.12212,
+              36.72415
+            ],
+            [
+              10.1815,
+              36.71141
+            ],
+            [
+              10.24088,
+              36.72415
+            ],
+            [
+              10.28435,
+              36.75895
+            ],
+            [
+              10.30026,
+              36.8065
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hsu_id": "HSU_ZAGHOUAN",
+        "hsu_name_fr": "Zaghouan",
+        "hsu_name_ar": "\u0632\u063a\u0648\u0627\u0646",
+        "region_macro": "North-East",
+        "historical_controle_civil": "TN_CC_ZAGHOUAN",
+        "centroid_lat": 36.4028,
+        "centroid_lon": 10.1433,
+        "area_km2": 2750.0,
+        "pop_total_1921": "36077",
+        "share_european_1921": "0.04854",
+        "share_french_1921": "0.02611",
+        "share_italian_1921": "0.01979",
+        "share_jewish_1921": "0.00504",
+        "pop_density_1921": "13.12",
+        "urbanization_rate_1921": "0.11999",
+        "pop_total_1926": "37210",
+        "share_european_1926": "0.05388",
+        "share_french_1926": "0.029",
+        "share_italian_1926": "0.02198",
+        "share_jewish_1926": "0.00503",
+        "pop_density_1926": "13.53",
+        "urbanization_rate_1926": "0.11999",
+        "pop_total_1931": "41535",
+        "share_european_1931": "0.06038",
+        "share_french_1931": "0.03248",
+        "share_italian_1931": "0.02463",
+        "share_jewish_1931": "0.00506",
+        "pop_density_1931": "15.1",
+        "urbanization_rate_1931": "0.12",
+        "pop_total_1936": "44940",
+        "share_european_1936": "0.06571",
+        "share_french_1936": "0.03534",
+        "share_italian_1936": "0.02681",
+        "share_jewish_1936": "0.00556",
+        "pop_density_1936": "16.34",
+        "urbanization_rate_1936": "0.12",
+        "pop_total_1946": "55668",
+        "share_european_1946": "0.06176",
+        "share_french_1946": "0.03312",
+        "share_italian_1946": "0.02527",
+        "share_jewish_1946": "0.00555",
+        "pop_density_1946": "20.24",
+        "urbanization_rate_1946": "0.12",
+        "pop_total_1956": "65182",
+        "share_european_1956": "0.05992",
+        "share_french_1956": "0.03205",
+        "share_italian_1956": "0.02458",
+        "share_jewish_1956": "0.00479",
+        "pop_density_1956": "23.7",
+        "urbanization_rate_1956": "0.12",
+        "growth_pop_1921_1936": "24.57",
+        "growth_pop_1936_1956": "45.04",
+        "delta_share_eur_1921_1936": "0.0172"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.47447,
+              36.4028
+            ],
+            [
+              10.4301,
+              36.53607
+            ],
+            [
+              10.30888,
+              36.63363
+            ],
+            [
+              10.1433,
+              36.66934
+            ],
+            [
+              9.97772,
+              36.63363
+            ],
+            [
+              9.8565,
+              36.53607
+            ],
+            [
+              9.81213,
+              36.4028
+            ],
+            [
+              9.8565,
+              36.26953
+            ],
+            [
+              9.97772,
+              36.17197
+            ],
+            [
+              10.1433,
+              36.13626
+            ],
+            [
+              10.30888,
+              36.17197
+            ],
+            [
+              10.4301,
+              36.26953
+            ],
+            [
+              10.47447,
+              36.4028
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
