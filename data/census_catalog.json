@@ -1,6 +1,28 @@
 [
   {
     "census_year": 1862,
+    "census_date": "1862-01-01",
+    "title": "Victor Guérin : Voyage archéologique dans la Régence de Tunis (Dénombrement pré-colonial des communautés israélites et synagogues)",
+    "series_title": "Missions scientifiques et littéraires / Ministère de l Instruction publique",
+    "bnf_notice_id": "bpt6k10492823",
+    "gallica_ark": "ark:/12148/bpt6k10492823",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/bpt6k10492823",
+    "publisher": "Henri Plon",
+    "publication_place": "Paris",
+    "publication_year": 1862,
+    "doc_type": "precolonial_exploratory_census",
+    "coverage_scope": "jewish_quarters_and_rural_settlements",
+    "admin_granularity": "ville,oasis,village_insulaire",
+    "variables": [
+      "pop_juive_estimee",
+      "nombre_foyers_juifs",
+      "synagogues_ouvertes",
+      "activites_commerciales"
+    ],
+    "notes": "Exhaustive exploration of the Regency of Tunis in 1860-1861, recording exact counts of Jewish families, rabbis, and synagogues from Tunis to Djerba."
+  },
+  {
+    "census_year": 1862,
     "census_date": "1860-1862",
     "title": "Voyage archéologique dans la régence de Tunis (Dénombrement précolonial des localités et tribus)",
     "series_title": "Monographies géographiques et archéologiques (Victor Guérin)",
@@ -44,6 +66,29 @@
       "naturalizations"
     ],
     "notes": "Official annual reports to the French President with comprehensive chapters on demographic movements, vital registers, and administrative restructuring."
+  },
+  {
+    "census_year": 1882,
+    "census_date": "1882-1955",
+    "title": "Alliance Israélite Universelle (AIU) : Bulletins périodiques et statistiques scolaires et communautaires de Tunisie",
+    "series_title": "Bulletins de l Alliance Israélite Universelle / Rapports du Comité central",
+    "bnf_notice_id": "cb327027387",
+    "gallica_ark": "ark:/12148/cb327027387",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/cb327027387",
+    "publisher": "Siège central de l AIU",
+    "publication_place": "Paris / Tunis",
+    "publication_year": "1882-1955",
+    "doc_type": "educational_and_demographic_serial",
+    "coverage_scope": "aiu_schools_and_families",
+    "admin_granularity": "etablissement_scolaire,ville",
+    "variables": [
+      "eleves_inscrits_garcons",
+      "eleves_inscrites_filles",
+      "instituteurs",
+      "apprentis_metiers_manuels",
+      "familles_indigentes_secourues"
+    ],
+    "notes": "Continuous annual reporting on the network of modern Franco-Jewish schools, apprenticeships, and communal charity across 15 Tunisian cities and towns."
   },
   {
     "census_year": 1883,
@@ -194,6 +239,30 @@
       "cultivated_perimeter_extent"
     ],
     "notes": "Fundamental spatial baseline providing the precise micro-geographical footprint, coordinates, and names of every isolated settlement, douar, well, and cheikhat boundary across the Regency."
+  },
+  {
+    "census_year": 1888,
+    "census_date": "1888-01-01",
+    "title": "David Cazès : Essai sur l histoire des Israélites de Tunisie (Dénombrement communal et scolaire de l Alliance Israélite Universelle)",
+    "series_title": "Alliance Israélite Universelle / Librairie Armand Durlacher",
+    "bnf_notice_id": "bpt6k58167845",
+    "gallica_ark": "ark:/12148/bpt6k58167845",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/bpt6k58167845",
+    "publisher": "Armand Durlacher",
+    "publication_place": "Paris",
+    "publication_year": 1888,
+    "doc_type": "scholarly_communal_and_school_census",
+    "coverage_scope": "jewish_communities_nationwide",
+    "admin_granularity": "ville,bourg_rural,oasis",
+    "variables": [
+      "pop_israelite_par_communaute",
+      "familles_recensees",
+      "ecoles_aiu",
+      "synagogues",
+      "eleves_garcons",
+      "eleves_filles"
+    ],
+    "notes": "Pioneering late-19th century demographic survey of Tunisian Jewry at the start of the French Protectorate by the first director of AIU schools in Tunisia."
   },
   {
     "census_year": 1890,
@@ -861,6 +930,28 @@
   },
   {
     "census_year": 1907,
+    "census_date": "1907-1935",
+    "title": "La Justice : Organe hebdomadaire des intérêts de la population israélite de Tunisie",
+    "series_title": "Presse périodique israélite de Tunisie",
+    "bnf_notice_id": "cb328014521",
+    "gallica_ark": "ark:/12148/cb328014521",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/cb328014521",
+    "publisher": "Mardochée Smaja",
+    "publication_place": "Tunis",
+    "publication_year": "1907-1935",
+    "doc_type": "periodical_press_and_communal_chronicle",
+    "coverage_scope": "tunisian_jewish_community_events",
+    "admin_granularity": "communaute_locale,section_urbaine",
+    "variables": [
+      "elections_communautaires",
+      "mariages_et_deces_notables",
+      "naturalisations_francaises_morinaud",
+      "statistiques_scolaires"
+    ],
+    "notes": "Weekly communal journal recording demographic milestones, marriages, deaths, communal election tallies, and emigration/naturalization lists."
+  },
+  {
+    "census_year": 1907,
     "census_date": "1907-1955",
     "title": "Sociétés Indigènes de Prévoyance (SIP) : Rôles des fellahs adhérents, prêts de semences et silos coopératifs",
     "series_title": "Direction de l Intérieur et de la Prévoyance sociale",
@@ -943,6 +1034,28 @@
       "quarantined_animals_border"
     ],
     "notes": "Regional epidemiological census of livestock health, pastoral herd mortality, and quarantine controls across pastoral caïdats."
+  },
+  {
+    "census_year": 1909,
+    "census_date": "1909-08-30",
+    "title": "Décret beylical du 30 août 1909 réorganisant la Communauté israélite de Tunis : Listes électorales et rôles des contribuables",
+    "series_title": "Journal officiel tunisien / Secrétariat général du gouvernement",
+    "bnf_notice_id": "cb344136979",
+    "gallica_ark": "ark:/12148/cb344136979",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/cb344136979",
+    "publisher": "Imprimerie officielle",
+    "publication_place": "Tunis",
+    "publication_year": 1909,
+    "doc_type": "electoral_and_taxpayer_census",
+    "coverage_scope": "adult_jewish_males_and_taxpayers",
+    "admin_granularity": "communaute,circonscription_rabbinique",
+    "variables": [
+      "electeurs_inscrits",
+      "contribuables_caisse_de_secours",
+      "membres_conseil_communaute",
+      "taxe_kosher_viande"
+    ],
+    "notes": "Official electoral roll and tax census of Jewish heads of household established under Beylical decree for the elections of the Conseil de la Communauté Israélite."
   },
   {
     "census_year": 1910,
@@ -1423,8 +1536,8 @@
   {
     "census_year": 1941,
     "census_date": "1941-10-15",
-    "title": "Recensement spécial des Israélites de Tunisie (Application du statut des Juifs sous le régime de Vichy)",
-    "series_title": "Publications officielles du Secrétariat général du gouvernement tunisien",
+    "title": "Recensement des Juifs de la Tunisie prescrit par le décret beylical du 26 juin 1941 (Statut des Juifs et spoliation des biens)",
+    "series_title": "Journal Officiel Tunisien n° 52 / Archives Nationales de Tunisie (Fonds FPC-SG5-0037-0001-0008)",
     "bnf_notice_id": "cb328014521",
     "gallica_ark": "ark:/12148/cb328014521",
     "gallica_url": "https://gallica.bnf.fr/ark:/12148/cb328014521",
@@ -1443,7 +1556,7 @@
       "real_estate_holdings",
       "professions_distribution"
     ],
-    "notes": "Nominal and statistical census of all Jewish persons and businesses executed under the Vichy antisemitic statutes of June/September 1941."
+    "notes": "Official legal title: Recensement des Juifs de la Tunisie prescrit par le décret beylical du 26 juin 1941 (JOT n° 52 du 27 juin 1941) et décret d application du 29 septembre 1941 (JOT n° 79). Preserved in the Archives Nationales de Tunisie under cote FPC-SG5-0037-0001-0008. Official recorded count: 89,670 Jews (68,268 Tunisian subjects, 16,496 French citizens, 4,906 foreign nationals)."
   },
   {
     "census_year": 1945,

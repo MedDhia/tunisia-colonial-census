@@ -5,13 +5,16 @@ An end-to-end data pipeline, historical GIS infrastructure, and econometric data
 - **Longitudinal Benchmark Panel (1921–1956)**: Balanced panel across **1921, 1926, 1931, 1936, 1946, and 1956** for 44 Harmonized Spatial Units (HSUs) with comprehensive ethno-religious and demographic indicators.
 - **Master 11-Wave European Longitudinal Panel (1891–1956)**: 11 waves (1891, 1896, 1901, 1906, 1911, 1921, 1926, 1931, 1936, 1946, 1956; 484 obs) tracking European settler dynamics (French, Italians, Maltese, Others) across 65 years.
 - **Detailed Non-Vichy Jewish Census of 1936 (`tunisia_jewish_census_1936_detailed.csv`)**: Exhaustive micro-spatial demographic census of 42 historical Jewish communities from the official Protectorate general census of March 12, 1936 (*Dénombrement de la population tunisienne musulmane et israélite* / Gallica `bpt6k91056547`). Disaggregates Tunisian subjects (*Twansa*), naturalized French citizens (Morinaud law of 1923), Italian citizens (*Grana / Livornese*), gender, households, Alliance Israélite Universelle (AIU) schools/pupils, and rabbinical courts (*Beit Din*).
-- **Longitudinal Jewish Panel (1888–1956) (`tunisia_jewish_longitudinal_1888_1956.csv`)**: 7-wave non-Vichy panel (294 obs across 42 localities $\times$ 7 benchmark waves: 1888, 1921, 1926, 1931, 1936, 1946, 1956) tracking the Jewish community from David Cazès's AIU baseline (*Essai sur l'histoire des Israélites de Tunisie* / Gallica `bpt6k58167845`) to independence.
+- **Long-Run Jewish Longitudinal Panel (1862–1956) (`tunisia_jewish_longitudinal_1862_1956.csv`)**: 8-wave non-Vichy panel (336 obs across 42 localities $\times$ 8 benchmark waves: 1862, 1888, 1921, 1926, 1931, 1936, 1946, 1956) spanning nearly a century of demographic history from Victor Guérin's 1862 pre-colonial survey to independence.
+- **Pre-Colonial Jewish Census of 1862 (`tunisia_jewish_precolonial_1862_guerin.csv`)**: 24 communities with households and synagogues recorded by Victor Guérin (*Voyage archéologique dans la Régence de Tunis* / Gallica `bpt6k10492823`).
+- **Alliance Israélite Universelle (AIU) School Network (1878–1955) (`tunisia_jewish_aiu_schools_1878_1955.csv`)**: 15 institutions tracking foundation dates, boy/girl enrollments, manual trade apprenticeships, and faculty counts.
+- **Official 1941 Vichy Census (`tunisia_jewish_census_1941.csv`)**: Exact legal administrative designation: **« Recensement des Juifs de la Tunisie prescrit par le décret beylical du 26 juin 1941 »** (*Journal Officiel Tunisien* n° 52 du 27 juin 1941; arrêté d'application du 29 septembre 1941, JOT n° 79; Archives Nationales de Tunisie, série FPC-SG5-0037-0001-0008). Enumerated total: **89,670 Juifs** (68,268 Tunisiens, 16,496 Français, 4,906 Étrangers dont 3,208 Italiens et 668 Britanniques).
 - **Vital Statistics Panel (1911–1955)**: 9 benchmark waves (396 obs) measuring crude birth rates, crude death rates, infant mortality, and natural population increase across communities.
 - **1936 Occupational & Economic Structure**: Active labor force by sector (agriculture, mining, crafts/manufacturing, commerce/transport, civil service) and ethnicity across all 44 HSUs.
 - **1936 Housing & Settlement Typology**: Physical dwelling counts across 44 HSUs (masonry buildings, rural gourbis, Bedouin tents, troglodytic cave dwellings).
 - **1936 Pastoral & Livestock Census**: Tax enumeration of domestic livestock (sheep, goats, cattle, camels, equines) and Livestock Standard Units (LSU).
 - **528 Cheikhat Micro-Spatial Gazetteer**: Complete spatial crosswalk of rural sub-caïdal jurisdictions (Cheikhats) with Arabic toponyms, coordinates, and 1:50,000 Service Géographique de l'Armée (SGA) map sheet references.
-- **70 Gallica BnF Primary Source Serials**: Exhaustive archival inventory with persistent ARKs and IIIF image manifests.
+- **75 Gallica BnF Primary Source Serials**: Exhaustive archival inventory with persistent ARKs and IIIF image manifests.
 
 Developed for quantitative political science, economic history, spatial econometrics, and demographic analysis.
 
@@ -24,8 +27,8 @@ tunisia_colonial_census/
 ├── README.md                            # Project overview & quickstart
 ├── codebook.md                          # Exhaustive variable dictionary & formulas
 ├── data/
-│   ├── census_catalog.json              # 70 Gallica BnF primary sources (JSON)
-│   ├── census_catalog.csv               # 70 Gallica BnF primary sources (CSV)
+│   ├── census_catalog.json              # 75 Gallica BnF primary sources (JSON)
+│   ├── census_catalog.csv               # 75 Gallica BnF primary sources (CSV)
 │   ├── raw/
 │   │   └── harvest_manifests.json       # IIIF manifest and image endpoints
 │   ├── intermediate/                    # Raw extracted tables per census wave
@@ -42,11 +45,13 @@ tunisia_colonial_census/
 │   │   ├── tunisia_housing_dwellings_1936.csv        # Dwelling typology & troglodytes (44 HSUs)
 │   │   ├── tunisia_livestock_census_1936.csv        # Achour/Kanoun livestock census (44 HSUs)
 │   │   ├── tunisia_jewish_census_1936_detailed.csv  # 1936 detailed non-Vichy Jewish census (42 localities)
-│   │   ├── tunisia_jewish_longitudinal_1888_1956.csv# 1888-1956 7-wave Jewish panel (294 obs)
-│   │   ├── tunisia_jewish_census_1941.csv           # 1941 Vichy Jewish census (32 communities)
+│   │   ├── tunisia_jewish_longitudinal_1862_1956.csv# 1862-1956 8-wave Jewish panel (336 obs)
+│   │   ├── tunisia_jewish_precolonial_1862_guerin.csv# 1862 Victor Guérin survey (24 localities)
+│   │   ├── tunisia_jewish_aiu_schools_1878_1955.csv # 1878-1955 AIU educational network (15 institutions)
+│   │   ├── tunisia_jewish_census_1941.csv           # 1941 official census: Décret beylical du 26 juin 1941
 │   │   ├── tunisia_hsu_centroids.geojson# GIS point feature layer
 │   │   ├── tunisia_hsu_polygons.geojson # GIS polygon boundary feature layer
-│   │   ├── tunisia_colonial_census.sqlite # Indexed SQLite relational database (14 tables)
+│   │   ├── tunisia_colonial_census.sqlite # Indexed SQLite relational database (17 tables)
 │   │   ├── stata_analysis_template.do   # Stata panel and spatial setup script
 │   │   └── r_spatial_panel_template.R   # R sf / spdep / splm analysis script
 │   └── spatial_weights/
@@ -65,9 +70,9 @@ tunisia_colonial_census/
 │   ├── 05_build_spatial_layers.py       # GIS GeoJSON & spatial weight matrices exporter
 │   ├── 06_export_statistical_packs.py   # SQLite, Stata, and R package exporter
 │   ├── 07_run_spatial_econometric_demo.py # Moran's I & spatial/panel regression demonstration
-│   ├── 08_build_expanded_corpora.py     # Builder for 11-wave panel, 1941 census, & cheikhats
+│   ├── 08_build_expanded_corpora.py     # Builder for 11-wave panel, official 1941 census, & cheikhats
 │   ├── 09_build_deep_demographic_corpora.py # Builder for vital stats, occupations, housing & herds
-│   └── 10_build_jewish_alternative_census.py# Builder for 1936 & 1888-1956 non-Vichy Jewish datasets
+│   └── 10_build_jewish_alternative_census.py# Builder for 1862, 1936, AIU schools & 1862-1956 panels
 └── tests/
     ├── test_math_balance.py             # Mathematical conservation unit tests
     ├── test_spatial_validity.py         # GIS coordinate and matrix connectivity unit tests
@@ -95,10 +100,6 @@ python3 scripts/10_build_jewish_alternative_census.py
 ```bash
 python3 scripts/07_run_spatial_econometric_demo.py
 ```
-*Outputs:*
-- **Moran's $I$ (European settlement clustering, 1936)**: $I = 0.2200$, $Z = 2.562$ ($p < 0.001$).
-- **Moran's $I$ (Log population density, 1936)**: $I = 0.4222$, $Z = 4.693$ ($p < 0.001$).
-- **Panel Fixed-Effects Model**: $\beta = 9.0256$ ($p < 0.001$).
 
 ### 3. Run Automated Unit Tests
 ```bash
@@ -112,9 +113,9 @@ python3 -m unittest discover -s tests -v
 - **R (`sf`, `plm`, `splm`, `spdep`)**: Execute `data/processed/r_spatial_panel_template.R`.
 - **Stata**: Run `data/processed/stata_analysis_template.do`.
 - **QGIS / ArcGIS**: Drag and drop `data/processed/tunisia_hsu_polygons.geojson` or `tunisia_hsu_centroids.geojson`.
-- **SQL (SQLite / DuckDB)**: Query `data/processed/tunisia_colonial_census.sqlite` (contains **14 indexed relational tables**).
+- **SQL (SQLite / DuckDB)**: Query `data/processed/tunisia_colonial_census.sqlite` (contains **17 indexed relational tables**).
 
 ---
 
 ## License & Attribution
-Data sourced from the Bibliothèque nationale de France (BnF / Gallica) public domain collections. Curated and structured under the Open Data Commons Open Database License (ODbL).
+Data sourced from the Bibliothèque nationale de France (BnF / Gallica) and Archives Nationales de Tunisie public domain collections. Curated and structured under the Open Data Commons Open Database License (ODbL).

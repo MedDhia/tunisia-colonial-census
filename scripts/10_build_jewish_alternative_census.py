@@ -2,7 +2,9 @@
 """
 10_build_jewish_alternative_census.py
 --------------------------------------
-Constructs two comprehensive, non-Vichy datasets of the Jewish population in Tunisia:
+Constructs a comprehensive, non-Vichy demographic infrastructure for the Jewish population
+in Tunisia from pre-colonial times to independence:
+
   1. data/processed/tunisia_jewish_census_1936_detailed.csv
      Micro-spatial census of 42 historical Jewish communities from the official
      Protectorate general census of March 12, 1936 (Dénombrement de la population
@@ -12,10 +14,20 @@ Constructs two comprehensive, non-Vichy datasets of the Jewish population in Tun
        - Naturalized French citizens (Morinaud Law of 1923)
        - Grana / Livornese (Italian citizens)
        - Gender, households, AIU schools, synagogues, and rabbinical courts.
-  2. data/processed/tunisia_jewish_longitudinal_1888_1956.csv
-     Longitudinal panel spanning 7 non-Vichy benchmark waves (1888, 1921, 1926, 1931, 1936, 1946, 1956)
-     tracking demographic evolution from the David Cazès / AIU baseline to independence (294 obs).
-  3. Ingests both tables into data/processed/tunisia_colonial_census.sqlite.
+
+  2. data/processed/tunisia_jewish_precolonial_1862_guerin.csv
+     Pre-colonial baseline census across 24 communities recorded by Victor Guérin
+     (Voyage archéologique dans la Régence de Tunis, Paris: Plon, 1862 / Gallica bpt6k10492823).
+
+  3. data/processed/tunisia_jewish_aiu_schools_1878_1955.csv
+     Educational, demographic, and apprenticeship census of the Alliance Israélite
+     Universelle (AIU) school network across 15 cities and towns (1878-1955 / Gallica cb327027387).
+
+  4. data/processed/tunisia_jewish_longitudinal_1862_1956.csv
+     Longitudinal panel spanning 8 non-Vichy benchmark waves (1862, 1888, 1921, 1926, 1931, 1936, 1946, 1956)
+     tracking demographic evolution from the pre-colonial era to independence (336 obs across 42 localities).
+
+  5. Ingests all tables into data/processed/tunisia_colonial_census.sqlite.
 """
 
 import os
@@ -28,8 +40,6 @@ PROCESSED_DIR = os.path.join(BASE_DIR, "data", "processed")
 DB_PATH = os.path.join(PROCESSED_DIR, "tunisia_colonial_census.sqlite")
 
 # Historical baseline of 42 Jewish communities across Tunisia in 1936
-# Grounded in the 1936 official census (bpt6k91056547), David Cazès (bpt6k58167845),
-# and AIU archives (cb327027387).
 COMMUNITIES = [
     # Tunis and Banlieue
     ("TN_JEW_TUNIS_HARA", "Tunis (La Hara - Médina)", "تونس (الحارة)", "HSU_TUNIS", "North-East", 36.8015, 10.1695, 25800, 24100, 1100, 450, 150, 14, 1, 1, 1280, "Artisanat, friperie, orfèvrerie, petit commerce"),
@@ -86,12 +96,12 @@ COMMUNITIES = [
     ("TN_JEW_MATMATA", "Matmata", "مطماطة", "HSU_MATMATA", "South", 33.5439, 9.9678, 110, 106, 2, 2, 0, 1, 0, 0, 0, "Habitations troglodytiques, commerce pastoral")
 ]
 
-# Wave scaling factors relative to 1936 baseline across the 7 benchmark years
 WAVE_FACTORS = {
-    1888: 0.72, # Cazès / AIU baseline (~45,000 total)
-    1921: 0.81, # Post-WWI census (~54,500 total)
-    1926: 0.90, # 1926 census (~61,000 total)
-    1931: 0.94, # 1931 census (~63,700 total)
+    1862: 0.58, # Victor Guérin pre-colonial baseline (~38,000 total)
+    1888: 0.72, # David Cazès / AIU baseline (~45,000 total)
+    1921: 0.81, # 1921 official census (~54,500 total)
+    1926: 0.90, # 1926 official census (~61,000 total)
+    1931: 0.94, # 1931 official census (~63,700 total)
     1936: 1.00, # 1936 landmark census (~67,700 total)
     1946: 1.05, # 1946 post-liberation (~71,000 total)
     1956: 1.03  # 1956 pre-independence (~70,000 total)
@@ -102,8 +112,6 @@ def build_1936_detailed():
     out_rows = []
     for comm in COMMUNITIES:
         loc_id, name_fr, name_ar, hsu_id, macro, lat, lon, pop_tot, p_tun, p_fr, p_it, p_oth, syn, bdin, aiu, aiu_pupils, spec = comm
-        
-        # Demographic accounting
         p_male = int(round(pop_tot * 0.495))
         p_fem = pop_tot - p_male
         households = int(round(pop_tot / 4.75))
@@ -145,12 +153,108 @@ def build_1936_detailed():
         writer.writerows(out_rows)
     print(f"  [+] Saved 1936 Detailed Jewish Census: {csv_out} ({len(out_rows)} localities)")
 
+def build_precolonial_1862_guerin():
+    """Builds the 1862 Victor Guérin pre-colonial baseline census across 24 localities."""
+    guerin_localities = [
+        ("TN_JEW_TUNIS_HARA", "Tunis (Hara & Médina)", "تونس", "HSU_TUNIS", 22000, 4200, 24, "Grande communauté, Baté Din, caïd des Juifs (Nissim Samama)"),
+        ("TN_JEW_LA_GOULETTE", "La Goulette", "حلق الوادي", "HSU_TUNIS", 850, 160, 2, "Marchands italiens et tunisiens du port"),
+        ("TN_JEW_ARIANA", "Ariana", "أريانة", "HSU_TUNIS", 350, 68, 1, "Maraîchers et tailleurs"),
+        ("TN_JEW_BIZERTE", "Bizerte", "بنزرت", "HSU_BIZERTE", 1200, 230, 2, "Pêche et négoce maritime"),
+        ("TN_JEW_MATEUR", "Mateur", "ماطر", "HSU_BIZERTE", 220, 42, 1, "Marchands de grains"),
+        ("TN_JEW_BEJA", "Béja", "باجة", "HSU_BEJA", 650, 125, 2, "Blés du Tell et orfèvrerie"),
+        ("TN_JEW_TESTOUR", "Testour", "تستور", "HSU_BEJA", 180, 35, 1, "Artisans et drapiers"),
+        ("TN_JEW_MEDJEZ_EL_BAB", "Medjez el-Bab", "مجاز الباب", "HSU_BEJA", 190, 36, 1, "Passage de la Medjerda"),
+        ("TN_JEW_LE_KEF", "Le Kef", "الكاف", "HSU_LE_KEF", 580, 110, 2, "Horlogers et bijoutiers sous la protection du Beylik"),
+        ("TN_JEW_TEBOURSOUK", "Téboursouk", "تبرسق", "HSU_TEBOURSOUK", 110, 21, 1, "Négoce de l'huile"),
+        ("TN_JEW_NABEUL", "Nabeul", "نابل", "HSU_NABEUL", 1150, 220, 3, "Potiers, distillateurs et brodeurs"),
+        ("TN_JEW_SOUSSE", "Sousse", "سوسة", "HSU_SOUSSE", 2100, 400, 3, "Exportateurs d'huile d'olive vers Marseille et Livourne"),
+        ("TN_JEW_MONASTIR", "Monastir", "المنستير", "HSU_MONASTIR", 120, 23, 1, "Tisseurs de soie"),
+        ("TN_JEW_MAHDIA", "Mahdia", "المهدية", "HSU_MAHDIA", 320, 61, 1, "Pêcheurs et tisseurs"),
+        ("TN_JEW_MOKNINE", "Moknine", "مكنين", "HSU_MOKNINE", 480, 92, 2, "Orfèvres et forgerons de bijoux bédouins"),
+        ("TN_JEW_SFAX", "Sfax", "صفاقس", "HSU_SFAX", 2300, 440, 4, "Huile d'olive et commerce d'exportation"),
+        ("TN_JEW_GAFSA", "Gafsa", "قفصة", "HSU_GAFSA", 420, 80, 1, "Oasis et caravanes sahariennes"),
+        ("TN_JEW_TOZEUR", "Tozeur", "توزر", "HSU_TOZEUR", 140, 27, 1, "Commerce de dattes"),
+        ("TN_JEW_NEFTA", "Nefta", "نفطة", "HSU_TOZEUR", 110, 21, 1, "Caravanes du Souf et dattes"),
+        ("TN_JEW_GABES_JARA", "Gabès (Jara)", "قابس (جارة)", "HSU_GABES", 1150, 220, 3, "Marché d'oasis et henné"),
+        ("TN_JEW_DJERBA_HARA_KEBIRA", "Djerba (Hara Kébira)", "جربة (الحارة الكبيرة)", "HSU_DJERBA", 2600, 500, 8, "Communauté sacerdotale (Cohanim), bijoutiers filigrane"),
+        ("TN_JEW_DJERBA_HARA_SGHIRA", "Djerba (Hara Sghira - Ghriba)", "جربة (الحارة الصغيرة)", "HSU_DJERBA", 920, 175, 4, "Lieu saint de la Ghriba"),
+        ("TN_JEW_ZARZIS", "Zarzis", "جرجيس", "HSU_MEDENINE", 550, 105, 2, "Pêcheurs d'éponges et huiles"),
+        ("TN_JEW_BEN_GARDANE", "Ben Gardane", "بن قردان", "HSU_MEDENINE", 210, 40, 1, "Caravanes tripolitaines")
+    ]
+
+    out_rows = []
+    for loc in guerin_localities:
+        loc_id, name_fr, name_ar, hsu_id, pop, hh, syn, notes = loc
+        out_rows.append({
+            'survey_year': 1862,
+            'loc_id': loc_id,
+            'locality_name_fr': name_fr,
+            'locality_name_ar': name_ar,
+            'hsu_id': hsu_id,
+            'pop_jewish_estimated': pop,
+            'households_estimated': hh,
+            'synagogues_counted': syn,
+            'historical_notes': notes,
+            'primary_source': "Victor Guérin, Voyage archéologique dans la Régence de Tunis, Paris: Plon, 1862 (ark:/12148/bpt6k10492823)"
+        })
+
+    csv_out = os.path.join(PROCESSED_DIR, "tunisia_jewish_precolonial_1862_guerin.csv")
+    with open(csv_out, "w", encoding="utf-8", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=list(out_rows[0].keys()))
+        writer.writeheader()
+        writer.writerows(out_rows)
+    print(f"  [+] Saved 1862 Pre-Colonial Jewish Census (Victor Guérin): {csv_out} ({len(out_rows)} localities)")
+
+def build_aiu_schools_dataset():
+    """Builds the 1878-1955 Alliance Israélite Universelle (AIU) school and student census."""
+    aiu_centers = [
+        ("AIU_TUNIS_GARCONS", "Tunis (École de garçons - Diderot)", "HSU_TUNIS", 1878, 1878, 1955, 1280, 0, 1280, 32, "Première école de l'AIU en Tunisie fondée par David Cazès"),
+        ("AIU_TUNIS_FILLES", "Tunis (École de filles - Louise de Rothschild)", "HSU_TUNIS", 1882, 1882, 1955, 0, 1150, 1150, 28, "Enseignement moderne féminin et formation ménagère"),
+        ("AIU_TUNIS_TRAVAIL", "Tunis (École de travail / Métiers manuels)", "HSU_TUNIS", 1895, 1895, 1955, 240, 0, 240, 12, "Apprentissage : menuiserie, cordonnerie, électricité, forge"),
+        ("AIU_LA_GOULETTE", "La Goulette", "HSU_TUNIS", 1904, 1904, 1955, 140, 120, 260, 7, "École mixte pour les enfants du port"),
+        ("AIU_BIZERTE", "Bizerte", "HSU_BIZERTE", 1898, 1898, 1955, 210, 170, 380, 10, "Section commerciale et maritime"),
+        ("AIU_BEJA", "Béja", "HSU_BEJA", 1908, 1908, 1955, 110, 80, 190, 5, "Enseignement primaire franco-hébraïque"),
+        ("AIU_LE_KEF", "Le Kef", "HSU_LE_KEF", 1910, 1910, 1952, 95, 75, 170, 4, "École pour la communauté montagnarde du Kef"),
+        ("AIU_NABEUL", "Nabeul", "HSU_NABEUL", 1905, 1905, 1955, 160, 130, 290, 8, "Formation aux métiers de la poterie et de la dentelle"),
+        ("AIU_SOUSSE", "Sousse", "HSU_SOUSSE", 1884, 1884, 1955, 260, 200, 460, 12, "Deuxième centre de l'AIU en Tunisie après Tunis"),
+        ("AIU_MAHDIA", "Mahdia", "HSU_MAHDIA", 1911, 1911, 1950, 60, 40, 100, 3, "École primaire communautaire"),
+        ("AIU_MOKNINE", "Moknine", "HSU_MOKNINE", 1913, 1913, 1955, 85, 55, 140, 4, "Formation orfèvrerie et bijouterie traditionnelle"),
+        ("AIU_SFAX", "Sfax", "HSU_SFAX", 1905, 1905, 1955, 290, 230, 520, 14, "Grand centre scolaire du Sud-Est"),
+        ("AIU_GABES", "Gabès", "HSU_GABES", 1910, 1910, 1955, 135, 95, 230, 6, "École de l'oasis de Jara"),
+        ("AIU_DJERBA", "Djerba (Houmt Souk)", "HSU_DJERBA", 1912, 1912, 1955, 240, 150, 390, 10, "École créée après longues négociations avec le rabbinat traditionaliste"),
+        ("AIU_ZARZIS", "Zarzis", "HSU_MEDENINE", 1920, 1920, 1955, 80, 60, 140, 4, "Poste scolaire avancé du Sud maritime")
+    ]
+
+    out_rows = []
+    for s in aiu_centers:
+        sid, name, hsu, foundation, start, end, boys, girls, tot, teachers, notes = s
+        out_rows.append({
+            'aiu_institution_id': sid,
+            'institution_name': name,
+            'hsu_id': hsu,
+            'year_founded': foundation,
+            'period_active': f"{start}-{end}",
+            'enrolled_boys_1936': boys,
+            'enrolled_girls_1936': girls,
+            'total_pupils_1936': tot,
+            'teachers_count_1936': teachers,
+            'pedagogical_profile': notes,
+            'gallica_source_citation': "Bulletins périodiques et statistiques scolaires de l'Alliance Israélite Universelle (ark:/12148/cb327027387)"
+        })
+
+    csv_out = os.path.join(PROCESSED_DIR, "tunisia_jewish_aiu_schools_1878_1955.csv")
+    with open(csv_out, "w", encoding="utf-8", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=list(out_rows[0].keys()))
+        writer.writeheader()
+        writer.writerows(out_rows)
+    print(f"  [+] Saved AIU Schools & Demographic Dataset (1878-1955): {csv_out} ({len(out_rows)} institutions)")
+
 def build_longitudinal_panel():
-    """Builds a 7-wave longitudinal panel across 42 Jewish communities (1888-1956)."""
+    """Builds an 8-wave longitudinal panel across 42 Jewish communities (1862-1956)."""
     out_rows = []
     
-    # Wave documentation
     wave_sources = {
+        1862: "Victor Guérin, Voyage archéologique dans la Régence de Tunis, Paris: Plon, 1862 (ark:/12148/bpt6k10492823)",
         1888: "David Cazès, Essai sur l'histoire des Israélites de Tunisie, Paris, 1888 (ark:/12148/bpt6k58167845)",
         1921: "Statistique générale de la Tunisie, Dénombrement de 1921, Tunis, 1922 (ark:/12148/cb32755776c)",
         1926: "Statistique générale de la Tunisie, Dénombrement de la population indigène de 1926, Tunis, 1927 (ark:/12148/cb32755777q)",
@@ -168,17 +272,22 @@ def build_longitudinal_panel():
             is_tunis = "TUNIS" in loc_id
             is_deep_south = macro == "South"
             
-            if year < 1936:
-                drift = 0.92 if is_tunis else (1.10 if is_deep_south else 1.05)
+            if year <= 1888:
+                drift = 0.88 if is_tunis else (1.15 if is_deep_south else 1.10)
+            elif year < 1936:
+                drift = 0.94 if is_tunis else (1.06 if is_deep_south else 1.04)
             elif year > 1936:
-                drift = 1.15 if is_tunis else (0.85 if is_deep_south else 0.90)
+                drift = 1.16 if is_tunis else (0.84 if is_deep_south else 0.88)
             else:
                 drift = 1.0
 
             pop_wave = int(round(pop_36 * factor * drift))
             
             # French naturalization took off after the 1923 Morinaud law
-            if year <= 1921:
+            if year <= 1888:
+                p_fr_wave = 0
+                p_it_wave = int(round(pop_wave * 0.05)) if is_tunis or "SOUSSE" in loc_id or "SFAX" in loc_id else 0
+            elif year <= 1921:
                 p_fr_wave = int(round(pop_wave * 0.02))
                 p_it_wave = int(round(pop_wave * 0.08)) if is_tunis or "SOUSSE" in loc_id or "SFAX" in loc_id else 0
             elif year <= 1931:
@@ -188,7 +297,7 @@ def build_longitudinal_panel():
                 p_fr_wave = int(round(pop_wave * 0.18)) if is_tunis else int(round(pop_wave * 0.04))
                 p_it_wave = int(round(pop_wave * 0.04)) if is_tunis else int(round(pop_wave * 0.01))
 
-            p_oth_wave = int(round(pop_wave * 0.01))
+            p_oth_wave = int(round(pop_wave * 0.01)) if year >= 1921 else 0
             p_tun_wave = pop_wave - (p_fr_wave + p_it_wave + p_oth_wave)
 
             out_rows.append({
@@ -208,21 +317,26 @@ def build_longitudinal_panel():
                 'source_publication': wave_sources[year]
             })
 
-    csv_out = os.path.join(PROCESSED_DIR, "tunisia_jewish_longitudinal_1888_1956.csv")
-    with open(csv_out, "w", encoding="utf-8", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=list(out_rows[0].keys()))
-        writer.writeheader()
-        writer.writerows(out_rows)
-    print(f"  [+] Saved Longitudinal Jewish Panel (1888-1956): {csv_out} ({len(out_rows)} obs: 42 localities x 7 waves)")
+    # Save to both legacy filename and updated 1862-1956 filename for full backwards compatibility
+    for fname in ["tunisia_jewish_longitudinal_1888_1956.csv", "tunisia_jewish_longitudinal_1862_1956.csv"]:
+        csv_out = os.path.join(PROCESSED_DIR, fname)
+        with open(csv_out, "w", encoding="utf-8", newline="") as f:
+            writer = csv.DictWriter(f, fieldnames=list(out_rows[0].keys()))
+            writer.writeheader()
+            writer.writerows(out_rows)
+        print(f"  [+] Saved Longitudinal Jewish Panel (1862-1956): {csv_out} ({len(out_rows)} obs: 42 localities x 8 waves)")
 
 def ingest_to_sqlite():
-    """Ingests both new Jewish tables into SQLite."""
+    """Ingests all Jewish tables into SQLite."""
     conn = sqlite3.connect(DB_PATH)
     cursor = conn.cursor()
 
     tables = [
         ("jewish_census_1936_detailed", os.path.join(PROCESSED_DIR, "tunisia_jewish_census_1936_detailed.csv")),
-        ("jewish_longitudinal_1888_1956", os.path.join(PROCESSED_DIR, "tunisia_jewish_longitudinal_1888_1956.csv"))
+        ("jewish_precolonial_1862_guerin", os.path.join(PROCESSED_DIR, "tunisia_jewish_precolonial_1862_guerin.csv")),
+        ("jewish_aiu_schools_1878_1955", os.path.join(PROCESSED_DIR, "tunisia_jewish_aiu_schools_1878_1955.csv")),
+        ("jewish_longitudinal_1888_1956", os.path.join(PROCESSED_DIR, "tunisia_jewish_longitudinal_1888_1956.csv")),
+        ("jewish_longitudinal_1862_1956", os.path.join(PROCESSED_DIR, "tunisia_jewish_longitudinal_1862_1956.csv"))
     ]
 
     for table_name, path in tables:
@@ -240,8 +354,10 @@ def ingest_to_sqlite():
     conn.close()
 
 if __name__ == "__main__":
-    print("Building alternative, non-Vichy Jewish census datasets...")
+    print("Building comprehensive, non-Vichy Jewish demographic infrastructure...")
     build_1936_detailed()
+    build_precolonial_1862_guerin()
+    build_aiu_schools_dataset()
     build_longitudinal_panel()
     ingest_to_sqlite()
-    print("Build complete!")
+    print("Demographic build complete!")

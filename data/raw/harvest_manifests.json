@@ -1,6 +1,30 @@
 [
   {
     "census_year": 1862,
+    "title": "Victor Guérin : Voyage archéologique dans la Régence de Tunis (Dénombrement pré-colonial des communautés israélites et synagogues)",
+    "doc_type": "precolonial_exploratory_census",
+    "bnf_notice_id": "bpt6k10492823",
+    "gallica_ark": "ark:/12148/bpt6k10492823",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/bpt6k10492823",
+    "iiif_manifest_url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k10492823/manifest.json",
+    "sample_table_image_urls": [
+      "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k10492823/f1/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k10492823/f5/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k10492823/f10/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k10492823/f15/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k10492823/f20/full/full/0/native.jpg"
+    ],
+    "sample_alto_urls": [
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/bpt6k10492823&fen=f1",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/bpt6k10492823&fen=f5",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/bpt6k10492823&fen=f10",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/bpt6k10492823&fen=f15",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/bpt6k10492823&fen=f20"
+    ],
+    "local_destination_dir": "data/raw/1862/bpt6k10492823"
+  },
+  {
+    "census_year": 1862,
     "title": "Voyage archéologique dans la régence de Tunis (Dénombrement précolonial des localités et tribus)",
     "doc_type": "precolonial_hearth_and_tribal_survey",
     "bnf_notice_id": "cb30551061s",
@@ -46,6 +70,30 @@
       "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/bpt6k6460404v&fen=f20"
     ],
     "local_destination_dir": "data/raw/1881/cb340156707"
+  },
+  {
+    "census_year": 1882,
+    "title": "Alliance Israélite Universelle (AIU) : Bulletins périodiques et statistiques scolaires et communautaires de Tunisie",
+    "doc_type": "educational_and_demographic_serial",
+    "bnf_notice_id": "cb327027387",
+    "gallica_ark": "ark:/12148/cb327027387",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/cb327027387",
+    "iiif_manifest_url": "https://gallica.bnf.fr/iiif/ark:/12148/cb327027387/manifest.json",
+    "sample_table_image_urls": [
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb327027387/f1/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb327027387/f5/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb327027387/f10/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb327027387/f15/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb327027387/f20/full/full/0/native.jpg"
+    ],
+    "sample_alto_urls": [
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb327027387&fen=f1",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb327027387&fen=f5",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb327027387&fen=f10",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb327027387&fen=f15",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb327027387&fen=f20"
+    ],
+    "local_destination_dir": "data/raw/1882/cb327027387"
   },
   {
     "census_year": 1883,
@@ -214,6 +262,30 @@
       "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/btv1b53024823p&fen=f20"
     ],
     "local_destination_dir": "data/raw/1888/cb407238210"
+  },
+  {
+    "census_year": 1888,
+    "title": "David Cazès : Essai sur l histoire des Israélites de Tunisie (Dénombrement communal et scolaire de l Alliance Israélite Universelle)",
+    "doc_type": "scholarly_communal_and_school_census",
+    "bnf_notice_id": "bpt6k58167845",
+    "gallica_ark": "ark:/12148/bpt6k58167845",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/bpt6k58167845",
+    "iiif_manifest_url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k58167845/manifest.json",
+    "sample_table_image_urls": [
+      "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k58167845/f1/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k58167845/f5/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k58167845/f10/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k58167845/f15/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k58167845/f20/full/full/0/native.jpg"
+    ],
+    "sample_alto_urls": [
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/bpt6k58167845&fen=f1",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/bpt6k58167845&fen=f5",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/bpt6k58167845&fen=f10",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/bpt6k58167845&fen=f15",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/bpt6k58167845&fen=f20"
+    ],
+    "local_destination_dir": "data/raw/1888/bpt6k58167845"
   },
   {
     "census_year": 1890,
@@ -961,6 +1033,30 @@
   },
   {
     "census_year": 1907,
+    "title": "La Justice : Organe hebdomadaire des intérêts de la population israélite de Tunisie",
+    "doc_type": "periodical_press_and_communal_chronicle",
+    "bnf_notice_id": "cb328014521",
+    "gallica_ark": "ark:/12148/cb328014521",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/cb328014521",
+    "iiif_manifest_url": "https://gallica.bnf.fr/iiif/ark:/12148/cb328014521/manifest.json",
+    "sample_table_image_urls": [
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328014521/f1/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328014521/f5/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328014521/f10/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328014521/f15/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb328014521/f20/full/full/0/native.jpg"
+    ],
+    "sample_alto_urls": [
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328014521&fen=f1",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328014521&fen=f5",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328014521&fen=f10",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328014521&fen=f15",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb328014521&fen=f20"
+    ],
+    "local_destination_dir": "data/raw/1907/cb328014521"
+  },
+  {
+    "census_year": 1907,
     "title": "Sociétés Indigènes de Prévoyance (SIP) : Rôles des fellahs adhérents, prêts de semences et silos coopératifs",
     "doc_type": "agrarian_microcredit_and_peasant_census",
     "bnf_notice_id": "cb328727346",
@@ -1054,6 +1150,30 @@
       "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb32757727j&fen=f20"
     ],
     "local_destination_dir": "data/raw/1908/cb32757727j"
+  },
+  {
+    "census_year": 1909,
+    "title": "Décret beylical du 30 août 1909 réorganisant la Communauté israélite de Tunis : Listes électorales et rôles des contribuables",
+    "doc_type": "electoral_and_taxpayer_census",
+    "bnf_notice_id": "cb344136979",
+    "gallica_ark": "ark:/12148/cb344136979",
+    "gallica_url": "https://gallica.bnf.fr/ark:/12148/cb344136979",
+    "iiif_manifest_url": "https://gallica.bnf.fr/iiif/ark:/12148/cb344136979/manifest.json",
+    "sample_table_image_urls": [
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb344136979/f1/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb344136979/f5/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb344136979/f10/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb344136979/f15/full/full/0/native.jpg",
+      "https://gallica.bnf.fr/iiif/ark:/12148/cb344136979/f20/full/full/0/native.jpg"
+    ],
+    "sample_alto_urls": [
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb344136979&fen=f1",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb344136979&fen=f5",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb344136979&fen=f10",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb344136979&fen=f15",
+      "https://gallica.bnf.fr/RequestALTO?ark=ark:/12148/cb344136979&fen=f20"
+    ],
+    "local_destination_dir": "data/raw/1909/cb344136979"
   },
   {
     "census_year": 1910,
@@ -1537,7 +1657,7 @@
   },
   {
     "census_year": 1941,
-    "title": "Recensement spécial des Israélites de Tunisie (Application du statut des Juifs sous le régime de Vichy)",
+    "title": "Recensement des Juifs de la Tunisie prescrit par le décret beylical du 26 juin 1941 (Statut des Juifs et spoliation des biens)",
     "doc_type": "special_confessional_census",
     "bnf_notice_id": "cb328014521",
     "gallica_ark": "ark:/12148/cb328014521",
