@@ -2,7 +2,7 @@
 """
 test_expanded_corpora.py
 ------------------------
-Unit test suite validating the expanded corpora:
+Unit test suite validating all expanded corpora:
 - 1891-1956 11-wave European longitudinal panel
 - 1941 Vichy Jewish census
 - 528-unit rural Cheikhat micro-spatial gazetteer
@@ -10,7 +10,9 @@ Unit test suite validating the expanded corpora:
 - 1936 Occupational structure dataset
 - 1936 Housing & dwelling typology dataset
 - 1936 Livestock census
-- SQLite database consistency across all 12 tables
+- 1936 Detailed non-Vichy Jewish census (42 localities)
+- 1888-1956 7-wave non-Vichy Jewish longitudinal panel (294 obs)
+- SQLite database consistency across all 14 tables
 """
 
 import unittest
@@ -39,7 +41,7 @@ class TestExpandedCorpora(unittest.TestCase):
                 sum_eur = int(r['pop_french']) + int(r['pop_italian']) + int(r['pop_maltese']) + int(r['pop_other_european'])
                 self.assertEqual(tot_eur, sum_eur, f"Sum mismatch in row {r['hsu_id']}-{r['census_year']}")
 
-    def test_jewish_census_1941(self):
+    def test_jewish_census_1941_vichy(self):
         vichy_path = os.path.join(PROCESSED_DIR, "tunisia_jewish_census_1941.csv")
         self.assertTrue(os.path.exists(vichy_path), "tunisia_jewish_census_1941.csv missing")
         with open(vichy_path, "r", encoding="utf-8") as f:
@@ -52,6 +54,42 @@ class TestExpandedCorpora(unittest.TestCase):
                 self.assertGreaterEqual(syn, 0)
                 bus = int(r['ary_spoliation_files'])
                 self.assertGreaterEqual(bus, 0)
+
+    def test_jewish_census_1936_detailed_non_vichy(self):
+        j36_path = os.path.join(PROCESSED_DIR, "tunisia_jewish_census_1936_detailed.csv")
+        self.assertTrue(os.path.exists(j36_path), "tunisia_jewish_census_1936_detailed.csv missing")
+        with open(j36_path, "r", encoding="utf-8") as f:
+            reader = list(csv.DictReader(f))
+            self.assertEqual(len(reader), 42, "Expected 42 Jewish community records in 1936 census")
+            for r in reader:
+                tot = int(r['pop_jewish_total'])
+                sum_nat = (
+                    int(r['pop_jewish_tunisian_twansa']) +
+                    int(r['pop_jewish_french_naturalized']) +
+                    int(r['pop_jewish_italian_grana']) +
+                    int(r['pop_jewish_other_foreign'])
+                )
+                self.assertEqual(tot, sum_nat, f"Nationality sum mismatch in {r['loc_id']}")
+                sum_sex = int(r['pop_jewish_male']) + int(r['pop_jewish_female'])
+                self.assertEqual(tot, sum_sex, f"Gender sum mismatch in {r['loc_id']}")
+                lat = float(r['latitude'])
+                lon = float(r['longitude'])
+                self.assertTrue(32.0 <= lat <= 38.0, f"Latitude {lat} out of bounds")
+                self.assertTrue(7.0 <= lon <= 12.0, f"Longitude {lon} out of bounds")
+
+    def test_jewish_longitudinal_panel_1888_1956(self):
+        j_long_path = os.path.join(PROCESSED_DIR, "tunisia_jewish_longitudinal_1888_1956.csv")
+        self.assertTrue(os.path.exists(j_long_path), "tunisia_jewish_longitudinal_1888_1956.csv missing")
+        with open(j_long_path, "r", encoding="utf-8") as f:
+            reader = list(csv.DictReader(f))
+            self.assertEqual(len(reader), 294, "Expected 294 records (42 localities x 7 waves)")
+            years = set(int(r['census_year']) for r in reader)
+            expected_years = {1888, 1921, 1926, 1931, 1936, 1946, 1956}
+            self.assertEqual(years, expected_years, "Longitudinal panel years do not match expected 7 waves")
+            for r in reader:
+                tot = int(r['pop_jewish_total'])
+                sum_nat = int(r['pop_jewish_tunisian']) + int(r['pop_jewish_french']) + int(r['pop_jewish_italian']) + int(r['pop_jewish_other_foreign'])
+                self.assertEqual(tot, sum_nat, f"Nationality sum mismatch in {r['loc_id']}-{r['census_year']}")
 
     def test_cheikhat_micro_concordance(self):
         cheikhat_path = os.path.join(GAZETTEER_DIR, "cheikhat_micro_concordance.csv")
@@ -120,7 +158,7 @@ class TestExpandedCorpora(unittest.TestCase):
                 self.assertGreaterEqual(int(r['head_count_goats_caprins']), 0)
                 self.assertGreater(float(r['total_livestock_units_lsu']), 0)
 
-    def test_sqlite_all_12_tables_presence(self):
+    def test_sqlite_all_14_tables_presence(self):
         self.assertTrue(os.path.exists(DB_PATH), "tunisia_colonial_census.sqlite missing")
         conn = sqlite3.connect(DB_PATH)
         cursor = conn.cursor()
@@ -138,7 +176,9 @@ class TestExpandedCorpora(unittest.TestCase):
             'vital_statistics_1911_1955',
             'occupational_structure_1936',
             'housing_dwellings_1936',
-            'livestock_census_1936'
+            'livestock_census_1936',
+            'jewish_census_1936_detailed',
+            'jewish_longitudinal_1888_1956'
         }
         self.assertTrue(expected_tables.issubset(tables), f"Missing tables: {expected_tables - tables}")
         conn.close()

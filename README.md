@@ -4,11 +4,12 @@ An end-to-end data pipeline, historical GIS infrastructure, and econometric data
 
 - **Longitudinal Benchmark Panel (1921–1956)**: Balanced panel across **1921, 1926, 1931, 1936, 1946, and 1956** for 44 Harmonized Spatial Units (HSUs) with comprehensive ethno-religious and demographic indicators.
 - **Master 11-Wave European Longitudinal Panel (1891–1956)**: 11 waves (1891, 1896, 1901, 1906, 1911, 1921, 1926, 1931, 1936, 1946, 1956; 484 obs) tracking European settler dynamics (French, Italians, Maltese, Others) across 65 years.
+- **Detailed Non-Vichy Jewish Census of 1936 (`tunisia_jewish_census_1936_detailed.csv`)**: Exhaustive micro-spatial demographic census of 42 historical Jewish communities from the official Protectorate general census of March 12, 1936 (*Dénombrement de la population tunisienne musulmane et israélite* / Gallica `bpt6k91056547`). Disaggregates Tunisian subjects (*Twansa*), naturalized French citizens (Morinaud law of 1923), Italian citizens (*Grana / Livornese*), gender, households, Alliance Israélite Universelle (AIU) schools/pupils, and rabbinical courts (*Beit Din*).
+- **Longitudinal Jewish Panel (1888–1956) (`tunisia_jewish_longitudinal_1888_1956.csv`)**: 7-wave non-Vichy panel (294 obs across 42 localities $\times$ 7 benchmark waves: 1888, 1921, 1926, 1931, 1936, 1946, 1956) tracking the Jewish community from David Cazès's AIU baseline (*Essai sur l'histoire des Israélites de Tunisie* / Gallica `bpt6k58167845`) to independence.
 - **Vital Statistics Panel (1911–1955)**: 9 benchmark waves (396 obs) measuring crude birth rates, crude death rates, infant mortality, and natural population increase across communities.
 - **1936 Occupational & Economic Structure**: Active labor force by sector (agriculture, mining, crafts/manufacturing, commerce/transport, civil service) and ethnicity across all 44 HSUs.
 - **1936 Housing & Settlement Typology**: Physical dwelling counts across 44 HSUs (masonry buildings, rural gourbis, Bedouin tents, troglodytic cave dwellings).
 - **1936 Pastoral & Livestock Census**: Tax enumeration of domestic livestock (sheep, goats, cattle, camels, equines) and Livestock Standard Units (LSU).
-- **1941 Vichy Anti-Jewish Census**: Granular micro-dataset covering 32 Jewish communities with synagogues, demographic counts, and Aryanization economic spoliation dockets.
 - **528 Cheikhat Micro-Spatial Gazetteer**: Complete spatial crosswalk of rural sub-caïdal jurisdictions (Cheikhats) with Arabic toponyms, coordinates, and 1:50,000 Service Géographique de l'Armée (SGA) map sheet references.
 - **70 Gallica BnF Primary Source Serials**: Exhaustive archival inventory with persistent ARKs and IIIF image manifests.
 
@@ -40,10 +41,12 @@ tunisia_colonial_census/
 │   │   ├── tunisia_occupational_structure_1936.csv  # Active labor force by sector (44 HSUs)
 │   │   ├── tunisia_housing_dwellings_1936.csv        # Dwelling typology & troglodytes (44 HSUs)
 │   │   ├── tunisia_livestock_census_1936.csv        # Achour/Kanoun livestock census (44 HSUs)
+│   │   ├── tunisia_jewish_census_1936_detailed.csv  # 1936 detailed non-Vichy Jewish census (42 localities)
+│   │   ├── tunisia_jewish_longitudinal_1888_1956.csv# 1888-1956 7-wave Jewish panel (294 obs)
 │   │   ├── tunisia_jewish_census_1941.csv           # 1941 Vichy Jewish census (32 communities)
 │   │   ├── tunisia_hsu_centroids.geojson# GIS point feature layer
 │   │   ├── tunisia_hsu_polygons.geojson # GIS polygon boundary feature layer
-│   │   ├── tunisia_colonial_census.sqlite # Indexed SQLite relational database (12 tables)
+│   │   ├── tunisia_colonial_census.sqlite # Indexed SQLite relational database (14 tables)
 │   │   ├── stata_analysis_template.do   # Stata panel and spatial setup script
 │   │   └── r_spatial_panel_template.R   # R sf / spdep / splm analysis script
 │   └── spatial_weights/
@@ -63,7 +66,8 @@ tunisia_colonial_census/
 │   ├── 06_export_statistical_packs.py   # SQLite, Stata, and R package exporter
 │   ├── 07_run_spatial_econometric_demo.py # Moran's I & spatial/panel regression demonstration
 │   ├── 08_build_expanded_corpora.py     # Builder for 11-wave panel, 1941 census, & cheikhats
-│   └── 09_build_deep_demographic_corpora.py # Builder for vital stats, occupations, housing & herds
+│   ├── 09_build_deep_demographic_corpora.py # Builder for vital stats, occupations, housing & herds
+│   └── 10_build_jewish_alternative_census.py# Builder for 1936 & 1888-1956 non-Vichy Jewish datasets
 └── tests/
     ├── test_math_balance.py             # Mathematical conservation unit tests
     ├── test_spatial_validity.py         # GIS coordinate and matrix connectivity unit tests
@@ -84,6 +88,7 @@ python3 scripts/05_build_spatial_layers.py
 python3 scripts/06_export_statistical_packs.py
 python3 scripts/08_build_expanded_corpora.py
 python3 scripts/09_build_deep_demographic_corpora.py
+python3 scripts/10_build_jewish_alternative_census.py
 ```
 
 ### 2. Run the Statistical & Spatial Econometric Demo
@@ -107,7 +112,7 @@ python3 -m unittest discover -s tests -v
 - **R (`sf`, `plm`, `splm`, `spdep`)**: Execute `data/processed/r_spatial_panel_template.R`.
 - **Stata**: Run `data/processed/stata_analysis_template.do`.
 - **QGIS / ArcGIS**: Drag and drop `data/processed/tunisia_hsu_polygons.geojson` or `tunisia_hsu_centroids.geojson`.
-- **SQL (SQLite / DuckDB)**: Query `data/processed/tunisia_colonial_census.sqlite` (contains **12 indexed relational tables**).
+- **SQL (SQLite / DuckDB)**: Query `data/processed/tunisia_colonial_census.sqlite` (contains **14 indexed relational tables**).
 
 ---
 
