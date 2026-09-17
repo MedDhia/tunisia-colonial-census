@@ -8,7 +8,7 @@ An end-to-end data pipeline, historical GIS infrastructure, and econometric data
 - **Long-Run Jewish Longitudinal Panel (1862–1956) (`tunisia_jewish_longitudinal_1862_1956.csv`)**: 8-wave non-Vichy panel (336 obs across 42 localities $\times$ 8 benchmark waves: 1862, 1888, 1921, 1926, 1931, 1936, 1946, 1956) spanning nearly a century of demographic history from Victor Guérin's 1862 pre-colonial survey to independence.
 - **Pre-Colonial Jewish Census of 1862 (`tunisia_jewish_precolonial_1862_guerin.csv`)**: 24 communities with households and synagogues recorded by Victor Guérin (*Voyage archéologique dans la Régence de Tunis* / Gallica `bpt6k10492823`).
 - **Alliance Israélite Universelle (AIU) School Network (1878–1955) (`tunisia_jewish_aiu_schools_1878_1955.csv`)**: 15 institutions tracking foundation dates, boy/girl enrollments, manual trade apprenticeships, and faculty counts.
-- **Official 1941 Vichy Census (`tunisia_jewish_census_1941.csv`)**: Exact legal administrative designation: **« Recensement des Juifs de la Tunisie prescrit par le décret beylical du 26 juin 1941 »** (*Journal Officiel Tunisien* n° 52 du 27 juin 1941; arrêté d'application du 29 septembre 1941, JOT n° 79; Archives Nationales de Tunisie, série FPC-SG5-0037-0001-0008). Enumerated total: **89,670 Juifs** (68,268 Tunisiens, 16,496 Français, 4,906 Étrangers dont 3,208 Italiens et 668 Britanniques).
+- **The Admiral Estéva Census of 1941 (`tunisia_jewish_census_1941.csv`)**: Exact legal administrative designation: **« Recensement des Juifs de la Tunisie prescrit par le décret beylical du 26 juin 1941 (Recensement de l'Amiral Estéva) »** (*Journal Officiel Tunisien* n° 52 du 27 juin 1941; arrêté d'application du 29 septembre 1941, JOT n° 79; Archives Nationales de Tunisie, série FPC-SG5-0037-0001-0008). Enumerated total: **89,670 Juifs** (68,268 Tunisiens, 16,496 Français, 4,906 Étrangers dont 3,208 Italiens et 668 Britanniques).
 - **Vital Statistics Panel (1911–1955)**: 9 benchmark waves (396 obs) measuring crude birth rates, crude death rates, infant mortality, and natural population increase across communities.
 - **1936 Occupational & Economic Structure**: Active labor force by sector (agriculture, mining, crafts/manufacturing, commerce/transport, civil service) and ethnicity across all 44 HSUs.
 - **1936 Housing & Settlement Typology**: Physical dwelling counts across 44 HSUs (masonry buildings, rural gourbis, Bedouin tents, troglodytic cave dwellings).
@@ -48,7 +48,7 @@ tunisia_colonial_census/
 │   │   ├── tunisia_jewish_longitudinal_1862_1956.csv# 1862-1956 8-wave Jewish panel (336 obs)
 │   │   ├── tunisia_jewish_precolonial_1862_guerin.csv# 1862 Victor Guérin survey (24 localities)
 │   │   ├── tunisia_jewish_aiu_schools_1878_1955.csv # 1878-1955 AIU educational network (15 institutions)
-│   │   ├── tunisia_jewish_census_1941.csv           # 1941 official census: Décret beylical du 26 juin 1941
+│   │   ├── tunisia_jewish_census_1941.csv           # 1941 Admiral Estéva census: Décret beylical du 26 juin 1941
 │   │   ├── tunisia_hsu_centroids.geojson# GIS point feature layer
 │   │   ├── tunisia_hsu_polygons.geojson # GIS polygon boundary feature layer
 │   │   ├── tunisia_colonial_census.sqlite # Indexed SQLite relational database (17 tables)

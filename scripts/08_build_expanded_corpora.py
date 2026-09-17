@@ -229,7 +229,8 @@ def build_1941_jewish_census():
         c['estimated_households'] = int(round(pop / 4.8))
         c['male_pop'] = int(round(pop * 0.505))
         c['female_pop'] = pop - c['male_pop']
-        c['official_census_name'] = "Recensement des Juifs de la Tunisie prescrit par le décret beylical du 26 juin 1941"
+        c['census_name'] = "Admiral Estéva census"
+        c['official_census_name'] = "Recensement des Juifs de la Tunisie prescrit par le décret beylical du 26 juin 1941 (Admiral Estéva census)"
         c['legal_basis'] = "Décret beylical du 26 juin 1941 (JOT n° 52) et décret d'application du 29 septembre 1941 (JOT n° 79)"
         c['archives_nationales_cote'] = "FPC-SG5-0037-0001-0008"
         c['german_occupation_exposure'] = 1 if c['hsu_id'] in ('HSU_TUNIS', 'HSU_BIZERTE', 'HSU_SOUSSE', 'HSU_SFAX', 'HSU_BEJA') else 0
@@ -240,7 +241,7 @@ def build_1941_jewish_census():
         writer = csv.DictWriter(f, fieldnames=fields)
         writer.writeheader()
         writer.writerows(jewish_communities)
-    print(f"  [+] Saved 1941 Official Jewish Census: {out_jewish} ({len(jewish_communities)} localities, official name applied)")
+    print(f"  [+] Saved 1941 Admiral Estéva Jewish Census: {out_jewish} ({len(jewish_communities)} localities)")
 
 def build_cheikhat_micro_gazetteer():
     """Builds the micro-spatial gazetteer of 520+ Cheikhats linked to Caïdats, HSUs, and SGA map sheets."""

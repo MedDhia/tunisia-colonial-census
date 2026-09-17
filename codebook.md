@@ -8,8 +8,8 @@ This dataset compiles, standardizes, audits, and georeferences demographic censu
 4. **Long-Run Jewish Longitudinal Panel (1862–1956) (`tunisia_jewish_longitudinal_1862_1956.csv`)**: 8-wave non-Vichy panel (336 obs across 42 localities $\times$ 8 benchmark waves: 1862, 1888, 1921, 1926, 1931, 1936, 1946, 1956) tracking the Jewish community from Victor Guérin (1862) and David Cazès (1888) to independence.
 5. **Pre-Colonial Jewish Baseline Census of 1862 (`tunisia_jewish_precolonial_1862_guerin.csv`)**: 24 communities recorded by Victor Guérin (*Voyage archéologique dans la Régence de Tunis* / Gallica `bpt6k10492823`).
 6. **Alliance Israélite Universelle (AIU) Educational Network (`tunisia_jewish_aiu_schools_1878_1955.csv`)**: 15 institutions tracking foundation dates, boy/girl enrollments, manual trade apprenticeships, and faculty counts.
-7. **Official 1941 Census Under Vichy (`tunisia_jewish_census_1941.csv`)**:
-   - **Official Legal Administrative Title**: **« Recensement des Juifs de la Tunisie prescrit par le décret beylical du 26 juin 1941 »**
+7. **The Admiral Estéva Census of 1941 (`tunisia_jewish_census_1941.csv`)**:
+   - **Official Legal Administrative Title**: **« Recensement des Juifs de la Tunisie prescrit par le décret beylical du 26 juin 1941 (Recensement de l'Amiral Estéva) »**
    - **Legal Promulgation**: *Journal Officiel Tunisien* n° 52 du 27 juin 1941; arrêté d'application du 29 septembre 1941 (*JOT* n° 79 du 30 septembre 1941).
    - **Archival Custody**: Archives Nationales de Tunisie, série *Premier Ministère / Secrétariat Général du Gouvernement*, cote `FPC-SG5-0037-0001-0008`.
    - **Official Recorded Results**: **89,670 Juifs** (68,268 Juifs tunisiens sujets du Bey, 16,496 Juifs de nationalité française, 4,906 Juifs ressortissants étrangers dont 3,208 Italiens et 668 Britanniques/Maltais).
@@ -42,7 +42,7 @@ This dataset compiles, standardizes, audits, and georeferences demographic censu
 | `data/processed/tunisia_jewish_longitudinal_1862_1956.csv`| CSV | 336 obs | Longitudinal panel of 42 Jewish communities across 8 non-Vichy waves (1862–1956) |
 | `data/processed/tunisia_jewish_precolonial_1862_guerin.csv`| CSV | 24 obs | 1862 pre-colonial baseline census by Victor Guérin |
 | `data/processed/tunisia_jewish_aiu_schools_1878_1955.csv` | CSV | 15 obs | Alliance Israélite Universelle (AIU) school and vocational network |
-| `data/processed/tunisia_jewish_census_1941.csv` | CSV | 32 obs | **Recensement des Juifs de la Tunisie prescrit par le décret beylical du 26 juin 1941** (official counts) |
+| `data/processed/tunisia_jewish_census_1941.csv` | CSV | 32 obs | **The Admiral Estéva Census of 1941 (Décret beylical du 26 juin 1941)** |
 | `data/processed/tunisia_hsu_centroids.geojson` | GeoJSON | 44 points | Spatial centroid point layer with full panel covariates |
 | `data/processed/tunisia_hsu_polygons.geojson` | GeoJSON | 44 polygons | Spatial boundary polygon layer |
 | `data/spatial_weights/w_knn5.gwt` | GeoDa GWT | 220 links | Row-standardized $k$-Nearest Neighbors ($k=5$) spatial weights matrix |
@@ -54,11 +54,12 @@ This dataset compiles, standardizes, audits, and georeferences demographic censu
 
 ---
 
-## 3. Variable Dictionary: Official 1941 Census (`tunisia_jewish_census_1941.csv`)
+## 3. Variable Dictionary: The Admiral Estéva Census of 1941 (`tunisia_jewish_census_1941.csv`)
 
 | Variable Name | Type | Description |
 | :--- | :--- | :--- |
-| `official_census_name` | String | **Recensement des Juifs de la Tunisie prescrit par le décret beylical du 26 juin 1941** |
+| `census_name` | String | **Admiral Estéva census** |
+| `official_census_name` | String | **Recensement des Juifs de la Tunisie prescrit par le décret beylical du 26 juin 1941 (Admiral Estéva census)** |
 | `legal_basis` | String | Décret beylical du 26 juin 1941 (JOT n° 52) et décret d'application du 29 septembre 1941 (JOT n° 79) |
 | `archives_nationales_cote` | String | Archives Nationales de Tunisie, série FPC-SG5-0037-0001-0008 |
 | `loc_id` | String | Locality identifier (32 communities) |

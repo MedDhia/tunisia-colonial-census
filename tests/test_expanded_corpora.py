@@ -52,7 +52,8 @@ class TestExpandedCorpora(unittest.TestCase):
             tot_pop = sum(int(r['pop_jewish']) for r in reader)
             self.assertAlmostEqual(tot_pop, 89670, delta=20, msg="Total pop should match official 1941 census count")
             for r in reader:
-                self.assertEqual(r['official_census_name'], "Recensement des Juifs de la Tunisie prescrit par le décret beylical du 26 juin 1941")
+                self.assertEqual(r['census_name'], "Admiral Estéva census")
+                self.assertEqual(r['official_census_name'], "Recensement des Juifs de la Tunisie prescrit par le décret beylical du 26 juin 1941 (Admiral Estéva census)")
                 self.assertEqual(r['archives_nationales_cote'], "FPC-SG5-0037-0001-0008")
                 self.assertTrue(len(r['legal_basis']) > 0)
                 tot = int(r['pop_jewish'])
